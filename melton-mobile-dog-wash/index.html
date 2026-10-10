@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Melton Mobile Dog Wash and Grooming</title>
+<meta name="description" content="Mobile dog wash and grooming in Melton and surrounds. A friendly team that comes to your home, seven days. Call 0431 887 517.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito+Sans:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--sky:#2E8FD6;--sky2:#D9EEFB;--grape:#5B3FA8;--lemon:#FFE27A;--ink:#1D2433;--white:#fff}
+*{box-sizing:border-box;margin:0}
+body{font-family:"Nunito Sans",system-ui,sans-serif;color:var(--ink);background:var(--white);line-height:1.6;font-size:17px}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--grape);outline-offset:3px}
+h1,h2,h3{font-family:Fredoka,system-ui,sans-serif;line-height:1.05}
+.wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+header .wrap{display:flex;justify-content:space-between;align-items:center;height:68px}
+.brand{font-family:Fredoka,sans-serif;font-weight:700;font-size:21px;text-decoration:none;color:var(--grape)}
+.pill{background:var(--grape);color:#fff;text-decoration:none;font-weight:700;padding:10px 18px;border-radius:999px}
+.hero{background:var(--sky);color:#fff;border-radius:0 0 48px 48px;position:relative;overflow:hidden;text-align:center;padding:70px 0 90px}
+.hero h1{font-size:clamp(42px,7vw,82px);font-weight:700;max-width:14ch;margin:0 auto}
+.hero p{font-size:20px;max-width:46ch;margin:22px auto 30px;color:#EAF5FD}
+.bub{position:absolute;border-radius:50%;border:3px solid rgba(255,255,255,.45)}
+.go{display:inline-flex;gap:12px;flex-wrap:wrap;justify-content:center}
+.btn{padding:15px 26px;border-radius:999px;font-weight:700;text-decoration:none;font-size:18px}
+.y{background:var(--lemon);color:var(--ink)}
+.w{background:#fff;color:var(--sky)}
+.strip{display:flex;justify-content:center;gap:34px;flex-wrap:wrap;margin-top:36px;font-weight:700}
+section{padding:80px 0}
+.center{text-align:center}
+h2{font-size:clamp(32px,4.5vw,50px);margin-bottom:12px}
+.sub{max-width:56ch;margin:0 auto;color:#4A5568}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;margin-top:44px}
+.step{text-align:left}
+.step b{display:inline-grid;place-items:center;width:46px;height:46px;border-radius:50%;background:var(--sky2);color:var(--sky);font-family:Fredoka,sans-serif;font-size:22px;margin-bottom:12px}
+.step h3{font-size:24px;margin-bottom:6px}
+.team{background:var(--sky2)}
+.people{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:40px}
+.p{background:#fff;border-radius:28px;padding:26px 20px;text-align:center}
+.av{width:84px;height:84px;border-radius:50%;margin:0 auto 12px;display:grid;place-items:center;font-family:Fredoka,sans-serif;font-size:34px;color:#fff}
+.p h3{font-size:24px}
+.p p{font-size:15px;color:#4A5568;margin-top:6px}
+.wall{display:grid;grid-template-columns:repeat(2,1fr);gap:22px;margin-top:40px}
+.r{background:#fff;border:3px solid var(--sky2);border-radius:28px;padding:26px}
+.r p{font-size:18px}
+.r span{display:block;margin-top:10px;font-size:14px;color:#6B7280}
+.stars{color:#F2A900;font-size:20px;letter-spacing:2px}
+.area{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-top:24px}
+.area span{background:var(--sky2);padding:8px 16px;border-radius:999px;font-weight:700;color:#1E5F8E}
+.book{background:var(--grape);color:#fff;border-radius:48px 48px 0 0}
+.book .wrap{display:grid;grid-template-columns:1fr 1fr;gap:44px;align-items:center}
+form{background:#fff;color:var(--ink);border-radius:28px;padding:28px;display:grid;gap:12px}
+label{font-weight:700;font-size:14px}
+input,select{width:100%;font:inherit;padding:12px 14px;border:2px solid #E2E8F0;border-radius:14px;margin-top:4px}
+button{font:inherit;font-weight:700;background:var(--sky);color:#fff;border:0;padding:15px;border-radius:999px;font-size:18px;cursor:pointer}
+.note{display:none;background:var(--sky2);padding:12px;border-radius:14px}
+footer{background:var(--grape);color:#D9D0F5;padding:10px 0 96px;text-align:center;font-size:15px}
+.pv{position:fixed;left:12px;right:12px;bottom:12px;z-index:9;background:#fff;color:#222;border:1px solid #ddd;border-radius:12px;padding:10px 14px;font:13px/1.4 system-ui,sans-serif;box-shadow:0 4px 18px rgba(0,0,0,.15);display:flex;justify-content:space-between;gap:10px;align-items:center;text-align:left}
+.pv button{background:none;color:#555;padding:2px 6px;font-size:18px;font-weight:400}
+@media (max-width:860px){
+ .steps,.wall,.book .wrap{grid-template-columns:1fr}
+ .people{grid-template-columns:1fr 1fr}
+ section{padding:58px 0}
+ .hero{padding:52px 0 70px;border-radius:0 0 32px 32px}
+}
+@media (prefers-reduced-motion:no-preference){
+ .bub{animation:rise 9s linear infinite}
+ @keyframes rise{from{transform:translateY(40px);opacity:0}20%{opacity:1}to{transform:translateY(-420px);opacity:0}}
+}
+</style>
+</head>
+<body>
+<header><div class="wrap"><a class="brand" href="#">Melton Mobile Dog Wash</a><a class="pill" href="tel:+61431887517">0431 887 517</a></div></header>
+<main>
+<div class="hero">
+ <span class="bub" style="width:60px;height:60px;left:8%;bottom:10px"></span>
+ <span class="bub" style="width:28px;height:28px;left:18%;bottom:0;animation-delay:2s"></span>
+ <span class="bub" style="width:44px;height:44px;right:12%;bottom:20px;animation-delay:4s"></span>
+ <span class="bub" style="width:22px;height:22px;right:24%;bottom:0;animation-delay:6s"></span>
+ <div class="wrap">
+  <h1>Clean, fluffy dogs without leaving home.</h1>
+  <p>Our groomers bring the whole salon to your door in Melton and nearby suburbs. Washes, clips and tidy-ups, seven days a week.</p>
+  <div class="go"><a class="btn y" href="#book">Book a groom</a><a class="btn w" href="tel:+61431887517">Call 0431 887 517</a></div>
+  <div class="strip"><span>★ 4.9 on Google</span><span>Open 7 days</span><span>Gentle with anxious dogs</span></div>
+ </div>
+</div>
+
+<section><div class="wrap center">
+ <h2>How a home groom works</h2>
+ <p class="sub">No car trips and no waiting room. Your dog stays relaxed, and you don't lose half a day.</p>
+ <div class="steps">
+  <div class="step"><b>1</b><h3>Book a time</h3><p>Call, text or send the form. Tell us your dog's breed and what they need.</p></div>
+  <div class="step"><b>2</b><h3>We pull up outside</h3><p>The van has warm water, dryers and clippers. Your dog gets one-on-one attention the whole time.</p></div>
+  <div class="step"><b>3</b><h3>Fresh dog, no mess</h3><p>Washed, dried, trimmed and smelling great. All the hair stays in our van, not your bathroom.</p></div>
+ </div>
+</div></section>
+
+<section class="team"><div class="wrap center">
+ <h2>Meet the groomers</h2>
+ <p class="sub">Customers mention them by name in reviews.</p>
+ <div class="people">
+  <div class="p"><div class="av" style="background:#2E8FD6">A</div><h3>Alisha</h3><p>Great with pregnant and nervous dogs.</p></div>
+  <div class="p"><div class="av" style="background:#5B3FA8">R</div><h3>Rochelle</h3><p>Clean, even, beautifully styled cuts.</p></div>
+  <div class="p"><div class="av" style="background:#E0794A">S</div><h3>Shane</h3><p>A favourite with the bigger dogs.</p></div>
+  <div class="p"><div class="av" style="background:#2BA37A">S</div><h3>Samantha</h3><p>Takes on the reactive ones others won't.</p></div>
+ </div>
+</div></section>
+
+<section><div class="wrap">
+ <div class="center"><h2>Melton dogs (and owners) love it</h2><p><span class="stars" aria-label="4.9 out of 5">★★★★★</span> 4.9 from 37 Google reviews</p></div>
+ <div class="wall">
+  <div class="r"><p>“Alisha went out of her way to look after her and not stress her out too much. Ellie is clean, fluffy and smells amazing.”</p><span>Google review</span></div>
+  <div class="r"><p>“Their cuts were clean, even, and beautifully styled. Rochelle handled them with so much care that they were relaxed the whole time.”</p><span>Google review</span></div>
+  <div class="r"><p>“Samantha was actually the only groomer willing to take him on, and she went above and beyond.”</p><span>Google review</span></div>
+  <div class="r"><p>“She arrived early and introduced herself to our dog gently. He looks really good and smells lovely.”</p><span>Google review</span></div>
+ </div>
+ <div class="center" style="margin-top:56px"><h2 style="font-size:32px">Where we go</h2>
+  <p class="sub">Based in Weir Views and covering Melton and the surrounding suburbs. Not sure if we reach you? Just ask.</p>
+ </div>
+</div></section>
+
+<section class="book" id="book"><div class="wrap">
+ <div><h2>Book your dog in</h2><p>Tell us a little about your dog and we'll call you back with a time. Prefer to talk? Ring <a href="tel:+61431887517" style="font-weight:700">0431 887 517</a>.</p></div>
+ <form onsubmit="event.preventDefault();this.querySelector('.note').style.display='block'">
+  <label>Your name<input required autocomplete="name"></label>
+  <label>Phone<input type="tel" required autocomplete="tel"></label>
+  <label>Suburb<input autocomplete="address-level2"></label>
+  <label>Service<select><option>Wash and dry</option><option>Full groom and clip</option><option>Tidy-up and nails</option><option>Not sure yet</option></select></label>
+  <button type="submit">Send booking request</button>
+  <p class="note" role="status">This is a preview. On the live site this goes straight to the team's phone.</p>
+ </form>
+</div></section>
+</main>
+<footer><p>Melton Mobile Dog Wash and Grooming, Weir Views VIC 3338. <a href="https://www.facebook.com/p/Melton-Mobile-Dog-Wash-and-Grooming-100070186036976/">Facebook</a></p></footer>
+<div class="pv" role="note"><span>Website preview made for Melton Mobile Dog Wash by Ali (Gem Programmers). Not the official site yet.</span><button aria-label="Hide preview note" onclick="this.parentNode.remove()">×</button></div>
+</body>
+</html>
