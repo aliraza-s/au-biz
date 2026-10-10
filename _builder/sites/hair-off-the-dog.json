@@ -1,0 +1,233 @@
+{
+ "slug": "hair-off-the-dog",
+ "name": "Hair Off The Dog Styling Boutique",
+ "short": "Hair Off The Dog",
+ "tag": "Styling boutique · Wendouree",
+ "topline": "35 Harold St, Wendouree · By appointment",
+ "phone": "0437 561 238",
+ "phoneIntl": "+61437561238",
+ "street": "35 Harold St",
+ "suburb": "Wendouree",
+ "state": "VIC",
+ "postcode": "3355",
+ "addressLine": "35 Harold St, Wendouree VIC 3355",
+ "area": "Ballarat",
+ "areaShort": "Boutique salon in Wendouree, Ballarat",
+ "areaText": "Natalie's boutique salon is at 35 Harold Street, Wendouree. Appointments only, so please book ahead.",
+ "mapQuery": "35 Harold St, Wendouree VIC 3355",
+ "rating": 5.0,
+ "reviewCount": 4,
+ "schemaType": "LocalBusiness",
+ "seoTitle": "Award-Winning Dog Grooming in Wendouree, Ballarat",
+ "metaDesc": "Award-winning dog styling in Wendouree, Ballarat. Natalie specialises in double coats and poodle-type coats. Call 0437 561 238.",
+ "ctaLabel": "Book with Natalie",
+ "facebook": "https://www.facebook.com/p/Hair-Off-The-Dog-Styling-Boutique-100028714227296/",
+ "ownerOrUs": "Natalie",
+ "hero": {
+  "title": "Award-winning grooming, done gently.",
+  "titleHtml": "Award-winning grooming, <em style=\"font-style:italic;font-weight:500\">done gently</em>",
+  "lede": "Natalie's boutique salon in Wendouree. Known for beautiful finishes on double coats and poodle-type coats, and for dogs who actually enjoy coming back.",
+  "trust": [
+   "Award-winning groomer",
+   "Double & poodle coats",
+   "One stylist, start to finish"
+  ]
+ },
+ "images": {
+  "hero": "1581562324420-eff2f5aaa4b5",
+  "heroAlt": "White poodle puppy sitting on a table",
+  "about": "1675430426271-d74b542f21e4",
+  "about2": "1709777571247-39ad71a2d86e",
+  "aboutAlt": "Groomer cuddling a small white dog in a blanket",
+  "gallery": [
+   "1709771818873-57feeea88f41",
+   "1570888234661-a2428afad010",
+   "1587402092301-725e37c70fd8",
+   "1558236714-d1a6333fce68",
+   "1686692253683-f80234b59b26",
+   "1736196674354-b5e918a64644"
+  ]
+ },
+ "servicesHead": "Styling services",
+ "servicesSub": "Every groom is done by Natalie herself, from bath to final scissor work.",
+ "services": [
+  {
+   "id": "styling",
+   "title": "Full styling",
+   "img": "1581562324420-eff2f5aaa4b5",
+   "short": "Bath, blow-dry, clip and hand-scissored finish.",
+   "long": "Natalie's signature service: a bath and blow-dry, then a clip and careful hand-scissoring for a polished, balanced finish. Ideal for poodles, oodles and curly crosses.",
+   "points": [
+    "Hand-scissored finish",
+    "Poodles, oodles and curly crosses",
+    "Styled to suit your dog"
+   ]
+  },
+  {
+   "id": "doublecoat",
+   "title": "Double coat care",
+   "img": "1570888234661-a2428afad010",
+   "short": "Thorough de-shedding with a neat, natural finish.",
+   "long": "Double coats need the undercoat lifted out properly, not shaved. Natalie de-sheds and brushes out thoroughly, then neatens the outline for a natural, tidy finish.",
+   "points": [
+    "Undercoat removal",
+    "No unnecessary shaving",
+    "Neat, natural outline"
+   ]
+  },
+  {
+   "id": "tidy",
+   "title": "Bath & tidy",
+   "img": "1709771818873-57feeea88f41",
+   "short": "Fresh coat plus face, feet and hygiene trim between full grooms.",
+   "long": "A fresh bath and blow-dry with a tidy of the face, feet and hygiene areas to keep your dog looking smart between full styles.",
+   "points": [
+    "Bath and blow-dry",
+    "Face, feet and hygiene trim",
+    "Ideal every 4–6 weeks"
+   ]
+  },
+  {
+   "id": "extras",
+   "title": "Nails & extras",
+   "img": "1587402092301-725e37c70fd8",
+   "short": "Nail trims, ear cleaning and de-matting.",
+   "long": "Add nails, ears or de-matting to any appointment, or book them on their own.",
+   "points": [
+    "Nail trims",
+    "Ear cleaning",
+    "Gentle de-matting"
+   ]
+  }
+ ],
+ "whyHead": "Why clients stay for years",
+ "whyText": "Some clients have been bringing their dogs to Natalie for six years. She talks to every dog the whole way through, which is why nervous dogs settle with her.",
+ "why": [
+  "Award-winning attention to detail",
+  "Patient, calm one-on-one grooming",
+  "Specialist in double and poodle-type coats",
+  "A quiet boutique, not a busy production line"
+ ],
+ "galleryHead": "From the boutique",
+ "gallerySub": "Soft coats, neat lines and happy faces.",
+ "reviewsHead": "Kind words",
+ "reviews": [
+  {
+   "text": "Hands down the best groomer, particularly for dogs with double coats and poodle type coats. Award winning and it shows."
+  },
+  {
+   "text": "Nat is wonderful with Lilly. She talks to her and makes her feel relaxed, and does an expert groom."
+  },
+  {
+   "text": "Pays great attention to detail and my dogs love their time at the groomer."
+  },
+  {
+   "text": "Fantastic and very patient with my fur babies."
+  },
+  {
+   "text": "Very helpful and friendly."
+  }
+ ],
+ "faq": [
+  [
+   "Do I need an appointment?",
+   "Yes. The boutique works by appointment so every dog gets Natalie's full attention."
+  ],
+  [
+   "What breeds do you specialise in?",
+   "Natalie is especially known for double coats and poodle-type coats, but she grooms all breeds."
+  ],
+  [
+   "How often should my dog be groomed?",
+   "Poodle-type coats usually need styling every 4 to 6 weeks; double coats benefit from a de-shed each season."
+  ],
+  [
+   "What are your hours?",
+   "Monday 9:15am–4pm, Tuesday to Thursday 8:15am–4pm and Friday 8:15am–1pm."
+  ]
+ ],
+ "aboutHead": "Meet Natalie",
+ "aboutSub": "The award-winning stylist behind Hair Off The Dog.",
+ "aboutParas": [
+  "Hair Off The Dog is a small, calm boutique in Wendouree where one experienced stylist looks after your dog from bath to final scissor work.",
+  "Natalie's attention to detail has earned her awards and a loyal client list, with some dogs visiting her for many years.",
+  "There's no production line here. Each dog gets time, patience and a finish their owners are proud of."
+ ],
+ "valuesHead": "The boutique difference",
+ "values": [
+  [
+   "One stylist",
+   "Natalie grooms every dog herself."
+  ],
+  [
+   "Detail",
+   "Balanced lines and a polished finish, every time."
+  ],
+  [
+   "Calm",
+   "A quiet salon where nervous dogs relax."
+  ]
+ ],
+ "contactHead": "Book with Natalie",
+ "contactSub": "Send a request and Natalie will confirm your appointment.",
+ "formHead": "Appointment request",
+ "formButton": "Request an appointment",
+ "formExtra": [
+  [
+   "Dog's breed and age",
+   "dog"
+  ]
+ ],
+ "bandText": "Treat your dog to a boutique groom.",
+ "footerBlurb": "Award-winning dog styling boutique in Wendouree, Ballarat.",
+ "hours": [
+  [
+   "Monday",
+   "9:15am – 4pm"
+  ],
+  [
+   "Tuesday – Thursday",
+   "8:15am – 4pm"
+  ],
+  [
+   "Friday",
+   "8:15am – 1pm"
+  ],
+  [
+   "Saturday & Sunday",
+   "Closed"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Cormorant:ital,wght@0,500;0,600;1,500&family=Outfit:wght@300;400;600",
+  "headFont": "Cormorant,Georgia,serif",
+  "bodyFont": "Outfit,system-ui,sans-serif",
+  "headWeight": "600",
+  "headTrack": "0",
+  "headExtra": "",
+  "bg": "#FFFFFF",
+  "surface": "#FBEFF1",
+  "ink": "#26121F",
+  "muted": "#6A4E5F",
+  "brand": "#45193B",
+  "brand2": "#F4DADD",
+  "accent": "#C9707F",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "line": "#EBD3D7",
+  "radius": "14px",
+  "btnRadius": "999px",
+  "h1max": "96px",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#45193B",
+  "overlay": "rgba(69,25,59,.85)",
+  "footBg": "#2E0F27",
+  "footInk": "#D9BFCF",
+  "footHead": "#F4DADD",
+  "logoBg": "#45193B",
+  "logoFg": "#F4DADD",
+  "icon": "scissors",
+  "logoRadius": 16,
+  "hero": "arch"
+ }
+}
