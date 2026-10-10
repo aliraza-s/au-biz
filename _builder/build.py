@@ -16,6 +16,11 @@ ICONS = {
  "drop": '<path fill="currentColor" d="M16 3c5 7 9 11.5 9 16.5A9 9 0 0 1 7 19.5C7 14.5 11 10 16 3z"/><path d="M12 20a4 4 0 0 0 4 4" stroke="var(--logo-ink)" stroke-width="2" fill="none" stroke-linecap="round"/>',
  "scissors": '<g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><circle cx="9" cy="23" r="4"/><circle cx="23" cy="23" r="4"/><path d="M11.5 20 24 5M20.5 20 8 5"/></g>',
  "bubbles": '<g fill="none" stroke="currentColor" stroke-width="2.4"><circle cx="12" cy="18" r="7"/><circle cx="23" cy="10" r="4.5"/><circle cx="24" cy="23" r="3"/></g>',
+ "bolt": '<path fill="currentColor" d="M18.5 2 6 18h8l-2.5 12L26 13h-8.5z"/>',
+ "sparkle": '<g fill="currentColor"><path d="M13 3c.9 6.2 3.8 9.1 10 10-6.2.9-9.1 3.8-10 10-.9-6.2-3.8-9.1-10-10 6.2-.9 9.1-3.8 10-10z"/><path d="M25 19c.4 2.6 1.4 3.6 4 4-2.6.4-3.6 1.4-4 4-.4-2.6-1.4-3.6-4-4 2.6-.4 3.6-1.4 4-4z"/></g>',
+ "spray": '<g fill="currentColor"><path d="M10 12h9v16a2 2 0 0 1-2 2h-5a2 2 0 0 1-2-2z"/><path d="M11 6h8v4h-8z"/><path d="M19 7h4l2 3h-6z"/></g><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M27 5l2-1M28 9h2M27 13l2 1"/></g>',
+ "trowel": '<g fill="currentColor"><path d="M4 22 18 8l6 6-14 14H4z"/><path d="M21 7l3-3a2.1 2.1 0 0 1 3 3l-3 3z"/></g>',
+ "house": '<path fill="currentColor" d="M16 3 2 15h4v13h8v-8h4v8h8V15h4z"/>',
  "bone": '<path fill="currentColor" d="M9 10a3.5 3.5 0 1 1 4.5-3.3L20 13.2a3.5 3.5 0 1 1 3.3 4.5 3.5 3.5 0 1 1-4.5 3.3L12.3 14.5A3.5 3.5 0 1 1 9 10z"/>',
 }
 
@@ -278,8 +283,15 @@ def foot(s):
 def review_cards(s, n=6):
     out = ""
     for r in s["reviews"][:n]:
-        out += f'<article class="rv"><div class="st" aria-label="5 stars">★★★★★</div><p>“{E(r["text"])}”</p><footer>{SVG_G}<span>{E(r.get("who","Google review"))}</span></footer></article>'
+        out += f'<article class="rv"><div class="st" aria-label="5 stars">★★★★★</div><p>“{E(r["text"])}”</p><footer>{SVG_G if r.get("src","Google")=="Google" else ""}<span>{E(r.get("who","Google review"))}</span></footer></article>'
     return out
+
+def badge(s):
+    if s.get("rating"):
+        return f'<div class="badge"><b>{s["rating"]} <span style="color:#F2B01E;font-size:22px">★</span></b><small>{s["reviewCount"]} {E(s.get("ratingSource","Google"))} reviews</small></div>'
+    if s.get("badge"):
+        return f'<div class="badge"><b>{E(s["badge"][0])}</b><small>{E(s["badge"][1])}</small></div>'
+    return ""
 
 def hero(s):
     t = s["theme"]; i = s["images"]; h = s["hero"]
@@ -288,7 +300,7 @@ def hero(s):
     v = t["hero"]
     if v == "split":
         return f"""<div class="hero hero-split"><div class="wrap"><div><h1>{E(h['title'])}</h1><p class="lede">{E(h['lede'])}</p>{cta}{trust}</div>
-<div class="pic"><img src="{img(i['hero'])}" alt="{E(i['heroAlt'])}" fetchpriority="high"><div class="badge"><b>{s['rating']} <span style="color:#F2B01E;font-size:22px">★</span></b><small>{s['reviewCount']} Google reviews</small></div></div></div></div>"""
+<div class="pic"><img src="{img(i['hero'])}" alt="{E(i['heroAlt'])}" fetchpriority="high">{badge(s)}</div></div></div>"""
     if v == "overlay":
         return f"""<div class="hero hero-overlay"><img src="{img(i['hero'],2000)}" alt="{E(i['heroAlt'])}" fetchpriority="high"><div class="wrap"><h1 style="max-width:16ch">{E(h['title'])}</h1><p class="lede">{E(h['lede'])}</p>{cta}{trust}</div></div>"""
     if v == "center":
@@ -300,6 +312,17 @@ def hero(s):
     if v == "arch":
         return f"""<div class="hero hero-arch"><div class="wrap"><div><h1>{h.get('titleHtml') or E(h['title'])}</h1><p class="lede">{E(h['lede'])}</p>{cta}{trust}</div><div class="pic"><img src="{img(i['hero'])}" alt="{E(i['heroAlt'])}" fetchpriority="high"></div></div></div>"""
     raise ValueError(v)
+
+def reviews_block(s):
+    if not s.get("reviews"):
+        return ""
+    score = f"""<div class="score"><b>{s['rating']}</b><div><div style="color:#F2B01E;font-size:22px;letter-spacing:2px">{stars(s['rating'])}</div><div>{s['reviewCount']} reviews on {E(s.get('ratingSource','Google'))}</div></div></div>""" if s.get("rating") else ""
+    sub = f'<p>{E(s["reviewsSub"])}</p>' if s.get("reviewsSub") else ""
+    return f"""<section class="dark"><div class="wrap">
+ {score}
+ <div class="head"><h2>{E(s['reviewsHead'])}</h2>{sub}</div>
+ <div class="reviews">{review_cards(s)}</div>
+</div></section>"""
 
 def page_home(s):
     i = s["images"]
@@ -319,11 +342,7 @@ def page_home(s):
  <div><h2>{E(s['whyHead'])}</h2><p>{E(s['whyText'])}</p><ul class="ticks">{ticks}</ul><p style="margin-top:26px"><a class="btn btn-main" href="about.html">About {E(s['ownerOrUs'])}</a></p></div>
 </div></section>
 <section><div class="wrap"><div class="head"><h2>{E(s['galleryHead'])}</h2><p>{E(s['gallerySub'])}</p></div><div class="gallery">{gal}</div></div></section>
-<section class="dark"><div class="wrap">
- <div class="score"><b>{s['rating']}</b><div><div style="color:#F2B01E;font-size:22px;letter-spacing:2px">{stars(s['rating'])}</div><div>{s['reviewCount']} reviews on Google</div></div></div>
- <div class="head"><h2>{E(s['reviewsHead'])}</h2></div>
- <div class="reviews">{review_cards(s)}</div>
-</div></section>
+{reviews_block(s)}
 <section><div class="wrap info">
  <div><div class="head" style="margin-bottom:24px"><h2>Hours &amp; location</h2><p>{E(s['areaText'])}</p></div><table class="hours">{hrs}</table>
  <p style="margin-top:26px;display:flex;gap:12px;flex-wrap:wrap"><a class="btn btn-main" href="contact.html">{E(s['ctaLabel'])}</a><a class="btn btn-ghost" href="tel:{s['phoneIntl']}">{E(s['phone'])}</a></p></div>
@@ -354,8 +373,8 @@ def page_about(s):
     return (head(s, f'About | {s["name"]}', s["metaDesc"]) + nav(s,"about.html") + "<main>" +
             pagehead(s, s["aboutHead"], s["aboutSub"], "About") +
             f'<section><div class="wrap split"><div>{paras}<p style="margin-top:26px"><a class="btn btn-main" href="contact.html">{E(s["ctaLabel"])}</a></p></div><img src="{img(i["about2"],1100)}" alt="{E(i["aboutAlt"])}" loading="lazy"></div></section>'
-            f'<section class="tone"><div class="wrap"><div class="head"><h2>{E(s["valuesHead"])}</h2></div><div class="cards">{vals}</div></div></section>'
-            f'<section class="dark"><div class="wrap"><div class="head"><h2>{E(s["reviewsHead"])}</h2></div><div class="reviews">{review_cards(s,3)}</div></div></section>'
+            f'<section class="tone"><div class="wrap"><div class="head"><h2>{E(s["valuesHead"])}</h2></div><div class="cards">{vals}</div></div></section>' +
+            (f'<section class="dark"><div class="wrap"><div class="head"><h2>{E(s["reviewsHead"])}</h2></div><div class="reviews">{review_cards(s,3)}</div></div></section>' if s.get("reviews") else "") +
             f'<section><div class="wrap"><div class="gallery">{gal}</div></div></section></main>' + foot(s))
 
 def page_contact(s):

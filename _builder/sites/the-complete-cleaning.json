@@ -1,0 +1,232 @@
+{
+ "slug": "the-complete-cleaning",
+ "name": "The Complete Cleaning",
+ "short": "The Complete Cleaning",
+ "tag": "House, bond & office cleaning, Toowoomba",
+ "topline": "Cleaning across the Toowoomba Region · Flexible times",
+ "phone": "0470 558 002",
+ "phoneIntl": "+61470558002",
+ "street": "",
+ "suburb": "Toowoomba",
+ "state": "QLD",
+ "postcode": "",
+ "addressLine": "Toowoomba QLD",
+ "area": "Toowoomba Region",
+ "areaShort": "Servicing the Toowoomba Region",
+ "areaText": "We clean homes, rentals and offices right across the Toowoomba Region, and we're flexible about timing to suit you.",
+ "mapQuery": "Toowoomba QLD",
+ "schemaType": "LocalBusiness",
+ "seoTitle": "House, Bond & Office Cleaning in Toowoomba",
+ "metaDesc": "The Complete Cleaning: bond cleaning, regular house and office cleaning, carpets, windows and grout across the Toowoomba Region. Call 0470 558 002.",
+ "ctaLabel": "Get a quote",
+ "facebook": "https://www.facebook.com/profile.php?id=100063362462319",
+ "ownerOrUs": "us",
+ "hero": {
+  "title": "The complete clean, top to bottom.",
+  "titleHtml": "The <em>complete</em> clean, top to bottom.",
+  "lede": "Bond cleans, regular house and office cleaning, carpets, windows and grout across the Toowoomba Region. Reasonable quotes and flexible times.",
+  "trust": [
+   "Toowoomba Region",
+   "Flexible times",
+   "Reasonable quotes"
+  ]
+ },
+ "images": {
+  "hero": "1758273705723-26ef454252ce",
+  "heroAlt": "Cleaner in yellow gloves wiping down a table",
+  "about": "1713110824336-f78c320dcf8e",
+  "about2": "1758272421995-e993f97fae22",
+  "aboutAlt": "Cleaner wiping a shelf",
+  "gallery": [
+   "1649083048198-f57bd8fb7a3b",
+   "1649083048381-520a5b3d91ff",
+   "1648475236583-2e25a6cbf3bd",
+   "1484154218962-a197022b5858",
+   "1541123437800-1bb1317badc2",
+   "1528740561666-dc2479dc08ab"
+  ]
+ },
+ "servicesHead": "What we clean",
+ "servicesSub": "Professional cleaning for homes, rentals and offices around Toowoomba.",
+ "services": [
+  {
+   "id": "bond",
+   "title": "Bond cleaning",
+   "img": "1758272422155-d898efd14f81",
+   "short": "End of lease cleans that leave the place the way it was when you moved in.",
+   "long": "Moving out of a rental? We clean the whole property thoroughly so it's ready for the final inspection and you can focus on the move.",
+   "points": [
+    "End of lease and move-out cleans",
+    "Toowoomba and surrounding towns",
+    "Add carpets, windows and grout"
+   ]
+  },
+  {
+   "id": "regular",
+   "title": "House & office cleaning",
+   "img": "1758523670739-0d26a3ee976d",
+   "short": "Regular cleans for homes and workplaces, at times that suit you.",
+   "long": "Keep your home or office looking its best with regular cleaning. We're flexible with times and happy to work around your schedule.",
+   "points": [
+    "Homes and offices",
+    "Regular or one-off",
+    "Flexible times"
+   ]
+  },
+  {
+   "id": "carpet",
+   "title": "Carpet cleaning",
+   "img": "1698328722772-cbe7fb7c8d12",
+   "short": "Freshen up carpets on their own or as part of a bond clean.",
+   "long": "Carpets take a beating. We can clean them as part of a bond clean or as a separate job.",
+   "points": [
+    "Bond clean add-on",
+    "Homes and rentals"
+   ]
+  },
+  {
+   "id": "windows",
+   "title": "Windows & grout",
+   "img": "1737372805905-be0b91ec86fb",
+   "short": "Sparkling windows and grout lines brought back to life.",
+   "long": "Windows and tile grout are the details that make a clean look finished. We take care of both.",
+   "points": [
+    "Windows inside and out",
+    "Bathroom and kitchen grout"
+   ]
+  }
+ ],
+ "whyHead": "Professional, flexible and fair",
+ "whyText": "We prepare our quotes very reasonably and we're flexible about when the job gets done.",
+ "why": [
+  "Reasonable, upfront quotes",
+  "Flexible to your proposed time",
+  "Homes, rentals and offices",
+  "Short-notice jobs welcome"
+ ],
+ "galleryHead": "Clean, bright and ready",
+ "gallerySub": "The finish Toowoomba customers book us for.",
+ "reviewsHead": "What customers say",
+ "reviewsSub": "Reviews from customers on Oneflare.",
+ "reviews": [
+  {
+   "text": "We had a bond clean done last week and everything was cleaned as good as it was when we first moved in.",
+   "who": "Tammy, Crows Nest · Oneflare",
+   "src": "Oneflare"
+  },
+  {
+   "text": "Really recommend this company!! House looked amazing, very reasonable and all that I asked for was done.",
+   "who": "Rachel C, Toowoomba · Oneflare",
+   "src": "Oneflare"
+  },
+  {
+   "text": "Great service, lovely people and quality work. Very happy with the job.",
+   "who": "Kate J, Toowoomba · Oneflare",
+   "src": "Oneflare"
+  },
+  {
+   "text": "Excellent service. Did a great job at short notice cleaning pressed tin ceilings.",
+   "who": "Kristine · Oneflare",
+   "src": "Oneflare"
+  },
+  {
+   "text": "They were very good and very fast. The job was professional.",
+   "who": "Shiralee B, Harristown · Oneflare",
+   "src": "Oneflare"
+  }
+ ],
+ "faq": [
+  [
+   "What areas do you cover?",
+   "We clean across the Toowoomba Region, including surrounding towns like Crows Nest."
+  ],
+  [
+   "Can you fit in a short-notice job?",
+   "Often, yes. Call us and we'll do our best to fit you in."
+  ],
+  [
+   "Do you do bond cleans?",
+   "Yes. We do end of lease cleans and can add carpets, windows and grout."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0470 558 002 or send a request through the contact page."
+  ]
+ ],
+ "aboutHead": "About us",
+ "aboutSub": "Professional cleaning services for the Toowoomba Region.",
+ "aboutParas": [
+  "The Complete Cleaning provides professional cleaning services across the Toowoomba Region.",
+  "We look after bond cleans, regular house and office cleaning, carpets, windows and grout, and we're flexible about fitting the job around you.",
+  "Our quotes are reasonable, and customers say we're fast, professional and easy to deal with."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Reasonable",
+   "Fair, upfront quotes."
+  ],
+  [
+   "Flexible",
+   "We work around your proposed time."
+  ],
+  [
+   "Thorough",
+   "Everything you ask for gets done."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us what needs cleaning and when, and we'll come back to you with a quote.",
+ "formHead": "Request a quote",
+ "formButton": "Send quote request",
+ "formExtra": [
+  [
+   "Preferred date",
+   "date"
+  ]
+ ],
+ "bandText": "Moving out or need a regular clean?",
+ "footerBlurb": "Bond, house and office cleaning, carpets, windows and grout across the Toowoomba Region.",
+ "hours": [
+  [
+   "Bookings",
+   "Flexible times"
+  ],
+  [
+   "Quotes",
+   "Call or text any day"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,500&family=Work+Sans:wght@400;500;700",
+  "headFont": "\"Fraunces\",Georgia,serif",
+  "bodyFont": "\"Work Sans\",system-ui,sans-serif",
+  "headWeight": "600",
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "bg": "#FBF8F2",
+  "surface": "#EEF1E6",
+  "ink": "#22281F",
+  "muted": "#5C6656",
+  "brand": "#3F5B3A",
+  "brand2": "#E6ECDB",
+  "accent": "#E3A93B",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#22281F",
+  "line": "#DCE1D2",
+  "radius": "14px",
+  "btnRadius": "10px",
+  "h1max": "76px",
+  "headerBg": "#FBF8F2",
+  "headerInk": "#22281F",
+  "overlay": "rgba(46,68,41,.85)",
+  "footBg": "#25381F",
+  "footInk": "#D8E0CF",
+  "footHead": "#E3A93B",
+  "logoBg": "#3F5B3A",
+  "logoFg": "#FBF8F2",
+  "icon": "spray",
+  "logoRadius": 50,
+  "hero": "arch"
+ }
+}

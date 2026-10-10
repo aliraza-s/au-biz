@@ -1,0 +1,231 @@
+{
+ "slug": "hervey-bay-maryborough-cleaning",
+ "name": "Hervey Bay & Maryborough Cleaning Services",
+ "short": "HB & Maryborough Cleaning",
+ "tag": "Home, bond & office cleaning",
+ "topline": "Locally owned since 2017 · Mon–Sat 8am–6pm",
+ "phone": "0448 168 480",
+ "phoneIntl": "+61448168480",
+ "street": "",
+ "suburb": "Urangan",
+ "state": "QLD",
+ "postcode": "4655",
+ "addressLine": "Urangan, Hervey Bay QLD 4655",
+ "area": "Hervey Bay and Maryborough",
+ "areaShort": "Hervey Bay, Maryborough and surrounds",
+ "areaText": "Based in Urangan and cleaning across Hervey Bay and Maryborough, including Eli Waters, Scarness, Point Vernon, Wondunna, River Heads, Burrum Heads and Booral.",
+ "mapQuery": "Urangan QLD 4655",
+ "schemaType": "LocalBusiness",
+ "seoTitle": "Bond, House & Office Cleaning in Hervey Bay",
+ "metaDesc": "Locally owned cleaners in Hervey Bay and Maryborough since 2017. Bond cleans, regular house cleans, office, oven, window and carpet cleaning. Call 0448 168 480.",
+ "ctaLabel": "Get a quote",
+ "facebook": "https://www.facebook.com/herveybaymaryboroughcleaningservices/",
+ "ownerOrUs": "us",
+ "badge": [
+  "Since 2017",
+  "Locally owned in Hervey Bay"
+ ],
+ "hero": {
+  "title": "Spotless homes and offices across the Bay.",
+  "lede": "Bond cleans, regular house cleans and commercial cleaning in Hervey Bay and Maryborough, from a locally owned team.",
+  "trust": [
+   "Locally owned",
+   "100% guarantee",
+   "Open Mon–Sat"
+  ]
+ },
+ "images": {
+  "hero": "1758273705627-937374bfa978",
+  "heroAlt": "Cleaner vacuuming a bright living room",
+  "about": "1646980241033-cd7abda2ee88",
+  "about2": "1647381518264-97ff1835026f",
+  "aboutAlt": "Cleaner with a caddy and broom in a home",
+  "gallery": [
+   "1583847268964-b28dc8f51f92",
+   "1649083048337-4aeb6dda80bb",
+   "1502005097973-6a7082348e28",
+   "1507089947368-19c1da9775ae",
+   "1649083048770-82e8ffd80431",
+   "1563453392212-326f5e854473"
+  ]
+ },
+ "servicesHead": "Cleaning services",
+ "servicesSub": "One local team for your bond clean, your weekly clean and your workplace.",
+ "services": [
+  {
+   "id": "bond",
+   "title": "Bond cleans",
+   "img": "1740657254989-42fe9c3b8cce",
+   "short": "End of lease cleaning done thoroughly, so you can hand back the keys with confidence.",
+   "long": "Moving out is stressful enough. We clean the property top to bottom so it's ready for the final inspection.",
+   "points": [
+    "End of lease and move-out cleans",
+    "Kitchens, bathrooms and floors",
+    "Add oven, window and carpet cleaning"
+   ]
+  },
+  {
+   "id": "home",
+   "title": "Regular house cleans",
+   "img": "1758273238415-01ec03d9ef27",
+   "short": "Weekly, fortnightly or monthly cleans to keep the house on top of things.",
+   "long": "Come home to a clean house without giving up your weekend. Pick weekly, fortnightly or monthly visits to suit your household.",
+   "points": [
+    "Weekly, fortnightly or monthly",
+    "General routine cleans",
+    "One-off cleans too"
+   ]
+  },
+  {
+   "id": "office",
+   "title": "Office & commercial",
+   "img": "1580256081112-e49377338b7f",
+   "short": "Reliable cleaning for offices and workplaces around the Bay.",
+   "long": "A clean workplace makes a good impression. We clean offices and commercial spaces on a schedule that suits your business.",
+   "points": [
+    "Offices and commercial spaces",
+    "Regular schedules",
+    "Locally owned and run"
+   ]
+  },
+  {
+   "id": "oven",
+   "title": "Oven cleaning",
+   "img": "1642505172378-a6f5e5b15580",
+   "short": "Baked-on grease and grime lifted from your oven.",
+   "long": "Oven cleaning is one of the jobs most people put off. Add it to a bond clean or book it on its own.",
+   "points": [
+    "Great for bond cleans",
+    "Book on its own or as an add-on"
+   ]
+  },
+  {
+   "id": "windows",
+   "title": "Window cleaning",
+   "img": "1581578731548-c64695cc6952",
+   "short": "Clear, streak-free windows to let the light back in.",
+   "long": "Salt air and dust build up quickly on the coast. We clean windows so your view is clear again.",
+   "points": [
+    "Streak-free finish",
+    "Homes and offices"
+   ]
+  },
+  {
+   "id": "carpet",
+   "title": "Carpet cleaning",
+   "img": "1742483359033-13315b247c74",
+   "short": "Freshen up carpets as part of a bond clean or on their own.",
+   "long": "Carpet cleaning is often needed at the end of a lease. Ask us to include it when you book.",
+   "points": [
+    "Bond clean add-on",
+    "Ask for a quote"
+   ]
+  }
+ ],
+ "whyHead": "A local team you can count on",
+ "whyText": "We've been cleaning homes and workplaces around Hervey Bay and Maryborough since 2017.",
+ "why": [
+  "Locally owned and operated",
+  "100% guarantee on our work",
+  "Open six days a week",
+  "Pay by card, EFT, BPAY or cash"
+ ],
+ "galleryHead": "Fresh, clean and ready",
+ "gallerySub": "The kind of finish we aim for in every home and office.",
+ "reviewsHead": "",
+ "reviews": [],
+ "faq": [
+  [
+   "Which areas do you cover?",
+   "Hervey Bay and Maryborough, including Urangan, Eli Waters, Scarness, Point Vernon, Wondunna, River Heads, Burrum Heads and Booral."
+  ],
+  [
+   "Do you do bond cleans?",
+   "Yes. Bond and end of lease cleans are one of our main services, and you can add oven, window and carpet cleaning."
+  ],
+  [
+   "How do I pay?",
+   "We accept Mastercard, Visa, EFT, BPAY and cash."
+  ],
+  [
+   "When are you open?",
+   "Monday to Saturday, 8am to 6pm."
+  ]
+ ],
+ "aboutHead": "About us",
+ "aboutSub": "Locally owned cleaners for Hervey Bay and Maryborough.",
+ "aboutParas": [
+  "Hervey Bay & Maryborough Cleaning Services has been cleaning local homes and businesses since 2017.",
+  "We're a small, locally owned team covering everything from routine house cleans and bond cleans to offices, ovens, windows and carpets.",
+  "We back our work with a 100% guarantee, so if something isn't right, let us know."
+ ],
+ "valuesHead": "What you can expect",
+ "values": [
+  [
+   "Local",
+   "Owned and run here in the Bay."
+  ],
+  [
+   "Thorough",
+   "We clean properly, not just quickly."
+  ],
+  [
+   "Guaranteed",
+   "Our work is backed by a 100% guarantee."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about the property and the clean you need, and we'll get back to you with a quote.",
+ "formHead": "Request a quote",
+ "formButton": "Send quote request",
+ "formExtra": [
+  [
+   "Bedrooms / size of property",
+   "size"
+  ]
+ ],
+ "bandText": "Need a bond clean or a regular cleaner?",
+ "footerBlurb": "Locally owned cleaners in Hervey Bay and Maryborough since 2017.",
+ "hours": [
+  [
+   "Monday – Saturday",
+   "8am – 6pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Sora:wght@400;600;700&family=Inter:wght@400;500;700",
+  "headFont": "\"Sora\",system-ui,sans-serif",
+  "bodyFont": "\"Inter\",system-ui,sans-serif",
+  "headWeight": "700",
+  "headTrack": "-.03em",
+  "headExtra": "",
+  "bg": "#FFFFFF",
+  "surface": "#EAF7F8",
+  "ink": "#0F2A33",
+  "muted": "#4D6670",
+  "brand": "#0B7A8C",
+  "brand2": "#075563",
+  "accent": "#FF7A59",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#1E0F0A",
+  "line": "#CDE8EB",
+  "radius": "24px",
+  "btnRadius": "999px",
+  "h1max": "72px",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#0F2A33",
+  "overlay": "rgba(7,85,99,.85)",
+  "footBg": "#063F49",
+  "footInk": "#CBE7EA",
+  "footHead": "#FFB199",
+  "logoBg": "#0B7A8C",
+  "logoFg": "#FFFFFF",
+  "icon": "sparkle",
+  "logoRadius": 16,
+  "hero": "split"
+ }
+}

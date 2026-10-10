@@ -1,0 +1,229 @@
+{
+ "slug": "rockhampton-mobile-auto-electrics",
+ "name": "Rockhampton Mobile Auto Electrics",
+ "short": "Rocky Mobile Auto Electrics",
+ "tag": "Mobile auto electrician, Rockhampton",
+ "topline": "Kent St, Rockhampton · Mon–Fri 8–5 · Sat 8–12",
+ "phone": "0427 667 996",
+ "phoneIntl": "+61427667996",
+ "street": "197 Kent St",
+ "suburb": "Rockhampton",
+ "state": "QLD",
+ "postcode": "4700",
+ "addressLine": "197 Kent St, Rockhampton QLD 4700",
+ "area": "Rockhampton",
+ "areaShort": "Workshop in Rockhampton, mobile around town",
+ "areaText": "Based on Kent Street in Rockhampton. Broken down or can't get the car in? Give us a ring and we'll talk you through the options.",
+ "mapQuery": "197 Kent St, Rockhampton QLD 4700",
+ "rating": 4.9,
+ "reviewCount": 41,
+ "schemaType": "AutoRepair",
+ "seoTitle": "Mobile Auto Electrician in Rockhampton",
+ "metaDesc": "Mobile auto electrician in Rockhampton. Fault finding, batteries, charging and caravan electrics. 4.9 stars from 41 Google reviews. Call 0427 667 996.",
+ "ctaLabel": "Book a job",
+ "facebook": "",
+ "ownerOrUs": "us",
+ "hero": {
+  "title": "Electrical gremlins sorted, on the spot.",
+  "lede": "Mobile auto electrics in Rockhampton. Fast fault finding and honest fixes for cars, 4WDs, utes and caravans.",
+  "trust": [
+   "4.9★ from 41 Google reviews",
+   "Mobile service",
+   "Open Saturday mornings"
+  ]
+ },
+ "images": {
+  "hero": "1625047509248-ec889cbff17f",
+  "heroAlt": "Auto electrician checking a car engine bay",
+  "about": "1619642751034-765dfdf7c58e",
+  "about2": "1487754180451-c456f719a1fc",
+  "aboutAlt": "Technician working under a bonnet",
+  "gallery": [
+   "1615906655593-ad0386982a0f",
+   "1643700973089-baa86a1ab9ee",
+   "1486262715619-67b85e0b08d3",
+   "1637640125496-31852f042a60",
+   "1727893304219-063d142ce6f3",
+   "1663642775693-6628f65358be"
+  ]
+ },
+ "servicesHead": "Auto electrical work",
+ "servicesSub": "From a flat battery to a fault nobody else could find, we track down the cause and fix it properly.",
+ "services": [
+  {
+   "id": "diagnostics",
+   "title": "Fault finding & diagnostics",
+   "img": "1606577924006-27d39b132ae2",
+   "short": "Warning lights, dead circuits and intermittent faults tracked down quickly.",
+   "long": "Electrical faults can be frustrating to chase. We test the circuit, find the real cause and fix it, rather than swapping parts and hoping for the best.",
+   "points": [
+    "Warning lights and dash faults",
+    "Intermittent electrical problems",
+    "Clear explanation before any work"
+   ]
+  },
+  {
+   "id": "mobile",
+   "title": "Mobile call-outs",
+   "img": "1643701079732-3b1c7a797e3d",
+   "short": "Stuck and can't get to a workshop? We can come to you.",
+   "long": "When the car won't start or a fault has left you stranded, call us. Many jobs can be diagnosed and fixed where the vehicle is sitting.",
+   "points": [
+    "Around Rockhampton",
+    "Fixed on the spot where possible",
+    "Just ring and explain the problem"
+   ]
+  },
+  {
+   "id": "batteries",
+   "title": "Batteries, starting & charging",
+   "img": "1504222490345-c075b6008014",
+   "short": "No-starts, flat batteries and charging problems checked and fixed.",
+   "long": "If your vehicle is slow to crank, keeps going flat or isn't charging, we test the battery, alternator and starter system to find out why.",
+   "points": [
+    "Battery and alternator testing",
+    "Starter motor problems",
+    "Parasitic drain checks"
+   ]
+  },
+  {
+   "id": "caravan",
+   "title": "Caravan & 4WD electrics",
+   "img": "1570129476815-ba368ac77013",
+   "short": "Wiring, lighting and power for caravans, campers and touring rigs.",
+   "long": "Heading up the coast or out west? We help sort the wiring, lighting and power problems that crop up on caravans, campers and touring 4WDs.",
+   "points": [
+    "Caravan and trailer wiring",
+    "Lights and plugs",
+    "Faults found before you hit the road"
+   ]
+  }
+ ],
+ "whyHead": "Why Rocky drivers call us",
+ "whyText": "Travellers and locals alike say the same thing: we listen, find the problem fast and get you back on the road.",
+ "why": [
+  "Willing to look at your problem on the spot",
+  "Quick, accurate diagnosis",
+  "Quality workmanship",
+  "Open Saturday mornings"
+ ],
+ "galleryHead": "In the workshop and on the road",
+ "gallerySub": "Cars, utes, 4WDs and caravans around Rockhampton.",
+ "reviewsHead": "What customers say",
+ "reviews": [
+  {
+   "text": "Super efficient, diagnosed and remedied the problem in minutes.",
+   "who": "Peter, Google review"
+  },
+  {
+   "text": "Thanks, especially Luke. The only place between Airlie Beach and Yeppoon willing to look at my problem on the spot.",
+   "who": "Google review"
+  },
+  {
+   "text": "Exceptional service. Great quality workmanship.",
+   "who": "Mark, Google review"
+  },
+  {
+   "text": "Boys got me out of trouble here, great guys know their stuff.",
+   "who": "Google review"
+  }
+ ],
+ "faq": [
+  [
+   "Do you come to me?",
+   "Yes, we're a mobile auto electrician. Call and describe the problem and we'll let you know the quickest way to sort it."
+  ],
+  [
+   "Can you look at my caravan?",
+   "Yes. Give us a call with the make and the problem you're having."
+  ],
+  [
+   "When are you open?",
+   "Monday to Friday 8am to 5pm and Saturday 8am to midday."
+  ],
+  [
+   "How do I book?",
+   "Ring 0427 667 996 or send a request through the contact page and we'll get back to you."
+  ]
+ ],
+ "aboutHead": "About us",
+ "aboutSub": "A local Rockhampton auto electrical business that gets you moving again.",
+ "aboutParas": [
+  "Rockhampton Mobile Auto Electrics looks after the electrical side of cars, utes, 4WDs and caravans around Rockhampton.",
+  "Based on Kent Street, we can work in the shop or come out to you, and we'll often look at a problem on the spot.",
+  "Customers rate us 4.9 stars on Google for fast diagnosis, quality work and getting people out of trouble."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Find the real fault",
+   "We test properly so you're not paying for parts you don't need."
+  ],
+  [
+   "Straight talk",
+   "We explain what's wrong and what it'll take before we start."
+  ],
+  [
+   "Get you moving",
+   "The goal is always to get you back on the road quickly."
+  ]
+ ],
+ "contactHead": "Book a job",
+ "contactSub": "Tell us what the vehicle is doing and where it is. We'll call you back to sort a time.",
+ "formHead": "Send us the details",
+ "formButton": "Send job request",
+ "formExtra": [
+  [
+   "Vehicle (make, model, year)",
+   "vehicle"
+  ]
+ ],
+ "bandText": "Car, ute or caravan playing up?",
+ "footerBlurb": "Mobile auto electrician in Rockhampton. Diagnostics, batteries, charging and caravan electrics.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "8am – 5pm"
+  ],
+  [
+   "Saturday",
+   "8am – 12pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Barlow+Condensed:wght@600;700;800&family=Barlow:wght@400;500;700",
+  "headFont": "\"Barlow Condensed\",system-ui,sans-serif",
+  "bodyFont": "\"Barlow\",system-ui,sans-serif",
+  "headWeight": "800",
+  "headTrack": "0",
+  "headExtra": "text-transform:uppercase;",
+  "bg": "#FFFFFF",
+  "surface": "#F3F3EF",
+  "ink": "#16181D",
+  "muted": "#555B66",
+  "brand": "#16181D",
+  "brand2": "#0B0C0F",
+  "accent": "#FFC800",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#16181D",
+  "line": "#E1E1DA",
+  "radius": "6px",
+  "btnRadius": "4px",
+  "h1max": "96px",
+  "headerBg": "#0B0C0F",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(11,12,15,.9)",
+  "footBg": "#0B0C0F",
+  "footInk": "#C9CCD2",
+  "footHead": "#FFC800",
+  "logoBg": "#FFC800",
+  "logoFg": "#16181D",
+  "icon": "bolt",
+  "logoRadius": 6,
+  "hero": "overlay"
+ }
+}

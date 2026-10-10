@@ -1,0 +1,190 @@
+{
+ "slug": "down-to-earth-concrete",
+ "name": "Down To Earth Concrete",
+ "short": "Down To Earth Concrete",
+ "tag": "Concreting, Gympie",
+ "topline": "Mobile concreting service · Gympie and surrounds",
+ "phone": "0418 265 289",
+ "phoneIntl": "+61418265289",
+ "street": "26 Julienne St",
+ "suburb": "Gympie",
+ "state": "QLD",
+ "postcode": "4570",
+ "addressLine": "26 Julienne St, Gympie QLD 4570",
+ "area": "Gympie",
+ "areaShort": "Mobile service around Gympie",
+ "areaText": "Based in Gympie and coming out to your property. Give us a call to talk through your job.",
+ "mapQuery": "26 Julienne St, Gympie QLD 4570",
+ "schemaType": "GeneralContractor",
+ "seoTitle": "Concreter in Gympie",
+ "metaDesc": "Down To Earth Concrete: local Gympie concreter for driveways, paths and slabs. Call 0418 265 289 to talk about your job.",
+ "ctaLabel": "Get a quote",
+ "facebook": "https://www.facebook.com/downtoearthconcrete/",
+ "ownerOrUs": "us",
+ "hero": {
+  "title": "Solid concrete work, done down to earth.",
+  "titleHtml": "Solid concrete.<br>Down to earth.",
+  "lede": "Local Gympie concreter. Driveways, paths and slabs, with a straight answer and a fair quote.",
+  "trust": [
+   "Gympie local",
+   "Mobile service",
+   "Straight quotes"
+  ]
+ },
+ "images": {
+  "hero": "1574757987642-5755f0839101",
+  "heroAlt": "Concreter spreading freshly poured concrete",
+  "about": "1563166423-482a8c14b2d6",
+  "about2": "1504307651254-35680f356dfd",
+  "aboutAlt": "Concreter working on site",
+  "gallery": [
+   "1783125127143-d4e18726bab3",
+   "1783125127341-81112b795c23",
+   "1616179058441-37aa58affac8",
+   "1582540730843-f4418d96ccbe",
+   "1669170930713-f7c778496177",
+   "1587052694737-a972e4186288"
+  ]
+ },
+ "servicesHead": "Concreting",
+ "servicesSub": "Concrete work for homes and properties around Gympie. Call to talk through your job.",
+ "services": [
+  {
+   "id": "driveways",
+   "title": "Driveways",
+   "img": "1781637202423-33ec5b47e52e",
+   "short": "New concrete driveways that look sharp and last.",
+   "long": "A good driveway starts with good preparation. We'll talk through the layout and finish you want and give you a clear quote.",
+   "points": [
+    "New driveways",
+    "Talk through finishes",
+    "Clear quote"
+   ]
+  },
+  {
+   "id": "paths",
+   "title": "Paths & outdoor areas",
+   "img": "1600456899121-68eda5705257",
+   "short": "Paths, patios and outdoor areas around the home.",
+   "long": "Tidy up the yard with concrete paths and outdoor areas that make the place easier to live with.",
+   "points": [
+    "Paths and walkways",
+    "Patios and outdoor areas"
+   ]
+  },
+  {
+   "id": "slabs",
+   "title": "Slabs & general concreting",
+   "img": "1530863506128-dc9eb5c3e0fc",
+   "short": "Slabs and other concrete jobs, big or small.",
+   "long": "Need a slab or have another concrete job in mind? Call us and we'll let you know how we can help.",
+   "points": [
+    "Slabs",
+    "General concrete work",
+    "Call to discuss"
+   ]
+  }
+ ],
+ "whyHead": "Local, practical, no fuss",
+ "whyText": "We're a Gympie concreting business that comes out to you, takes a look and tells you straight what the job needs.",
+ "why": [
+  "Based in Gympie",
+  "We come to your property",
+  "Straight answers",
+  "Clear quotes"
+ ],
+ "galleryHead": "Concrete work",
+ "gallerySub": "Driveways, paths and slabs around the Gympie region.",
+ "reviewsHead": "",
+ "reviews": [],
+ "faq": [
+  [
+   "Where are you based?",
+   "We're based in Gympie and come out to your property."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0418 265 289 or send your details through the contact page and we'll be in touch."
+  ],
+  [
+   "What jobs do you take on?",
+   "Driveways, paths, outdoor areas, slabs and general concreting. If you're not sure, just ask."
+  ]
+ ],
+ "aboutHead": "About us",
+ "aboutSub": "A Gympie concreting business that keeps it simple.",
+ "aboutParas": [
+  "Down To Earth Concrete is a local concreting business based in Gympie.",
+  "We're a mobile service, so we come to your property, look at the job and give you a straight answer on what it needs.",
+  "From driveways to paths and slabs, call us to talk about your next concrete job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Straight talk",
+   "Clear answers and a clear quote."
+  ],
+  [
+   "Local",
+   "Based in Gympie."
+  ],
+  [
+   "Practical",
+   "The right job for your property."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about your job and where it is. We'll call you back to talk it through.",
+ "formHead": "Request a quote",
+ "formButton": "Send quote request",
+ "formExtra": [
+  [
+   "Rough size of the area",
+   "size"
+  ]
+ ],
+ "bandText": "Got a concrete job in mind?",
+ "footerBlurb": "Local Gympie concreter. Driveways, paths, outdoor areas and slabs.",
+ "hours": [
+  [
+   "Quotes",
+   "Call or text"
+  ],
+  [
+   "Service",
+   "Mobile around Gympie"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Oswald:wght@500;600;700&family=Source+Sans+3:wght@400;600;700",
+  "headFont": "\"Oswald\",system-ui,sans-serif",
+  "bodyFont": "\"Source Sans 3\",system-ui,sans-serif",
+  "headWeight": "600",
+  "headTrack": "-.005em",
+  "headExtra": "text-transform:uppercase;",
+  "bg": "#F7F5F2",
+  "surface": "#E9E5DF",
+  "ink": "#2A2522",
+  "muted": "#625A54",
+  "brand": "#5A4A3F",
+  "brand2": "#3E322A",
+  "accent": "#D9622B",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "line": "#D6D0C8",
+  "radius": "2px",
+  "btnRadius": "2px",
+  "h1max": "110px",
+  "headerBg": "#F7F5F2",
+  "headerInk": "#2A2522",
+  "overlay": "rgba(62,50,42,.85)",
+  "footBg": "#2A2522",
+  "footInk": "#D6D0C8",
+  "footHead": "#D9622B",
+  "logoBg": "#D9622B",
+  "logoFg": "#FFFFFF",
+  "icon": "trowel",
+  "logoRadius": 2,
+  "hero": "stack"
+ }
+}

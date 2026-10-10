@@ -1,0 +1,215 @@
+{
+ "slug": "top-notch-cleaning-cq",
+ "name": "Top Notch Cleaning Services CQ",
+ "short": "Top Notch Cleaning CQ",
+ "tag": "Home, bond & commercial cleaning, Gladstone",
+ "topline": "New Auckland, Gladstone · Weekdays from 8:30am",
+ "phone": "0400 847 000",
+ "phoneIntl": "+61400847000",
+ "street": "Powell Cl",
+ "suburb": "New Auckland",
+ "state": "QLD",
+ "postcode": "4680",
+ "addressLine": "Powell Cl, New Auckland QLD 4680",
+ "area": "Gladstone",
+ "areaShort": "Cleaning across the Gladstone region",
+ "areaText": "Based in New Auckland and cleaning homes and workplaces around the Gladstone region.",
+ "mapQuery": "New Auckland QLD 4680",
+ "schemaType": "LocalBusiness",
+ "seoTitle": "Bond, Home & Commercial Cleaning in Gladstone",
+ "metaDesc": "Top Notch Cleaning Services CQ: bond cleans, regular home and commercial cleaning and one-off deep cleans around Gladstone. Call 0400 847 000.",
+ "ctaLabel": "Get a quote",
+ "facebook": "https://www.facebook.com/paysattentiontodetail/",
+ "ownerOrUs": "us",
+ "hero": {
+  "title": "A clean that pays attention to detail.",
+  "lede": "Bond cleans, regular home and commercial cleaning, and one-off deep cleans around Gladstone.",
+  "trust": [
+   "Gladstone region",
+   "Homes & businesses",
+   "Online estimates"
+  ]
+ },
+ "images": {
+  "hero": "1758272421751-963195322eaa",
+  "heroAlt": "Cleaner in yellow gloves wiping a timber surface",
+  "about": "1585421514284-efb74c2b69ba",
+  "about2": "1620563923430-f5845a5ddfb8",
+  "aboutAlt": "Cleaner holding a fresh cloth",
+  "gallery": [
+   "1581578785417-e2cae8cb6af5",
+   "1758272422189-b10f36fd4ddd",
+   "1445991842772-097fea258e7b",
+   "1565538810643-b5bdb714032a",
+   "1583907659441-addbe699e921",
+   "1758273705819-87da5a147c22"
+  ]
+ },
+ "servicesHead": "Cleaning services",
+ "servicesSub": "From a single bond clean to ongoing cleaning for your home or workplace.",
+ "services": [
+  {
+   "id": "bond",
+   "title": "Bond cleans",
+   "img": "1642505172719-74bd172a15ba",
+   "short": "Detailed end of lease cleans so you're ready for the final inspection.",
+   "long": "Bond cleans are a speciality. We work through the property in detail so you can hand back the keys with confidence.",
+   "points": [
+    "End of lease and move-out cleans",
+    "Kitchens, bathrooms and floors",
+    "Detail-focused"
+   ]
+  },
+  {
+   "id": "home",
+   "title": "Regular home cleaning",
+   "img": "1686828751885-040f0a0fb77a",
+   "short": "Ongoing cleans that keep your home fresh week to week.",
+   "long": "Let us take care of the cleaning so you can enjoy your time off. Regular visits keep your home consistently clean.",
+   "points": [
+    "Ongoing maintenance cleans",
+    "Residential homes",
+    "Gladstone region"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial cleaning",
+   "img": "1581578949510-fa7315c4c350",
+   "short": "Regular cleaning for workplaces and commercial premises.",
+   "long": "A clean workplace looks professional and feels better to work in. We provide regular commercial cleaning to suit your business.",
+   "points": [
+    "Offices and workplaces",
+    "Regular schedules"
+   ]
+  },
+  {
+   "id": "health",
+   "title": "Health facility cleaning",
+   "img": "1583947215259-38e31be8751f",
+   "short": "Careful cleaning for health facilities.",
+   "long": "Health facilities need a careful, consistent clean. Talk to us about what your facility needs.",
+   "points": [
+    "Consistent, careful cleaning",
+    "Ask about your requirements"
+   ]
+  },
+  {
+   "id": "deep",
+   "title": "One-off deep cleans",
+   "img": "1570825248127-5160e96657b1",
+   "short": "A thorough top-to-bottom clean when the place needs a reset.",
+   "long": "Whether it's before guests arrive, after renovations or just overdue, a deep clean brings the whole place back to fresh.",
+   "points": [
+    "Top-to-bottom clean",
+    "Homes and businesses"
+   ]
+  }
+ ],
+ "whyHead": "We pay attention to detail",
+ "whyText": "It's the little things that make a clean feel finished. That's what we focus on in every home and workplace.",
+ "why": [
+  "Bond clean specialists",
+  "Homes, businesses and health facilities",
+  "One-off or ongoing",
+  "Local to Gladstone"
+ ],
+ "galleryHead": "Fresh, tidy and done right",
+ "gallerySub": "The finish we aim for on every job.",
+ "reviewsHead": "",
+ "reviews": [],
+ "faq": [
+  [
+   "What areas do you cover?",
+   "We're based in New Auckland and clean around the Gladstone region."
+  ],
+  [
+   "Do you clean businesses?",
+   "Yes. We do regular commercial cleaning and also clean health facilities."
+  ],
+  [
+   "Can I get an estimate?",
+   "Yes. Send us the details through the contact page or call 0400 847 000."
+  ],
+  [
+   "Do you do one-off cleans?",
+   "Yes. We do one-off deep cleans as well as ongoing maintenance cleaning."
+  ]
+ ],
+ "aboutHead": "About us",
+ "aboutSub": "Gladstone cleaners who pay attention to detail.",
+ "aboutParas": [
+  "Top Notch Cleaning Services CQ brings fresh life to homes and workplaces around Gladstone.",
+  "We specialise in bond cleans and also provide regular residential and commercial cleaning, health facility cleaning and one-off deep cleans.",
+  "Whatever the job, we focus on the details that make a clean feel complete."
+ ],
+ "valuesHead": "What matters to us",
+ "values": [
+  [
+   "Detail",
+   "We notice the things others miss."
+  ],
+  [
+   "Reliable",
+   "Ongoing cleans you can count on."
+  ],
+  [
+   "Local",
+   "Based right here in Gladstone."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about the property and the clean you need. We'll get back to you with an estimate.",
+ "formHead": "Request an estimate",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Type of property",
+   "property"
+  ]
+ ],
+ "bandText": "Ready for a top notch clean?",
+ "footerBlurb": "Bond, home, commercial and deep cleaning around Gladstone.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "From 8:30am"
+  ],
+  [
+   "Weekends",
+   "Call to check"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600",
+  "headFont": "\"Space Grotesk\",system-ui,sans-serif",
+  "bodyFont": "\"IBM Plex Sans\",system-ui,sans-serif",
+  "headWeight": "700",
+  "headTrack": "-.035em",
+  "headExtra": "",
+  "bg": "#FFFFFF",
+  "surface": "#F1F4FA",
+  "ink": "#121A33",
+  "muted": "#4F5874",
+  "brand": "#1B2A5C",
+  "brand2": "#111C40",
+  "accent": "#B8E04A",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#121A33",
+  "line": "#DCE2F0",
+  "radius": "12px",
+  "btnRadius": "12px",
+  "h1max": "84px",
+  "headerBg": "#1B2A5C",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(17,28,64,.85)",
+  "footBg": "#0E1734",
+  "footInk": "#C9D0E6",
+  "footHead": "#B8E04A",
+  "logoBg": "#B8E04A",
+  "logoFg": "#1B2A5C",
+  "icon": "house",
+  "logoRadius": 10,
+  "hero": "center"
+ }
+}
