@@ -1,0 +1,237 @@
+{
+ "slug": "polar-bear-pet-grooming",
+ "name": "Polar Bear Pet Grooming",
+ "short": "Polar Bear Pet Grooming",
+ "tag": "Dog grooming salon, Ballarat",
+ "topline": "31 Peel St South, Bakery Hill · Tue–Sat",
+ "phone": "0407 182 862",
+ "phoneIntl": "+61407182862",
+ "street": "31 Peel Street South",
+ "suburb": "Bakery Hill",
+ "state": "VIC",
+ "postcode": "3350",
+ "addressLine": "31 Peel St S, Bakery Hill VIC 3350",
+ "area": "Ballarat",
+ "areaShort": "In-salon grooming in central Ballarat",
+ "areaText": "Our salon is on Peel Street South in Bakery Hill, right in central Ballarat. Book online or give Katie and the team a call.",
+ "mapQuery": "31 Peel Street South, Bakery Hill VIC 3350",
+ "schemaType": "LocalBusiness",
+ "seoTitle": "Dog Grooming in Ballarat",
+ "metaDesc": "Polar Bear Pet Grooming: a bright, friendly dog grooming salon in Bakery Hill, Ballarat. Baths, brush-outs, breed clips, puppy grooms and nail trims. Book online or call 0407 182 862.",
+ "ctaLabel": "Book a groom",
+ "ownerOrUs": "the team",
+ "facebook": "https://www.facebook.com/PolarBearPetGrooming/",
+ "instagram": "https://www.instagram.com/polarbearpetgrooming/",
+ "bookingUrl": "https://booking.moego.pet/go/?name=PolarBearPetGrooming",
+ "hero": {
+  "title": "Fresh, fluffy and happy, right here in Ballarat.",
+  "lede": "Polar Bear Pet Grooming is a bright, open salon in Bakery Hill where gentle groomers wash, brush and style dogs of every coat type, with treats along the way.",
+  "trust": [
+   "Trading 11 years",
+   "Book online",
+   "Puppies welcome"
+  ]
+ },
+ "images": {
+  "hero": "1570888234661-a2428afad010",
+  "heroAlt": "Fluffy white spitz after a groom",
+  "about": "1675430426271-d74b542f21e4",
+  "about2": "1528846104175-4fd300ee59da",
+  "aboutAlt": "Groomer cuddling a small white dog",
+  "gallery": [
+   "1581562324420-eff2f5aaa4b5",
+   "1611173622933-91942d394b04",
+   "1709771818873-57feeea88f41",
+   "1537151608828-ea2b11777ee8",
+   "1597595735781-6a57fb8e3e3d",
+   "1629246999700-1e7ad7a1ba03"
+  ]
+ },
+ "servicesHead": "Grooming services",
+ "servicesSub": "Prices depend on your pet's size, coat condition and temperament. Call or book online for a quote.",
+ "services": [
+  {
+   "id": "bath",
+   "title": "Warm bath & blow dry",
+   "img": "1647002380358-fc70ed2f04e0",
+   "short": "Short-coat bath and dry, quick brush-outs.",
+   "long": "A warm bath and blow dry, with a thorough brush. Great for short-coated dogs or a freshen-up between full grooms.",
+   "points": [
+    "Short-coat bath and dry",
+    "Thorough brushing",
+    "Quick brush-outs"
+   ]
+  },
+  {
+   "id": "groom",
+   "title": "Haircuts & breed clips",
+   "img": "1719464454959-9cf304ef4774",
+   "short": "Curly and straight coats, traditional breed clips.",
+   "long": "Haircuts and traditional breed clips for curly and straight coats, plus face, feet, ear, tail and feathering trims.",
+   "points": [
+    "Curly and straight coats",
+    "Traditional breed clips",
+    "Face, feet and tail trims"
+   ]
+  },
+  {
+   "id": "puppy",
+   "title": "Puppy grooming",
+   "img": "1537151608828-ea2b11777ee8",
+   "short": "A gentle first groom for young pups.",
+   "long": "Puppy grooms to get young dogs used to the salon, handled gently and patiently by the team.",
+   "points": [
+    "Gentle first grooms",
+    "Tidy-ups",
+    "Treats during the visit"
+   ]
+  },
+  {
+   "id": "nails",
+   "title": "Nails, ears & hygiene",
+   "img": "1587402092301-725e37c70fd8",
+   "short": "Nail clipping, ear cleaning and tidy-ups.",
+   "long": "Nail clipping, ear cleaning, and pads and hygiene shaves. Nervous dogs are handled calmly.",
+   "points": [
+    "Nail clipping",
+    "Ear cleaning",
+    "Pads and hygiene shave"
+   ]
+  }
+ ],
+ "whyHead": "Why Ballarat pets love Polar Bear",
+ "whyText": "Our salon is bright, open and airy, and our groomers are gentle and affectionate. We use quality products and do our best to keep every pet relaxed during their visit.",
+ "why": [
+  "Lead groomer with 12 years' experience",
+  "Calm with nervous dogs",
+  "Quality grooming products",
+  "Accessories, collars, leads and food in store"
+ ],
+ "galleryHead": "Fresh from the salon",
+ "gallerySub": "Fluffy, clean and ready to go home.",
+ "reviewsHead": "What pet owners say",
+ "reviews": [
+  {
+   "text": "As soon as I arrived, I knew Harry was in good hands and my concerns were allayed.",
+   "who": "Customer review",
+   "src": "Other"
+  },
+  {
+   "text": "So accommodating to my dog who was very nervous about having her nails clipped.",
+   "who": "Customer review",
+   "src": "Other"
+  },
+  {
+   "text": "They were so calm and my dog didn't even realize what was happening!",
+   "who": "Customer review",
+   "src": "Other"
+  },
+  {
+   "text": "Katie and the gang are fantastic, they are very friendly.",
+   "who": "Customer review",
+   "src": "Other"
+  }
+ ],
+ "faq": [
+  [
+   "How much does a groom cost?",
+   "It depends on your pet's size, coat condition and temperament. Call or book online and we'll let you know."
+  ],
+  [
+   "Are you mobile?",
+   "No, we groom in our salon at 31 Peel Street South, Bakery Hill."
+  ],
+  [
+   "Do you groom puppies?",
+   "Yes. Puppy grooming is one of our services."
+  ],
+  [
+   "How can I pay?",
+   "Cash, EFTPOS, Visa, Mastercard, Apple Pay and Google Pay."
+  ]
+ ],
+ "aboutHead": "About Polar Bear Pet Grooming",
+ "aboutSub": "A friendly grooming salon in the heart of Ballarat.",
+ "aboutParas": [
+  "Polar Bear Pet Grooming has been grooming Ballarat's dogs for around 11 years, from our salon on Peel Street South in Bakery Hill.",
+  "Katie and the team look after everything from quick brush-outs and nail trims to full breed clips and first puppy grooms.",
+  "We also stock accessories, collars, leads and food, so you can pick up what you need when you collect your freshly groomed pet."
+ ],
+ "valuesHead": "How we groom",
+ "values": [
+  [
+   "Gentle",
+   "Patient, affectionate handling for every dog."
+  ],
+  [
+   "Calm",
+   "Nervous pets are taken slowly and kindly."
+  ],
+  [
+   "Quality",
+   "First-class products for a fresh, soft finish."
+  ]
+ ],
+ "contactHead": "Book a groom",
+ "contactSub": "Book online, call 0407 182 862, or send a request and we'll get back to you.",
+ "formHead": "Booking request",
+ "formButton": "Send booking request",
+ "formExtra": [
+  [
+   "Dog's name and breed",
+   "dog"
+  ]
+ ],
+ "bandText": "Time for a fresh, fluffy groom?",
+ "footerBlurb": "Dog grooming salon in Bakery Hill, Ballarat.",
+ "hours": [
+  [
+   "Monday",
+   "Closed"
+  ],
+  [
+   "Tuesday – Friday",
+   "9am – 4pm"
+  ],
+  [
+   "Saturday",
+   "9am – 3pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "theme": {
+  "headExtra": "",
+  "radius": "24px",
+  "btnRadius": "999px",
+  "h1max": "84px",
+  "logoRadius": 16,
+  "fontsQuery": "family=Baloo+2:wght@600;700;800&family=DM+Sans:wght@400;500;700",
+  "headFont": "\"Baloo 2\",system-ui,sans-serif",
+  "bodyFont": "\"DM Sans\",system-ui,sans-serif",
+  "headWeight": "800",
+  "headTrack": "-.015em",
+  "bg": "#FFFFFF",
+  "surface": "#EDF6FB",
+  "ink": "#12263F",
+  "muted": "#4D6077",
+  "brand": "#12355B",
+  "brand2": "#0B2442",
+  "accent": "#8FD3F4",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#0B2442",
+  "line": "#D6E7F2",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#12355B",
+  "overlay": "rgba(11,36,66,.86)",
+  "footBg": "#0B2442",
+  "footInk": "#C4D8EA",
+  "footHead": "#8FD3F4",
+  "logoBg": "#8FD3F4",
+  "logoFg": "#FFFFFF",
+  "icon": "bear",
+  "hero": "center"
+ }
+}

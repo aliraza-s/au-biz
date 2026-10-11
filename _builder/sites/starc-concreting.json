@@ -1,0 +1,211 @@
+{
+ "slug": "starc-concreting",
+ "name": "Starc Concreting",
+ "short": "Starc Concreting",
+ "tag": "Concreting, Warwick QLD",
+ "topline": "Locally owned family business · Warwick & surrounds",
+ "phone": "0429 436 603",
+ "phoneIntl": "+61429436603",
+ "street": "127 Cleary St",
+ "suburb": "Warwick",
+ "state": "QLD",
+ "postcode": "4370",
+ "addressLine": "127 Cleary St, Warwick QLD 4370",
+ "area": "Warwick",
+ "areaShort": "Warwick and surrounds",
+ "areaText": "Based on Cleary Street in Warwick and working across Warwick and surrounds. Call or text Tim to talk about your job.",
+ "mapQuery": "127 Cleary St, Warwick QLD 4370",
+ "schemaType": "GeneralContractor",
+ "seoTitle": "Concreter in Warwick",
+ "metaDesc": "Starc Concreting: locally owned family concreters in Warwick. Silo and shed slabs, patios, driveways, pathways, exposed aggregate, site levelling and retaining walls. Call Tim on 0429 436 603.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "Starc",
+ "facebook": "https://www.facebook.com/starcconcreting/",
+ "badge": [
+  "10 yrs",
+  "Trading in Warwick"
+ ],
+ "hero": {
+  "title": "From garden sheds to silo slabs.",
+  "titleHtml": "From garden sheds<br>to <em style=\"font-style:normal;color:#E8590C\">silo slabs.</em>",
+  "lede": "Starc Concreting is a locally owned family business in Warwick. Tim and the team pour driveways, patios, shed and silo slabs, and handle the site levelling and retaining walls too.",
+  "trust": [
+   "Locally owned",
+   "Family business",
+   "Trading 10 years"
+  ]
+ },
+ "images": {
+  "hero": "1574757987642-5755f0839101",
+  "heroAlt": "Concreter levelling freshly poured concrete",
+  "about": "1563166423-482a8c14b2d6",
+  "about2": "1530863506128-dc9eb5c3e0fc",
+  "aboutAlt": "Concreter working on site",
+  "gallery": [
+   "1783278092758-3d9713960a85",
+   "1685464197144-790d716b8649",
+   "1600456899121-68eda5705257",
+   "1759355787121-eaef014a501d",
+   "1630683924997-fe27050a0416",
+   "1788438293104-b7a2750c23ec"
+  ]
+ },
+ "servicesHead": "What we pour",
+ "servicesSub": "Big rural and industrial slabs or a small garden shed pad, it all gets the same care.",
+ "services": [
+  {
+   "id": "slabs",
+   "title": "Silo & shed slabs",
+   "img": "1685464197144-790d716b8649",
+   "short": "Slabs for silos, sheds and farm buildings.",
+   "long": "Silo slabs and shed slabs for farms, businesses and backyards around Warwick, from major jobs down to garden sheds.",
+   "points": [
+    "Silo slabs",
+    "Shed slabs",
+    "Large and small jobs"
+   ]
+  },
+  {
+   "id": "driveways",
+   "title": "Driveways & exposed aggregate",
+   "img": "1783278092758-3d9713960a85",
+   "short": "New driveways in plain or exposed aggregate.",
+   "long": "New driveways in plain concrete or an exposed aggregate finish.",
+   "points": [
+    "Plain or exposed aggregate",
+    "Driveways",
+    "Crossovers and aprons"
+   ]
+  },
+  {
+   "id": "outdoor",
+   "title": "Patios & pathways",
+   "img": "1600456899121-68eda5705257",
+   "short": "Patios and paths around your home.",
+   "long": "Patio slabs and pathways that tidy up the yard and stand up to the weather.",
+   "points": [
+    "Patios",
+    "Pathways",
+    "Exposed aggregate available"
+   ]
+  },
+  {
+   "id": "prep",
+   "title": "Site levelling & retaining walls",
+   "img": "1530863506128-dc9eb5c3e0fc",
+   "short": "Getting the ground ready before the pour.",
+   "long": "Site levelling and retaining walls, so your slab, driveway or patio sits right.",
+   "points": [
+    "Site levelling",
+    "Retaining walls",
+    "Ready for the pour"
+   ]
+  }
+ ],
+ "whyHead": "Why work with Starc",
+ "whyText": "Starc Concreting is a locally owned family business that has been trading around Warwick for about ten years, taking on everything from major industrial jobs to garden sheds.",
+ "why": [
+  "Locally owned family business",
+  "Big rural jobs and small backyard jobs",
+  "Site levelling and retaining walls in-house",
+  "Cash or EFT accepted"
+ ],
+ "galleryHead": "Concrete work",
+ "gallerySub": "Slabs, driveways and paths.",
+ "reviewsHead": "What customers say",
+ "reviews": [],
+ "faq": [
+  [
+   "What size jobs do you take on?",
+   "Everything from major industrial jobs to garden sheds."
+  ],
+  [
+   "Do you do exposed aggregate?",
+   "Yes. Exposed aggregate is one of our listed services."
+  ],
+  [
+   "Can you level the site first?",
+   "Yes. We do site levelling and retaining walls as well as the concrete."
+  ],
+  [
+   "How do I pay?",
+   "Cash or EFT."
+  ]
+ ],
+ "aboutHead": "About Starc Concreting",
+ "aboutSub": "A locally owned family business in Warwick.",
+ "aboutParas": [
+  "Starc Concreting is a locally owned family business based on Cleary Street in Warwick.",
+  "We've been trading for around ten years, pouring silo and shed slabs, patios, driveways and pathways across Warwick and surrounds.",
+  "Tim and the team also take care of site levelling and retaining walls, so the whole job can be handled by one crew."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "A Warwick family business, not a big franchise."
+  ],
+  [
+   "All sizes",
+   "Industrial slabs or a garden shed pad."
+  ],
+  [
+   "One crew",
+   "Levelling, walls and concrete done together."
+  ]
+ ],
+ "contactHead": "Talk to Tim about your job",
+ "contactSub": "Send through a few details and Tim will get back to you to talk it over.",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Type of job (shed slab, driveway, patio…)",
+   "job"
+  ]
+ ],
+ "bandText": "Got a slab, driveway or patio in mind?",
+ "footerBlurb": "Locally owned family concreters in Warwick, QLD.",
+ "hours": [
+  [
+   "Opens",
+   "6:00am"
+  ],
+  [
+   "Quotes",
+   "Call or text Tim"
+  ]
+ ],
+ "theme": {
+  "headExtra": "text-transform:uppercase;",
+  "radius": "0px",
+  "btnRadius": "0px",
+  "h1max": "118px",
+  "logoRadius": 0,
+  "fontsQuery": "family=Big+Shoulders+Display:wght@700;800;900&family=Inter+Tight:wght@400;500;700",
+  "headFont": "\"Big Shoulders Display\",Impact,sans-serif",
+  "bodyFont": "\"Inter Tight\",system-ui,sans-serif",
+  "headWeight": "900",
+  "headTrack": "0",
+  "bg": "#FFFFFF",
+  "surface": "#F3EFEA",
+  "ink": "#1B1B1E",
+  "muted": "#5A5A63",
+  "brand": "#1B1B1E",
+  "brand2": "#F3EFEA",
+  "accent": "#E8590C",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "line": "#E2DCD4",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#1B1B1E",
+  "overlay": "rgba(20,20,22,.9)",
+  "footBg": "#121214",
+  "footInk": "#B9B9C2",
+  "footHead": "#E8590C",
+  "logoBg": "#E8590C",
+  "logoFg": "#FFFFFF",
+  "icon": "level",
+  "hero": "arch"
+ }
+}

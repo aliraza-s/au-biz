@@ -1,0 +1,218 @@
+{
+ "slug": "bobcats-bundaberg",
+ "name": "Bobcats Bundaberg",
+ "short": "Bobcats Bundaberg",
+ "tag": "Earthmoving & bobcat hire",
+ "topline": "Bobcat, tipper & skid steer hire · Bundaberg",
+ "phone": "0412 628 259",
+ "phoneIntl": "+61412628259",
+ "street": "",
+ "suburb": "Branyan",
+ "state": "QLD",
+ "postcode": "4670",
+ "addressLine": "Branyan, Bundaberg QLD 4670",
+ "area": "Bundaberg",
+ "areaShort": "Servicing Bundaberg",
+ "areaText": "Based in Branyan and servicing Bundaberg. Call (07) 4155 1220 or 0412 628 259 for hiring, quotes and all other enquiries.",
+ "mapQuery": "Branyan QLD 4670",
+ "schemaType": "GeneralContractor",
+ "seoTitle": "Earthmoving & Bobcat Hire in Bundaberg",
+ "metaDesc": "Bobcats Bundaberg: earthmoving, excavating, bobcat and tipper truck hire, house pads, post-hole boring and clean-ups in Bundaberg. Call 0412 628 259.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "us",
+ "badge": [
+  "20+",
+  "Years in Bundaberg"
+ ],
+ "hero": {
+  "title": "Earthmoving and bobcat hire in Bundaberg.",
+  "titleHtml": "Dig it. Level it.<br>Bobcats Bundaberg.",
+  "lede": "House pads, concrete prep, post-hole boring and general clean-ups, with bobcat, skid steer and tipper truck hire for residential, commercial and industrial jobs.",
+  "trust": [
+   "Local for 20+ years",
+   "Residential & commercial",
+   "Bobcat & tipper hire"
+  ]
+ },
+ "images": {
+  "hero": "1504307651254-35680f356dfd",
+  "heroAlt": "Machinery working on a construction site",
+  "about": "1563166423-482a8c14b2d6",
+  "about2": "1574757987642-5755f0839101",
+  "aboutAlt": "Site prepared and ready for concrete",
+  "gallery": [
+   "1530863506128-dc9eb5c3e0fc",
+   "1616179058441-37aa58affac8",
+   "1587052694737-a972e4186288",
+   "1635249578213-68b0aa67fdf7",
+   "1553946550-4b8f3eea5451",
+   "1582540730843-f4418d96ccbe"
+  ]
+ },
+ "servicesHead": "Earthmoving services",
+ "servicesSub": "Machines and operators for jobs around Bundaberg.",
+ "services": [
+  {
+   "id": "earthmoving",
+   "title": "Earthmoving & excavating",
+   "img": "1504307651254-35680f356dfd",
+   "short": "Digging, levelling and site works.",
+   "long": "General earthmoving and excavating for residential, commercial and industrial sites around Bundaberg.",
+   "points": [
+    "Excavating",
+    "Earthmoving",
+    "Residential, commercial and industrial"
+   ]
+  },
+  {
+   "id": "pads",
+   "title": "House pads & concrete prep",
+   "img": "1563166423-482a8c14b2d6",
+   "short": "Pads and prep ready for the slab.",
+   "long": "House pads, raft slab preparation and concrete prep, so your builder or concreter can get straight to work.",
+   "points": [
+    "House pads",
+    "Raft slab prep",
+    "Concrete preparation"
+   ]
+  },
+  {
+   "id": "hire",
+   "title": "Bobcat, skid steer & tipper hire",
+   "img": "1530863506128-dc9eb5c3e0fc",
+   "short": "Machines with operators for your job.",
+   "long": "Bobcat hire, skid steer loader hire and tipper truck hire to move soil, fill and spoil.",
+   "points": [
+    "Bobcat hire",
+    "Skid steer loader hire",
+    "Tipper truck hire"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Post holes & clean-ups",
+   "img": "1616179058441-37aa58affac8",
+   "short": "Post-hole boring and general clean-ups.",
+   "long": "Post-hole boring for fences and structures, plus general clean-ups of blocks and yards.",
+   "points": [
+    "Post-hole boring",
+    "General clean-ups",
+    "Block and yard tidy-ups"
+   ]
+  }
+ ],
+ "whyHead": "Why Bundaberg calls us",
+ "whyText": "Bobcats Bundaberg has been working around Bundaberg for more than 20 years, using Bobcat and Caterpillar machines, tipper trucks and skid steer loaders.",
+ "why": [
+  "Bundaberg locals for 20+ years",
+  "Bobcat and Caterpillar machines",
+  "Tipper trucks to cart soil and spoil",
+  "Cash, cheque or EFT"
+ ],
+ "galleryHead": "On site",
+ "gallerySub": "Site prep, pads and ground works.",
+ "reviewsHead": "What customers say",
+ "reviews": [],
+ "faq": [
+  [
+   "What jobs do you do?",
+   "Earthmoving, excavating, house pads, concrete prep, post-hole boring and general clean-ups."
+  ],
+  [
+   "Do you hire out machines?",
+   "Yes. Bobcat hire, skid steer loader hire and tipper truck hire."
+  ],
+  [
+   "Do you do commercial work?",
+   "Yes. We work on residential, commercial and industrial jobs."
+  ],
+  [
+   "How do I get a quote?",
+   "Call (07) 4155 1220 or 0412 628 259, or send a request through this site."
+  ]
+ ],
+ "aboutHead": "About Bobcats Bundaberg",
+ "aboutSub": "Local earthmoving operators.",
+ "aboutParas": [
+  "Bobcats Bundaberg is a local earthmoving business based in Branyan, servicing Bundaberg.",
+  "We've been in the area for more than 20 years, preparing house pads, digging, boring post holes and cleaning up sites for homeowners, builders and businesses.",
+  "Give us a call for hiring, quotes and all other service related queries."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Bundaberg based, Bundaberg focused."
+  ],
+  [
+   "Equipped",
+   "Bobcats, skid steers and tippers ready to go."
+  ],
+  [
+   "Versatile",
+   "Homes, commercial and industrial sites."
+  ]
+ ],
+ "contactHead": "Get an earthmoving quote",
+ "contactSub": "Tell us about the site and what you need, and we'll call you back.",
+ "formHead": "Quote request",
+ "formButton": "Request a quote",
+ "formExtra": [
+  [
+   "Type of job (house pad, clean-up, hire…)",
+   "job"
+  ],
+  [
+   "Site address or suburb",
+   "site"
+  ]
+ ],
+ "bandText": "Got a site that needs clearing or levelling?",
+ "footerBlurb": "Earthmoving, bobcat and tipper hire in Bundaberg.",
+ "hours": [
+  [
+   "Opens",
+   "7:00am"
+  ],
+  [
+   "Phone",
+   "(07) 4155 1220"
+  ],
+  [
+   "Mobile",
+   "0412 628 259"
+  ]
+ ],
+ "theme": {
+  "headExtra": "text-transform:uppercase;",
+  "radius": "6px",
+  "btnRadius": "6px",
+  "h1max": "128px",
+  "logoRadius": 6,
+  "fontsQuery": "family=Saira+Extra+Condensed:wght@700;800;900&family=Chivo:wght@400;500;700",
+  "headFont": "\"Saira Extra Condensed\",Impact,sans-serif",
+  "bodyFont": "Chivo,system-ui,sans-serif",
+  "headWeight": "900",
+  "headTrack": ".005em",
+  "bg": "#FFFDF6",
+  "surface": "#F4EFDC",
+  "ink": "#1E2114",
+  "muted": "#5B5E4C",
+  "brand": "#2F3A1F",
+  "brand2": "#1F2714",
+  "accent": "#FFC20E",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#1E2114",
+  "line": "#E3DDC4",
+  "headerBg": "#2F3A1F",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(24,30,14,.9)",
+  "footBg": "#1F2714",
+  "footInk": "#C9CCB6",
+  "footHead": "#FFC20E",
+  "logoBg": "#FFC20E",
+  "logoFg": "#2F3A1F",
+  "icon": "loader",
+  "hero": "stack"
+ }
+}

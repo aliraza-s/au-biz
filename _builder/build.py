@@ -27,6 +27,11 @@ ICONS = {
  "layers": '<g fill="currentColor"><path d="M16 3 29 10 16 17 3 10z"/><path d="M5.6 14.4 16 20l10.4-5.6L29 16 16 23 3 16z" opacity=".78"/><path d="M5.6 20.4 16 26l10.4-5.6L29 22 16 29 3 22z" opacity=".55"/></g>',
  "grid": '<g fill="currentColor"><rect x="3" y="3" width="12" height="12" rx="2"/><rect x="17" y="3" width="12" height="12" rx="2"/><rect x="3" y="17" width="12" height="12" rx="2"/><rect x="17" y="17" width="12" height="12" rx="2"/></g>',
  "bone": '<path fill="currentColor" d="M9 10a3.5 3.5 0 1 1 4.5-3.3L20 13.2a3.5 3.5 0 1 1 3.3 4.5 3.5 3.5 0 1 1-4.5 3.3L12.3 14.5A3.5 3.5 0 1 1 9 10z"/>',
+ "mixer": '<g fill="currentColor"><path d="M2 21V12h7l3 4v5z"/><path d="M13 9.5 26 6.5a3 3 0 0 1 3.6 2.4l.6 4.6a3 3 0 0 1-2.6 3.4L14 18z"/><rect x="12" y="19" width="18" height="3" rx="1"/><circle cx="7" cy="25" r="3"/><circle cx="18" cy="25" r="3"/><circle cx="26" cy="25" r="3"/></g>',
+ "level": '<g fill="currentColor"><rect x="2" y="11" width="28" height="10" rx="2.5"/></g><rect x="12" y="13.5" width="8" height="5" rx="2.5" fill="var(--logo-ink)"/><circle cx="16" cy="16" r="1.4" fill="currentColor"/><path d="M6 13.5v5M26 13.5v5" stroke="var(--logo-ink)" stroke-width="1.6"/>',
+ "blocks": '<g fill="currentColor"><rect x="2" y="5" width="13" height="6" rx="1"/><rect x="17" y="5" width="13" height="6" rx="1"/><rect x="2" y="13" width="6" height="6" rx="1"/><rect x="10" y="13" width="12" height="6" rx="1"/><rect x="24" y="13" width="6" height="6" rx="1"/><rect x="2" y="21" width="13" height="6" rx="1"/><rect x="17" y="21" width="13" height="6" rx="1"/></g>',
+ "bear": '<g fill="currentColor"><circle cx="8" cy="9" r="4.2"/><circle cx="24" cy="9" r="4.2"/><ellipse cx="16" cy="18" rx="11.5" ry="10.5"/></g><g fill="var(--logo-ink)"><circle cx="11.5" cy="16" r="1.6"/><circle cx="20.5" cy="16" r="1.6"/><ellipse cx="16" cy="22" rx="3" ry="2.2"/></g>',
+ "loader": '<g fill="currentColor"><path d="M9 6h9l3 8h3v9H6V12l3-1z"/><path d="M24 15l4 1 2 7h-4z"/><circle cx="10" cy="25.5" r="3.5"/><circle cx="21" cy="25.5" r="3.5"/></g><path d="M11 8.5h5.5l2 5.5H11z" fill="var(--logo-ink)"/>',
 }
 
 def logo_svg(s, size=44):

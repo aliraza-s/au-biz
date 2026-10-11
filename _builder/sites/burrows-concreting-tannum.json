@@ -1,0 +1,214 @@
+{
+ "slug": "burrows-concreting-tannum",
+ "name": "JC & WA Burrows Concreting",
+ "short": "Burrows Concreting",
+ "tag": "Tannum Sands & Gladstone",
+ "topline": "Family-run concreters in Tannum Sands for 30+ years",
+ "phone": "0417 791 528",
+ "phoneIntl": "+61417791528",
+ "street": "5 Pacific Avenue",
+ "suburb": "Tannum Sands",
+ "state": "QLD",
+ "postcode": "4680",
+ "addressLine": "5 Pacific Ave, Tannum Sands QLD 4680",
+ "area": "Tannum Sands",
+ "areaShort": "Tannum Sands and the Gladstone region",
+ "areaText": "Based on Pacific Avenue in Tannum Sands. Call 0417 791 528 or (07) 4973 8363 to arrange an on-site inspection.",
+ "mapQuery": "5 Pacific Avenue, Tannum Sands QLD 4680",
+ "schemaType": "GeneralContractor",
+ "seoTitle": "Concreter in Tannum Sands",
+ "metaDesc": "JC & WA Burrows Concreting: family-run concreters in Tannum Sands for over 30 years. Driveways, paths, decorative finishes, stairs and block walls. Call 0417 791 528.",
+ "ctaLabel": "Book an inspection",
+ "ownerOrUs": "us",
+ "badge": [
+  "30+",
+  "Years in Tannum Sands"
+ ],
+ "hero": {
+  "title": "Tannum Sands concreting, family-run for over 30 years.",
+  "lede": "Driveways, paths, decorative finishes, stairs and block walls, with fast turnarounds and friendly service from a local family business.",
+  "trust": [
+   "Family-run",
+   "30+ years local",
+   "On-site inspections"
+  ]
+ },
+ "images": {
+  "hero": "1783125127143-d4e18726bab3",
+  "heroAlt": "Freshly finished concrete work",
+  "about": "1504307651254-35680f356dfd",
+  "about2": "1616179058441-37aa58affac8",
+  "aboutAlt": "Concreter working on site",
+  "gallery": [
+   "1783125127341-81112b795c23",
+   "1582540730843-f4418d96ccbe",
+   "1669170930713-f7c778496177",
+   "1587052694737-a972e4186288",
+   "1781637202423-33ec5b47e52e",
+   "1635249578213-68b0aa67fdf7"
+  ]
+ },
+ "servicesHead": "Concreting services",
+ "servicesSub": "Mostly residential work around Tannum Sands, with commercial jobs taken on too.",
+ "services": [
+  {
+   "id": "driveways",
+   "title": "Driveways & paths",
+   "img": "1781637202423-33ec5b47e52e",
+   "short": "Concrete driveways, paths and footpaths.",
+   "long": "Concrete paths and driveways for homes around Tannum Sands, Boyne Island and Gladstone.",
+   "points": [
+    "Driveways",
+    "Paths and footpaths",
+    "Residential and commercial"
+   ]
+  },
+  {
+   "id": "decorative",
+   "title": "Decorative finishes",
+   "img": "1783125127341-81112b795c23",
+   "short": "Feature finishes that lift the look of your home.",
+   "long": "Decorative concreting and feature finishes, with equipment for decorative and textured surfaces.",
+   "points": [
+    "Decorative concreting",
+    "Feature and textured finishes",
+    "Paving"
+   ]
+  },
+  {
+   "id": "stairs",
+   "title": "Stairs & block walls",
+   "img": "1582540730843-f4418d96ccbe",
+   "short": "Concrete stairs and block walls.",
+   "long": "Concrete stairs and block walls, built by a team with decades of hands-on experience.",
+   "points": [
+    "Concrete stairs",
+    "Block walls",
+    "Formwork and excavation"
+   ]
+  },
+  {
+   "id": "general",
+   "title": "Paving & general concreting",
+   "img": "1669170930713-f7c778496177",
+   "short": "All the everyday concrete jobs.",
+   "long": "Paving and general concreting, with on-site inspections and after-hours service available.",
+   "points": [
+    "Paving",
+    "General concreting",
+    "On-site inspections",
+    "After-hours service"
+   ]
+  }
+ ],
+ "whyHead": "Why locals call Burrows",
+ "whyText": "JC & WA Burrows Concreting is a family-run business based in Tannum Sands, known for fast turnarounds, friendly service and decades of hands-on experience.",
+ "why": [
+  "Family-run local business",
+  "Fast turnarounds",
+  "On-site inspections",
+  "After-hours service available"
+ ],
+ "galleryHead": "Concrete work",
+ "gallerySub": "Driveways, paths and finishes.",
+ "reviewsHead": "What customers say",
+ "reviews": [],
+ "faq": [
+  [
+   "Where are you based?",
+   "5 Pacific Avenue, Tannum Sands."
+  ],
+  [
+   "Do you come out and look at the job?",
+   "Yes. We do on-site inspections."
+  ],
+  [
+   "Do you do commercial work?",
+   "Yes, although most of our work is residential."
+  ],
+  [
+   "How can I pay?",
+   "Cash or cheque."
+  ]
+ ],
+ "aboutHead": "About Burrows Concreting",
+ "aboutSub": "A family-run concreting business in Tannum Sands.",
+ "aboutParas": [
+  "JC & WA Burrows Concreting is a family-run concreting business based in Tannum Sands, serving the local area for more than 30 years.",
+  "We specialise in residential concreting, from driveways and footpaths to block walls and decorative finishes, and take on commercial jobs as well.",
+  "Our gear covers it all: mixers and finishing tools, compact excavation and formwork equipment, and tools for decorative and textured finishes."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Fast",
+   "Quick turnarounds on jobs big and small."
+  ],
+  [
+   "Friendly",
+   "A local family you can talk to."
+  ],
+  [
+   "Experienced",
+   "Decades of hands-on concreting."
+  ]
+ ],
+ "contactHead": "Book an on-site inspection",
+ "contactSub": "Tell us what you need and we'll call to arrange a time to look at the job.",
+ "formHead": "Inspection request",
+ "formButton": "Request inspection",
+ "formExtra": [
+  [
+   "Type of job (driveway, path, block wall…)",
+   "job"
+  ]
+ ],
+ "bandText": "Need a driveway, path or wall done right?",
+ "footerBlurb": "Family-run concreters in Tannum Sands for over 30 years.",
+ "hours": [
+  [
+   "Hours",
+   "Call to arrange a time"
+  ],
+  [
+   "After hours",
+   "Available on request"
+  ],
+  [
+   "Phone",
+   "(07) 4973 8363"
+  ]
+ ],
+ "theme": {
+  "headExtra": "",
+  "radius": "14px",
+  "btnRadius": "40px",
+  "h1max": "96px",
+  "logoRadius": 14,
+  "fontsQuery": "family=Zilla+Slab:wght@600;700&family=Rubik:wght@400;500;700",
+  "headFont": "\"Zilla Slab\",Georgia,serif",
+  "bodyFont": "Rubik,system-ui,sans-serif",
+  "headWeight": "700",
+  "headTrack": "-.01em",
+  "bg": "#FFFFFF",
+  "surface": "#EAF3F3",
+  "ink": "#10282C",
+  "muted": "#4C6266",
+  "brand": "#0D4F5C",
+  "brand2": "#08353E",
+  "accent": "#E9C46A",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#10282C",
+  "line": "#D2E2E3",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#0D4F5C",
+  "overlay": "rgba(6,46,54,.9)",
+  "footBg": "#08353E",
+  "footInk": "#BFD6D9",
+  "footHead": "#E9C46A",
+  "logoBg": "#0D4F5C",
+  "logoFg": "#E9C46A",
+  "icon": "blocks",
+  "hero": "overlay"
+ }
+}

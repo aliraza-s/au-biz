@@ -1,0 +1,252 @@
+{
+ "slug": "schwerin-concreting",
+ "name": "Schwerin Concreting",
+ "short": "Schwerin Concreting",
+ "tag": "Family concreters, Toowoomba",
+ "topline": "Family concreting since 1969 · Free on-site quotes",
+ "phone": "0409 946 350",
+ "phoneIntl": "+61409946350",
+ "street": "",
+ "suburb": "Rangeville",
+ "state": "QLD",
+ "postcode": "4350",
+ "addressLine": "Rangeville, Toowoomba QLD 4350",
+ "area": "Toowoomba",
+ "areaShort": "Toowoomba and the Darling Downs",
+ "areaText": "Based in Rangeville and working mainly around Toowoomba and the Darling Downs. We prefer to meet you on site to quote.",
+ "mapQuery": "Rangeville QLD 4350",
+ "rating": 5.0,
+ "reviewCount": 15,
+ "ratingSource": "Yellow Pages",
+ "schemaType": "GeneralContractor",
+ "seoTitle": "Concreter in Toowoomba",
+ "metaDesc": "Schwerin Concreting: family concreters in Toowoomba since 1969. Driveways, shed and factory slabs, paths, pool surrounds and more. 5.0 stars from 15 Yellow Pages reviews. Call 0409 946 350.",
+ "ctaLabel": "Free quote",
+ "ownerOrUs": "the family",
+ "hero": {
+  "title": "Toowoomba concrete, poured by the same family since 1969.",
+  "lede": "John and his sons Jonson and Jake handle driveways, shed slabs, paths and pool surrounds across Toowoomba. Prompt, efficient, professional, and always happy to quote on site.",
+  "trust": [
+   "5.0★ on Yellow Pages",
+   "QBCC licensed",
+   "Free on-site quotes"
+  ]
+ },
+ "images": {
+  "hero": "1685464196332-ed9c9da28d9a",
+  "heroAlt": "Concrete being poured on a job site",
+  "about": "1673978483810-ad14e573eece",
+  "about2": "1685464196387-854858ce0f4f",
+  "aboutAlt": "Concreter working on a fresh slab",
+  "gallery": [
+   "1783125127122-086898d94d7a",
+   "1685464197644-41d9b07e1e73",
+   "1673865641469-34498379d8af",
+   "1771366260867-7e07094579d7",
+   "1780541027911-afb903996795",
+   "1673978483122-d6b4b02df1ee"
+  ]
+ },
+ "servicesHead": "Concrete work we do",
+ "servicesSub": "Residential, commercial and industrial jobs, in natural, exposed aggregate, coloured or sealed finishes.",
+ "services": [
+  {
+   "id": "driveways",
+   "title": "Driveways & crossovers",
+   "img": "1783125127122-086898d94d7a",
+   "short": "New driveways, crossovers, carports and carparks.",
+   "long": "Driveways, crossovers, carports and carparks in natural, exposed aggregate, coloured or sealed finishes. We can remove the old concrete or pavers first with our own Bobcat and truck.",
+   "points": [
+    "Exposed aggregate, coloured or sealed",
+    "Old concrete and pavers removed",
+    "Carports and carparks"
+   ]
+  },
+  {
+   "id": "slabs",
+   "title": "Shed & factory slabs",
+   "img": "1685464196332-ed9c9da28d9a",
+   "short": "Shed pads, factory foundations and hardstands.",
+   "long": "Shed and factory foundations, hardstands and piers for residential, commercial and industrial clients. Concrete pumps can be arranged for bigger pours.",
+   "points": [
+    "Shed and workshop slabs",
+    "Hardstands and piers",
+    "Concrete pumps arranged"
+   ]
+  },
+  {
+   "id": "outdoor",
+   "title": "Paths, patios & pool surrounds",
+   "img": "1673865641469-34498379d8af",
+   "short": "Paths, patios, pergolas and pool surrounds.",
+   "long": "Footpaths, patios, pergola slabs and pool surrounds finished neatly to suit your home.",
+   "points": [
+    "Paths and footpaths",
+    "Patios and pergolas",
+    "Pool surrounds"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Stairs, ramps, walls & courts",
+   "img": "1685464196387-854858ce0f4f",
+   "short": "Steps, ramps, walls and sports courts.",
+   "long": "Stairs and steps, ramps, walls and sports or tennis courts, plus earthworks and site prep before the pour.",
+   "points": [
+    "Stairs, steps and ramps",
+    "Walls",
+    "Sports and tennis courts",
+    "Earthworks and removals"
+   ]
+  }
+ ],
+ "whyHead": "Why Toowoomba keeps calling Schwerin",
+ "whyText": "Concreting has been in the Schwerin family since 1969, when John's brother Neil started out and passed the trade on to John. Today John works alongside his sons Jonson and Jake.",
+ "why": [
+  "Second-generation family business",
+  "Own Bobcat and truck for site prep and removals",
+  "Free quotes and on-site inspections",
+  "Residential, commercial and industrial work"
+ ],
+ "galleryHead": "Recent work",
+ "gallerySub": "Driveways, slabs and outdoor areas around Toowoomba.",
+ "reviewsHead": "What customers say",
+ "reviews": [
+  {
+   "text": "Their quality and service are consistently excellent.",
+   "who": "Yellow Pages review",
+   "src": "Yellow Pages"
+  },
+  {
+   "text": "The whole team worked extremely well together and the finished job is outstanding.",
+   "who": "Yellow Pages review",
+   "src": "Yellow Pages"
+  },
+  {
+   "text": "They arrived on time and left the site very tidy on completion.",
+   "who": "Yellow Pages review",
+   "src": "Yellow Pages"
+  },
+  {
+   "text": "The service from John, Vicki and the boys from start to finish was A1.",
+   "who": "Yellow Pages review",
+   "src": "Yellow Pages"
+  },
+  {
+   "text": "The quality of the work done and attention-to-detail is exceptional.",
+   "who": "Yellow Pages review",
+   "src": "Yellow Pages"
+  },
+  {
+   "text": "Their pricing was fair and honest.",
+   "who": "Yellow Pages review",
+   "src": "Yellow Pages"
+  }
+ ],
+ "faq": [
+  [
+   "Do you give free quotes?",
+   "Yes. Quotes and site inspections are free, and we prefer to meet you on site."
+  ],
+  [
+   "How soon can you start?",
+   "Usually about 1 to 2 weeks, depending on our work schedule."
+  ],
+  [
+   "Can you remove old concrete first?",
+   "Yes. We have a Bobcat and truck to remove soil, old concrete and pavers."
+  ],
+  [
+   "What areas do you cover?",
+   "Mainly Toowoomba and surrounds, and we have worked much further afield across Queensland."
+  ],
+  [
+   "How can I pay?",
+   "EFT, cheque, money order or cash."
+  ]
+ ],
+ "aboutHead": "About Schwerin Concreting",
+ "aboutSub": "A Toowoomba family business, built one slab at a time.",
+ "aboutParas": [
+  "Schwerin Concreting is a locally owned family business based in Rangeville, Toowoomba.",
+  "The family has been concreting since 1969, when John's brother Neil started in the trade and passed it on to John. John now runs the business with his sons Jonson and Jake.",
+  "We take on residential, commercial and industrial work, from driveways and paths to shed and factory slabs, and we're QBCC licensed."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Prompt",
+   "We turn up when we say and keep the job moving."
+  ],
+  [
+   "Efficient",
+   "Our own Bobcat and truck mean less waiting on site prep."
+  ],
+  [
+   "Professional",
+   "Tidy sites and a finish you'll be proud of."
+  ]
+ ],
+ "contactHead": "Get a free concrete quote",
+ "contactSub": "Tell us about the job and we'll call to arrange a time to meet on site.",
+ "formHead": "Quote request",
+ "formButton": "Request a quote",
+ "formExtra": [
+  [
+   "Type of job (driveway, shed slab, path…)",
+   "job"
+  ],
+  [
+   "Approximate size (m²)",
+   "size"
+  ]
+ ],
+ "bandText": "Planning a driveway or shed slab? Let's have a look.",
+ "footerBlurb": "Family concreters in Toowoomba since 1969.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "6am – 5pm"
+  ],
+  [
+   "Saturday",
+   "6am – 12pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "theme": {
+  "headExtra": "",
+  "radius": "4px",
+  "btnRadius": "4px",
+  "h1max": "112px",
+  "logoRadius": 4,
+  "fontsQuery": "family=Bebas+Neue&family=Karla:wght@400;500;700",
+  "headFont": "\"Bebas Neue\",Impact,sans-serif",
+  "bodyFont": "Karla,system-ui,sans-serif",
+  "headWeight": "400",
+  "headTrack": ".01em",
+  "bg": "#FBFAF7",
+  "surface": "#EFEBE3",
+  "ink": "#1D2428",
+  "muted": "#58626A",
+  "brand": "#2B3A42",
+  "brand2": "#1D2A30",
+  "accent": "#E3A72F",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#1D2428",
+  "line": "#DDD7CC",
+  "headerBg": "#FBFAF7",
+  "headerInk": "#2B3A42",
+  "overlay": "rgba(20,30,35,.88)",
+  "footBg": "#1D2A30",
+  "footInk": "#BFC8CD",
+  "footHead": "#E3A72F",
+  "logoBg": "#2B3A42",
+  "logoFg": "#E3A72F",
+  "icon": "mixer",
+  "hero": "split"
+ }
+}
