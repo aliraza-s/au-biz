@@ -6,7 +6,7 @@ push them to this repo (aliraza-s/au-biz, branch main; Netlify auto-deploys to h
 and record them in the sheet.
 
 1. Read the sheet (Drive read_file_content). Pick 5 rows where Status = "New" and Preview folder is empty.
-   Order: Pri A first, then B. Prefer "No site", "DOWN", "GONE", "UNFINISHED", "EMPTY" statuses.
+   Work top to bottom (the sheet is already in priority order). Prefer "No site", "DOWN", "GONE", "UNFINISHED", "EMPTY" statuses.
    Skip migration agents unless no other rows are left.
 2. For each business, research real details: Google Places search (name + town) for rating, review count,
    hours, address and 4-6 real review excerpts; web search for services, owner first name, socials.
@@ -23,8 +23,8 @@ and record them in the sheet.
    1366px with Playwright (executablePath /opt/pw-browsers/chromium; stub unsplash/fonts/maps requests)
    and fix any horizontal overflow or broken layout.
 5. Commit ("Add previews: <names>") and push to main.
-6. Update the sheet rows: Preview folder (column L) = slug, Site built on (M) = today's date (YYYY-MM-DD),
-   Status (N) = "Site built". Use the Google Sheets connector if available; otherwise use Claude in Chrome
-   on the sheet (Name box -> cell -> type value). Do not touch columns R-V (they are formulas) or Y1.
+6. Update the sheet rows by HEADER NAME (column letters can change, read row 1 first):
+   "Preview folder" = slug, "Site built on" = today's date (YYYY-MM-DD), "Status" = "Site built". Use the Google Sheets connector if available; otherwise use Claude in Chrome
+   on the sheet (Name box -> cell -> type value). Do not touch the formula columns (Follow-up due, Preview link, Message to send, WhatsApp, Google Maps) or the Netlify address cell.
    If neither works, list the 5 slugs + links in the final message so Ali can paste them.
 7. Final message (Roman Urdu, short): the 5 businesses with their live links.
