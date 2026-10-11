@@ -1,0 +1,223 @@
+{
+ "slug": "petrinas-cleaning",
+ "name": "Petrina's Cleaning Services",
+ "short": "Petrina's Cleaning",
+ "tag": "Home cleaning, Redcliffe Peninsula",
+ "topline": "Regular and one-off home cleans across the Redcliffe Peninsula",
+ "phone": "0433 154 325",
+ "phoneIntl": "+61433154325",
+ "street": "14 Cole St",
+ "suburb": "Scarborough",
+ "state": "QLD",
+ "postcode": "4020",
+ "addressLine": "Scarborough QLD 4020",
+ "area": "Redcliffe Peninsula",
+ "areaShort": "Redcliffe Peninsula and nearby suburbs",
+ "areaText": "Based in Scarborough and cleaning homes and units across the Redcliffe Peninsula. Ask Petrina if we cover your suburb.",
+ "mapQuery": "Scarborough QLD 4020",
+ "rating": 5.0,
+ "reviewCount": 26,
+ "schemaType": "HouseCleaningService",
+ "seoTitle": "Home Cleaning on the Redcliffe Peninsula",
+ "metaDesc": "Petrina's Cleaning Services: friendly, reliable home and unit cleaning on the Redcliffe Peninsula. 5.0 stars from 26 Google reviews. Call 0433 154 325.",
+ "ctaLabel": "Book a clean",
+ "facebook": "https://www.facebook.com/profile.php?id=100054306169500",
+ "ownerOrUs": "Petrina",
+ "hero": {
+  "title": "A spotless home, cleaned by people you'll know by name.",
+  "lede": "Petrina and her team look after homes and units across the Redcliffe Peninsula. Reliable cleaners, great communication and a fresh home every visit.",
+  "trust": [
+   "5.0★ from 26 Google reviews",
+   "Regular or one-off cleans",
+   "Same friendly cleaner each visit"
+  ]
+ },
+ "images": {
+  "hero": "1758273705627-937374bfa978",
+  "heroAlt": "Cleaner vacuuming a bright living room",
+  "about": "1646980241033-cd7abda2ee88",
+  "about2": "1556910638-6cdac31d44dc",
+  "aboutAlt": "Cleaner carrying a cleaning caddy up the stairs",
+  "gallery": [
+   "1556911220-bff31c812dba",
+   "1552321554-5fefe8c9ef14",
+   "1583847268964-b28dc8f51f92",
+   "1556912173-3bb406ef7e77",
+   "1759691337823-5b348f5fd98d",
+   "1610276173132-c47d148ab626"
+  ]
+ },
+ "servicesHead": "Cleaning that fits around your life",
+ "servicesSub": "Weekly, fortnightly or just when you need a hand. Petrina matches you with a cleaner and keeps in touch.",
+ "services": [
+  {
+   "id": "regular",
+   "title": "Regular home cleans",
+   "img": "1758273705627-937374bfa978",
+   "short": "Weekly or fortnightly cleans by the same trusted cleaner.",
+   "long": "Book a regular weekly or fortnightly clean and get the same friendly cleaner each time, someone who knows your home and how you like it done.",
+   "points": [
+    "Weekly or fortnightly",
+    "Same cleaner each visit",
+    "Reminders before each clean"
+   ]
+  },
+  {
+   "id": "units",
+   "title": "Unit & apartment cleans",
+   "img": "1583847268964-b28dc8f51f92",
+   "short": "Kitchens, bathrooms, floors and dusting, finished with real attention to detail.",
+   "long": "Units and apartments cleaned top to bottom: kitchen, bathroom, floors, dusting and the small details that make a place feel fresh.",
+   "points": [
+    "Kitchens and bathrooms",
+    "Floors and dusting",
+    "Fresh-smelling finish"
+   ]
+  },
+  {
+   "id": "support",
+   "title": "Short-term help",
+   "img": "1646980241033-cd7abda2ee88",
+   "short": "Extra support when cleaning has become too much for a while.",
+   "long": "Going through illness, recovery or a busy patch? Petrina can organise a cleaner to come weekly for a short period and help you get back on your feet.",
+   "points": [
+    "Quick to organise",
+    "Weekly visits for as long as you need",
+    "Kind, supportive cleaners"
+   ]
+  },
+  {
+   "id": "deep",
+   "title": "Big one-off cleans",
+   "img": "1556911220-bff31c812dba",
+   "short": "For the jobs that need extra time and elbow grease.",
+   "long": "For homes that need a bigger effort, the team takes on the hard jobs and leaves everything sparkling at a fair price.",
+   "points": [
+    "Tough jobs welcome",
+    "Thorough top-to-bottom clean",
+    "Fair, upfront pricing"
+   ]
+  }
+ ],
+ "whyHead": "Why Redcliffe locals stick with Petrina",
+ "whyText": "Clients mention their cleaners by name in reviews: Kim, Kristy and Dot. Petrina keeps in contact, sends reminders and checks you're happy after every clean.",
+ "why": [
+  "Great communication from the first call",
+  "Cleaners with a real eye for detail",
+  "Flexible and easy to work with",
+  "Reasonable prices for high-quality work"
+ ],
+ "galleryHead": "Fresh, clean and ready to enjoy",
+ "gallerySub": "The kind of finish our clients come home to.",
+ "reviewsHead": "What clients say",
+ "reviews": [
+  {
+   "text": "Kim my cleaner is reliable, friendly and gives a totally professional clean every time. She makes my unit shine and smell so fresh!"
+  },
+  {
+   "text": "Their communication has been excellent from the start, and they've been so helpful and accommodating when I needed."
+  },
+  {
+   "text": "She quickly organised a cleaner to come weekly for a short period and get me back on my feet again."
+  },
+  {
+   "text": "By the time she'd finished, everything was sparkling and lemon fresh. The price was more than reasonable."
+  },
+  {
+   "text": "Dot is the most incredible cleaner! Her attention to detail is fantastic. She goes above and beyond."
+  },
+  {
+   "text": "Petrina is so reliable, keeping in contact, reminding us of cleaning and seeking feedback."
+  }
+ ],
+ "faq": [
+  [
+   "How do I book?",
+   "Call or text Petrina on 0433 154 325, or send the booking form and she'll get back to you."
+  ],
+  [
+   "Will I get the same cleaner each time?",
+   "For regular cleans, Petrina matches you with a cleaner who comes back each visit."
+  ],
+  [
+   "Can I book a one-off clean?",
+   "Yes. One-off and short-term cleans are welcome as well as regular bookings."
+  ],
+  [
+   "Which areas do you cover?",
+   "Scarborough and the Redcliffe Peninsula. Ask if you're nearby and not sure."
+  ]
+ ],
+ "aboutHead": "Meet Petrina",
+ "aboutSub": "A local cleaning business built on reliability and kindness.",
+ "aboutParas": [
+  "Petrina's Cleaning Services is a small local team based in Scarborough, looking after homes and units across the Redcliffe Peninsula.",
+  "Petrina handles the bookings and keeps in touch with every client, while her cleaners, including Kim, Kristy and Dot, take care of the cleaning.",
+  "Clients say it's the communication that sets the business apart: reminders before each clean, quick replies and a genuine check that you're happy."
+ ],
+ "valuesHead": "What you can count on",
+ "values": [
+  [
+   "Reliability",
+   "Your cleaner turns up when booked, every time."
+  ],
+  [
+   "Communication",
+   "Reminders, quick replies and feedback after cleans."
+  ],
+  [
+   "Attention to detail",
+   "The small things done properly, not rushed."
+  ]
+ ],
+ "contactHead": "Book a clean",
+ "contactSub": "Tell us about your home and how often you'd like a clean. Petrina will be in touch.",
+ "formHead": "Booking request",
+ "formButton": "Send booking request",
+ "formExtra": [
+  [
+   "How often? (weekly, fortnightly, one-off)",
+   "frequency"
+  ]
+ ],
+ "bandText": "Come home to a clean house.",
+ "footerBlurb": "Friendly, reliable home cleaning across the Redcliffe Peninsula.",
+ "hours": [
+  [
+   "Monday – Sunday",
+   "By appointment"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Quicksand:wght@500;600;700&family=Mulish:wght@400;600;700",
+  "headFont": "Quicksand,system-ui,sans-serif",
+  "bodyFont": "Mulish,system-ui,sans-serif",
+  "headWeight": "700",
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "bg": "#FFFFFF",
+  "surface": "#F3F0FF",
+  "ink": "#1E1838",
+  "muted": "#58527A",
+  "brand": "#3D2C8D",
+  "brand2": "#2A1E66",
+  "accent": "#FFB4A2",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#2A1E66",
+  "line": "#E2DCF7",
+  "radius": "22px",
+  "btnRadius": "999px",
+  "h1max": "82px",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#2A1E66",
+  "overlay": "rgba(42,30,102,.88)",
+  "footBg": "#231A55",
+  "footInk": "#D6D0F2",
+  "footHead": "#FFB4A2",
+  "logoBg": "#3D2C8D",
+  "logoFg": "#FFB4A2",
+  "icon": "heart",
+  "logoRadius": 16,
+  "hero": "overlay"
+ }
+}

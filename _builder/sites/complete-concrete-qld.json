@@ -1,0 +1,236 @@
+{
+ "slug": "complete-concrete-qld",
+ "name": "Complete Concrete Qld",
+ "short": "Complete Concrete Qld",
+ "tag": "Concreting, Logan & surrounds",
+ "topline": "Slabs, driveways and exposed aggregate · Mon–Sat",
+ "phone": "0488 977 792",
+ "phoneIntl": "+61488977792",
+ "street": "539/547 Quinzeh Creek Rd",
+ "suburb": "Logan Village",
+ "state": "QLD",
+ "postcode": "4207",
+ "addressLine": "Logan Village QLD 4207",
+ "area": "Logan",
+ "areaShort": "Logan Village and surrounding areas",
+ "areaText": "Based in Logan Village and working across Logan and surrounding areas. Jase comes out to quote in person.",
+ "mapQuery": "Logan Village QLD 4207",
+ "rating": 5.0,
+ "reviewCount": 31,
+ "schemaType": "GeneralContractor",
+ "seoTitle": "Concreter in Logan Village",
+ "metaDesc": "Complete Concrete Qld: house and garage slabs, driveways, exposed aggregate and pool surrounds in Logan. 5.0 stars from 31 Google reviews. Call Jase on 0488 977 792.",
+ "ctaLabel": "Get a quote",
+ "facebook": "https://www.facebook.com/CompleteConcreteQld/",
+ "instagram": "https://www.instagram.com/complete_concrete_qld/",
+ "ownerOrUs": "Jase",
+ "hero": {
+  "title": "Concrete done properly, from the first pour to the last finish.",
+  "lede": "Jase and the Complete Concrete crew pour slabs, driveways, exposed aggregate and pool surrounds across Logan. He turns up to quote, replies to messages, and builds to the engineer's specs.",
+  "trust": [
+   "5.0★ from 31 Google reviews",
+   "Quotes in person",
+   "Engineered slabs"
+  ]
+ },
+ "images": {
+  "hero": "1685464196332-ed9c9da28d9a",
+  "heroAlt": "Concrete being poured on a job site",
+  "about": "1685464196387-854858ce0f4f",
+  "about2": "1673978483810-ad14e573eece",
+  "aboutAlt": "Concreter spreading wet concrete",
+  "gallery": [
+   "1783125127122-086898d94d7a",
+   "1673865641469-34498379d8af",
+   "1771366260867-7e07094579d7",
+   "1685464197644-41d9b07e1e73",
+   "1780541027911-afb903996795",
+   "1673978483122-d6b4b02df1ee"
+  ]
+ },
+ "servicesHead": "Concrete work we do",
+ "servicesSub": "From engineered garage slabs to decorative driveways, every job gets the same care.",
+ "services": [
+  {
+   "id": "slabs",
+   "title": "House, garage & shed slabs",
+   "img": "1685464196332-ed9c9da28d9a",
+   "short": "Engineered slabs checked against the specs and poured spot on.",
+   "long": "Garage, patio, shed and extension slabs built to the engineer's specifications, with measurements checked carefully before every pour.",
+   "points": [
+    "Built to engineering specs",
+    "Garages, patios and extensions",
+    "Careful measuring and setout"
+   ]
+  },
+  {
+   "id": "driveways",
+   "title": "Driveways & exposed aggregate",
+   "img": "1783125127122-086898d94d7a",
+   "short": "New driveways in plain or exposed aggregate finishes.",
+   "long": "New driveways and carports, including exposed aggregate finishes. We can remove the old driveway and garden first, then pour and finish the new one.",
+   "points": [
+    "Exposed aggregate finishes",
+    "Old driveway removal",
+    "Carports and paths"
+   ]
+  },
+  {
+   "id": "pools",
+   "title": "Pool surrounds & paths",
+   "img": "1673865641469-34498379d8af",
+   "short": "Large outdoor areas and pathways, finished to a high standard.",
+   "long": "Pool surrounds, outdoor entertaining areas and pathways, even on big jobs of 100 square metres and more. The crew works in with your other trades on site.",
+   "points": [
+    "Large outdoor areas",
+    "Works in with other trades",
+    "Clean, tidy finish"
+   ]
+  },
+  {
+   "id": "stairs",
+   "title": "Stairs & work pads",
+   "img": "1685464196387-854858ce0f4f",
+   "short": "The tricky jobs other concreters won't quote.",
+   "long": "Concrete stairs, work pads and awkward small jobs that other concreters pass on. Jase will come out and quote them properly.",
+   "points": [
+    "Concrete stairs",
+    "Work pads and plinths",
+    "Repairs during excavation handled"
+   ]
+  }
+ ],
+ "whyHead": "Why Logan homeowners choose Jase",
+ "whyText": "Customers say Jase was often the only concreter who replied, turned up and quoted. He keeps you posted on dates, and his crew is friendly and hard working.",
+ "why": [
+  "Actually turns up to quote",
+  "Keeps you updated on dates",
+  "Handles engineering requirements with ease",
+  "Friendly, hard-working crew"
+ ],
+ "galleryHead": "Recent work",
+ "gallerySub": "Slabs, driveways and outdoor areas around Logan.",
+ "reviewsHead": "What customers say",
+ "reviews": [
+  {
+   "text": "Jason and his team did an amazing job on the two slabs for our garage and patio. Very professional, carefully checking over the engineers' specs."
+  },
+  {
+   "text": "He was one of the very few concreters I contacted who bothered to reply, and the only one to turn up and quote the job."
+  },
+  {
+   "text": "Jase took on my garage extension when others were too busy to quote. The slab had a lot of engineering requirements which he managed with ease."
+  },
+  {
+   "text": "We are over the moon with the quality of the finish. Our exposed aggregate driveway looks fabulous."
+  },
+  {
+   "text": "Well over 100m² of concreting to my pool area and pathways. I cannot rate Jason and his team highly enough."
+  },
+  {
+   "text": "The quote was more than reasonable and the quality of the finished work exceeded my expectations."
+  }
+ ],
+ "faq": [
+  [
+   "Do you come out to quote?",
+   "Yes. Jase quotes jobs in person so he can see the site and get the details right."
+  ],
+  [
+   "Can you remove an old driveway first?",
+   "Yes. Demolition of the old driveway and removal of gardens can be included."
+  ],
+  [
+   "Do you work to engineering plans?",
+   "Yes. Slabs are built to the engineer's specifications and checked before pouring."
+  ],
+  [
+   "What days do you work?",
+   "Monday to Friday 6am–5pm and Saturday 7am–5pm."
+  ]
+ ],
+ "aboutHead": "About Complete Concrete Qld",
+ "aboutSub": "Logan Village concreters who show up and do the job right.",
+ "aboutParas": [
+  "Complete Concrete Qld is run by Jase (Jason), with a crew that pours slabs, driveways and outdoor areas across Logan and surrounds.",
+  "Customers keep mentioning the same things: he replies, he turns up to quote, he keeps them updated on dates, and the finish is excellent.",
+  "From engineered garage slabs to exposed aggregate driveways and big pool surrounds, every job gets the same attention to detail."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Communication",
+   "Replies, quotes and date updates you can rely on."
+  ],
+  [
+   "Precision",
+   "Specs and measurements checked before every pour."
+  ],
+  [
+   "Quality finish",
+   "Work customers are proud to show off."
+  ]
+ ],
+ "contactHead": "Get a concrete quote",
+ "contactSub": "Tell us about your job and Jase will get in touch to arrange a time to quote.",
+ "formHead": "Quote request",
+ "formButton": "Request a quote",
+ "formExtra": [
+  [
+   "Type of job (slab, driveway, pool surround…)",
+   "job"
+  ],
+  [
+   "Approximate size (m²)",
+   "size"
+  ]
+ ],
+ "bandText": "Got a slab or driveway coming up? Let's talk.",
+ "footerBlurb": "Concrete slabs, driveways and outdoor areas across Logan.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "6am – 5pm"
+  ],
+  [
+   "Saturday",
+   "7am – 5pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Anton&family=Work+Sans:wght@400;500;700",
+  "headFont": "Anton,Impact,sans-serif",
+  "bodyFont": "\"Work Sans\",system-ui,sans-serif",
+  "headWeight": "400",
+  "headTrack": ".005em",
+  "headExtra": "text-transform:none;",
+  "bg": "#F4F5F6",
+  "surface": "#E7EAED",
+  "ink": "#16191C",
+  "muted": "#555D66",
+  "brand": "#26292D",
+  "brand2": "#1A1C1F",
+  "accent": "#2F80ED",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "line": "#D3D8DD",
+  "radius": "2px",
+  "btnRadius": "2px",
+  "h1max": "104px",
+  "headerBg": "#26292D",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(16,18,20,.9)",
+  "footBg": "#141618",
+  "footInk": "#B7BEC6",
+  "footHead": "#2F80ED",
+  "logoBg": "#2F80ED",
+  "logoFg": "#FFFFFF",
+  "icon": "layers",
+  "logoRadius": 3,
+  "hero": "overlay"
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "slug": "true-blue-cleaning-kingaroy",
+ "name": "True Blue Cleaning Kingaroy",
+ "short": "True Blue Cleaning",
+ "tag": "Bond & home cleaning, Kingaroy",
+ "topline": "Bond cleans and home cleaning in Kingaroy since 2007",
+ "phone": "0407 730 815",
+ "phoneIntl": "+61407730815",
+ "street": "28 Rosella Parade",
+ "suburb": "Kingaroy",
+ "state": "QLD",
+ "postcode": "4610",
+ "addressLine": "28 Rosella Parade, Kingaroy QLD 4610",
+ "area": "South Burnett",
+ "areaShort": "Kingaroy and the South Burnett",
+ "areaText": "Based in Kingaroy and cleaning across the South Burnett. Early starts available from 5am on weekdays.",
+ "mapQuery": "28 Rosella Parade, Kingaroy QLD 4610",
+ "rating": 5.0,
+ "reviewCount": 2,
+ "schemaType": "HouseCleaningService",
+ "seoTitle": "Bond Cleaning in Kingaroy",
+ "metaDesc": "True Blue Cleaning Kingaroy: bond cleans with no recleans needed, plus home and unit cleaning. Local since 2007. Call Daniel on 0407 730 815.",
+ "ctaLabel": "Book a bond clean",
+ "facebook": "https://www.facebook.com/profile.php?id=100026704497213",
+ "ownerOrUs": "Daniel",
+ "hero": {
+  "title": "Bond cleans that get your bond back.",
+  "lede": "Daniel has been cleaning in Kingaroy since 2007. Bond cleans that pass the real estate inspection, plus home and unit cleans at fair local prices.",
+  "trust": [
+   "Local since 2007",
+   "No recleans needed",
+   "Flexible, early starts"
+  ]
+ },
+ "images": {
+  "hero": "1740657254989-42fe9c3b8cce",
+  "heroAlt": "Cleaner scrubbing a floor in gloves",
+  "about": "1585417238790-f6d290d6490c",
+  "about2": "1630699376443-a79cea41ed80",
+  "aboutAlt": "Gloved hands wiping a white surface",
+  "gallery": [
+   "1630699376443-a79cea41ed80",
+   "1586798271654-0471bb1b0517",
+   "1556912167-f556f1f39fdf",
+   "1723984790027-ffe34efb18f6",
+   "1556909212-d5b604d0c90d",
+   "1718894070114-6de0e98449a2"
+  ]
+ },
+ "servicesHead": "What we clean",
+ "servicesSub": "Straightforward cleaning from a Kingaroy local who's been doing it since 2007.",
+ "services": [
+  {
+   "id": "bond",
+   "title": "Bond cleans",
+   "img": "1740657254989-42fe9c3b8cce",
+   "short": "End-of-lease cleans done to real estate standard.",
+   "long": "Moving out? A True Blue bond clean covers the whole property to the standard property managers check for. Past clients say no recleans were needed.",
+   "points": [
+    "Whole-of-property clean",
+    "Done to inspection standard",
+    "Guaranteed work"
+   ]
+  },
+  {
+   "id": "units",
+   "title": "Unit & home cleans",
+   "img": "1585417238790-f6d290d6490c",
+   "short": "Thorough cleans for units and houses, on your schedule.",
+   "long": "From a one-off unit clean to regular help around the house, Daniel is flexible and works around your timing.",
+   "points": [
+    "Units and houses",
+    "Flexible times",
+    "Early starts available"
+   ]
+  },
+  {
+   "id": "kitchens",
+   "title": "Kitchens & bathrooms",
+   "img": "1630699376443-a79cea41ed80",
+   "short": "The rooms that take the most work, done properly.",
+   "long": "Ovens, benches, showers, toilets and tiles get the extra time they need, so they're ready for inspection or just ready to enjoy.",
+   "points": [
+    "Ovens and benches",
+    "Showers, toilets and tiles",
+    "Detail work included"
+   ]
+  }
+ ],
+ "whyHead": "A local name Kingaroy has trusted since 2007",
+ "whyText": "True Blue Cleaning is run by Daniel, a Kingaroy local. Customers come back for bond clean after bond clean because the work is guaranteed and the price is fair.",
+ "why": [
+  "Bond cleans with no recleans needed",
+  "Cheaper than the big franchises",
+  "Flexible bookings, starting from 5am",
+  "One local operator, start to finish"
+ ],
+ "galleryHead": "Inspection-ready",
+ "gallerySub": "Clean kitchens and bathrooms that property managers sign off.",
+ "reviewsHead": "From Kingaroy customers",
+ "reviewsSub": "5.0 stars on Google",
+ "reviews": [
+  {
+   "text": "I have used True Blue Cleaning multiple times for bond cleans, always so much cheaper and guaranteed work. No complaints or recleans needed by real estate."
+  },
+  {
+   "text": "Daniel was very flexible and did a great clean of my unit. Highly recommend."
+  }
+ ],
+ "faq": [
+  [
+   "Do you guarantee bond cleans?",
+   "Yes. Past customers report no recleans were needed by their real estate."
+  ],
+  [
+   "What hours do you work?",
+   "Monday to Friday, from 5am to 5pm."
+  ],
+  [
+   "Where do you clean?",
+   "Kingaroy and the South Burnett. Ask if you're further out."
+  ],
+  [
+   "How do I get a price?",
+   "Call or text Daniel on 0407 730 815 with the property size, or send the form."
+  ]
+ ],
+ "aboutHead": "About True Blue Cleaning",
+ "aboutSub": "Kingaroy's local cleaner since 2007.",
+ "aboutParas": [
+  "True Blue Cleaning is a local Kingaroy business run by Daniel, cleaning homes, units and rentals since 2007.",
+  "Bond cleans are the specialty: getting a property ready for the final inspection so tenants get their bond back without a reclean.",
+  "Daniel keeps prices fair and works around your moving day, with early starts available on weekdays."
+ ],
+ "valuesHead": "The True Blue way",
+ "values": [
+  [
+   "Guaranteed work",
+   "Done right the first time."
+  ],
+  [
+   "Fair prices",
+   "Local rates, no franchise markup."
+  ],
+  [
+   "Flexibility",
+   "Early starts and moving-day friendly."
+  ]
+ ],
+ "contactHead": "Book a clean",
+ "contactSub": "Tell us about the property and your moving date, and Daniel will get back to you.",
+ "formHead": "Booking request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Moving-out date (for bond cleans)",
+   "date_needed"
+  ],
+  [
+   "Number of bedrooms",
+   "bedrooms"
+  ]
+ ],
+ "bandText": "Moving out? Get your bond clean booked.",
+ "footerBlurb": "Bond cleans and home cleaning in Kingaroy since 2007.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "5am – 5pm"
+  ],
+  [
+   "Saturday & Sunday",
+   "Closed"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Red+Hat+Display:wght@500;700;900&family=Red+Hat+Text:wght@400;500;700",
+  "headFont": "\"Red Hat Display\",system-ui,sans-serif",
+  "bodyFont": "\"Red Hat Text\",system-ui,sans-serif",
+  "headWeight": "900",
+  "headTrack": "-.025em",
+  "headExtra": "",
+  "bg": "#FFFFFF",
+  "surface": "#EEF2FB",
+  "ink": "#0B1533",
+  "muted": "#4A5677",
+  "brand": "#0A2463",
+  "brand2": "#061844",
+  "accent": "#E63946",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "line": "#D8DFF0",
+  "radius": "8px",
+  "btnRadius": "8px",
+  "h1max": "88px",
+  "headerBg": "#0A2463",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(6,24,68,.88)",
+  "footBg": "#061844",
+  "footInk": "#C5CDE6",
+  "footHead": "#FFFFFF",
+  "logoBg": "#FFFFFF",
+  "logoFg": "#0A2463",
+  "icon": "star",
+  "logoRadius": 8,
+  "hero": "split"
+ }
+}

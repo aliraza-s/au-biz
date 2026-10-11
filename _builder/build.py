@@ -21,6 +21,11 @@ ICONS = {
  "spray": '<g fill="currentColor"><path d="M10 12h9v16a2 2 0 0 1-2 2h-5a2 2 0 0 1-2-2z"/><path d="M11 6h8v4h-8z"/><path d="M19 7h4l2 3h-6z"/></g><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M27 5l2-1M28 9h2M27 13l2 1"/></g>',
  "trowel": '<g fill="currentColor"><path d="M4 22 18 8l6 6-14 14H4z"/><path d="M21 7l3-3a2.1 2.1 0 0 1 3 3l-3 3z"/></g>',
  "house": '<path fill="currentColor" d="M16 3 2 15h4v13h8v-8h4v8h8V15h4z"/>',
+ "heart": '<path fill="currentColor" d="M16 27s-11-6.6-11-14a6 6 0 0 1 11-3.3A6 6 0 0 1 27 13c0 7.4-11 14-11 14z"/>',
+ "mop": '<g fill="currentColor"><path d="M19.5 2.5a1.5 1.5 0 0 1 2.6 1.4L15.6 17h-2.9z"/><path d="M8 18h12l2.5 10h-17z"/></g>',
+ "star": '<path fill="currentColor" d="M16 3l3.9 8 8.8 1.2-6.4 6.1 1.6 8.7L16 22.8 8.1 27l1.6-8.7-6.4-6.1 8.8-1.2z"/>',
+ "layers": '<g fill="currentColor"><path d="M16 3 29 10 16 17 3 10z"/><path d="M5.6 14.4 16 20l10.4-5.6L29 16 16 23 3 16z" opacity=".78"/><path d="M5.6 20.4 16 26l10.4-5.6L29 22 16 29 3 22z" opacity=".55"/></g>',
+ "grid": '<g fill="currentColor"><rect x="3" y="3" width="12" height="12" rx="2"/><rect x="17" y="3" width="12" height="12" rx="2"/><rect x="3" y="17" width="12" height="12" rx="2"/><rect x="17" y="17" width="12" height="12" rx="2"/></g>',
  "bone": '<path fill="currentColor" d="M9 10a3.5 3.5 0 1 1 4.5-3.3L20 13.2a3.5 3.5 0 1 1 3.3 4.5 3.5 3.5 0 1 1-4.5 3.3L12.3 14.5A3.5 3.5 0 1 1 9 10z"/>',
 }
 

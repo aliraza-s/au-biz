@@ -1,0 +1,217 @@
+{
+ "slug": "joyofrocky-cleaning",
+ "name": "JoyOfRocky Cleaning Services",
+ "short": "JoyOfRocky Cleaning",
+ "tag": "Home & office cleaning, Rockhampton",
+ "topline": "Homes and offices across Rockhampton · Mon–Fri",
+ "phone": "0458 366 896",
+ "phoneIntl": "+61458366896",
+ "street": "319 Balaclava St",
+ "suburb": "Frenchville",
+ "state": "QLD",
+ "postcode": "4701",
+ "addressLine": "319 Balaclava St, Frenchville QLD 4701",
+ "area": "Rockhampton",
+ "areaShort": "Rockhampton and surrounds",
+ "areaText": "Based in Frenchville and cleaning homes and offices around Rockhampton. Ask about Yeppoon and Gracemere.",
+ "mapQuery": "319 Balaclava St, Frenchville QLD 4701",
+ "rating": 4.6,
+ "reviewCount": 10,
+ "schemaType": "HouseCleaningService",
+ "seoTitle": "Home & Office Cleaning in Rockhampton",
+ "metaDesc": "JoyOfRocky Cleaning Services: reliable, friendly home and office cleaning in Rockhampton. Call 0458 366 896 for a quote.",
+ "ctaLabel": "Get a quote",
+ "facebook": "https://www.facebook.com/JoyOfRockycleaningservices/",
+ "ownerOrUs": "Joy",
+ "hero": {
+  "title": "Bringing joy back to a clean home.",
+  "titleHtml": "Bringing <em style=\"font-style:normal;color:var(--accent)\">joy</em> back to a clean home.",
+  "lede": "Joy and her husband run a friendly, reliable cleaning service for homes and offices across Rockhampton. Thorough every time, with the little extras done too.",
+  "trust": [
+   "Homes and offices",
+   "Punctual and reliable",
+   "Family-run in Rocky"
+  ]
+ },
+ "images": {
+  "hero": "1686178827149-6d55c72d81df",
+  "heroAlt": "Cleaner vacuuming a grey ottoman",
+  "about": "1627905646269-7f034dcc5738",
+  "about2": "1556910096-6f5e72db6803",
+  "aboutAlt": "Wiping down an office desk",
+  "gallery": [
+   "1556910096-6f5e72db6803",
+   "1587527901949-ab0341697c1e",
+   "1649083048391-1c9e82472f65",
+   "1758448018619-4cbe2250b9ad",
+   "1556185781-a47769abb7ee",
+   "1567767326925-e2047bf469d0"
+  ]
+ },
+ "servicesHead": "Cleaning for home and work",
+ "servicesSub": "One team you can trust with both your house and your office.",
+ "services": [
+  {
+   "id": "home",
+   "title": "Home cleaning",
+   "img": "1686178827149-6d55c72d81df",
+   "short": "Regular cleans that leave your home spotless and smelling fresh.",
+   "long": "Regular home cleans covering kitchens, bathrooms, floors and living areas, plus the extra things you didn't think to ask for.",
+   "points": [
+    "Weekly or fortnightly",
+    "Kitchens, bathrooms and floors",
+    "The little extras noticed"
+   ]
+  },
+  {
+   "id": "office",
+   "title": "Office cleaning",
+   "img": "1627905646269-7f034dcc5738",
+   "short": "Punctual, reliable cleaning for your workplace.",
+   "long": "Keep your office fresh for staff and visitors. The same reliable team that cleans homes can look after your workplace too.",
+   "points": [
+    "Desks, kitchens and bathrooms",
+    "Reliable regular schedule",
+    "Easy to communicate with"
+   ]
+  },
+  {
+   "id": "oneoff",
+   "title": "One-off cleans",
+   "img": "1556910096-6f5e72db6803",
+   "short": "A thorough top-to-bottom clean whenever you need it.",
+   "long": "Getting ready for guests or just need a reset? Book a one-off clean and come home to a beautiful, thorough result.",
+   "points": [
+    "Top-to-bottom clean",
+    "Book when it suits you",
+    "Affordable pricing"
+   ]
+  }
+ ],
+ "whyHead": "A breath of fresh air for your home",
+ "whyText": "Clients describe the team as punctual, reliable and friendly, with real pride in their work. Some have been with JoyOfRocky for over a year.",
+ "why": [
+  "Family-run by Joy and her husband",
+  "Always punctual and reliable",
+  "Thinks of the extra things",
+  "Home and office in one service"
+ ],
+ "galleryHead": "Fresh rooms, every visit",
+ "gallerySub": "Clean kitchens, sparkling bathrooms and tidy spaces.",
+ "reviewsHead": "What Rockhampton clients say",
+ "reviews": [
+  {
+   "text": "We absolutely love having Joy and her husband clean our home! Everything is spotless, smells fresh, and they go above and beyond every time."
+  },
+  {
+   "text": "They always do a beautiful, thorough job and leave my home feeling so fresh every time. Professional, reliable and super easy to communicate with."
+  },
+  {
+   "text": "They clean both our work office and our home. They are always punctual, reliable and friendly. I could not fault them!"
+  },
+  {
+   "text": "We have had them for over a year now, and we absolutely love the team! I love that they think of all the extra things."
+  },
+  {
+   "text": "Satisfied client, very worth it and affordable."
+  }
+ ],
+ "faq": [
+  [
+   "Do you clean offices as well as homes?",
+   "Yes. Many clients have JoyOfRocky clean both their home and their workplace."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Wednesday 8am–5pm, Thursday and Friday 8am–4pm."
+  ],
+  [
+   "Which areas do you cover?",
+   "Rockhampton and nearby. Ask about Yeppoon and Gracemere."
+  ],
+  [
+   "How do I get a quote?",
+   "Call or text 0458 366 896, or send the form and we'll get back to you."
+  ]
+ ],
+ "aboutHead": "About JoyOfRocky",
+ "aboutSub": "A husband-and-wife cleaning team based in Frenchville.",
+ "aboutParas": [
+  "JoyOfRocky Cleaning Services is run by Joy and her husband, who take real pride in leaving every home and office spotless.",
+  "They look after houses and workplaces across Rockhampton, and clients say they always arrive on time and think of the extra things.",
+  "It's a local, family-run business, so you always know who's coming through your door."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Pride in the job",
+   "Every clean done properly, not rushed."
+  ],
+  [
+   "Reliability",
+   "On time, every time, week after week."
+  ],
+  [
+   "Friendly service",
+   "Easy to talk to and quick to reply."
+  ]
+ ],
+ "contactHead": "Get a cleaning quote",
+ "contactSub": "Tell us about your home or office and we'll come back to you with a quote.",
+ "formHead": "Quote request",
+ "formButton": "Request a quote",
+ "formExtra": [
+  [
+   "Home or office?",
+   "place"
+  ]
+ ],
+ "bandText": "Let JoyOfRocky take the cleaning off your list.",
+ "footerBlurb": "Family-run home and office cleaning in Rockhampton.",
+ "hours": [
+  [
+   "Mon – Wed",
+   "8am – 5pm"
+  ],
+  [
+   "Thu – Fri",
+   "8am – 4pm"
+  ],
+  [
+   "Sat & Sun",
+   "Closed"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Lexend:wght@400;600;700;800",
+  "headFont": "Lexend,system-ui,sans-serif",
+  "bodyFont": "Lexend,system-ui,sans-serif",
+  "headWeight": "800",
+  "headTrack": "-.03em",
+  "headExtra": "",
+  "bg": "#FFFFFF",
+  "surface": "#EEF8F3",
+  "ink": "#10261D",
+  "muted": "#4B6358",
+  "brand": "#0B6E4F",
+  "brand2": "#E6F5EE",
+  "accent": "#FFD23F",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#10261D",
+  "line": "#D3E9DE",
+  "radius": "18px",
+  "btnRadius": "14px",
+  "h1max": "86px",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#0B4A36",
+  "overlay": "rgba(8,74,54,.86)",
+  "footBg": "#08402F",
+  "footInk": "#C6E4D7",
+  "footHead": "#FFD23F",
+  "logoBg": "#FFD23F",
+  "logoFg": "#0B6E4F",
+  "icon": "mop",
+  "logoRadius": 10,
+  "hero": "arch"
+ }
+}

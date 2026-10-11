@@ -1,0 +1,211 @@
+{
+ "slug": "aaa-concrete-bundaberg",
+ "name": "AAA Concrete Services",
+ "short": "AAA Concrete Services",
+ "tag": "Concreting, Bundaberg",
+ "topline": "Driveways, slabs and resurfacing · Mon–Sat 6am–6pm",
+ "phone": "0432 526 282",
+ "phoneIntl": "+61432526282",
+ "street": "7A Lorikeet St",
+ "suburb": "Gooburrum",
+ "state": "QLD",
+ "postcode": "4670",
+ "addressLine": "Gooburrum, Bundaberg QLD 4670",
+ "area": "Bundaberg",
+ "areaShort": "Bundaberg and surrounds",
+ "areaText": "Based in Gooburrum and pouring concrete across Bundaberg and the surrounding area.",
+ "mapQuery": "7A Lorikeet St, Gooburrum QLD 4670",
+ "rating": 5.0,
+ "reviewCount": 20,
+ "schemaType": "GeneralContractor",
+ "seoTitle": "Concreter in Bundaberg",
+ "metaDesc": "AAA Concrete Services: driveways, spa and shed slabs and concrete resurfacing in Bundaberg. 5.0 stars from 20 Google reviews. Call Shem on 0432 526 282.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "Shem",
+ "hero": {
+  "title": "Bundaberg concrete, done right and done on time.",
+  "lede": "Shem and the AAA team pour driveways, spa and shed slabs and resurface tired concrete across Bundaberg. Great communication, quality work and quick turnaround.",
+  "trust": [
+   "5.0★ from 20 Google reviews",
+   "Quick turnaround",
+   "Open 6 days"
+  ]
+ },
+ "images": {
+  "hero": "1574757987642-5755f0839101",
+  "heroAlt": "Concreter levelling freshly poured concrete",
+  "about": "1673978483810-ad14e573eece",
+  "about2": "1635249578213-68b0aa67fdf7",
+  "aboutAlt": "Concreter standing on a finished slab",
+  "gallery": [
+   "1783278092758-3d9713960a85",
+   "1685464197144-790d716b8649",
+   "1759355787121-eaef014a501d",
+   "1553946550-4b8f3eea5451",
+   "1788438293104-b7a2750c23ec",
+   "1630683924997-fe27050a0416"
+  ]
+ },
+ "servicesHead": "Our concrete services",
+ "servicesSub": "Small slabs to full driveways, poured by a local Bundaberg team.",
+ "services": [
+  {
+   "id": "driveways",
+   "title": "Driveways",
+   "img": "1783278092758-3d9713960a85",
+   "short": "New driveways with great pricing and quick turnaround.",
+   "long": "New concrete driveways poured and finished by Shem's team, with clear pricing and a quick turnaround from quote to completion.",
+   "points": [
+    "New driveways",
+    "Clear, fair pricing",
+    "Quick turnaround"
+   ]
+  },
+  {
+   "id": "resurfacing",
+   "title": "Driveway resurfacing",
+   "img": "1600456899121-68eda5705257",
+   "short": "Give tired, worn concrete a fresh new surface.",
+   "long": "Old, stained or worn concrete can be resurfaced to look new again, without the cost of ripping it out.",
+   "points": [
+    "Fresh surface on old concrete",
+    "Less cost than replacing",
+    "Neat, professional finish"
+   ]
+  },
+  {
+   "id": "slabs",
+   "title": "Spa, shed & garden slabs",
+   "img": "1685464197144-790d716b8649",
+   "short": "Solid bases for spas, sheds and outdoor areas.",
+   "long": "Slabs for spas, garden sheds and outdoor areas, built level and solid and finished quicker than most customers expect.",
+   "points": [
+    "Spa slabs",
+    "Shed and garden slabs",
+    "Level, solid bases"
+   ]
+  }
+ ],
+ "whyHead": "Why Bundaberg locals call Shem",
+ "whyText": "Customers describe Shem as professional, reliable and an all-round great bloke, with a team that's lovely to deal with and work that's exceptional.",
+ "why": [
+  "Great communication from quote to finish",
+  "Exceptional quality work",
+  "Jobs finished quicker than expected",
+  "Friendly, experienced team"
+ ],
+ "galleryHead": "Around Bundaberg",
+ "gallerySub": "Driveways, slabs and resurfacing jobs.",
+ "reviewsHead": "What customers say",
+ "reviews": [
+  {
+   "text": "I can see why Shem has 5 stars... what a professional, reliable and all-round great bloke! Did a great job on our spa slab."
+  },
+  {
+   "text": "Excellent job of our driveway. Great service, pricing and turnaround time. Highly recommend."
+  },
+  {
+   "text": "Shem and his team put down a slab for our garden shed. The quality is exceptional and it was done much quicker than we expected."
+  },
+  {
+   "text": "Great communication, quality work! Thanks Shem and the team."
+  },
+  {
+   "text": "Excellent work resurfacing our driveway with concrete. Very professional, experienced, great team."
+  }
+ ],
+ "faq": [
+  [
+   "Do you work around Bundaberg?",
+   "Yes. We're based in Gooburrum and work across Bundaberg and surrounds."
+  ],
+  [
+   "What days do you work?",
+   "Monday to Saturday, 6am to 6pm."
+  ],
+  [
+   "Can you resurface an old driveway?",
+   "Yes. Resurfacing can make worn concrete look new without replacing it."
+  ],
+  [
+   "How do I get a quote?",
+   "Call Shem on 0432 526 282 or send the quote form."
+  ]
+ ],
+ "aboutHead": "About AAA Concrete Services",
+ "aboutSub": "A local Bundaberg concreting team led by Shem.",
+ "aboutParas": [
+  "AAA Concrete Services is a Bundaberg concreting business run by Shem, based in Gooburrum.",
+  "The team pours driveways and slabs, and resurfaces older concrete, with a reputation for great communication and quick turnaround.",
+  "Every review mentions the same thing: quality work from a team that's easy to deal with."
+ ],
+ "valuesHead": "What you get",
+ "values": [
+  [
+   "Quality",
+   "Exceptional finish on every slab."
+  ],
+  [
+   "Speed",
+   "Jobs often done quicker than expected."
+  ],
+  [
+   "Service",
+   "Great communication from start to finish."
+  ]
+ ],
+ "contactHead": "Get a concrete quote",
+ "contactSub": "Tell us about your job and Shem will get back to you.",
+ "formHead": "Quote request",
+ "formButton": "Request a quote",
+ "formExtra": [
+  [
+   "Type of job (driveway, slab, resurfacing…)",
+   "job"
+  ]
+ ],
+ "bandText": "Need a driveway or slab in Bundaberg?",
+ "footerBlurb": "Driveways, slabs and resurfacing across Bundaberg.",
+ "hours": [
+  [
+   "Monday – Saturday",
+   "6am – 6pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "theme": {
+  "fontsQuery": "family=Archivo+Black&family=Archivo:wght@400;500;700",
+  "headFont": "\"Archivo Black\",system-ui,sans-serif",
+  "bodyFont": "Archivo,system-ui,sans-serif",
+  "headWeight": "400",
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "bg": "#FFFFFF",
+  "surface": "#F6EFE6",
+  "ink": "#221714",
+  "muted": "#5E4E48",
+  "brand": "#7A1F1F",
+  "brand2": "#5A1515",
+  "accent": "#F4C95D",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#3A0E0E",
+  "line": "#EADFD3",
+  "radius": "10px",
+  "btnRadius": "6px",
+  "h1max": "84px",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#5A1515",
+  "overlay": "rgba(58,14,14,.88)",
+  "footBg": "#3A0E0E",
+  "footInk": "#E8CFC6",
+  "footHead": "#F4C95D",
+  "logoBg": "#7A1F1F",
+  "logoFg": "#F4C95D",
+  "icon": "grid",
+  "logoRadius": 8,
+  "hero": "center"
+ }
+}
