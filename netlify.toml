@@ -1,13 +1,5 @@
+# Hosting moved to GitHub Pages. This line tells Netlify to skip every build,
+# so no deploy credits are used.
 [build]
   publish = "."
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Robots-Tag = "noindex, nofollow"
-
-[[redirects]]
-  from = "/_builder/*"
-  to = "/404.html"
-  status = 404
-  force = true
+  ignore = "exit 0"

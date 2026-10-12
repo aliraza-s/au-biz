@@ -397,8 +397,7 @@ def page_contact(s):
     return (head(s, f'Contact | {s["name"]}', f'Contact {s["name"]}: call {s["phone"]} or send a booking request.') + nav(s,"contact.html") + "<main>" +
             pagehead(s, s["contactHead"], s["contactSub"], "Contact") +
             f"""<section><div class="wrap contact-grid">
-<form class="book" name="{fname}" method="POST" data-netlify="true" netlify-honeypot="company" action="thanks.html">
- <input type="hidden" name="form-name" value="{fname}"><p class="hide"><label>Leave empty<input name="company"></label></p>
+<form class="book" name="{fname}" data-sms="{s['phoneIntl']}" data-biz="{E(s['short'])}" onsubmit="return sendReq(this)">
  <h2 style="font-size:30px">{E(s['formHead'])}</h2>
  <div class="two"><label>Your name<input name="name" required autocomplete="name"></label><label>Phone<input name="phone" type="tel" required autocomplete="tel"></label></div>
  <div class="two"><label>Email<input name="email" type="email" autocomplete="email"></label><label>Suburb<input name="suburb" autocomplete="address-level2"></label></div>
@@ -406,7 +405,15 @@ def page_contact(s):
  <label>What do you need?<select name="service">{opts}</select></label>
  <label>Anything we should know?<textarea name="message" rows="4"></textarea></label>
  <button type="submit">{E(s['formButton'])}</button>
+ <p class="note-sms" style="font-size:14px;color:var(--muted)">Your messages app will open with your request ready to send. Prefer to talk? Call {E(s['phone'])}.</p>
 </form>
+<script>
+function sendReq(f){{var d=new FormData(f),t=[];
+t.push("Hi "+f.dataset.biz+", booking request:");
+d.forEach(function(v,k){{if(v)t.push(k.charAt(0).toUpperCase()+k.slice(1).replace(/_/g," ")+": "+v);}});
+var body=encodeURIComponent(t.join(String.fromCharCode(10)));var sep=/iPhone|iPad|Mac/i.test(navigator.userAgent)?"&":"?";
+window.location.href="sms:"+f.dataset.sms+sep+"body="+body;return false;}}
+</script>
 <div class="contact-card">
  <a class="line" href="tel:{s['phoneIntl']}"><span class="ic">{SVG_PHONE}</span><span><b>{E(s['phone'])}</b><small>Call or text any time during business hours</small></span></a>
  {book}

@@ -2,7 +2,7 @@
 
 Goal: build 5 new preview websites per day for leads in the Google Sheet
 "AU Leads – Master Tracker" (Drive file id 1w7IjqXy6khEPR9OfoEJ9K0KNIl8HWfrwwzecnLM7nrI, tab "Leads"),
-push them to this repo (aliraza-s/au-biz, branch main; Netlify auto-deploys to https://aubiz.netlify.app/<slug>/),
+push them to this repo (aliraza-s/au-biz, branch main; GitHub Pages publishes to https://aliraza-s.github.io/au-biz/<slug>/),
 and record them in the sheet.
 
 1. Read the sheet (Drive read_file_content). Pick 5 rows where Status = "New" and Preview folder is empty.
