@@ -32,6 +32,11 @@ ICONS = {
  "blocks": '<g fill="currentColor"><rect x="2" y="5" width="13" height="6" rx="1"/><rect x="17" y="5" width="13" height="6" rx="1"/><rect x="2" y="13" width="6" height="6" rx="1"/><rect x="10" y="13" width="12" height="6" rx="1"/><rect x="24" y="13" width="6" height="6" rx="1"/><rect x="2" y="21" width="13" height="6" rx="1"/><rect x="17" y="21" width="13" height="6" rx="1"/></g>',
  "bear": '<g fill="currentColor"><circle cx="8" cy="9" r="4.2"/><circle cx="24" cy="9" r="4.2"/><ellipse cx="16" cy="18" rx="11.5" ry="10.5"/></g><g fill="var(--logo-ink)"><circle cx="11.5" cy="16" r="1.6"/><circle cx="20.5" cy="16" r="1.6"/><ellipse cx="16" cy="22" rx="3" ry="2.2"/></g>',
  "loader": '<g fill="currentColor"><path d="M9 6h9l3 8h3v9H6V12l3-1z"/><path d="M24 15l4 1 2 7h-4z"/><circle cx="10" cy="25.5" r="3.5"/><circle cx="21" cy="25.5" r="3.5"/></g><path d="M11 8.5h5.5l2 5.5H11z" fill="var(--logo-ink)"/>',
+ "wrench": '<path fill="currentColor" d="M27.6 8.2a7 7 0 0 1-9.3 8.6L8 27.1a2.8 2.8 0 0 1-4-4l10.3-10.3a7 7 0 0 1 8.6-9.3l-4.4 4.4 1 3.6 3.6 1z"/>',
+ "gear": '<path fill="currentColor" fill-rule="evenodd" d="M13.6 2h4.8l.7 3.6 2.6 1.1 3-2.1 3.4 3.4-2.1 3 1.1 2.6 3.6.7v4.8l-3.6.7-1.1 2.6 2.1 3-3.4 3.4-3-2.1-2.6 1.1-.7 3.6h-4.8l-.7-3.6-2.6-1.1-3 2.1-3.4-3.4 2.1-3-1.1-2.6L2 18.4v-4.8l3.6-.7 1.1-2.6-2.1-3 3.4-3.4 3 2.1 2.6-1.1zM16 11a5 5 0 1 0 0 10 5 5 0 0 0 0-10z"/>',
+ "tyre": '<g fill="none" stroke="currentColor"><circle cx="16" cy="16" r="12" stroke-width="5"/><circle cx="16" cy="16" r="3.2" stroke-width="2.4"/><path d="M16 7.5v5M16 19.5v5M7.5 16h5M19.5 16h5" stroke-width="2.4"/></g>',
+ "car": '<g fill="currentColor"><path d="M8 8h16l4 8h2v8h-4v-2H6v2H2v-8h2z"/><circle cx="9" cy="24" r="3.4"/><circle cx="23" cy="24" r="3.4"/></g><path d="M10 10.5h12l2.6 5.5H7.4z" fill="var(--logo-ink)"/>',
+ "tow": '<g fill="currentColor"><path d="M2 12h11v12H2z"/><path d="M13 16h5l9-10 2 1.5-8 10.5v6H13z"/><circle cx="7" cy="25.5" r="3.4"/><circle cx="21" cy="25.5" r="3.4"/></g><path d="M4 14.5h7v4H4z" fill="var(--logo-ink)"/><path d="M28 7v6l-2 2" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>',
 }
 
 def logo_svg(s, size=44):

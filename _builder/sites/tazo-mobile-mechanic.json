@@ -1,0 +1,218 @@
+{
+ "street": "",
+ "ctaLabel": "Book a mechanic",
+ "ownerOrUs": "us",
+ "schemaType": "AutoRepair",
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Booking request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Vehicle (make, model, year)",
+   "vehicle"
+  ],
+  [
+   "What's it doing?",
+   "issue"
+  ]
+ ],
+ "slug": "tazo-mobile-mechanic",
+ "name": "TAZO Mobile Mechanic",
+ "short": "TAZO",
+ "tag": "Mobile mechanic, Wellard & Kwinana",
+ "topline": "Mobile mechanic · Wellard, Kwinana WA",
+ "phone": "0477 269 914",
+ "phoneIntl": "+61477269914",
+ "suburb": "Wellard",
+ "state": "WA",
+ "postcode": "6170",
+ "addressLine": "Wellard WA 6170",
+ "area": "Kwinana",
+ "areaShort": "Mobile around Wellard & Kwinana",
+ "areaText": "TAZO is a mobile mechanic based in Wellard, in the City of Kwinana. Call 0477 269 914 to book or to check we can get to you.",
+ "mapQuery": "Wellard WA 6170",
+ "seoTitle": "Mobile Mechanic in Wellard & Kwinana",
+ "metaDesc": "TAZO Mobile Mechanic: mobile servicing, repairs and fault finding at your home or work around Wellard and Kwinana WA. Call 0477 269 914.",
+ "badge": [
+  "Mobile",
+  "We come to you"
+ ],
+ "hero": {
+  "title": "The mechanic comes to you.",
+  "titleHtml": "The mechanic<br>comes to you.",
+  "lede": "TAZO Mobile Mechanic does servicing, repairs and fault finding at your driveway or workplace around Wellard and Kwinana.",
+  "trust": [
+   "Mobile service",
+   "Based in Wellard",
+   "Call or text to book"
+  ]
+ },
+ "images": {
+  "hero": "1625047509248-ec889cbff17f",
+  "heroAlt": "Mechanic working in a car's engine bay",
+  "about": "1619642751034-765dfdf7c58e",
+  "about2": "1487754180451-c456f719a1fc",
+  "aboutAlt": "Mechanic working under a bonnet",
+  "gallery": [
+   "1615906655593-ad0386982a0f",
+   "1643700973089-baa86a1ab9ee",
+   "1486262715619-67b85e0b08d3",
+   "1637640125496-31852f042a60",
+   "1727893304219-063d142ce6f3",
+   "1663642775693-6628f65358be"
+  ]
+ },
+ "servicesHead": "What TAZO can do",
+ "servicesSub": "Mobile mechanical work around Wellard and Kwinana.",
+ "services": [
+  {
+   "id": "servicing",
+   "title": "Servicing at your place",
+   "img": "1663642775693-6628f65358be",
+   "short": "Routine servicing done where the car is parked.",
+   "long": "We come to your home or workplace to carry out general servicing and maintenance, so you don't lose a day dropping the car off.",
+   "points": [
+    "Comes to your home or work",
+    "General maintenance",
+    "No tow to a workshop"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Mechanical repairs",
+   "img": "1606577924006-27d39b132ae2",
+   "short": "Fixing the problem on the spot where we can.",
+   "long": "Mechanical repairs carried out on site wherever the job allows. Tell us the make, model and what it's doing and we'll talk you through it.",
+   "points": [
+    "Repairs on site",
+    "Describe the problem over the phone",
+    "Straight answers"
+   ]
+  },
+  {
+   "id": "diagnostics",
+   "title": "Fault finding",
+   "img": "1643701079732-3b1c7a797e3d",
+   "short": "Warning lights, noises and won't-starts.",
+   "long": "If it won't start, has a warning light on or is making a noise, we'll track down what's going on before anything gets replaced.",
+   "points": [
+    "Warning lights",
+    "Won't-start problems",
+    "Noises and leaks"
+   ]
+  },
+  {
+   "id": "callout",
+   "title": "Mobile call-outs",
+   "img": "1504222490345-c075b6008014",
+   "short": "Can't get the car to us? We get to you.",
+   "long": "Give us a ring with where you are and what's happened, and we'll let you know how quickly we can get there.",
+   "points": [
+    "Call to book",
+    "Home or workplace",
+    "Local area"
+   ]
+  }
+ ],
+ "whyHead": "Why go mobile?",
+ "whyText": "No dropping the car off, no lifts to the workshop. TAZO brings the tools to wherever the car is.",
+ "why": [
+  "Work done at your home or workplace",
+  "Based locally in Wellard",
+  "Talk to the mechanic directly",
+  "Easy booking by phone"
+ ],
+ "galleryHead": "On the job",
+ "gallerySub": "Servicing and repairs on the go.",
+ "faq": [
+  [
+   "Do you come to me?",
+   "Yes. TAZO is a mobile mechanic, so the work is done where your car is."
+  ],
+  [
+   "What area do you cover?",
+   "We're based in Wellard. Call 0477 269 914 and we'll confirm we can get to you."
+  ],
+  [
+   "How do I book?",
+   "Call 0477 269 914 or send a request through this site."
+  ],
+  [
+   "What should I tell you when I call?",
+   "The make, model and year of the car, and what it's doing."
+  ]
+ ],
+ "aboutHead": "About TAZO Mobile Mechanic",
+ "aboutSub": "A local mobile mechanic in Wellard.",
+ "aboutParas": [
+  "TAZO Mobile Mechanic is a mobile mechanic based in Wellard, in Perth's south in the City of Kwinana.",
+  "Instead of you bringing the car to a workshop, we bring the tools to you, at home or at work.",
+  "Give us a call with what the car is doing and we'll take it from there."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Mobile",
+   "We come to wherever the car is."
+  ],
+  [
+   "Direct",
+   "You deal with the mechanic doing the job."
+  ],
+  [
+   "Local",
+   "Based in Wellard."
+  ]
+ ],
+ "contactHead": "Book TAZO",
+ "contactSub": "Tell us about the car and where it is, and we'll get back to you.",
+ "bandText": "Car playing up? Get the mechanic to come to you.",
+ "footerBlurb": "Mobile mechanic in Wellard and Kwinana WA.",
+ "hours": [
+  [
+   "Phone",
+   "0477 269 914"
+  ],
+  [
+   "Based in",
+   "Wellard WA"
+  ],
+  [
+   "Service",
+   "Mobile"
+  ]
+ ],
+ "theme": {
+  "radius": "8px",
+  "btnRadius": "6px",
+  "h1max": "96px",
+  "logoRadius": 8,
+  "headTrack": "0",
+  "headExtra": "text-transform:uppercase;",
+  "onBrand": "#FFFFFF",
+  "fontsQuery": "family=Rajdhani:wght@600;700&family=Nunito+Sans:wght@400;600;700",
+  "headFont": "Rajdhani,system-ui,sans-serif",
+  "bodyFont": "\"Nunito Sans\",system-ui,sans-serif",
+  "headWeight": "700",
+  "bg": "#FFFFFF",
+  "surface": "#EEF4F5",
+  "ink": "#10242B",
+  "muted": "#4D6168",
+  "brand": "#0F4C5C",
+  "brand2": "#0A3540",
+  "accent": "#F28C28",
+  "onAccent": "#10242B",
+  "line": "#D6E3E6",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#10242B",
+  "overlay": "rgba(10,53,64,.9)",
+  "footBg": "#0A3540",
+  "footInk": "#C4D6DA",
+  "footHead": "#F28C28",
+  "logoBg": "#0F4C5C",
+  "logoFg": "#F28C28",
+  "icon": "wrench",
+  "hero": "split"
+ }
+}

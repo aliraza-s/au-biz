@@ -1,0 +1,218 @@
+{
+ "street": "11 Eaton Place",
+ "ctaLabel": "Book your car in",
+ "ownerOrUs": "us",
+ "schemaType": "AutoRepair",
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Booking request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Vehicle (make, model, year)",
+   "vehicle"
+  ],
+  [
+   "What's it doing?",
+   "issue"
+  ]
+ ],
+ "slug": "dj-mechanic-geraldton",
+ "name": "D & J Mechanic",
+ "short": "D & J Mechanic",
+ "tag": "Mechanic, Wonthella",
+ "topline": "11 Eaton Place, Wonthella · Geraldton WA",
+ "phone": "(08) 9921 2000",
+ "phoneIntl": "+61899212000",
+ "suburb": "Wonthella",
+ "state": "WA",
+ "postcode": "6530",
+ "addressLine": "11 Eaton Place, Wonthella WA 6530",
+ "area": "Geraldton",
+ "areaShort": "Eaton Place, Wonthella",
+ "areaText": "D & J Mechanic is at 11 Eaton Place, Wonthella, in Geraldton. Call (08) 9921 2000 to book your car in.",
+ "mapQuery": "11 Eaton Place, Wonthella WA 6530",
+ "seoTitle": "Mechanic in Wonthella, Geraldton",
+ "metaDesc": "D & J Mechanic: car servicing and mechanical repairs at 11 Eaton Place, Wonthella, Geraldton WA. Call (08) 9921 2000.",
+ "badge": [
+  "Wonthella",
+  "Geraldton mechanic"
+ ],
+ "hero": {
+  "title": "Honest mechanical work in Wonthella.",
+  "titleHtml": "Servicing &amp; repairs.<br>D &amp; J Mechanic.",
+  "lede": "A local Geraldton workshop on Eaton Place, Wonthella, for car servicing, repairs and fault finding.",
+  "trust": [
+   "Eaton Place workshop",
+   "Geraldton local",
+   "Call to book"
+  ]
+ },
+ "images": {
+  "hero": "1619642751034-765dfdf7c58e",
+  "heroAlt": "Mechanic working under a bonnet",
+  "about": "1487754180451-c456f719a1fc",
+  "about2": "1615906655593-ad0386982a0f",
+  "aboutAlt": "Mechanic working on a car",
+  "gallery": [
+   "1643700973089-baa86a1ab9ee",
+   "1486262715619-67b85e0b08d3",
+   "1637640125496-31852f042a60",
+   "1727893304219-063d142ce6f3",
+   "1663642775693-6628f65358be",
+   "1606577924006-27d39b132ae2"
+  ]
+ },
+ "servicesHead": "Workshop services",
+ "servicesSub": "Servicing and mechanical repairs in Wonthella.",
+ "services": [
+  {
+   "id": "servicing",
+   "title": "Car servicing",
+   "img": "1606577924006-27d39b132ae2",
+   "short": "General servicing and maintenance.",
+   "long": "Book your car in for general servicing and maintenance at our Eaton Place workshop.",
+   "points": [
+    "General servicing",
+    "Maintenance",
+    "Book by phone"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Mechanical repairs",
+   "img": "1643701079732-3b1c7a797e3d",
+   "short": "Getting your car running right.",
+   "long": "Mechanical repairs for everyday cars. Call with the make, model and what it's doing.",
+   "points": [
+    "Mechanical repairs",
+    "Explained before we start",
+    "Workshop based"
+   ]
+  },
+  {
+   "id": "diagnostics",
+   "title": "Fault finding",
+   "img": "1504222490345-c075b6008014",
+   "short": "Lights on the dash? Strange noise?",
+   "long": "Bring it in and we'll track down what's causing the problem.",
+   "points": [
+    "Warning lights",
+    "Noises",
+    "Running problems"
+   ]
+  },
+  {
+   "id": "dropoff",
+   "title": "Drop-off",
+   "img": "1625047509248-ec889cbff17f",
+   "short": "Leave it with us.",
+   "long": "Drop the car at 11 Eaton Place and we'll ring you when it's ready.",
+   "points": [
+    "Wonthella workshop",
+    "Call when ready",
+    "Geraldton"
+   ]
+  }
+ ],
+ "whyHead": "A local workshop",
+ "whyText": "D & J Mechanic is a Geraldton workshop in Wonthella. You call, you drop the car off, we fix it.",
+ "why": [
+  "Workshop at 11 Eaton Place",
+  "Servicing and repairs",
+  "Talk to the mechanic directly",
+  "Geraldton local"
+ ],
+ "galleryHead": "In the workshop",
+ "gallerySub": "Servicing and repairs.",
+ "faq": [
+  [
+   "Where are you?",
+   "11 Eaton Place, Wonthella WA 6530."
+  ],
+  [
+   "How do I book?",
+   "Call (08) 9921 2000 or send a request through this site."
+  ],
+  [
+   "What do you work on?",
+   "Car servicing, mechanical repairs and fault finding."
+  ],
+  [
+   "What should I tell you?",
+   "The make, model and year of the car, and what it's doing."
+  ]
+ ],
+ "aboutHead": "About D & J Mechanic",
+ "aboutSub": "A mechanic in Wonthella, Geraldton.",
+ "aboutParas": [
+  "D & J Mechanic is a mechanical workshop at 11 Eaton Place, Wonthella, in Geraldton WA.",
+  "We look after servicing and mechanical repairs for local drivers.",
+  "Give us a ring to book your car in."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Straightforward",
+   "Clear advice about your car."
+  ],
+  [
+   "Local",
+   "Wonthella, Geraldton."
+  ],
+  [
+   "Practical",
+   "Fix what needs fixing."
+  ]
+ ],
+ "contactHead": "Book your car in",
+ "contactSub": "Tell us about the car and we'll call you back with a time.",
+ "bandText": "Time for a service or a repair?",
+ "footerBlurb": "Car servicing and mechanical repairs in Wonthella, Geraldton.",
+ "hours": [
+  [
+   "Phone",
+   "(08) 9921 2000"
+  ],
+  [
+   "Workshop",
+   "11 Eaton Place"
+  ],
+  [
+   "Suburb",
+   "Wonthella WA 6530"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "4px",
+  "h1max": "130px",
+  "logoRadius": 16,
+  "headTrack": ".01em",
+  "headExtra": "text-transform:uppercase;",
+  "onBrand": "#FFFFFF",
+  "fontsQuery": "family=Teko:wght@500;600;700&family=Source+Sans+3:wght@400;600;700",
+  "headFont": "Teko,Impact,sans-serif",
+  "bodyFont": "\"Source Sans 3\",system-ui,sans-serif",
+  "headWeight": "600",
+  "bg": "#FFFFFF",
+  "surface": "#F1EEF0",
+  "ink": "#1F1418",
+  "muted": "#5E5257",
+  "brand": "#5B1A2B",
+  "brand2": "#40111E",
+  "accent": "#9FC5E8",
+  "onAccent": "#1F1418",
+  "line": "#E3DBDE",
+  "headerBg": "#40111E",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(64,17,30,.9)",
+  "footBg": "#40111E",
+  "footInk": "#D8C9CE",
+  "footHead": "#9FC5E8",
+  "logoBg": "#9FC5E8",
+  "logoFg": "#5B1A2B",
+  "icon": "tyre",
+  "hero": "stack"
+ }
+}

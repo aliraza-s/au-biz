@@ -1,0 +1,217 @@
+{
+ "street": "",
+ "ctaLabel": "Call BBAM",
+ "ownerOrUs": "us",
+ "schemaType": "AutoRepair",
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Request a job",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Vehicle (make, model, year)",
+   "vehicle"
+  ],
+  [
+   "What's it doing?",
+   "issue"
+  ]
+ ],
+ "slug": "bbam-mechanical",
+ "name": "BBAM Breakdowns and Mechanical",
+ "short": "BBAM Mechanical",
+ "tag": "Mobile mechanic, Geraldton",
+ "topline": "Breakdowns · mobile mechanic · Geraldton WA",
+ "phone": "0458 177 534",
+ "phoneIntl": "+61458177534",
+ "suburb": "Geraldton",
+ "state": "WA",
+ "postcode": "6530",
+ "addressLine": "Geraldton WA 6530",
+ "area": "Geraldton",
+ "areaShort": "Mobile around Geraldton",
+ "areaText": "BBAM is a mobile mechanic in Geraldton. Broken down or need a check-over? Call 0458 177 534.",
+ "mapQuery": "Geraldton WA 6530",
+ "seoTitle": "Mobile Mechanic & Breakdowns in Geraldton",
+ "metaDesc": "BBAM Breakdowns and Mechanical: mobile mechanic in Geraldton WA for breakdowns, repairs and used vehicle pre-purchase inspections. Call 0458 177 534.",
+ "badge": [
+  "Mobile",
+  "Geraldton mechanic"
+ ],
+ "hero": {
+  "title": "Broken down in Geraldton? Call BBAM.",
+  "lede": "Mobile mechanic for breakdowns, repairs and pre-purchase inspections on used vehicles, around Geraldton.",
+  "trust": [
+   "Mobile mechanic",
+   "Breakdowns",
+   "Pre-purchase inspections"
+  ]
+ },
+ "images": {
+  "hero": "1637640125496-31852f042a60",
+  "heroAlt": "Mechanic working on an engine",
+  "about": "1727893304219-063d142ce6f3",
+  "about2": "1663642775693-6628f65358be",
+  "aboutAlt": "Mechanic working on a vehicle",
+  "gallery": [
+   "1606577924006-27d39b132ae2",
+   "1643701079732-3b1c7a797e3d",
+   "1504222490345-c075b6008014",
+   "1625047509248-ec889cbff17f",
+   "1619642751034-765dfdf7c58e",
+   "1487754180451-c456f719a1fc"
+  ]
+ },
+ "servicesHead": "Breakdowns & mechanical",
+ "servicesSub": "Mobile work around Geraldton.",
+ "services": [
+  {
+   "id": "breakdowns",
+   "title": "Breakdowns",
+   "img": "1487754180451-c456f719a1fc",
+   "short": "Stuck? Call and tell us where you are.",
+   "long": "If your vehicle has broken down, call 0458 177 534 with where you are and what happened, and we'll work out the quickest way to get you going.",
+   "points": [
+    "Call with your location",
+    "Mobile service",
+    "Geraldton area"
+   ]
+  },
+  {
+   "id": "mechanical",
+   "title": "Mechanical repairs",
+   "img": "1615906655593-ad0386982a0f",
+   "short": "Repairs done where the vehicle is.",
+   "long": "Mobile mechanical repairs, so you don't need to get the vehicle to a workshop.",
+   "points": [
+    "Mobile repairs",
+    "Describe the problem by phone",
+    "Clear answers"
+   ]
+  },
+  {
+   "id": "inspections",
+   "title": "Pre-purchase inspections",
+   "img": "1643700973089-baa86a1ab9ee",
+   "short": "Check a used vehicle before you buy.",
+   "long": "Used vehicle pre-purchase inspections, so you know what you're buying before you hand over the money.",
+   "points": [
+    "Used vehicles",
+    "Before you buy",
+    "Book by phone"
+   ]
+  },
+  {
+   "id": "servicing",
+   "title": "Servicing",
+   "img": "1486262715619-67b85e0b08d3",
+   "short": "General servicing on site.",
+   "long": "General servicing and maintenance carried out where the vehicle is parked.",
+   "points": [
+    "At home or work",
+    "General maintenance",
+    "Book by phone"
+   ]
+  }
+ ],
+ "whyHead": "Why call BBAM",
+ "whyText": "BBAM comes to the vehicle, whether it's broken down, due for a service or you're thinking of buying it.",
+ "why": [
+  "Mobile: we come to the vehicle",
+  "Breakdowns and repairs",
+  "Used vehicle pre-purchase inspections",
+  "Geraldton local"
+ ],
+ "galleryHead": "On the road",
+ "gallerySub": "Breakdowns, repairs and inspections.",
+ "faq": [
+  [
+   "Do you come to me?",
+   "Yes, BBAM is a mobile mechanic."
+  ],
+  [
+   "Can you check a car before I buy it?",
+   "Yes, we do used vehicle pre-purchase inspections."
+  ],
+  [
+   "I've broken down, what do I do?",
+   "Call 0458 177 534 and tell us where you are and what happened."
+  ],
+  [
+   "How do I book?",
+   "Call 0458 177 534 or send a request through this site."
+  ]
+ ],
+ "aboutHead": "About BBAM",
+ "aboutSub": "Breakdowns and mechanical, Geraldton.",
+ "aboutParas": [
+  "BBAM Breakdowns and Mechanical is a mobile mechanic in Geraldton, WA.",
+  "We look after breakdowns, mechanical repairs and pre-purchase inspections on used vehicles.",
+  "Call and tell us what's going on."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Mobile",
+   "We go to the vehicle."
+  ],
+  [
+   "Honest",
+   "Straight answers about what's wrong."
+  ],
+  [
+   "Local",
+   "Geraldton based."
+  ]
+ ],
+ "contactHead": "Get BBAM out",
+ "contactSub": "Tell us about the vehicle and where it is. For breakdowns, calling is quickest.",
+ "bandText": "Broken down or buying a used car?",
+ "footerBlurb": "Mobile mechanic, breakdowns and pre-purchase inspections in Geraldton WA.",
+ "hours": [
+  [
+   "Phone",
+   "0458 177 534"
+  ],
+  [
+   "Service",
+   "Mobile"
+  ],
+  [
+   "Area",
+   "Geraldton WA"
+  ]
+ ],
+ "theme": {
+  "radius": "2px",
+  "btnRadius": "2px",
+  "h1max": "120px",
+  "logoRadius": 2,
+  "headTrack": ".02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "fontsQuery": "family=Bebas+Neue&family=Roboto:wght@400;500;700",
+  "headFont": "\"Bebas Neue\",Impact,sans-serif",
+  "bodyFont": "Roboto,system-ui,sans-serif",
+  "headWeight": "400",
+  "bg": "#FFFFFF",
+  "surface": "#F2F2F2",
+  "ink": "#111111",
+  "muted": "#555555",
+  "brand": "#111111",
+  "brand2": "#000000",
+  "accent": "#E10600",
+  "onAccent": "#FFFFFF",
+  "line": "#E0E0E0",
+  "headerBg": "#111111",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(0,0,0,.88)",
+  "footBg": "#000000",
+  "footInk": "#BDBDBD",
+  "footHead": "#E10600",
+  "logoBg": "#E10600",
+  "logoFg": "#FFFFFF",
+  "icon": "tow",
+  "hero": "overlay"
+ }
+}

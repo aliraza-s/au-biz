@@ -1,0 +1,219 @@
+{
+ "street": "",
+ "ctaLabel": "Book a mechanic",
+ "ownerOrUs": "us",
+ "schemaType": "AutoRepair",
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Booking request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Vehicle (make, model, year)",
+   "vehicle"
+  ],
+  [
+   "What's it doing?",
+   "issue"
+  ]
+ ],
+ "slug": "baldivis-mobile-automotive",
+ "name": "Baldivis Mobile Automotive",
+ "short": "Baldivis Automotive",
+ "tag": "Mobile mechanic, Baldivis",
+ "topline": "Mobile mechanic · Baldivis WA",
+ "phone": "0419 954 944",
+ "phoneIntl": "+61419954944",
+ "suburb": "Baldivis",
+ "state": "WA",
+ "postcode": "6171",
+ "addressLine": "Baldivis WA 6171",
+ "area": "Baldivis",
+ "areaShort": "Mobile around Baldivis",
+ "areaText": "Baldivis Mobile Automotive is based in Baldivis. Call 0419 954 944 or email baldivisautomotive@iinet.net.au to book.",
+ "mapQuery": "Baldivis WA 6171",
+ "seoTitle": "Mobile Mechanic in Baldivis",
+ "email": "baldivisautomotive@iinet.net.au",
+ "facebook": "https://www.facebook.com/p/Baldivis-Automotive-100063881479765/",
+ "metaDesc": "Baldivis Mobile Automotive: mobile servicing, repairs and fault finding at your home or work in Baldivis WA. Call 0419 954 944.",
+ "badge": [
+  "Mobile",
+  "Baldivis based"
+ ],
+ "hero": {
+  "title": "Your Baldivis mechanic, on wheels.",
+  "lede": "Baldivis Mobile Automotive brings servicing, repairs and fault finding to your driveway, so the car stays home and so do you.",
+  "trust": [
+   "Mobile service",
+   "Baldivis local",
+   "Phone or email"
+  ]
+ },
+ "images": {
+  "hero": "1615906655593-ad0386982a0f",
+  "heroAlt": "Mechanic checking an engine",
+  "about": "1643700973089-baa86a1ab9ee",
+  "about2": "1486262715619-67b85e0b08d3",
+  "aboutAlt": "Mechanic at work on a car",
+  "gallery": [
+   "1637640125496-31852f042a60",
+   "1727893304219-063d142ce6f3",
+   "1663642775693-6628f65358be",
+   "1606577924006-27d39b132ae2",
+   "1643701079732-3b1c7a797e3d",
+   "1504222490345-c075b6008014"
+  ]
+ },
+ "servicesHead": "Mobile car care",
+ "servicesSub": "Mechanical work done where your car is parked.",
+ "services": [
+  {
+   "id": "servicing",
+   "title": "Servicing at your place",
+   "img": "1504222490345-c075b6008014",
+   "short": "Routine servicing done where the car is parked.",
+   "long": "We come to your home or workplace to carry out general servicing and maintenance, so you don't lose a day dropping the car off.",
+   "points": [
+    "Comes to your home or work",
+    "General maintenance",
+    "No tow to a workshop"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Mechanical repairs",
+   "img": "1625047509248-ec889cbff17f",
+   "short": "Fixing the problem on the spot where we can.",
+   "long": "Mechanical repairs carried out on site wherever the job allows. Tell us the make, model and what it's doing and we'll talk you through it.",
+   "points": [
+    "Repairs on site",
+    "Describe the problem over the phone",
+    "Straight answers"
+   ]
+  },
+  {
+   "id": "diagnostics",
+   "title": "Fault finding",
+   "img": "1619642751034-765dfdf7c58e",
+   "short": "Warning lights, noises and won't-starts.",
+   "long": "If it won't start, has a warning light on or is making a noise, we'll track down what's going on before anything gets replaced.",
+   "points": [
+    "Warning lights",
+    "Won't-start problems",
+    "Noises and leaks"
+   ]
+  },
+  {
+   "id": "callout",
+   "title": "Mobile call-outs",
+   "img": "1487754180451-c456f719a1fc",
+   "short": "Can't get the car to us? We get to you.",
+   "long": "Give us a ring with where you are and what's happened, and we'll let you know how quickly we can get there.",
+   "points": [
+    "Call to book",
+    "Home or workplace",
+    "Local area"
+   ]
+  }
+ ],
+ "whyHead": "Why Baldivis books us",
+ "whyText": "A local, mobile mechanic means less running around. We come to you and you deal with us directly.",
+ "why": [
+  "Work done at your home or workplace",
+  "Based in Baldivis",
+  "Book by phone or email",
+  "Straight answers about your car"
+ ],
+ "galleryHead": "In the workshop on wheels",
+ "gallerySub": "Servicing, repairs and diagnostics.",
+ "faq": [
+  [
+   "Do you come to me?",
+   "Yes, we're a mobile mechanic based in Baldivis."
+  ],
+  [
+   "How do I book?",
+   "Call 0419 954 944, email baldivisautomotive@iinet.net.au or send a request through this site."
+  ],
+  [
+   "What should I tell you?",
+   "The make, model and year of the car, and what it's doing."
+  ],
+  [
+   "Are you on Facebook?",
+   "Yes, search for Baldivis Automotive."
+  ]
+ ],
+ "aboutHead": "About Baldivis Mobile Automotive",
+ "aboutSub": "A mobile mechanic based in Baldivis.",
+ "aboutParas": [
+  "Baldivis Mobile Automotive is a mobile mechanic based in Baldivis, WA.",
+  "We bring the tools to your home or workplace for servicing, repairs and fault finding.",
+  "Call or email with what the car is doing and we'll sort out a time."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Mobile",
+   "The car stays where it is."
+  ],
+  [
+   "Local",
+   "Baldivis based."
+  ],
+  [
+   "Clear",
+   "We tell you what's wrong before we fix it."
+  ]
+ ],
+ "contactHead": "Book a mobile mechanic",
+ "contactSub": "Tell us about the car and we'll get back to you to arrange a time.",
+ "bandText": "Need the car looked at without the trip to a workshop?",
+ "footerBlurb": "Mobile mechanic in Baldivis WA.",
+ "hours": [
+  [
+   "Phone",
+   "0419 954 944"
+  ],
+  [
+   "Email",
+   "baldivisautomotive@iinet.net.au"
+  ],
+  [
+   "Service",
+   "Mobile, Baldivis"
+  ]
+ ],
+ "theme": {
+  "radius": "14px",
+  "btnRadius": "999px",
+  "h1max": "96px",
+  "logoRadius": 16,
+  "headTrack": "0",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "fontsQuery": "family=Exo+2:wght@600;700;800&family=Work+Sans:wght@400;500;600",
+  "headFont": "\"Exo 2\",system-ui,sans-serif",
+  "bodyFont": "\"Work Sans\",system-ui,sans-serif",
+  "headWeight": "800",
+  "bg": "#F8F9FC",
+  "surface": "#E9EDF6",
+  "ink": "#141C2E",
+  "muted": "#4F5A70",
+  "brand": "#1D2D50",
+  "brand2": "#131E38",
+  "accent": "#B8E62E",
+  "onAccent": "#141C2E",
+  "line": "#D7DDEA",
+  "headerBg": "#1D2D50",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(19,30,56,.9)",
+  "footBg": "#131E38",
+  "footInk": "#C3CBDD",
+  "footHead": "#B8E62E",
+  "logoBg": "#B8E62E",
+  "logoFg": "#1D2D50",
+  "icon": "car",
+  "hero": "center"
+ }
+}

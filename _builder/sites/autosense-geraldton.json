@@ -1,0 +1,218 @@
+{
+ "street": "227 Place Road",
+ "ctaLabel": "Book a service",
+ "ownerOrUs": "us",
+ "schemaType": "AutoRepair",
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Booking request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Vehicle (make, model, year)",
+   "vehicle"
+  ],
+  [
+   "What's it doing?",
+   "issue"
+  ]
+ ],
+ "slug": "autosense-geraldton",
+ "name": "Autosense",
+ "short": "Autosense",
+ "tag": "Mechanic, Geraldton",
+ "topline": "227 Place Rd, Geraldton · Mon–Fri 8–5",
+ "phone": "(08) 9921 1999",
+ "phoneIntl": "+61899211999",
+ "suburb": "Wonthella",
+ "state": "WA",
+ "postcode": "6530",
+ "addressLine": "227 Place Road, Geraldton WA 6530",
+ "area": "Geraldton",
+ "areaShort": "Place Road, Geraldton",
+ "areaText": "Find Autosense at 227 Place Road, Geraldton. Open Monday to Friday, 8am to 5pm. Call (08) 9921 1999 to book.",
+ "mapQuery": "227 Place Road, Wonthella WA 6530",
+ "seoTitle": "Car Mechanic in Geraldton",
+ "metaDesc": "Autosense is a car mechanic at 227 Place Road, Geraldton WA, established in 1993. Servicing and repairs, Mon–Fri 8am–5pm. Call (08) 9921 1999.",
+ "badge": [
+  "Since 1993",
+  "Geraldton workshop"
+ ],
+ "hero": {
+  "title": "Geraldton's car centre since 1993.",
+  "titleHtml": "Geraldton's car<br>centre since 1993.",
+  "lede": "Servicing, repairs and fault finding at our Place Road workshop. Open weekdays, 8am to 5pm.",
+  "trust": [
+   "Established 1993",
+   "Place Road workshop",
+   "Mon–Fri 8am–5pm"
+  ]
+ },
+ "images": {
+  "hero": "1606577924006-27d39b132ae2",
+  "heroAlt": "Mechanic working on a car engine",
+  "about": "1643701079732-3b1c7a797e3d",
+  "about2": "1504222490345-c075b6008014",
+  "aboutAlt": "Mechanic in the workshop",
+  "gallery": [
+   "1625047509248-ec889cbff17f",
+   "1619642751034-765dfdf7c58e",
+   "1487754180451-c456f719a1fc",
+   "1615906655593-ad0386982a0f",
+   "1643700973089-baa86a1ab9ee",
+   "1486262715619-67b85e0b08d3"
+  ]
+ },
+ "servicesHead": "In the workshop",
+ "servicesSub": "Car servicing and repairs on Place Road.",
+ "services": [
+  {
+   "id": "servicing",
+   "title": "Car servicing",
+   "img": "1486262715619-67b85e0b08d3",
+   "short": "Regular servicing to keep you on the road.",
+   "long": "Book your car in for general servicing and maintenance at our Place Road workshop.",
+   "points": [
+    "General servicing",
+    "Maintenance",
+    "Book by phone"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Mechanical repairs",
+   "img": "1637640125496-31852f042a60",
+   "short": "Repairs for everyday cars.",
+   "long": "Mechanical repairs carried out in the workshop. Call with the make, model and what it's doing.",
+   "points": [
+    "Mechanical repairs",
+    "Clear quotes before work",
+    "Workshop based"
+   ]
+  },
+  {
+   "id": "diagnostics",
+   "title": "Fault finding",
+   "img": "1727893304219-063d142ce6f3",
+   "short": "Warning lights and odd noises.",
+   "long": "If a warning light is on or something doesn't sound right, bring it in and we'll find out why.",
+   "points": [
+    "Warning lights",
+    "Noises and leaks",
+    "Running problems"
+   ]
+  },
+  {
+   "id": "drop-off",
+   "title": "Drop-off service",
+   "img": "1663642775693-6628f65358be",
+   "short": "Leave it with us for the day.",
+   "long": "Drop the car at 227 Place Road in the morning and we'll call you when it's ready.",
+   "points": [
+    "Weekdays 8am–5pm",
+    "Call when ready",
+    "Central Geraldton"
+   ]
+  }
+ ],
+ "whyHead": "Why Geraldton uses Autosense",
+ "whyText": "Autosense has been fixing cars in Geraldton since 1993, from a workshop on Place Road.",
+ "why": [
+  "Established in 1993",
+  "Workshop at 227 Place Road",
+  "Open Monday to Friday",
+  "Locally owned and run"
+ ],
+ "galleryHead": "The workshop",
+ "gallerySub": "Servicing and repairs on Place Road.",
+ "faq": [
+  [
+   "Where are you?",
+   "227 Place Road, Geraldton WA 6530."
+  ],
+  [
+   "When are you open?",
+   "Monday to Friday, 8am to 5pm. Closed weekends."
+  ],
+  [
+   "How long have you been around?",
+   "Autosense was established in 1993."
+  ],
+  [
+   "How do I book?",
+   "Call (08) 9921 1999 or send a request through this site."
+  ]
+ ],
+ "aboutHead": "About Autosense",
+ "aboutSub": "A Geraldton workshop since 1993.",
+ "aboutParas": [
+  "Autosense is a car mechanic in Geraldton, working from 227 Place Road.",
+  "The business was established in 1993 and has been servicing and repairing local cars ever since.",
+  "We're open Monday to Friday, 8am to 5pm. Give us a ring to book."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Experienced",
+   "Fixing cars in Geraldton since 1993."
+  ],
+  [
+   "Clear",
+   "We explain what's needed before we start."
+  ],
+  [
+   "Local",
+   "Place Road, Geraldton."
+  ]
+ ],
+ "contactHead": "Book your car in",
+ "contactSub": "Tell us about the car and what it needs, and we'll call you to confirm a time.",
+ "bandText": "Car due for a service?",
+ "footerBlurb": "Car servicing and repairs in Geraldton since 1993.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "8am – 5pm"
+  ],
+  [
+   "Saturday",
+   "Closed"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "theme": {
+  "radius": "18px",
+  "btnRadius": "10px",
+  "h1max": "96px",
+  "logoRadius": 10,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "fontsQuery": "family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600",
+  "headFont": "\"Space Grotesk\",system-ui,sans-serif",
+  "bodyFont": "\"IBM Plex Sans\",system-ui,sans-serif",
+  "headWeight": "700",
+  "bg": "#FBFAF6",
+  "surface": "#EFEDE4",
+  "ink": "#1B2420",
+  "muted": "#56605A",
+  "brand": "#20352B",
+  "brand2": "#E3EADF",
+  "accent": "#F2B134",
+  "onAccent": "#1B2420",
+  "line": "#DDDACD",
+  "headerBg": "#FBFAF6",
+  "headerInk": "#1B2420",
+  "overlay": "rgba(22,37,30,.9)",
+  "footBg": "#16251E",
+  "footInk": "#C3CCC6",
+  "footHead": "#F2B134",
+  "logoBg": "#20352B",
+  "logoFg": "#F2B134",
+  "icon": "gear",
+  "hero": "arch"
+ }
+}
