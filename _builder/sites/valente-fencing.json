@@ -1,0 +1,201 @@
+{
+ "slug": "valente-fencing",
+ "name": "Valente Fencing",
+ "short": "Valente Fencing",
+ "tag": "Fencing, Adelaide's south",
+ "street": "",
+ "suburb": "Sheidow Park",
+ "state": "SA",
+ "postcode": "5158",
+ "phone": "0450 338 630",
+ "phoneIntl": "+61450338630",
+ "topline": "Fencing for Sheidow Park and Adelaide's southern suburbs",
+ "addressLine": "Sheidow Park SA 5158",
+ "area": "Adelaide southern suburbs",
+ "areaShort": "Southern suburbs, Adelaide",
+ "areaText": "Valente Fencing is based in Sheidow Park and works across Adelaide's southern suburbs. Call Luke on 0450 338 630 to talk about your fence.",
+ "mapQuery": "Sheidow Park SA 5158",
+ "seoTitle": "Fencing in Sheidow Park & Adelaide's south",
+ "metaDesc": "Valente Fencing: local fencer in Sheidow Park, Adelaide's southern suburbs. Call Luke on 0450 338 630.",
+ "ctaLabel": "Ask for a quote",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Sheidow Park",
+  "Southern suburbs fencer"
+ ],
+ "hero": {
+  "title": "Good fences for Adelaide's south.",
+  "lede": "Valente Fencing is a local fencer in Sheidow Park, looking after homes across Adelaide's southern suburbs.",
+  "trust": [
+   "Sheidow Park based",
+   "Southern suburbs",
+   "Talk to Luke direct"
+  ]
+ },
+ "images": {
+  "hero": "1722881445875-bdd5f4d9e6fa",
+  "heroAlt": "Backyard with a deck and a timber fence",
+  "about": "1681853108586-f29b4ef5c0fb",
+  "about2": "1604015641586-6fa03629f976",
+  "aboutAlt": "New timber fence along a backyard",
+  "gallery": [
+   "1583805978118-ba9a81ac1399",
+   "1680712738375-50da02a39ce5",
+   "1769831190663-95fe8454d8c9",
+   "1587780843696-044a14ea63ae",
+   "1593285247650-cd7bb44adcfd",
+   "1546562846-ab1f8939e037"
+  ]
+ },
+ "servicesHead": "Fencing services",
+ "servicesSub": "Fencing for homes in Sheidow Park and the southern suburbs.",
+ "services": [
+  {
+   "id": "new-fences",
+   "title": "New fences",
+   "img": "1604015641586-6fa03629f976",
+   "short": "Fencing for new and existing homes.",
+   "long": "Need a fence put up? Call Luke with your address and what you have in mind and we'll talk it through.",
+   "points": [
+    "Residential fencing",
+    "Southern suburbs",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "replacement",
+   "title": "Fence replacement",
+   "img": "1593285247650-cd7bb44adcfd",
+   "short": "Old fence past its best?",
+   "long": "If your fence is leaning, damaged or just tired, we can talk about replacing it.",
+   "points": [
+    "Old fences replaced",
+    "Homes and yards",
+    "Local fencer"
+   ]
+  },
+  {
+   "id": "chat",
+   "title": "Talk to Luke",
+   "img": "1769831190663-95fe8454d8c9",
+   "short": "Straight answers from the fencer.",
+   "long": "You deal with Luke directly. Ring 0450 338 630 or send a request through this site.",
+   "points": [
+    "Direct contact",
+    "Sheidow Park based",
+    "Adelaide's south"
+   ]
+  }
+ ],
+ "whyHead": "A local fencer",
+ "whyText": "Valente Fencing is based in Sheidow Park, so the southern suburbs are home turf.",
+ "why": [
+  "Based in Sheidow Park",
+  "Works across Adelaide's south",
+  "You talk to Luke directly",
+  "Mon to Sat hours"
+ ],
+ "galleryHead": "Fences",
+ "gallerySub": "Fencing around Adelaide's southern suburbs.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Sheidow Park, in Adelaide's southern suburbs."
+  ],
+  [
+   "How do I get a quote?",
+   "Call Luke on 0450 338 630 or send a request through this site."
+  ],
+  [
+   "What should I tell you?",
+   "Your suburb, roughly how long the fence is, and what you'd like."
+  ],
+  [
+   "When can I call?",
+   "Monday to Friday 9am to 5pm, Saturday 9am to 12pm."
+  ]
+ ],
+ "aboutHead": "About Valente Fencing",
+ "aboutSub": "A fencer in Sheidow Park, Adelaide.",
+ "aboutParas": [
+  "Valente Fencing is a fencing business run by Luke, based in Sheidow Park in Adelaide's southern suburbs.",
+  "We put up and replace fences for local homes.",
+  "Give Luke a ring on 0450 338 630 to talk about your job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Direct",
+   "You talk to the person doing the job."
+  ],
+  [
+   "Local",
+   "Sheidow Park and the southern suburbs."
+  ],
+  [
+   "Tidy",
+   "A fence you're happy to look at."
+  ]
+ ],
+ "contactHead": "Ask for a quote",
+ "contactSub": "Tell us about the fence and Luke will call you back.",
+ "bandText": "Thinking about a new fence?",
+ "footerBlurb": "Fencing for Sheidow Park and Adelaide's southern suburbs.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "9am – 5pm"
+  ],
+  [
+   "Saturday",
+   "9am – 12pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Approx. fence length",
+   "length"
+  ]
+ ],
+ "theme": {
+  "radius": "14px",
+  "btnRadius": "10px",
+  "h1max": "84px",
+  "logoRadius": 10,
+  "headTrack": "-.03em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "hero": "split",
+  "icon": "picket",
+  "fontsQuery": "family=Plus+Jakarta+Sans:wght@400;600;800",
+  "headFont": "\"Plus Jakarta Sans\",system-ui,sans-serif",
+  "bodyFont": "\"Plus Jakarta Sans\",system-ui,sans-serif",
+  "headWeight": "800",
+  "surface": "#F5F1EB",
+  "ink": "#1C2532",
+  "muted": "#556070",
+  "brand": "#2E4057",
+  "brand2": "#1F2C3D",
+  "accent": "#E07A5F",
+  "onAccent": "#1C1410",
+  "line": "#E3DDD3",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#1F2C3D",
+  "overlay": "rgba(31,44,61,.88)",
+  "footBg": "#1F2C3D",
+  "footInk": "#C9D1DC",
+  "footHead": "#F2A58F",
+  "logoBg": "#2E4057",
+  "logoFg": "#F2A58F"
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "slug": "retained-by-th",
+ "name": "Retained by TH",
+ "short": "Retained by TH",
+ "tag": "Mount Barker, Adelaide Hills",
+ "street": "",
+ "suburb": "Mount Barker",
+ "state": "SA",
+ "postcode": "5251",
+ "phone": "0423 529 157",
+ "phoneIntl": "+61423529157",
+ "topline": "Mount Barker · Adelaide Hills",
+ "addressLine": "Mount Barker SA 5251",
+ "area": "Adelaide Hills",
+ "areaShort": "Mount Barker, Adelaide Hills",
+ "areaText": "Retained by TH is based in Mount Barker in the Adelaide Hills. Call Travis on 0423 529 157 to talk about your job.",
+ "mapQuery": "Mount Barker SA 5251",
+ "seoTitle": "Retaining & fencing, Mount Barker",
+ "metaDesc": "Retained by TH: retaining and fencing work around Mount Barker and the Adelaide Hills. Call Travis on 0423 529 157.",
+ "ctaLabel": "Talk to Travis",
+ "ownerOrUs": "Travis",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Mount Barker",
+  "Adelaide Hills"
+ ],
+ "hero": {
+  "title": "Retaining & fencing in the Hills.",
+  "titleHtml": "Retaining &amp; fencing<br>in the Hills.",
+  "lede": "Retained by TH is Travis's business in Mount Barker, doing retaining and fencing work around the Adelaide Hills.",
+  "trust": [
+   "Mount Barker based",
+   "Adelaide Hills",
+   "Talk to Travis"
+  ]
+ },
+ "images": {
+  "hero": "1790699021603-1f7c72a513f5",
+  "heroAlt": "Block retaining wall with gravel fill",
+  "about": "1761637823941-0ffae96ec487",
+  "about2": "1785996757741-c46e909fd1c5",
+  "aboutAlt": "Retaining wall on a sloping block",
+  "gallery": [
+   "1767263318272-01a10851d5d2",
+   "1761637823587-1e81a9c63ee2",
+   "1785996758014-45cba26a0f39",
+   "1768751947810-fd47fe2fac11",
+   "1645791498650-2509fad63992",
+   "1676268479279-5a7dcf050634"
+  ]
+ },
+ "servicesHead": "What we do",
+ "servicesSub": "Retaining and fencing around Mount Barker.",
+ "services": [
+  {
+   "id": "retaining",
+   "title": "Retaining",
+   "img": "1790699021603-1f7c72a513f5",
+   "short": "Holding back sloping ground.",
+   "long": "Sloping block in the Hills? Call Travis to talk about retaining for your yard.",
+   "points": [
+    "Sloping blocks",
+    "Adelaide Hills",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "fencing",
+   "title": "Fencing",
+   "img": "1645791498650-2509fad63992",
+   "short": "Fences for Hills properties.",
+   "long": "Fencing work around Mount Barker. Ring with your address and what you need.",
+   "points": [
+    "Fencing",
+    "Mount Barker",
+    "Talk it through first"
+   ]
+  },
+  {
+   "id": "hills",
+   "title": "Adelaide Hills jobs",
+   "img": "1785996758014-45cba26a0f39",
+   "short": "Local to Mount Barker.",
+   "long": "Based in Mount Barker, so the surrounding Hills towns are close by.",
+   "points": [
+    "Mount Barker based",
+    "Hills properties",
+    "Direct contact"
+   ]
+  }
+ ],
+ "whyHead": "Local to the Hills",
+ "whyText": "Retained by TH is run by Travis out of Mount Barker. You call, you talk to Travis, the job gets done.",
+ "why": [
+  "Based in Mount Barker",
+  "Retaining and fencing",
+  "You deal with Travis directly",
+  "Adelaide Hills local"
+ ],
+ "galleryHead": "Walls & fences",
+ "gallerySub": "Retaining and fencing work.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Mount Barker, in the Adelaide Hills."
+  ],
+  [
+   "What do you do?",
+   "Retaining and fencing work."
+  ],
+  [
+   "How do I get in touch?",
+   "Call Travis on 0423 529 157 or send a request through this site."
+  ],
+  [
+   "What should I tell you?",
+   "Your address, what the ground is like and what you'd like built."
+  ]
+ ],
+ "aboutHead": "About Retained by TH",
+ "aboutSub": "Travis, Mount Barker.",
+ "aboutParas": [
+  "Retained by TH is Travis's retaining and fencing business, based in Mount Barker in the Adelaide Hills.",
+  "Hills blocks often slope, and good retaining makes the yard usable.",
+  "Call Travis on 0423 529 157 to talk about your job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Straight talk",
+   "Clear answers about your job."
+  ],
+  [
+   "Local",
+   "Mount Barker and the Hills."
+  ],
+  [
+   "Solid",
+   "Work that stays put."
+  ]
+ ],
+ "contactHead": "Talk to Travis",
+ "contactSub": "Tell us about the job and Travis will call you back.",
+ "bandText": "Got a slope or a fence to sort out?",
+ "footerBlurb": "Retaining and fencing in Mount Barker and the Adelaide Hills.",
+ "hours": [
+  [
+   "Phone",
+   "0423 529 157"
+  ],
+  [
+   "Based in",
+   "Mount Barker"
+  ],
+  [
+   "Area",
+   "Adelaide Hills"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Job request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Job address",
+   "job_address"
+  ]
+ ],
+ "theme": {
+  "radius": "16px",
+  "btnRadius": "999px",
+  "h1max": "88px",
+  "logoRadius": 16,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFCF7",
+  "hero": "arch",
+  "icon": "wall",
+  "fontsQuery": "family=Josefin+Sans:wght@600;700&family=Lato:wght@400;700",
+  "headFont": "\"Josefin Sans\",system-ui,sans-serif",
+  "bodyFont": "Lato,system-ui,sans-serif",
+  "headWeight": "700",
+  "surface": "#F3EADC",
+  "ink": "#2B211A",
+  "muted": "#655649",
+  "brand": "#6B4F3A",
+  "brand2": "#F1E6D6",
+  "accent": "#6E8F32",
+  "onAccent": "#FFFFFF",
+  "line": "#E5D8C5",
+  "headerBg": "#FFFCF7",
+  "headerInk": "#4A3627",
+  "overlay": "rgba(60,44,32,.88)",
+  "footBg": "#3B2C20",
+  "footInk": "#DCCDBA",
+  "footHead": "#B5CC7A",
+  "logoBg": "#6B4F3A",
+  "logoFg": "#F1E6D6"
+ }
+}

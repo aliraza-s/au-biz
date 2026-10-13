@@ -37,6 +37,11 @@ ICONS = {
  "tyre": '<g fill="none" stroke="currentColor"><circle cx="16" cy="16" r="12" stroke-width="5"/><circle cx="16" cy="16" r="3.2" stroke-width="2.4"/><path d="M16 7.5v5M16 19.5v5M7.5 16h5M19.5 16h5" stroke-width="2.4"/></g>',
  "car": '<g fill="currentColor"><path d="M8 8h16l4 8h2v8h-4v-2H6v2H2v-8h2z"/><circle cx="9" cy="24" r="3.4"/><circle cx="23" cy="24" r="3.4"/></g><path d="M10 10.5h12l2.6 5.5H7.4z" fill="var(--logo-ink)"/>',
  "tow": '<g fill="currentColor"><path d="M2 12h11v12H2z"/><path d="M13 16h5l9-10 2 1.5-8 10.5v6H13z"/><circle cx="7" cy="25.5" r="3.4"/><circle cx="21" cy="25.5" r="3.4"/></g><path d="M4 14.5h7v4H4z" fill="var(--logo-ink)"/><path d="M28 7v6l-2 2" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>',
+ "picket": '<g fill="currentColor"><path d="M5 9l3-4 3 4v19H5zM13 9l3-4 3 4v19h-6zM21 9l3-4 3 4v19h-6z"/><path d="M2 12h28v3H2zM2 21h28v3H2z"/></g>',
+ "farmgate": '<g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 3v26"/><path d="M8 8h20v16H8z"/><path d="M8 13.3h20M8 18.6h20M8 24 28 8"/></g>',
+ "wall": '<g fill="currentColor"><path d="M3 23h8v6H3zM12 23h8v6h-8zM21 23h8v6h-8zM7.5 16h8v6h-8zM16.5 16h8v6h-8zM12 9h8v6h-8z"/></g><path d="M3 9c3-3 5-3 8 0" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round"/>',
+ "palisade": '<g fill="currentColor"><path d="M6 3l2 5v20H4V8zM13 3l2 5v20h-4V8zM20 3l2 5v20h-4V8zM27 3l2 5v20h-4V8z"/><path d="M2 11h28v2.6H2zM2 21.5h28v2.6H2z"/></g>',
+ "pane": '<g fill="none" stroke="currentColor" stroke-width="2.6"><rect x="4" y="4" width="24" height="24" rx="2"/><path d="M16 4v24M4 16h24"/></g><path d="M8 12.5l3.5-3.5M20 12.5l3.5-3.5M20 24.5l3.5-3.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" fill="none"/>',
 }
 
 def logo_svg(s, size=44):

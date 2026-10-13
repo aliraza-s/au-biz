@@ -1,0 +1,242 @@
+{
+ "slug": "wright-way-glass",
+ "name": "Wright Way Glass & Mirrors",
+ "short": "Wright Way Glass",
+ "tag": "& Mirrors · Geraldton since 1994",
+ "street": "12 Boyd Street",
+ "suburb": "Geraldton",
+ "state": "WA",
+ "postcode": "6530",
+ "phone": "(08) 9921 6411",
+ "phoneIntl": "+61899216411",
+ "facebook": "https://www.facebook.com/wrightwayglass/",
+ "topline": "12 Boyd Street, Geraldton · Mobile 0418 930 913",
+ "addressLine": "12 Boyd Street, Geraldton WA 6530",
+ "area": "Geraldton",
+ "areaShort": "Boyd Street, Geraldton",
+ "areaText": "Wright Way Glass & Mirrors is at 12 Boyd Street, Geraldton. Call (08) 9921 6411 or Keith's mobile 0418 930 913.",
+ "mapQuery": "12 Boyd Street, Geraldton WA 6530",
+ "seoTitle": "Glazier in Geraldton since 1994",
+ "metaDesc": "Wright Way Glass & Mirrors, Geraldton glazier since 1994: window repairs, shower screens, mirrors, splashbacks and insurance work. Call (08) 9921 6411.",
+ "ctaLabel": "Request a quote",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Since 1994",
+  "Geraldton glazier"
+ ],
+ "hero": {
+  "title": "Glass and mirrors, the Wright Way.",
+  "titleHtml": "Glass &amp; mirrors,<br>the Wright Way.",
+  "lede": "Geraldton's glass merchant and glazier since 1994: windows, shower screens, mirrors, splashbacks and insurance work.",
+  "trust": [
+   "Established 1994",
+   "Fully insured & qualified",
+   "Free quotes"
+  ]
+ },
+ "images": {
+  "hero": "1611282717912-b0c3c6c96cb1",
+  "heroAlt": "White framed glass window",
+  "about": "1527352774566-e4916e36c645",
+  "about2": "1613324061338-19d4528a5be9",
+  "aboutAlt": "Glass window in a timber frame",
+  "gallery": [
+   "1571781418606-70265b9cce90",
+   "1663659504863-43dd69a5fda2",
+   "1525570665650-76bb26af503d",
+   "1514994792087-578fe80d0ff9",
+   "1644916930530-0e4e5afdd20d",
+   "1551524163-d00af9f12253"
+  ]
+ },
+ "servicesHead": "Glass & mirror services",
+ "servicesSub": "Domestic glazing and glass work in Geraldton.",
+ "services": [
+  {
+   "id": "windows",
+   "title": "Windows & glass replacement",
+   "img": "1613244288805-020d7d11c655",
+   "short": "Broken or cracked glass replaced.",
+   "long": "Domestic glass replacements and window replacements and repairs. Residential window replacement is our specialty.",
+   "points": [
+    "Glass replacement",
+    "Window repairs",
+    "New glazing"
+   ]
+  },
+  {
+   "id": "shower-screens",
+   "title": "Shower screens",
+   "img": "1571781418606-70265b9cce90",
+   "short": "Shower screens for your bathroom.",
+   "long": "Shower screens supplied and installed for Geraldton homes.",
+   "points": [
+    "Supply & install",
+    "Bathrooms",
+    "Free quotes"
+   ]
+  },
+  {
+   "id": "mirrors",
+   "title": "Mirrors & splashbacks",
+   "img": "1663659504863-43dd69a5fda2",
+   "short": "Mirrors and glass splashbacks.",
+   "long": "Mirrors and splashbacks for homes, plus car and truck mirror replacements.",
+   "points": [
+    "Mirrors",
+    "Splashbacks",
+    "Car & truck mirrors"
+   ]
+  },
+  {
+   "id": "cutting",
+   "title": "Cut to size & edgework",
+   "img": "1527352774566-e4916e36c645",
+   "short": "Glass cut to size.",
+   "long": "Glass cutting to size, edgework and polishing, restorations and custom orders.",
+   "points": [
+    "Cut to size",
+    "Edgework & polishing",
+    "Restorations"
+   ]
+  },
+  {
+   "id": "insurance",
+   "title": "Insurance work",
+   "img": "1514994792087-578fe80d0ff9",
+   "short": "Glass claims sorted.",
+   "long": "We handle insurance glass work. Call us with the details of the damage.",
+   "points": [
+    "Insurance work",
+    "Domestic glass",
+    "Call (08) 9921 6411"
+   ]
+  }
+ ],
+ "whyHead": "Geraldton's glazier since 1994",
+ "whyText": "Wright Way Glass & Mirrors has been looking after Geraldton's glass since 1994.",
+ "why": [
+  "Established in 1994",
+  "Fully insured and qualified glaziers",
+  "Free, no-obligation quotes",
+  "EFT, cheque or cash"
+ ],
+ "galleryHead": "Glass work",
+ "gallerySub": "Windows, screens and mirrors.",
+ "faq": [
+  [
+   "Where are you?",
+   "12 Boyd Street, Geraldton WA 6530."
+  ],
+  [
+   "What are your hours?",
+   "Monday 7am–6pm, Tuesday 6am–6pm, Wednesday to Friday 7am–6pm, Saturday 8am–12pm."
+  ],
+  [
+   "Do you do insurance work?",
+   "Yes. Call (08) 9921 6411 with the details."
+  ],
+  [
+   "Can you cut glass to size?",
+   "Yes, glass cutting to size, edgework and polishing, and custom orders."
+  ]
+ ],
+ "aboutHead": "About Wright Way Glass",
+ "aboutSub": "Glass merchant and glazier, Geraldton.",
+ "aboutParas": [
+  "Wright Way Glass & Mirrors is a glass merchant and glazier in Geraldton, established in 1994.",
+  "We specialise in residential window replacement and also handle shower screens, mirrors, splashbacks, insurance work and some commercial glass needs.",
+  "Call (08) 9921 6411 or Keith on 0418 930 913 for a free quote."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Experienced",
+   "In Geraldton since 1994."
+  ],
+  [
+   "Qualified",
+   "Fully insured and qualified glaziers."
+  ],
+  [
+   "Careful",
+   "Restorations and custom orders."
+  ]
+ ],
+ "contactHead": "Request a quote",
+ "contactSub": "Tell us what needs fixing and we'll call you back. Or ring Keith on 0418 930 913.",
+ "bandText": "Broken window or a new shower screen?",
+ "footerBlurb": "Glass merchant and glazier in Geraldton since 1994.",
+ "hours": [
+  [
+   "Monday",
+   "7am – 6pm"
+  ],
+  [
+   "Tuesday",
+   "6am – 6pm"
+  ],
+  [
+   "Wed – Fri",
+   "7am – 6pm"
+  ],
+  [
+   "Saturday",
+   "8am – 12pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Repaired my China cabinet that had leadlight door pushed in, with tiny panes of glass broken. Explained what needed to be done, and did it perfectly. Very reasonable price.",
+   "who": "Jennifer R., Yellow Pages",
+   "src": "Yellow Pages"
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "A review from Yellow Pages.",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Size or measurements (if known)",
+   "size"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "999px",
+  "h1max": "104px",
+  "logoRadius": 12,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "hero": "stack",
+  "icon": "pane",
+  "fontsQuery": "family=Unbounded:wght@500;700&family=Figtree:wght@400;500;700",
+  "headFont": "Unbounded,system-ui,sans-serif",
+  "bodyFont": "Figtree,system-ui,sans-serif",
+  "headWeight": "700",
+  "surface": "#EEF5FA",
+  "ink": "#0E2232",
+  "muted": "#4B6070",
+  "brand": "#0B3954",
+  "brand2": "#08283B",
+  "accent": "#BFD7EA",
+  "onAccent": "#0B3954",
+  "line": "#D6E4EE",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#0B3954",
+  "overlay": "rgba(8,40,59,.88)",
+  "footBg": "#08283B",
+  "footInk": "#BFD0DC",
+  "footHead": "#BFD7EA",
+  "logoBg": "#0B3954",
+  "logoFg": "#BFD7EA"
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "slug": "compton-rural-fencing",
+ "name": "Compton Rural Fencing & Gate Automation",
+ "short": "Compton Rural Fencing",
+ "tag": "& Gate Automation · Mount Gambier",
+ "street": "",
+ "suburb": "Mount Gambier",
+ "state": "SA",
+ "postcode": "5290",
+ "phone": "0427 947 728",
+ "phoneIntl": "+61427947728",
+ "facebook": "https://www.facebook.com/comptonruralfencing/",
+ "topline": "Rural fencing & gate automation · Mount Gambier area",
+ "addressLine": "Mount Gambier area, SA",
+ "area": "Mount Gambier and district",
+ "areaShort": "Mount Gambier and district",
+ "areaText": "Compton Rural Fencing & Gate Automation works around the Mount Gambier area. Call 0427 947 728 to talk about your job.",
+ "mapQuery": "Mount Gambier SA 5290",
+ "seoTitle": "Rural fencing & gate automation, Mount Gambier",
+ "metaDesc": "Compton Rural Fencing & Gate Automation: rural fencing and automatic gates in the Mount Gambier area. Call 0427 947 728.",
+ "ctaLabel": "Ask for a quote",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Mount Gambier",
+  "Rural fencing"
+ ],
+ "hero": {
+  "title": "Rural fencing and automatic gates.",
+  "lede": "Compton Rural Fencing & Gate Automation looks after rural fencing and gate automation around the Mount Gambier area.",
+  "trust": [
+   "Rural fencing",
+   "Gate automation",
+   "Mount Gambier area"
+  ]
+ },
+ "images": {
+  "hero": "1658595149717-5a4fe668f800",
+  "heroAlt": "Fenced paddock with trees and hills",
+  "about": "1665171556882-cfec56e219d8",
+  "about2": "1556603235-0f484147fda4",
+  "aboutAlt": "Rural fence running across a paddock",
+  "gallery": [
+   "1611841168695-cb9c76db8c0f",
+   "1663998605922-4d731fb65e64",
+   "1603494382904-fd393abb96cd",
+   "1499963019970-f2bff23c54ea",
+   "1571307073208-46b7b3d24318",
+   "1658595151483-aa3f440d7b0a"
+  ]
+ },
+ "servicesHead": "Fencing & gates",
+ "servicesSub": "Rural fencing and gate automation around Mount Gambier.",
+ "services": [
+  {
+   "id": "rural-fencing",
+   "title": "Rural fencing",
+   "img": "1611841168695-cb9c76db8c0f",
+   "short": "Fencing for farms and rural blocks.",
+   "long": "Paddocks, boundaries and rural properties. Call with the property location and what you need fenced.",
+   "points": [
+    "Farms and rural blocks",
+    "Mount Gambier area",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "gate-automation",
+   "title": "Gate automation",
+   "img": "1580047750144-2c7790adf461",
+   "short": "Automatic gates.",
+   "long": "Want a gate that opens without getting out of the ute? Ask us about gate automation.",
+   "points": [
+    "Automatic gates",
+    "Rural and residential",
+    "Talk it through first"
+   ]
+  },
+  {
+   "id": "district",
+   "title": "Mount Gambier & district",
+   "img": "1658595151483-aa3f440d7b0a",
+   "short": "Local to the area.",
+   "long": "We work around the Mount Gambier area. Give us a ring to check we cover your property.",
+   "points": [
+    "Mount Gambier area",
+    "Rural properties",
+    "Phone 0427 947 728"
+   ]
+  }
+ ],
+ "whyHead": "Fencing done for the country",
+ "whyText": "Compton Rural Fencing & Gate Automation does rural fencing and automatic gates in the Mount Gambier area.",
+ "why": [
+  "Rural fencing",
+  "Gate automation",
+  "Mount Gambier area",
+  "Call or message on Facebook"
+ ],
+ "galleryHead": "On the land",
+ "gallerySub": "Rural fencing and gates.",
+ "faq": [
+  [
+   "What do you do?",
+   "Rural fencing and gate automation."
+  ],
+  [
+   "Where do you work?",
+   "Around the Mount Gambier area."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0427 947 728, message us on Facebook, or send a request through this site."
+  ],
+  [
+   "What should I tell you?",
+   "Where the property is, how much fencing you need, and whether you want a gate automated."
+  ]
+ ],
+ "aboutHead": "About Compton Rural Fencing",
+ "aboutSub": "Rural fencing & gate automation, Mount Gambier area.",
+ "aboutParas": [
+  "Compton Rural Fencing & Gate Automation is a fencing business in the Mount Gambier area of South Australia.",
+  "We do rural fencing and gate automation.",
+  "Call 0427 947 728 or find us on Facebook."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Practical",
+   "Fencing that suits the property."
+  ],
+  [
+   "Local",
+   "Mount Gambier and district."
+  ],
+  [
+   "Easy to reach",
+   "Phone or Facebook."
+  ]
+ ],
+ "contactHead": "Ask for a quote",
+ "contactSub": "Tell us about the property and we'll call you back.",
+ "bandText": "Fencing or a gate to automate?",
+ "footerBlurb": "Rural fencing and gate automation in the Mount Gambier area.",
+ "hours": [
+  [
+   "Phone",
+   "0427 947 728"
+  ],
+  [
+   "Area",
+   "Mount Gambier"
+  ],
+  [
+   "Facebook",
+   "comptonruralfencing"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Property location",
+   "property"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "6px",
+  "h1max": "104px",
+  "logoRadius": 6,
+  "headTrack": "-.015em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FCFBF6",
+  "hero": "overlay",
+  "icon": "farmgate",
+  "fontsQuery": "family=Roboto+Slab:wght@600;800&family=Nunito:wght@400;600;700",
+  "headFont": "\"Roboto Slab\",Georgia,serif",
+  "bodyFont": "Nunito,system-ui,sans-serif",
+  "headWeight": "800",
+  "surface": "#EEF0E4",
+  "ink": "#1D2619",
+  "muted": "#525E4C",
+  "brand": "#2F4A2B",
+  "brand2": "#1E3219",
+  "accent": "#E3B23C",
+  "onAccent": "#1D2619",
+  "line": "#DCE0CF",
+  "headerBg": "#2F4A2B",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(22,36,18,.9)",
+  "footBg": "#1E3219",
+  "footInk": "#C8D2C0",
+  "footHead": "#E3B23C",
+  "logoBg": "#E3B23C",
+  "logoFg": "#1E3219"
+ }
+}
