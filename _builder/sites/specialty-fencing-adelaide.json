@@ -1,0 +1,218 @@
+{
+ "slug": "specialty-fencing-adelaide",
+ "name": "Specialty Fencing Adelaide",
+ "short": "Specialty Fencing",
+ "tag": "Fencing · Adelaide's north",
+ "street": "14 Galleon Close",
+ "suburb": "Blakeview",
+ "state": "SA",
+ "postcode": "5114",
+ "phone": "0451 121 071",
+ "phoneIntl": "+61451121071",
+ "topline": "Blakeview, Adelaide · Colorbond, timber & pool fencing",
+ "addressLine": "14 Galleon Close, Blakeview SA 5114",
+ "area": "Adelaide's northern suburbs",
+ "areaShort": "Blakeview, Adelaide",
+ "areaText": "Specialty Fencing Adelaide is based in Blakeview in Adelaide's north. Open Mon–Fri 9am–4pm. Call 0451 121 071.",
+ "mapQuery": "Specialty Fencing Adelaide, 14 Galleon Close, Blakeview SA 5114",
+ "seoTitle": "Colorbond, timber & pool fencing in Adelaide",
+ "metaDesc": "Specialty Fencing Adelaide, Blakeview SA: Colorbond, timber and pool fencing for homes and businesses. Call 0451 121 071 for a free quote.",
+ "ctaLabel": "Get a free quote",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Colorbond · Timber · Pool",
+  "Blakeview based"
+ ],
+ "hero": {
+  "title": "Solid fences, built right.",
+  "titleHtml": "Solid fences,<br>built right.",
+  "lede": "Colorbond, timber and pool fencing for homes and businesses across Adelaide, from a local fencer in Blakeview.",
+  "trust": [
+   "Colorbond, timber & pool",
+   "Residential & commercial",
+   "Free quotes"
+  ]
+ },
+ "images": {
+  "hero": "1729058015948-592a8e4a1772",
+  "heroAlt": "New fence and gate along a property",
+  "about": "1593285247650-cd7bb44adcfd",
+  "about2": "1607491281151-76c7c48e8c49",
+  "aboutAlt": "Timber fence beside a lawn",
+  "gallery": [
+   "1519478224231-4f91b359198b",
+   "1722881445875-bdd5f4d9e6fa",
+   "1621271697043-8f80216904e1",
+   "1681853108586-f29b4ef5c0fb",
+   "1587780843696-044a14ea63ae",
+   "1508263073532-98ed924de82d"
+  ]
+ },
+ "servicesHead": "Fencing services",
+ "servicesSub": "Colorbond, timber and pool fencing, in a range of styles.",
+ "services": [
+  {
+   "id": "colorbond",
+   "title": "Colorbond fencing",
+   "img": "1519478224231-4f91b359198b",
+   "short": "Low-maintenance steel fencing.",
+   "long": "Colorbond fences for backyards, side boundaries and front yards. Tell us the length and the look you're after and we'll quote it.",
+   "points": [
+    "Boundary fences",
+    "Range of styles",
+    "Free quote"
+   ]
+  },
+  {
+   "id": "timber",
+   "title": "Timber fencing",
+   "img": "1681853108586-f29b4ef5c0fb",
+   "short": "The classic Aussie backyard fence.",
+   "long": "Timber fences installed in the style that suits your home and yard.",
+   "points": [
+    "Paling & feature styles",
+    "New or replacement",
+    "Free quote"
+   ]
+  },
+  {
+   "id": "pool",
+   "title": "Pool fencing",
+   "img": "1621271697043-8f80216904e1",
+   "short": "Fencing around the pool.",
+   "long": "Pool fencing installed around your pool area. Call to talk through your layout.",
+   "points": [
+    "Pool areas",
+    "Range of styles",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Residential & commercial",
+   "img": "1587780843696-044a14ea63ae",
+   "short": "Homes and businesses.",
+   "long": "We fence for homeowners and for commercial properties across Adelaide. Ring 0451 121 071 to talk about your site.",
+   "points": [
+    "Homes",
+    "Commercial sites",
+    "Adelaide wide"
+   ]
+  }
+ ],
+ "whyHead": "A local fencer",
+ "whyText": "A local Adelaide fencer doing Colorbond, timber and pool fencing in a range of styles.",
+ "why": [
+  "Colorbond, timber & pool fencing",
+  "Residential & commercial",
+  "Based in Blakeview",
+  "Free quotes"
+ ],
+ "galleryHead": "Fences",
+ "gallerySub": "Fencing and gates around Adelaide.",
+ "faq": [
+  [
+   "Where are you based?",
+   "14 Galleon Close, Blakeview SA 5114, in Adelaide's north."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 9am to 4pm. Closed weekends."
+  ],
+  [
+   "What fencing do you do?",
+   "Colorbond, timber and pool fencing, for homes and commercial properties."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0451 121 071 or send a request through this site."
+  ]
+ ],
+ "aboutHead": "About Specialty Fencing Adelaide",
+ "aboutSub": "A fencer in Blakeview, Adelaide.",
+ "aboutParas": [
+  "Specialty Fencing Adelaide is a fencing business based in Blakeview, in Adelaide's northern suburbs.",
+  "We install Colorbond, timber and pool fencing in a range of styles, for homes and commercial properties.",
+  "Give us a ring on 0451 121 071, Monday to Friday 9am to 4pm."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Direct",
+   "You talk to the person doing the job."
+  ],
+  [
+   "Local",
+   "Blakeview and Adelaide's north."
+  ],
+  [
+   "Tidy",
+   "A fence you're happy to look at."
+  ]
+ ],
+ "contactHead": "Get a free quote",
+ "contactSub": "Tell us about the fence and we'll call you back. Or ring 0451 121 071.",
+ "bandText": "Thinking about a new fence?",
+ "footerBlurb": "Colorbond, timber and pool fencing from Blakeview, Adelaide.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "9am – 4pm"
+  ],
+  [
+   "Saturday",
+   "Closed"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Fence type (Colorbond, timber, pool)",
+   "type"
+  ],
+  [
+   "Approx. fence length",
+   "length"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "6px",
+  "h1max": "104px",
+  "logoRadius": 6,
+  "headTrack": "-.01em",
+  "headExtra": "text-transform:uppercase;",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "700",
+  "hero": "stack",
+  "icon": "panel",
+  "fontsQuery": "family=Archivo+Narrow:wght@500;600;700&family=Public+Sans:wght@400;500;700",
+  "headFont": "\"Archivo Narrow\",system-ui,sans-serif",
+  "bodyFont": "\"Public Sans\",system-ui,sans-serif",
+  "surface": "#F3F2EF",
+  "ink": "#1E2030",
+  "muted": "#5B5F70",
+  "brand": "#3A3F58",
+  "brand2": "#262A3B",
+  "accent": "#F4A259",
+  "onAccent": "#1E2030",
+  "line": "#E2E0DA",
+  "headerInk": "#3A3F58",
+  "overlay": "rgba(38,42,59,.86)",
+  "footBg": "#262A3B",
+  "footInk": "#C9CCD8",
+  "footHead": "#F4A259",
+  "logoBg": "#F4A259",
+  "logoFg": "#262A3B"
+ }
+}

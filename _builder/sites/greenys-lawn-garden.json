@@ -1,0 +1,252 @@
+{
+ "slug": "greenys-lawn-garden",
+ "name": "Greeny's Lawn & Garden Service",
+ "short": "Greeny's Lawn & Garden",
+ "tag": "Lawn & garden · Ipswich",
+ "street": "17 Peppercorn Place",
+ "suburb": "Flinders View",
+ "state": "QLD",
+ "postcode": "4305",
+ "phone": "0415 586 558",
+ "phoneIntl": "+61415586558",
+ "facebook": "https://www.facebook.com/davgreen67/",
+ "topline": "Flinders View, Ipswich · jayden_green98@hotmail.com",
+ "addressLine": "17 Peppercorn Place, Flinders View QLD 4305",
+ "area": "Ipswich & surrounds",
+ "areaShort": "Flinders View, Ipswich",
+ "areaText": "Greeny's Lawn & Garden Service is based in Flinders View and looks after lawns and gardens across Ipswich and surrounds, including Springfield Lakes. Call 0415 586 558.",
+ "mapQuery": "Greenys Lawn and Garden Service, 17 Peppercorn Pl, Flinders View QLD 4305",
+ "seoTitle": "Lawn mowing & garden service in Ipswich",
+ "metaDesc": "Greeny's Lawn & Garden Service, Flinders View: lawn mowing, hedging, pruning, weeding, turfing and yard clean-ups across Ipswich. 4.5★ on Google. Call 0415 586 558.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "Jayden",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "4.5★ on Google",
+  "Locally owned & operated"
+ ],
+ "hero": {
+  "title": "Tidy lawns, happy gardens.",
+  "titleHtml": "Tidy lawns,<br>happy gardens.",
+  "lede": "Locally owned lawn and garden care across Ipswich: mowing, hedging, weeding, turfing and clean-ups, from Flinders View.",
+  "trust": [
+   "4.5★ on Google",
+   "Homes & commercial",
+   "Custom maintenance packages"
+  ]
+ },
+ "images": {
+  "hero": "1789913133790-01ef40a47fb8",
+  "heroAlt": "Gardener watering plants with a hose",
+  "about": "1605117882932-f9e32b03fea9",
+  "about2": "1621272156506-cdbdb6a47243",
+  "aboutAlt": "Gardener holding a shovel",
+  "gallery": [
+   "1601001815894-4bb6c81416d7",
+   "1555955207-b96159c16808",
+   "1661534154810-8cd4f8fc1a2a",
+   "1686663048931-6df69f577a2f",
+   "1734079692079-aae7e24a7035",
+   "1597201278257-3687be27d954"
+  ]
+ },
+ "servicesHead": "Lawn & garden services",
+ "servicesSub": "Lawns, hedges, garden beds and full yard clean-ups. Custom maintenance packages on request.",
+ "services": [
+  {
+   "id": "mowing",
+   "title": "Lawn mowing",
+   "img": "1734303023491-db8037a21f09",
+   "short": "Regular or one-off mows.",
+   "long": "Front and back yards mowed neatly, on a regular run or as a one-off.",
+   "points": [
+    "Regular or one-off",
+    "Homes & commercial",
+    "Free quotes"
+   ]
+  },
+  {
+   "id": "hedging",
+   "title": "Hedging & pruning",
+   "img": "1661534154810-8cd4f8fc1a2a",
+   "short": "Hedges and shrubs kept in shape.",
+   "long": "Hedging and pruning to keep shrubs, hedges and garden beds neat.",
+   "points": [
+    "Hedges",
+    "Pruning",
+    "Shrubs"
+   ]
+  },
+  {
+   "id": "weeding",
+   "title": "Weeding & spraying",
+   "img": "1555955207-b96159c16808",
+   "short": "Weeds out, beds tidy.",
+   "long": "Weeding and spraying to keep lawns and garden beds clean.",
+   "points": [
+    "Garden beds",
+    "Lawn weeds",
+    "Spraying"
+   ]
+  },
+  {
+   "id": "turf",
+   "title": "Turfing, seeding & topdressing",
+   "img": "1734079692079-aae7e24a7035",
+   "short": "A thicker, healthier lawn.",
+   "long": "New turf laid, bare patches seeded and lawns topdressed.",
+   "points": [
+    "Turfing",
+    "Seeding",
+    "Topdressing"
+   ]
+  },
+  {
+   "id": "cleanup",
+   "title": "Clean-ups & rubbish removal",
+   "img": "1621272156506-cdbdb6a47243",
+   "short": "Overgrown yard? Sorted.",
+   "long": "Garden clean-ups and green waste and rubbish removal.",
+   "points": [
+    "Overgrown yards",
+    "Rubbish removal",
+    "Gardening & landscaping"
+   ]
+  },
+  {
+   "id": "bond",
+   "title": "Sale & bond yard prep",
+   "img": "1738193830098-2d92352a1856",
+   "short": "Yards ready to hand over.",
+   "long": "Getting yards ready for sale or for bond return at the end of a lease.",
+   "points": [
+    "Selling",
+    "Bond returns",
+    "One-off jobs"
+   ]
+  }
+ ],
+ "whyHead": "Why Ipswich calls Greeny's",
+ "whyText": "A small, locally owned lawn and garden business looking after Ipswich yards.",
+ "why": [
+  "4.5 stars on Google",
+  "Locally owned and operated",
+  "Homes and commercial jobs",
+  "Custom maintenance packages"
+ ],
+ "galleryHead": "Lawns & gardens",
+ "gallerySub": "The kind of yards we look after around Ipswich.",
+ "faq": [
+  [
+   "Where are you based?",
+   "17 Peppercorn Place, Flinders View, Ipswich QLD."
+  ],
+  [
+   "What areas do you cover?",
+   "Ipswich and surrounding areas, including Springfield Lakes."
+  ],
+  [
+   "Do you do commercial work?",
+   "Yes, as well as homes. Custom maintenance packages are available on request."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0415 586 558, email jayden_green98@hotmail.com or use the form."
+  ]
+ ],
+ "aboutHead": "About Greeny's",
+ "aboutSub": "Jayden, Flinders View.",
+ "aboutParas": [
+  "Greeny's Lawn & Garden Service is a small, locally owned and operated lawn and garden business in Flinders View, Ipswich.",
+  "We do mowing, hedging, pruning, weeding, spraying, turfing, topdressing, gardening and clean-ups, for homes and commercial properties.",
+  "Call 0415 586 558 or email jayden_green98@hotmail.com."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Ipswich based, Ipswich focused."
+  ],
+  [
+   "Direct",
+   "You talk to Jayden, start to finish."
+  ],
+  [
+   "Tidy",
+   "Neat finish, every job."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about your yard and we'll be in touch. Or call Jayden on 0415 586 558.",
+ "bandText": "Yard getting away from you?",
+ "footerBlurb": "Locally owned lawn and garden care in Flinders View, Ipswich.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "Call for availability"
+  ],
+  [
+   "Weekends",
+   "By arrangement"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Jayden does a great job and is meticulous in his work. Always on time and happy to help wherever he can. Highly recommend."
+  },
+  {
+   "text": "Jayden is a professional operator who does a great job."
+  },
+  {
+   "text": "Really good guys that get the job done quick and with beautiful quality!"
+  },
+  {
+   "text": "Great job guys will use again."
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "From Google reviews (4.5★).",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Lawn or garden size (if known)",
+   "yard"
+  ]
+ ],
+ "theme": {
+  "radius": "20px",
+  "btnRadius": "999px",
+  "h1max": "84px",
+  "logoRadius": 999,
+  "headTrack": "0",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFDF7",
+  "headerBg": "#FFFDF7",
+  "headWeight": "400",
+  "hero": "arch",
+  "icon": "tree",
+  "fontsQuery": "family=Yeseva+One&family=Jost:wght@400;500;600",
+  "headFont": "\"Yeseva One\",Georgia,serif",
+  "bodyFont": "Jost,system-ui,sans-serif",
+  "surface": "#F2EEDF",
+  "ink": "#1F2D21",
+  "muted": "#5A6A5B",
+  "brand": "#386641",
+  "brand2": "#E9EFDF",
+  "accent": "#D9A441",
+  "onAccent": "#1F2D21",
+  "line": "#E3DDC8",
+  "headerInk": "#386641",
+  "overlay": "rgba(36,69,43,.88)",
+  "footBg": "#24452B",
+  "footInk": "#D3DDCF",
+  "footHead": "#F2E8CF",
+  "logoBg": "#386641",
+  "logoFg": "#F2E8CF"
+ },
+ "rating": 4.5,
+ "reviewCount": 8,
+ "ratingSource": "Google"
+}

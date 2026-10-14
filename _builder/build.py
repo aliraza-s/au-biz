@@ -47,6 +47,11 @@ ICONS = {
  "wall": '<g fill="currentColor"><path d="M3 23h8v6H3zM12 23h8v6h-8zM21 23h8v6h-8zM7.5 16h8v6h-8zM16.5 16h8v6h-8zM12 9h8v6h-8z"/></g><path d="M3 9c3-3 5-3 8 0" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round"/>',
  "palisade": '<g fill="currentColor"><path d="M6 3l2 5v20H4V8zM13 3l2 5v20h-4V8zM20 3l2 5v20h-4V8zM27 3l2 5v20h-4V8z"/><path d="M2 11h28v2.6H2zM2 21.5h28v2.6H2z"/></g>',
  "pane": '<g fill="none" stroke="currentColor" stroke-width="2.6"><rect x="4" y="4" width="24" height="24" rx="2"/><path d="M16 4v24M4 16h24"/></g><path d="M8 12.5l3.5-3.5M20 12.5l3.5-3.5M20 24.5l3.5-3.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" fill="none"/>',
+ "panel": '<g fill="currentColor"><path d="M3 4h4v25H3zM25 4h4v25h-4z"/><path d="M8 7h16v19H8z"/></g><path d="M11 7v19M14 7v19M17 7v19M20 7v19" stroke="var(--logo-ink)" stroke-width="1.3"/>',
+ "spade": '<g fill="currentColor"><path d="M14.5 2h3v15h-3z"/><path d="M11 3h10v3H11z"/><path d="M9 16h14v6a7 7 0 0 1-14 0z"/></g><path d="M16 22v6" stroke="var(--logo-ink)" stroke-width="1.6" stroke-linecap="round"/>',
+ "grass": '<g fill="currentColor"><path d="M3 27C4 19 6 13 9 8c0 7 0 13 2 19z"/><path d="M10 27c0-9 2-17 6-24 1 9 1 17 0 24z"/><path d="M17 27c1-8 4-14 8-18-1 6-2 12-2 18z"/><path d="M23 27c1-5 3-9 6-11-1 4-1 7-1 11z"/><path d="M2 26h28v3H2z"/></g>',
+ "tree": '<g fill="currentColor"><circle cx="16" cy="11" r="8"/><circle cx="9.5" cy="16" r="5.5"/><circle cx="22.5" cy="16" r="5.5"/><path d="M14.5 17h3v11h-3z"/><path d="M8 27h16v2.5H8z"/></g>',
+ "piston": '<g fill="currentColor"><rect x="8" y="3" width="16" height="12" rx="2"/><path d="M14 15h4l3 9h-10z"/><circle cx="16" cy="25.5" r="4"/></g><path d="M8 7.5h16M8 11h16" stroke="var(--logo-ink)" stroke-width="1.4"/><circle cx="16" cy="25.5" r="1.6" fill="var(--logo-ink)"/>',
 }
 
 def logo_svg(s, size=44):

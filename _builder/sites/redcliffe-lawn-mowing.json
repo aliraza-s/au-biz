@@ -1,0 +1,232 @@
+{
+ "slug": "redcliffe-lawn-mowing",
+ "name": "Redcliffe Lawn Mowing",
+ "short": "Redcliffe Lawn Mowing",
+ "tag": "Lawn mowing · Redcliffe peninsula",
+ "street": "1B Peterson Street",
+ "suburb": "Scarborough",
+ "state": "QLD",
+ "postcode": "4020",
+ "phone": "0435 098 840",
+ "phoneIntl": "+61435098840",
+ "facebook": "https://www.facebook.com/RedcliffeLawnMowing/",
+ "topline": "Scarborough · Redcliffe peninsula · Call Lachlan 0435 098 840",
+ "addressLine": "1B Peterson Street, Scarborough QLD 4020",
+ "area": "the Redcliffe peninsula",
+ "areaShort": "Scarborough, Redcliffe",
+ "areaText": "Redcliffe Lawn Mowing is Lachlan, based in Scarborough on the Redcliffe peninsula. Mon–Fri 8am–5pm. Call 0435 098 840.",
+ "mapQuery": "Redcliffe Lawn Mowing, 1B Peterson St, Scarborough QLD 4020",
+ "seoTitle": "Lawn mowing in Redcliffe & Scarborough",
+ "metaDesc": "Redcliffe Lawn Mowing: Lachlan mows lawns, trims hedges and does edges around Scarborough and the Redcliffe peninsula. 5.0★ from 18 Google reviews. Call 0435 098 840.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "Lachlan",
+ "schemaType": "HomeAndConstructionBusiness",
+ "ratingSource": "Google",
+ "badge": [
+  "5.0★ on Google",
+  "Redcliffe peninsula local"
+ ],
+ "hero": {
+  "title": "Sharp lawns on the Redcliffe peninsula.",
+  "titleHtml": "Sharp lawns on the<br>Redcliffe peninsula.",
+  "lede": "Lawn mowing, edges and hedge trimming from Lachlan in Scarborough. Reliable, friendly and tidy, every time.",
+  "trust": [
+   "5.0★ from 18 Google reviews",
+   "Hedges & edges too",
+   "Free quotes"
+  ]
+ },
+ "images": {
+  "hero": "1779636489740-6077a4198be6",
+  "heroAlt": "Two men mowing and trimming a front lawn",
+  "about": "1782613064276-750c3a3ccdec",
+  "about2": "1779636489807-ffad2fc04e8e",
+  "aboutAlt": "Mowing a lawn with a push mower",
+  "gallery": [
+   "1779636489744-76eb81c44925",
+   "1706920925080-be07c32398e1",
+   "1667072927318-0aa05b0a010d",
+   "1719536753784-bd0881701b1a",
+   "1501520158826-76df880863a3",
+   "1558904541-efa843a96f01"
+  ]
+ },
+ "servicesHead": "Lawn services",
+ "servicesSub": "Straightforward mowing for homes around Redcliffe.",
+ "services": [
+  {
+   "id": "mowing",
+   "title": "Lawn mowing",
+   "img": "1782613064276-750c3a3ccdec",
+   "short": "Front and back yards, mown neat.",
+   "long": "Lawn mowing for homes around Scarborough, Redcliffe and the rest of the peninsula. Call Lachlan to talk about your yard.",
+   "points": [
+    "Front & back yards",
+    "Regular or one-off",
+    "Free quotes"
+   ]
+  },
+  {
+   "id": "edges",
+   "title": "Edging & whipper snipping",
+   "img": "1779636489807-ffad2fc04e8e",
+   "short": "Clean lines along paths and fences.",
+   "long": "Edges and whipper snipping to finish the job, so paths, driveways and fence lines look tidy.",
+   "points": [
+    "Paths & driveways",
+    "Fence lines",
+    "Garden borders"
+   ]
+  },
+  {
+   "id": "hedges",
+   "title": "Hedge trimming",
+   "img": "1706920925080-be07c32398e1",
+   "short": "Hedges shaped and tidy.",
+   "long": "Hedges trimmed neat as part of a mow or on their own. Customers rate the hedge work highly.",
+   "points": [
+    "Hedges & shrubs",
+    "Neat shapes",
+    "Clippings cleaned up"
+   ]
+  },
+  {
+   "id": "tidy",
+   "title": "Yard tidy-ups",
+   "img": "1779636489744-76eb81c44925",
+   "short": "A fresh, tidy yard.",
+   "long": "Get the whole yard looking fresh and tidy again. Call Lachlan to talk through what it needs.",
+   "points": [
+    "Around trees & beds",
+    "One-off tidy-ups",
+    "Call to discuss"
+   ]
+  }
+ ],
+ "whyHead": "Why call Lachlan",
+ "whyText": "A local operator who mows the peninsula and answers his own phone.",
+ "why": [
+  "5.0 stars from 18 Google reviews",
+  "Reliable, hardworking and friendly",
+  "Hedges and edges done properly",
+  "Talk directly to Lachlan"
+ ],
+ "galleryHead": "Lawns around the peninsula",
+ "gallerySub": "Mowing in Scarborough, Redcliffe and nearby.",
+ "faq": [
+  [
+   "Where are you based?",
+   "1B Peterson Street, Scarborough, on the Redcliffe peninsula."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 8am to 5pm. Closed weekends."
+  ],
+  [
+   "What do you do?",
+   "Lawn mowing, edging and whipper snipping, hedge trimming and yard tidy-ups."
+  ],
+  [
+   "How do I get a quote?",
+   "Call Lachlan on 0435 098 840, message us on Facebook or use the form."
+  ]
+ ],
+ "aboutHead": "About Redcliffe Lawn Mowing",
+ "aboutSub": "Lachlan, Scarborough.",
+ "aboutParas": [
+  "Redcliffe Lawn Mowing is Lachlan, mowing lawns from Scarborough across the Redcliffe peninsula.",
+  "Every yard is a bit different, so call and tell Lachlan what you need.",
+  "Call 0435 098 840 or message us on Facebook."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based right here in Scarborough."
+  ],
+  [
+   "Direct",
+   "You deal with Lachlan, start to finish."
+  ],
+  [
+   "Tidy",
+   "Edges and clippings sorted before we go."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about your lawn and we'll be in touch. Or call Lachlan on 0435 098 840.",
+ "bandText": "Lawn getting away from you?",
+ "footerBlurb": "Lawn mowing by Lachlan in Scarborough and around the Redcliffe peninsula.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "8am – 5pm"
+  ],
+  [
+   "Saturday",
+   "Closed"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Hands down the most reliable, hardworking and friendly mowing service ive ever had!"
+  },
+  {
+   "text": "Fabulous efficient professional work done every time! Hedges look amazing when trimmed…"
+  },
+  {
+   "text": "Have always been super happy with Lachlan's lawn mowing service. He is very professional…"
+  },
+  {
+   "text": "We've been really happy with our fresh tidy yard and would highly recommend Lachlan 😀"
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "From Google reviews (5.0★, 18 reviews).",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Suburb and rough yard size",
+   "Scarborough, front and back"
+  ]
+ ],
+ "theme": {
+  "radius": "22px",
+  "btnRadius": "999px",
+  "h1max": "92px",
+  "logoRadius": 16,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "800",
+  "hero": "overlay",
+  "icon": "grass",
+  "fontsQuery": "family=Syne:wght@600;700;800&family=Albert+Sans:wght@400;500;700",
+  "headFont": "Syne,system-ui,sans-serif",
+  "bodyFont": "\"Albert Sans\",system-ui,sans-serif",
+  "surface": "#EEF6F4",
+  "ink": "#0B2A31",
+  "muted": "#4D6A70",
+  "brand": "#005F73",
+  "brand2": "#0A4652",
+  "accent": "#94D2BD",
+  "onAccent": "#08343D",
+  "line": "#D5E7E3",
+  "headerInk": "#005F73",
+  "overlay": "rgba(10,70,82,.9)",
+  "footBg": "#0A4652",
+  "footInk": "#C3DDD8",
+  "footHead": "#94D2BD",
+  "logoBg": "#005F73",
+  "logoFg": "#94D2BD"
+ },
+ "rating": 5.0,
+ "reviewCount": 18
+}

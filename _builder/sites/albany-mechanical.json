@@ -1,0 +1,223 @@
+{
+ "slug": "albany-mechanical",
+ "name": "Albany Mechanical",
+ "short": "Albany Mechanical",
+ "tag": "Mechanic · Albany WA",
+ "street": "25 Cockburn Road",
+ "suburb": "Mira Mar",
+ "state": "WA",
+ "postcode": "6330",
+ "phone": "0466 580 097",
+ "phoneIntl": "+61466580097",
+ "facebook": "https://www.facebook.com/albanymechanical6330/",
+ "topline": "Mira Mar, Albany WA · albanymechanical@hotmail.com",
+ "addressLine": "25 Cockburn Road, Mira Mar WA 6330",
+ "area": "Albany",
+ "areaShort": "Mira Mar, Albany",
+ "areaText": "Albany Mechanical is Ainsley, at 25 Cockburn Road, Mira Mar. Open Mon–Fri 7:30am–5pm. Call 0466 580 097 or email albanymechanical@hotmail.com.",
+ "mapQuery": "Albany Mechanical, 25 Cockburn Rd, Mira Mar WA 6330",
+ "seoTitle": "Mechanic in Mira Mar, Albany WA",
+ "metaDesc": "Albany Mechanical, 25 Cockburn Rd, Mira Mar: car servicing, repairs and fault finding in Albany WA. Open Mon–Fri 7:30am–5pm. Call Ainsley on 0466 580 097.",
+ "ctaLabel": "Book a mechanic",
+ "ownerOrUs": "Ainsley",
+ "schemaType": "AutoRepair",
+ "badge": [
+  "Mira Mar, Albany",
+  "Mon–Fri 7:30–5"
+ ],
+ "hero": {
+  "title": "Straight-up car repairs in Albany.",
+  "titleHtml": "Straight-up car<br>repairs in Albany.",
+  "lede": "Servicing, repairs and fault finding from Ainsley at Albany Mechanical, 25 Cockburn Road, Mira Mar.",
+  "trust": [
+   "Mon–Fri 7:30am–5pm",
+   "Deal direct with Ainsley",
+   "Call or email to book"
+  ]
+ },
+ "images": {
+  "hero": "1727893119356-1702fe921cf9",
+  "heroAlt": "Mechanics working on cars in a workshop",
+  "about": "1429772011165-0c2e054367b8",
+  "about2": "1727893372771-b4ccae9b9f0b",
+  "aboutAlt": "Engine bay",
+  "gallery": [
+   "1727893153491-392fd2d1c721",
+   "1727893141025-35d62b3f4a03",
+   "1625047509168-a7026f36de04",
+   "1625047509252-ab38fb5c7343",
+   "1615906655593-ad0386982a0f",
+   "1619642751034-765dfdf7c58e"
+  ]
+ },
+ "servicesHead": "What we can help with",
+ "servicesSub": "General mechanical work for Albany drivers.",
+ "services": [
+  {
+   "id": "servicing",
+   "title": "Car servicing",
+   "img": "1727893141025-35d62b3f4a03",
+   "short": "Routine servicing to keep the car running right.",
+   "long": "General servicing and maintenance for everyday cars. Tell Ainsley the make, model and kilometres and we'll let you know what's due.",
+   "points": [
+    "General maintenance",
+    "Everyday cars",
+    "Call for a quote"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Mechanical repairs",
+   "img": "1619642751034-765dfdf7c58e",
+   "short": "Fixing what's broken, explained in plain English.",
+   "long": "Mechanical repairs for cars around Albany. Describe what's going on over the phone and we'll talk you through the options.",
+   "points": [
+    "Straight answers",
+    "Talk it through first",
+    "Call for a quote"
+   ]
+  },
+  {
+   "id": "diagnostics",
+   "title": "Fault finding",
+   "img": "1727893372771-b4ccae9b9f0b",
+   "short": "Warning lights, odd noises and won't-starts.",
+   "long": "If the car has a warning light on, is making a noise or won't start, we'll work out what's actually wrong before anything gets replaced.",
+   "points": [
+    "Warning lights",
+    "Won't-start problems",
+    "Noises and leaks"
+   ]
+  },
+  {
+   "id": "booking",
+   "title": "Easy booking",
+   "img": "1625047509168-a7026f36de04",
+   "short": "Ring, email or send a request.",
+   "long": "Call 0466 580 097 or email albanymechanical@hotmail.com with the make, model and what the car is doing, and we'll find a time.",
+   "points": [
+    "Phone or email",
+    "Mon–Fri",
+    "Talk to Ainsley"
+   ]
+  }
+ ],
+ "whyHead": "Why Albany calls Ainsley",
+ "whyText": "A local mechanic you can ring directly, without the runaround.",
+ "why": [
+  "Based at 25 Cockburn Rd, Mira Mar",
+  "Deal direct with the mechanic",
+  "Plain-English explanations",
+  "Easy to book by phone or email"
+ ],
+ "galleryHead": "On the tools",
+ "gallerySub": "Servicing and repairs around Albany.",
+ "faq": [
+  [
+   "Where are you based?",
+   "25 Cockburn Road, Mira Mar, Albany WA 6330."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 7:30am to 5pm. Closed weekends."
+  ],
+  [
+   "Who will I be dealing with?",
+   "Ainsley. Call 0466 580 097."
+  ],
+  [
+   "How do I book or get a quote?",
+   "Call 0466 580 097, email albanymechanical@hotmail.com, or send a request through this site."
+  ],
+  [
+   "What should I tell you when I get in touch?",
+   "The make, model and year of the car, where it is, and what it's doing."
+  ]
+ ],
+ "aboutHead": "About Albany Mechanical",
+ "aboutSub": "Ainsley, Mira Mar.",
+ "aboutParas": [
+  "Albany Mechanical is Ainsley, a mechanic at 25 Cockburn Road in Mira Mar, Albany.",
+  "Whether it's a routine service or a car that's suddenly playing up, you'll deal with the person doing the work.",
+  "Call 0466 580 097 or email albanymechanical@hotmail.com, Monday to Friday 7:30am to 5pm."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in Mira Mar, Albany."
+  ],
+  [
+   "Direct",
+   "You talk to Ainsley, not a front desk."
+  ],
+  [
+   "Upfront",
+   "We explain the problem before we fix it."
+  ]
+ ],
+ "contactHead": "Book Albany Mechanical",
+ "contactSub": "Tell us about the car and where it is, and we'll be in touch. Or call Ainsley on 0466 580 097.",
+ "bandText": "Car playing up? Give Ainsley a call.",
+ "footerBlurb": "Mechanic based in Mira Mar, Albany WA.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7:30am – 5pm"
+  ],
+  [
+   "Saturday",
+   "Closed"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Booking request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Vehicle (make, model, year)",
+   "vehicle"
+  ],
+  [
+   "What's it doing?",
+   "issue"
+  ]
+ ],
+ "theme": {
+  "radius": "10px",
+  "btnRadius": "4px",
+  "h1max": "90px",
+  "logoRadius": 8,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "700",
+  "hero": "center",
+  "icon": "piston",
+  "fontsQuery": "family=Chakra+Petch:wght@600;700&family=Hanken+Grotesk:wght@400;500;700",
+  "headFont": "\"Chakra Petch\",system-ui,sans-serif",
+  "bodyFont": "\"Hanken Grotesk\",system-ui,sans-serif",
+  "surface": "#EDF2F4",
+  "ink": "#1B1C2B",
+  "muted": "#5C6070",
+  "brand": "#2B2D42",
+  "brand2": "#1B1C2B",
+  "accent": "#EF233C",
+  "onAccent": "#FFFFFF",
+  "line": "#D8DEE3",
+  "headerInk": "#2B2D42",
+  "overlay": "rgba(27,28,43,.88)",
+  "footBg": "#1B1C2B",
+  "footInk": "#BCC2CF",
+  "footHead": "#EF233C",
+  "logoBg": "#EF233C",
+  "logoFg": "#FFFFFF"
+ }
+}
