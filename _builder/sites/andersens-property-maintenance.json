@@ -1,0 +1,223 @@
+{
+ "slug": "andersens-property-maintenance",
+ "name": "Andersen's Property Maintenance",
+ "short": "Andersen's",
+ "tag": "Property Maintenance · Caboolture",
+ "street": "768 Caboolture River Road",
+ "suburb": "Upper Caboolture",
+ "state": "QLD",
+ "postcode": "4510",
+ "phone": "0410 873 465",
+ "phoneIntl": "+61410873465",
+ "topline": "Upper Caboolture · Open 7 days, 8am–6pm",
+ "addressLine": "768 Caboolture River Road, Upper Caboolture QLD 4510",
+ "area": "Caboolture",
+ "areaShort": "Upper Caboolture",
+ "areaText": "Andersen's Property Maintenance is based at 768 Caboolture River Road, Upper Caboolture. Open 7 days. Call Rodney on 0410 873 465.",
+ "mapQuery": "Andersen's Property Maintenance, 768 Caboolture River Rd, Upper Caboolture QLD 4510",
+ "seoTitle": "Lawn mowing & property maintenance in Caboolture",
+ "metaDesc": "Andersen's Property Maintenance, Upper Caboolture: lawn mowing, gardens and commercial-grade weed spraying. 5.0★ on Google, open 7 days. Call 0410 873 465.",
+ "ctaLabel": "Book a quote",
+ "ownerOrUs": "Rodney",
+ "schemaType": "HomeAndConstructionBusiness",
+ "rating": 5.0,
+ "reviewCount": 23,
+ "ratingSource": "Google",
+ "badge": [
+  "5.0★ on Google",
+  "Open 7 days"
+ ],
+ "hero": {
+  "title": "Lawns and gardens, always on time.",
+  "titleHtml": "Lawns &amp; gardens,<br>always on time.",
+  "lede": "Regular mowing, garden tidy-ups and commercial-grade weed spraying for homes and rentals around Caboolture.",
+  "trust": [
+   "5.0★ from 23 Google reviews",
+   "Open 7 days, 8am–6pm",
+   "Great for renters"
+  ]
+ },
+ "images": {
+  "hero": "1683316924890-6a8c5ab10d29",
+  "heroAlt": "Man mowing a front yard",
+  "about": "1637531347055-4fa8aa80c111",
+  "about2": "1621460249485-4e4f92c9de5d",
+  "aboutAlt": "Gardener holding garden tools",
+  "gallery": [
+   "1734303023491-db8037a21f09",
+   "1689728318937-17d24bc0a65c",
+   "1621272156568-7306716648df",
+   "1535090467336-9501f96eef89",
+   "1668120089662-42642838cfef",
+   "1738193830098-2d92352a1856"
+  ]
+ },
+ "servicesHead": "Property maintenance",
+ "servicesSub": "Keep the yard looking right all year.",
+ "services": [
+  {
+   "id": "mowing",
+   "title": "Lawn mowing",
+   "img": "1734303023491-db8037a21f09",
+   "short": "Regular mowing, quick and tidy.",
+   "long": "Regular lawn mowing for homes and rentals, done quickly and to a consistent standard.",
+   "points": [
+    "Regular mows",
+    "Edges & tidy-up",
+    "Rentals"
+   ]
+  },
+  {
+   "id": "gardens",
+   "title": "Garden work",
+   "img": "1621272156568-7306716648df",
+   "short": "Gardens done the way you asked.",
+   "long": "Garden clean-ups and maintenance, completed exactly as requested.",
+   "points": [
+    "Garden tidy-ups",
+    "Maintenance",
+    "Advice"
+   ]
+  },
+  {
+   "id": "weeds",
+   "title": "Weed spraying",
+   "img": "1535090467336-9501f96eef89",
+   "short": "Commercial-grade weed spray.",
+   "long": "Commercial-grade weed spraying that lasts longer than off-the-shelf products.",
+   "points": [
+    "Commercial grade",
+    "Long lasting",
+    "Lawns & paths"
+   ]
+  },
+  {
+   "id": "rentals",
+   "title": "Rental yard upkeep",
+   "img": "1738193830098-2d92352a1856",
+   "short": "Keep the rental yard in shape.",
+   "long": "Renters need the yard well maintained. We'll keep it that way and advise on the best approach.",
+   "points": [
+    "Tenants",
+    "Owners",
+    "Ongoing plans"
+   ]
+  }
+ ],
+ "whyHead": "Why Caboolture trusts Andersen's",
+ "whyText": "Rodney and Candice run a business that actually listens to its customers.",
+ "why": [
+  "5.0 stars from 23 Google reviews",
+  "Always on time",
+  "Open 7 days, 8am to 6pm",
+  "We follow up to make sure you're happy"
+ ],
+ "galleryHead": "Lawns & gardens",
+ "gallerySub": "Mowing, trimming and garden work.",
+ "faq": [
+  [
+   "Where are you based?",
+   "768 Caboolture River Road, Upper Caboolture QLD 4510."
+  ],
+  [
+   "What are your hours?",
+   "Open 7 days, 8am to 6pm."
+  ],
+  [
+   "Do you work for renters?",
+   "Yes. We help tenants keep the yard well maintained."
+  ],
+  [
+   "What weed spray do you use?",
+   "A commercial-grade spray that lasts longer than off-the-shelf products."
+  ]
+ ],
+ "aboutHead": "About Andersen's",
+ "aboutSub": "Rodney & Candice, Upper Caboolture.",
+ "aboutParas": [
+  "Andersen's Property Maintenance is run by Rodney and Candice in Upper Caboolture.",
+  "We look after lawns and gardens for homeowners and renters, and we listen to what you want done before we start.",
+  "We even follow up after the job to ask how we could do better. Call Rodney on 0410 873 465."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "On time",
+   "Rodney turns up when he says."
+  ],
+  [
+   "Listening",
+   "Done the way you asked."
+  ],
+  [
+   "Better",
+   "We ask for feedback and act on it."
+  ]
+ ],
+ "contactHead": "Book a quote",
+ "contactSub": "Tell us about your yard and we'll get back to you. Or call Rodney on 0410 873 465.",
+ "bandText": "Lawn getting away from you?",
+ "footerBlurb": "Lawns, gardens and weed spraying around Caboolture. Open 7 days.",
+ "hours": [
+  [
+   "Mon – Sun",
+   "8am – 6pm"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Rodney is always on time and his quality of work is always impeccable and very much worth the money! Our lawn is consistently well maintained."
+  },
+  {
+   "text": "Been a renter the yard needs to be well maintained & Rodney has most certainly helped us achieve that. He listened to what we were seeking & even gave advice on the best way to do things. Thanks heaps Rodney & Candice."
+  },
+  {
+   "text": "Very competitive price for the multiple jobs I required, fantastic commercial grade weed spray (did a much better job than the round up I previously used and lasted longer)."
+  },
+  {
+   "text": "Rodney arrived on time & completed the job exactly as we had requested. Very happy with the work provided & professionalism shown."
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "From Google reviews (5.0★, 23 reviews).",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Block size or job (if known)",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "16px",
+  "btnRadius": "12px",
+  "h1max": "92px",
+  "logoRadius": 10,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "800",
+  "hero": "stack",
+  "icon": "sprout",
+  "fontsQuery": "family=Poppins:wght@600;800&family=Mulish:wght@400;600;700",
+  "headFont": "Poppins,system-ui,sans-serif",
+  "bodyFont": "Mulish,system-ui,sans-serif",
+  "surface": "#F6F3EE",
+  "ink": "#24211D",
+  "muted": "#5F5951",
+  "brand": "#2D2A26",
+  "brand2": "#1C1A17",
+  "accent": "#F28C28",
+  "onAccent": "#1C1A17",
+  "line": "#E7E1D7",
+  "headerInk": "#2D2A26",
+  "overlay": "rgba(28,26,23,.88)",
+  "footBg": "#1C1A17",
+  "footInk": "#CFC8BD",
+  "footHead": "#F28C28",
+  "logoBg": "#F28C28",
+  "logoFg": "#2D2A26"
+ }
+}

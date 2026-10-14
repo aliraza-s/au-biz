@@ -1,0 +1,234 @@
+{
+ "slug": "hobart-helpful-handy",
+ "name": "Hobart Helpful & Handy",
+ "short": "Helpful & Handy",
+ "tag": "Handyman · Hobart",
+ "suburb": "Hobart",
+ "state": "TAS",
+ "postcode": "7000",
+ "phone": "0429 131 095",
+ "phoneIntl": "+61429131095",
+ "topline": "Hobart handyman · Call Clint on 0429 131 095",
+ "addressLine": "Hobart TAS 7000",
+ "area": "Hobart",
+ "areaShort": "Hobart & surrounds",
+ "areaText": "Hobart Helpful & Handy is Clint, a handyman based in Hobart. Call or text 0429 131 095.",
+ "mapQuery": "Hobart Helpful & Handy, Hobart TAS",
+ "seoTitle": "Handyman in Hobart",
+ "metaDesc": "Hobart Helpful & Handy: Clint, a 5-star Hobart handyman. TV mounting, cat doors, blinds, silicone, hanging, kitchens and garden sheds. Call 0429 131 095.",
+ "ctaLabel": "Ask Clint for a quote",
+ "ownerOrUs": "Clint",
+ "schemaType": "HomeAndConstructionBusiness",
+ "rating": 5.0,
+ "reviewCount": 11,
+ "ratingSource": "Google",
+ "badge": [
+  "5.0★ on Google",
+  "Hobart handyman"
+ ],
+ "hero": {
+  "title": "The handyman Hobart recommends.",
+  "titleHtml": "The handyman<br>Hobart recommends.",
+  "lede": "TV mounts, cat doors, blinds, silicone, shelving, kitchens and garden sheds. Done carefully, honestly and on time.",
+  "trust": [
+   "5.0★ from 11 Google reviews",
+   "Honest, careful work",
+   "Arrives when he says"
+  ]
+ },
+ "images": {
+  "hero": "1581783898377-1c85bf937427",
+  "heroAlt": "Hammer and screwdriver",
+  "about": "1615974679600-665fb9468c4f",
+  "about2": "1606676539940-12768ce0e762",
+  "aboutAlt": "Handyman holding a tape measure",
+  "gallery": [
+   "1562259929-b4e1fd3aef09",
+   "1517581177682-a085bb7ffb15",
+   "1599619585752-c3edb42a414c",
+   "1676311396794-f14881e9daaa",
+   "1608109704808-62aadbc33a7d",
+   "1606676539940-12768ce0e762"
+  ]
+ },
+ "servicesHead": "Handyman jobs, big and small",
+ "servicesSub": "The kinds of jobs Clint's customers have booked him for.",
+ "services": [
+  {
+   "id": "tv-mounting",
+   "title": "TV mounting",
+   "img": "1562259929-b4e1fd3aef09",
+   "short": "TVs mounted exactly where you want them.",
+   "long": "Clint takes the time to get the placement right before a single hole is drilled, and is gentle with your walls and gear.",
+   "points": [
+    "Wall mounts",
+    "Careful placement",
+    "Tidy finish"
+   ]
+  },
+  {
+   "id": "odd-jobs",
+   "title": "Around-the-house jobs",
+   "img": "1606676539940-12768ce0e762",
+   "short": "Cat doors, hanging, blinds.",
+   "long": "Cat door installs, hanging pictures and mirrors, re-sashing blinds and all the small jobs on the list.",
+   "points": [
+    "Cat doors",
+    "Hanging items",
+    "Blinds"
+   ]
+  },
+  {
+   "id": "bathroom",
+   "title": "Silicone & bathroom fixes",
+   "img": "1599619585752-c3edb42a414c",
+   "short": "Fresh silicone on shower tiles.",
+   "long": "Old, mouldy silicone removed and replaced for a clean, sealed shower.",
+   "points": [
+    "Shower silicone",
+    "Re-sealing",
+    "Small repairs"
+   ]
+  },
+  {
+   "id": "kitchens",
+   "title": "Kitchens & bigger jobs",
+   "img": "1676311396794-f14881e9daaa",
+   "short": "Kitchens, sheds and slabs.",
+   "long": "From finishing a kitchen to putting together a garden shed including the cement slab.",
+   "points": [
+    "Kitchens",
+    "Garden sheds",
+    "Cement slabs"
+   ]
+  }
+ ],
+ "whyHead": "Why Hobart calls Clint",
+ "whyText": "Every review says the same things: honest, careful and great to work with.",
+ "why": [
+  "5 stars from 11 Google reviews",
+  "Honest, polite and trustworthy",
+  "Shares know-how so you can do small jobs yourself",
+  "Fair prices"
+ ],
+ "galleryHead": "On the tools",
+ "gallerySub": "Handyman work around Hobart homes.",
+ "faq": [
+  [
+   "What area do you cover?",
+   "Hobart and surrounds. Call 0429 131 095 to check your suburb."
+  ],
+  [
+   "When are you available?",
+   "Wednesday 9am–4:30pm, Thursday and Friday 8:30am–4:30pm."
+  ],
+  [
+   "Do you do small jobs?",
+   "Yes. Hanging items, cat doors, blinds, silicone, TV mounts and more."
+  ],
+  [
+   "Can you do bigger jobs?",
+   "Clint has done kitchens and garden sheds with cement slabs. Give him a call."
+  ]
+ ],
+ "aboutHead": "About Clint",
+ "aboutSub": "Hobart Helpful & Handy.",
+ "aboutParas": [
+  "Hobart Helpful & Handy is Clint, a handyman working across Hobart.",
+  "He's known for patient, careful work and for being happy to explain how things are done, so you can tackle small jobs yourself next time.",
+  "Call or text Clint on 0429 131 095."
+ ],
+ "valuesHead": "How Clint works",
+ "values": [
+  [
+   "Patient",
+   "Takes the time to get it right."
+  ],
+  [
+   "Honest",
+   "Straight advice and fair prices."
+  ],
+  [
+   "Reliable",
+   "Turns up when he says he will."
+  ]
+ ],
+ "contactHead": "Ask Clint for a quote",
+ "contactSub": "Tell Clint about the job and he'll get back to you. Or call 0429 131 095.",
+ "bandText": "Got a list of jobs around the house?",
+ "footerBlurb": "Hobart handyman. Careful, honest work at a fair price.",
+ "hours": [
+  [
+   "Mon – Tue",
+   "Closed"
+  ],
+  [
+   "Wednesday",
+   "9am – 4:30pm"
+  ],
+  [
+   "Thu – Fri",
+   "8:30am – 4:30pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Clint did an absolutely outstanding job on a TV mount installation at a fraction of the price quoted by other local businesses. He was incredibly patient and careful in his placement."
+  },
+  {
+   "text": "Clint is an amazing handyman. He is professional, hard working and honest. Cat door install, hanging various items, resashing blinds, replace silicone on my shower tiles. Every job completed to an excellent standard."
+  },
+  {
+   "text": "Clint put together a garden shed including the cement slab for my Mum. He was very professional, a great communicator, arrived when he said he would and did a fabulous job. He is honest, polite and trustworthy."
+  },
+  {
+   "text": "Clint's energy and work ethic are infectious. He is incredibly knowledgeable on a wide range of trades and techniques."
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "From Google reviews (5.0★, 11 reviews).",
+ "formHead": "Job details",
+ "formButton": "Send to Clint",
+ "formExtra": [
+  [
+   "What needs doing?",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "14px",
+  "btnRadius": "999px",
+  "h1max": "92px",
+  "logoRadius": 10,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FBF7F0",
+  "headerBg": "#FBF7F0",
+  "headWeight": "800",
+  "hero": "arch",
+  "icon": "hammer",
+  "fontsQuery": "family=Bitter:wght@600;800&family=Source+Sans+3:wght@400;600;700",
+  "headFont": "Bitter,Georgia,serif",
+  "bodyFont": "\"Source Sans 3\",system-ui,sans-serif",
+  "surface": "#F3EBDD",
+  "ink": "#2A1D1A",
+  "muted": "#6A5853",
+  "brand": "#8C2F39",
+  "brand2": "#5E1F26",
+  "accent": "#F2C14E",
+  "onAccent": "#2A1D1A",
+  "line": "#E6D9C6",
+  "headerInk": "#8C2F39",
+  "overlay": "rgba(94,31,38,.88)",
+  "footBg": "#2A1D1A",
+  "footInk": "#D8CBBE",
+  "footHead": "#F2C14E",
+  "logoBg": "#8C2F39",
+  "logoFg": "#F2C14E"
+ }
+}

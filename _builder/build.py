@@ -12,6 +12,11 @@ def img(id_, w=1400):
     return f"https://images.unsplash.com/photo-{id_}?auto=format&fit=crop&w={w}&q=80"
 
 ICONS = {
+ "mesh": '<g fill="none" stroke="currentColor"><rect x="4" y="4" width="24" height="24" rx="2" stroke-width="2.8"/><path d="M10 4v24M16 4v24M22 4v24M4 10h24M4 16h24M4 22h24" stroke-width="1.3"/></g>',
+ "hammer": '<g fill="currentColor"><path d="M6 6h13l3 3v5h-6V11H6z"/><path d="M14 14h5v15a2.5 2.5 0 0 1-5 0z"/></g>',
+ "leaf": '<path fill="currentColor" d="M27 4C13 4 5 11 5 21c0 2 .4 3.6 1 5l-2 2 1.5 1.5 2-2c1.6.9 3.5 1.5 5.5 1.5 11 0 14-11 14-25z"/><path d="M8 25c4-6 8-10 15-14" stroke="var(--logo-ink)" stroke-width="2" fill="none" stroke-linecap="round"/>',
+ "sprout": '<g fill="currentColor"><path d="M15 29V17h2v12z"/><path d="M16 18C16 10 11 6 3 6c0 8 5 12 13 12z"/><path d="M16 15c0-6 4-10 13-10 0 7-4 10-13 10z"/><path d="M6 27h20v3H6z"/></g>',
+ "mower": '<g fill="currentColor"><path d="M4 16h18l3 6v3H4z"/><path d="M14 16 25 3l2 1.5L17 16z"/><circle cx="8.5" cy="26" r="3.5"/><circle cx="21" cy="26" r="3.5"/></g><path d="M6 19h14" stroke="var(--logo-ink)" stroke-width="2"/>',
  "paw": '<g fill="currentColor"><ellipse cx="16" cy="21" rx="7" ry="6"/><circle cx="7.5" cy="13" r="3"/><circle cx="12.5" cy="8" r="3"/><circle cx="19.5" cy="8" r="3"/><circle cx="24.5" cy="13" r="3"/></g>',
  "drop": '<path fill="currentColor" d="M16 3c5 7 9 11.5 9 16.5A9 9 0 0 1 7 19.5C7 14.5 11 10 16 3z"/><path d="M12 20a4 4 0 0 0 4 4" stroke="var(--logo-ink)" stroke-width="2" fill="none" stroke-linecap="round"/>',
  "scissors": '<g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><circle cx="9" cy="23" r="4"/><circle cx="23" cy="23" r="4"/><path d="M11.5 20 24 5M20.5 20 8 5"/></g>',

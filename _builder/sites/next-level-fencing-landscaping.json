@@ -1,0 +1,243 @@
+{
+ "slug": "next-level-fencing-landscaping",
+ "name": "Next Level Fencing And Landscaping",
+ "short": "Next Level",
+ "tag": "Fencing & Landscaping · Park Ridge",
+ "street": "24 Mount Mee Street",
+ "suburb": "Park Ridge",
+ "state": "QLD",
+ "postcode": "4125",
+ "phone": "0423 946 734",
+ "phoneIntl": "+61423946734",
+ "topline": "Park Ridge, Logan · Mon–Fri 7am–5pm · Sat 8am–3pm",
+ "addressLine": "24 Mount Mee Street, Park Ridge QLD 4125",
+ "area": "Logan",
+ "areaShort": "Park Ridge, Logan",
+ "areaText": "Next Level Fencing And Landscaping is based at 24 Mount Mee Street, Park Ridge. Call Jas on 0423 946 734.",
+ "mapQuery": "Next Level Fencing And Landscaping, 24 Mount Mee St, Park Ridge QLD 4125",
+ "seoTitle": "Fencing & landscaping in Park Ridge, Logan",
+ "metaDesc": "Next Level Fencing And Landscaping, Park Ridge: fences and gates, retaining walls, artificial turf, driveways, pavers and garden beds. 5.0★ on Google. Call 0423 946 734.",
+ "ctaLabel": "Get a free quote",
+ "ownerOrUs": "Jas",
+ "schemaType": "HomeAndConstructionBusiness",
+ "rating": 5.0,
+ "reviewCount": 39,
+ "ratingSource": "Google",
+ "badge": [
+  "5.0★ · 39 Google reviews",
+  "Park Ridge, Logan"
+ ],
+ "hero": {
+  "title": "Take your yard to the next level.",
+  "titleHtml": "Take your yard to<br>the next level.",
+  "lede": "Fences, gates, retaining walls, artificial turf, driveways and pavers. Built to the quote, finished on time.",
+  "trust": [
+   "5.0★ from 39 Google reviews",
+   "Work done exactly as quoted",
+   "Mon–Sat"
+  ]
+ },
+ "images": {
+  "hero": "1700689807667-82630348b301",
+  "heroAlt": "Brick path through a landscaped garden",
+  "about": "1734079692087-91bac04efcd1",
+  "about2": "1725586660046-0c2bea151543",
+  "aboutAlt": "Landscaper with bricks",
+  "gallery": [
+   "1763462980602-07eb86874ac4",
+   "1544914379-806667cd9489",
+   "1663185777390-d44a6f4724b9",
+   "1734079692079-aae7e24a7035",
+   "1729058015948-592a8e4a1772",
+   "1597201278257-3687be27d954"
+  ]
+ },
+ "servicesHead": "Fencing & landscaping",
+ "servicesSub": "One team for the whole yard, front to back.",
+ "services": [
+  {
+   "id": "fencing",
+   "title": "Fences & gates",
+   "img": "1729058015948-592a8e4a1772",
+   "short": "Fence replacements, extensions and gates.",
+   "long": "Fence replacements, privacy extensions and gates, carried out exactly as quoted with no surprises.",
+   "points": [
+    "Fence replacement",
+    "Extensions",
+    "Gates"
+   ]
+  },
+  {
+   "id": "retaining",
+   "title": "Retaining walls",
+   "img": "1725586660046-0c2bea151543",
+   "short": "Retaining walls with block options.",
+   "long": "Front and backyard retaining walls with a range of block options to suit your style and budget.",
+   "points": [
+    "Block options",
+    "Front walls",
+    "Garden edges"
+   ]
+  },
+  {
+   "id": "turf",
+   "title": "Artificial turf",
+   "img": "1544914379-806667cd9489",
+   "short": "Artificial grass, different styles.",
+   "long": "Artificial turf for front and back yards, with different styles to choose from.",
+   "points": [
+    "Backyards",
+    "Front yards",
+    "Style options"
+   ]
+  },
+  {
+   "id": "hardscape",
+   "title": "Driveways, pavers & gravel",
+   "img": "1763462980602-07eb86874ac4",
+   "short": "Driveways, concrete pads and walkways.",
+   "long": "Driveways, concrete pads, side walkways with pavers and pebbles, and gravel side access.",
+   "points": [
+    "Driveways",
+    "Pavers & pebbles",
+    "Concrete pads"
+   ]
+  },
+  {
+   "id": "gardens",
+   "title": "Garden beds & finishing",
+   "img": "1700689807667-82630348b301",
+   "short": "Garden beds, turf and letterboxes.",
+   "long": "Garden beds, front turf, side access doors and letterbox installation to finish the job.",
+   "points": [
+    "Garden beds",
+    "Letterboxes",
+    "Side access"
+   ]
+  }
+ ],
+ "whyHead": "Why Logan picks Next Level",
+ "whyText": "Customers mention the same things: hard work, attention to detail and no surprises on the bill.",
+ "why": [
+  "5.0 stars from 39 Google reviews",
+  "Work carried out exactly as quoted",
+  "Good advice and material options",
+  "Flexible around your schedule"
+ ],
+ "galleryHead": "Yards we love",
+ "gallerySub": "Turf, pavers, walls and gardens.",
+ "faq": [
+  [
+   "Where are you based?",
+   "24 Mount Mee Street, Park Ridge QLD 4125, in Logan."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday 7am–5pm, Saturday 8am–3pm."
+  ],
+  [
+   "Can you do the whole yard?",
+   "Yes. Fencing, retaining, turf, driveways, pavers and garden beds in one job."
+  ],
+  [
+   "Will the price change?",
+   "Customers say the work was done exactly as quoted, with no surprises."
+  ]
+ ],
+ "aboutHead": "About Next Level",
+ "aboutSub": "Jas and the team, Park Ridge.",
+ "aboutParas": [
+  "Next Level Fencing And Landscaping is Jas and his team, based in Park Ridge, Logan.",
+  "We handle fencing, gates, retaining walls, artificial turf, driveways, pavers and garden beds, and help you pick the materials that suit your style and budget.",
+  "Call Jas on 0423 946 734 for a quote."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "As quoted",
+   "No surprises on the final bill."
+  ],
+  [
+   "Detail",
+   "Neat, careful finishing."
+  ],
+  [
+   "Advice",
+   "Options to suit your style and budget."
+  ]
+ ],
+ "contactHead": "Get a free quote",
+ "contactSub": "Tell us about your yard and we'll be in touch. Or call Jas on 0423 946 734.",
+ "bandText": "Ready for a yard that looks brand new?",
+ "footerBlurb": "Fencing and landscaping from Park Ridge, Logan.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 5pm"
+  ],
+  [
+   "Saturday",
+   "8am – 3pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "I first saw them working on my neighbour's property and was really impressed by how hardworking they were and the attention to detail they put into everything they did. The quality of their work was outstanding."
+  },
+  {
+   "text": "I recently had our fence replaced and couldn't be happier with the result. The team carried out the work exactly as quoted, with no surprises along the way."
+  },
+  {
+   "text": "Jas and his team did an outstanding job on our landscaping and retaining wall project. Jas provided great advice and offered multiple options for materials."
+  },
+  {
+   "text": "Just had my retaining wall done. They done such an amazing job with strong attention to detail. Great communication, reasonable price. Thanks Jas and the team."
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "From Google reviews (5.0★, 39 reviews).",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Type of job",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "4px",
+  "h1max": "100px",
+  "logoRadius": 10,
+  "headTrack": "-.03em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "800",
+  "hero": "overlay",
+  "icon": "leaf",
+  "fontsQuery": "family=Montserrat:wght@600;800&family=Karla:wght@400;500;700",
+  "headFont": "Montserrat,system-ui,sans-serif",
+  "bodyFont": "Karla,system-ui,sans-serif",
+  "surface": "#F1F5EC",
+  "ink": "#17261D",
+  "muted": "#4D5E53",
+  "brand": "#1E3D2F",
+  "brand2": "#132A20",
+  "accent": "#A7C957",
+  "onAccent": "#132A20",
+  "line": "#DCE6D3",
+  "headerInk": "#1E3D2F",
+  "overlay": "rgba(19,42,32,.9)",
+  "footBg": "#132A20",
+  "footInk": "#C3D1C6",
+  "footHead": "#A7C957",
+  "logoBg": "#1E3D2F",
+  "logoFg": "#A7C957"
+ }
+}

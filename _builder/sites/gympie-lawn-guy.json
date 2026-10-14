@@ -1,0 +1,236 @@
+{
+ "slug": "gympie-lawn-guy",
+ "name": "Gympie Lawn Guy",
+ "short": "Gympie Lawn Guy",
+ "tag": "Lawn care · Gympie",
+ "street": "44 Glastonbury Road",
+ "suburb": "Southside",
+ "state": "QLD",
+ "postcode": "4570",
+ "phone": "0434 123 647",
+ "phoneIntl": "+61434123647",
+ "facebook": "https://www.facebook.com/profile.php?id=100088335906281",
+ "topline": "Southside, Gympie · gympielawnguy@gmail.com",
+ "addressLine": "44 Glastonbury Road, Southside QLD 4570",
+ "area": "Gympie",
+ "areaShort": "Southside, Gympie",
+ "areaText": "Gympie Lawn Guy is Andy and Lisa, based at Southside in Gympie. Call 0434 123 647 or email gympielawnguy@gmail.com.",
+ "mapQuery": "Gympie Lawn Guy, 44 Glastonbury Rd, Southside QLD 4570",
+ "seoTitle": "Lawn mowing & lawn care in Gympie",
+ "metaDesc": "Gympie Lawn Guy: Andy and Lisa, lawn mowing, whipper snipping and long-term lawn care plans in Gympie. 5.0★ on Google. Call 0434 123 647.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "Andy",
+ "schemaType": "HomeAndConstructionBusiness",
+ "rating": 5.0,
+ "reviewCount": 6,
+ "ratingSource": "Google",
+ "badge": [
+  "5.0★ on Google",
+  "Gympie local"
+ ],
+ "hero": {
+  "title": "Greener, thicker Gympie lawns.",
+  "titleHtml": "Greener, thicker<br>Gympie lawns.",
+  "lede": "Mowing, whipper snipping and long-term lawn care plans. We only mow when your lawn actually needs it.",
+  "trust": [
+   "5.0★ on Google",
+   "Quotes fast, often same hour",
+   "Lawn care plans"
+  ]
+ },
+ "images": {
+  "hero": "1558904541-efa843a96f01",
+  "heroAlt": "Freshly mown green lawn",
+  "about": "1590820292118-e256c3ac2676",
+  "about2": "1689728222087-6984f72460c4",
+  "aboutAlt": "Push mower on green grass",
+  "gallery": [
+   "1690068023694-053da714f95f",
+   "1458245201577-fc8a130b8829",
+   "1641317430847-243b44c07125",
+   "1734303023481-7508b5c9f1ff",
+   "1734079692079-aae7e24a7035",
+   "1734079692160-fcbe4be6ab96"
+  ]
+ },
+ "servicesHead": "Lawn services",
+ "servicesSub": "Every lawn is different. We treat it that way.",
+ "services": [
+  {
+   "id": "mowing",
+   "title": "Lawn mowing",
+   "img": "1690068023694-053da714f95f",
+   "short": "Regular mows, only when needed.",
+   "long": "We check in every 3 weeks and don't mow if it isn't required, so you only pay for what the lawn needs.",
+   "points": [
+    "3-weekly checks",
+    "No unnecessary mows",
+    "Top quality"
+   ]
+  },
+  {
+   "id": "snipping",
+   "title": "Whipper snipping & edges",
+   "img": "1689728222087-6984f72460c4",
+   "short": "Tidy edges and borders.",
+   "long": "Whipper snipping and edging for a clean, finished look.",
+   "points": [
+    "Edges",
+    "Borders",
+    "Fence lines"
+   ]
+  },
+  {
+   "id": "plans",
+   "title": "Lawn care plans",
+   "img": "1641317430847-243b44c07125",
+   "short": "Long-term plans for a better lawn.",
+   "long": "We know what different grasses like Kikuyu need, and suggest a long-term plan to bring your lawn up greener and thicker.",
+   "points": [
+    "Kikuyu & more",
+    "Long-term care",
+    "Greener, thicker"
+   ]
+  },
+  {
+   "id": "tenants",
+   "title": "Rental & tenant prep",
+   "img": "1458245201577-fc8a130b8829",
+   "short": "Yard ready for new tenants.",
+   "long": "Mowing and whipper snipping to get a property ready for tenants, with great communication.",
+   "points": [
+    "Pre-tenancy",
+    "Owners & agents",
+    "Fast quotes"
+   ]
+  }
+ ],
+ "whyHead": "Why Gympie calls Andy",
+ "whyText": "Reliable, quick to quote and focused on what your lawn actually needs.",
+ "why": [
+  "5.0 stars on Google",
+  "Often quoted within the hour",
+  "Won't mow if it isn't needed",
+  "Know-how for different grass types"
+ ],
+ "galleryHead": "Lawns we look after",
+ "gallerySub": "Mowing and lawn care around Gympie.",
+ "faq": [
+  [
+   "Where are you based?",
+   "44 Glastonbury Road, Southside QLD 4570, Gympie."
+  ],
+  [
+   "What are your hours?",
+   "Mon–Thu 7am–5pm, Fri 9am–5pm, Sat 8am–12pm. Closed Sunday."
+  ],
+  [
+   "How often do you mow?",
+   "We check every 3 weeks and only mow when your lawn needs it."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0434 123 647, email gympielawnguy@gmail.com or use the form."
+  ]
+ ],
+ "aboutHead": "About Gympie Lawn Guy",
+ "aboutSub": "Andy & Lisa, Southside.",
+ "aboutParas": [
+  "Gympie Lawn Guy is Andy and Lisa, looking after lawns around Gympie.",
+  "We understand that different lawns have different needs, and we tailor the work to each yard and each client.",
+  "Call 0434 123 647 or email gympielawnguy@gmail.com."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Reliable",
+   "Regular check-ins, every time."
+  ],
+  [
+   "Honest",
+   "No mow if it isn't needed."
+  ],
+  [
+   "Expert",
+   "Know what each grass type needs."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about your lawn and we'll be in touch. Or call Andy on 0434 123 647.",
+ "bandText": "Want a greener lawn without the hassle?",
+ "footerBlurb": "Lawn mowing and lawn care by Andy and Lisa in Gympie.",
+ "hours": [
+  [
+   "Mon – Thu",
+   "7am – 5pm"
+  ],
+  [
+   "Friday",
+   "9am – 5pm"
+  ],
+  [
+   "Saturday",
+   "8am – 12pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Andy is very reliable, checks in on our lawns every 3 weeks, doesn't mow if it is not required. Work is always top quality. 10/10 recommended."
+  },
+  {
+   "text": "They knew exactly what my Kikuyu needed & what it could handle to bring it out to its best. My yard is noticeably greener and thicker due to the long-term maintenance plan they suggested."
+  },
+  {
+   "text": "Andy mowed and whipper snipped our lawn in preparation for tenants. Did a fantastic job and was great with communication."
+  },
+  {
+   "text": "I called Andy about mowing my property and he arrived within an hour, quoted and had the job done perfectly and professionally. Great operator."
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "From Google reviews (5.0★).",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Grass type or block size (if known)",
+   "lawn"
+  ]
+ ],
+ "theme": {
+  "radius": "18px",
+  "btnRadius": "999px",
+  "h1max": "96px",
+  "logoRadius": 16,
+  "headTrack": "0",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "400",
+  "hero": "center",
+  "icon": "mower",
+  "fontsQuery": "family=Lilita+One&family=Nunito:wght@400;600;800",
+  "headFont": "\"Lilita One\",system-ui,sans-serif",
+  "bodyFont": "Nunito,system-ui,sans-serif",
+  "surface": "#F2F8EA",
+  "ink": "#1B2A12",
+  "muted": "#55634B",
+  "brand": "#2B7A0B",
+  "brand2": "#1D5508",
+  "accent": "#FFE156",
+  "onAccent": "#1B2A12",
+  "line": "#DCEACB",
+  "headerInk": "#2B7A0B",
+  "overlay": "rgba(29,85,8,.88)",
+  "footBg": "#1D5508",
+  "footInk": "#CFE2C2",
+  "footHead": "#FFE156",
+  "logoBg": "#2B7A0B",
+  "logoFg": "#FFE156"
+ }
+}
