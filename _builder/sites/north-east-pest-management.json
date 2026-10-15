@@ -1,0 +1,218 @@
+{
+ "slug": "north-east-pest-management",
+ "name": "North East Pest Management",
+ "short": "North East Pest",
+ "tag": "Pest control · North East Tasmania",
+ "street": "599 South Springfield Road",
+ "suburb": "South Springfield",
+ "state": "TAS",
+ "postcode": "7260",
+ "phone": "0429 163 705",
+ "phoneIntl": "+61429163705",
+ "topline": "Serving the Launceston region · (03) 6352 3555",
+ "addressLine": "599 South Springfield Rd, South Springfield TAS 7260",
+ "area": "Launceston region and North East Tasmania",
+ "areaShort": "South Springfield, North East Tasmania",
+ "areaText": "North East Pest Management has been in business since 2000, based at 599 South Springfield Road and serving the Launceston region. Call 0429 163 705 or (03) 6352 3555.",
+ "mapQuery": "599 South Springfield Rd, South Springfield TAS 7260",
+ "seoTitle": "Pest Control in North East Tasmania",
+ "metaDesc": "North East Pest Management: local pest control for homes and businesses in the Launceston region and North East Tasmania since 2000. Call 0429 163 705.",
+ "ctaLabel": "Book pest control",
+ "ownerOrUs": "us",
+ "schemaType": "LocalBusiness",
+ "badge": [
+  "Since 2000",
+  "26 years local"
+ ],
+ "hero": {
+  "title": "Pest control for North East Tasmania.",
+  "titleHtml": "Pest control for<br>North East Tasmania.",
+  "lede": "Local pest control for homes and businesses across the Launceston region, from a local business that has been at it since 2000.",
+  "trust": [
+   "In business since 2000",
+   "Homes & commercial",
+   "Two numbers to call"
+  ]
+ },
+ "images": {
+  "hero": "1747659629851-a92bd71149f6",
+  "heroAlt": "Technician holding a spray gun",
+  "about": "1628075266567-741edccba913",
+  "about2": "1733630769656-f2de52d70bea",
+  "aboutAlt": "Tasmanian house",
+  "gallery": [
+   "1581932356811-078b68a73640",
+   "1628652462669-6835a3090864",
+   "1635407159911-b72f386d87c0",
+   "1622263772227-49e1d28573b9",
+   "1733639516571-575618028339",
+   "1613105162507-d7c2a370fff6"
+  ]
+ },
+ "servicesHead": "How we can help",
+ "servicesSub": "Pest control for houses, farms and businesses around North East Tasmania.",
+ "services": [
+  {
+   "id": "homes",
+   "title": "Home pest control",
+   "img": "1733630769656-f2de52d70bea",
+   "short": "Pest problems at home, sorted.",
+   "long": "Got pests in or around the house? Call and tell us what you're seeing and where you are, and we'll talk you through the next step.",
+   "points": [
+    "Houses & units",
+    "Tell us what you're seeing",
+    "Call for a price"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial pest control",
+   "img": "1622263772227-49e1d28573b9",
+   "short": "For shops, sheds and workplaces.",
+   "long": "We take on commercial work as well as homes. Give us a ring to talk about your premises.",
+   "points": [
+    "Commercial work welcome",
+    "Launceston region",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "rural",
+   "title": "Rural properties",
+   "img": "1628652462669-6835a3090864",
+   "short": "Out of town? We cover the North East.",
+   "long": "Based in South Springfield, we're used to working on properties outside town as well as in Launceston.",
+   "points": [
+    "North East Tasmania",
+    "Farms & acreage",
+    "Local knowledge"
+   ]
+  },
+  {
+   "id": "advice",
+   "title": "Straight advice",
+   "img": "1581932356811-078b68a73640",
+   "short": "Not sure what you've got? Ask.",
+   "long": "Describe the problem over the phone and we'll tell you honestly what we think it is and what can be done.",
+   "points": [
+    "Phone advice",
+    "No-nonsense answers",
+    "0429 163 705"
+   ]
+  }
+ ],
+ "whyHead": "A local name since 2000",
+ "whyText": "Over 26 years of pest control in North East Tasmania.",
+ "why": [
+  "In business since 2000",
+  "Homes and commercial premises",
+  "Based in South Springfield",
+  "Pay by card, cash or cheque"
+ ],
+ "galleryHead": "Around the North East",
+ "gallerySub": "Homes and properties across North East Tasmania.",
+ "faq": [
+  [
+   "Where are you based?",
+   "599 South Springfield Road, South Springfield TAS 7260, serving the Launceston region."
+  ],
+  [
+   "Do you do commercial jobs?",
+   "Yes, we do commercial pest control as well as homes."
+  ],
+  [
+   "How long have you been around?",
+   "Since 2000, over 26 years."
+  ],
+  [
+   "How can I pay?",
+   "Debit card, cash, cheque or money order."
+  ],
+  [
+   "How do I book?",
+   "Call 0429 163 705 or (03) 6352 3555, or send a request through this site."
+  ]
+ ],
+ "aboutHead": "About North East Pest Management",
+ "aboutSub": "Local pest control since 2000.",
+ "aboutParas": [
+  "North East Pest Management is a small local business based at South Springfield in North East Tasmania.",
+  "We've been looking after homes and businesses around the Launceston region since 2000.",
+  "Call 0429 163 705 or (03) 6352 3555 to talk about your pest problem."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in North East Tasmania."
+  ],
+  [
+   "Experienced",
+   "In business since 2000."
+  ],
+  [
+   "Straightforward",
+   "Honest advice over the phone."
+  ]
+ ],
+ "contactHead": "Book North East Pest Management",
+ "contactSub": "Tell us what pests you're dealing with and where, and we'll be in touch. Or call 0429 163 705.",
+ "bandText": "Pests moved in? Give us a call.",
+ "footerBlurb": "Pest control for the Launceston region and North East Tasmania since 2000.",
+ "hours": [
+  [
+   "Mobile",
+   "0429 163 705"
+  ],
+  [
+   "Office",
+   "(03) 6352 3555"
+  ],
+  [
+   "Bookings",
+   "Call any day"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Pest control request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "What pest are you seeing?",
+   "pest"
+  ]
+ ],
+ "theme": {
+  "radius": "2px",
+  "btnRadius": "2px",
+  "h1max": "96px",
+  "logoRadius": 9,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "800",
+  "onAccent": "#111111",
+  "hero": "stack",
+  "icon": "bugshield",
+  "fontsQuery": "family=Darker+Grotesque:wght@700;800;900&family=Manrope:wght@400;500;700",
+  "headFont": "\"Darker Grotesque\",system-ui,sans-serif",
+  "bodyFont": "Manrope,system-ui,sans-serif",
+  "surface": "#EFF3EC",
+  "ink": "#162019",
+  "muted": "#56635A",
+  "brand": "#1E2D24",
+  "brand2": "#141E18",
+  "accent": "#C3F73A",
+  "line": "#D6DFD3",
+  "headerInk": "#1E2D24",
+  "overlay": "rgba(20,30,24,.9)",
+  "footBg": "#141E18",
+  "footInk": "#B9C6BC",
+  "footHead": "#C3F73A",
+  "logoBg": "#1E2D24",
+  "logoFg": "#C3F73A"
+ }
+}

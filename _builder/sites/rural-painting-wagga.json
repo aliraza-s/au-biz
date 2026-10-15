@@ -1,0 +1,212 @@
+{
+ "slug": "rural-painting-wagga",
+ "name": "Rural Painting & Decorating",
+ "short": "Rural Painting",
+ "tag": "Painter · Wagga Wagga NSW",
+ "street": "",
+ "suburb": "Wagga Wagga",
+ "state": "NSW",
+ "postcode": "2650",
+ "phone": "0438 081 495",
+ "phoneIntl": "+61438081495",
+ "topline": "Wagga Wagga & the Riverina · 5.0★ on Google",
+ "addressLine": "Wagga Wagga NSW",
+ "area": "Wagga Wagga and the Riverina",
+ "areaShort": "Wagga Wagga & the Riverina",
+ "areaText": "Rural Painting & Decorating is Josh and his team, painting homes around Wagga Wagga and the wider Riverina. Open Mon–Fri 7am–6pm and weekends 9am–5pm.",
+ "mapQuery": "Rural Painting & Decorating, Wagga Wagga NSW",
+ "seoTitle": "House Painter in Wagga Wagga NSW",
+ "metaDesc": "Rural Painting & Decorating: interior and exterior house painting in Wagga Wagga and the Riverina. 5.0 stars on Google. Call Josh on 0438 081 495.",
+ "ctaLabel": "Get a painting quote",
+ "ownerOrUs": "Josh",
+ "schemaType": "HousePainter",
+ "rating": 5.0,
+ "reviewCount": 7,
+ "hero": {
+  "title": "Fresh paint for Riverina homes.",
+  "titleHtml": "Fresh paint for<br>Riverina homes.",
+  "lede": "Interior and exterior house painting from Josh and the team at Rural Painting & Decorating, Wagga Wagga.",
+  "trust": [
+   "5.0 stars on Google",
+   "Interior & exterior",
+   "Open 7 days"
+  ]
+ },
+ "images": {
+  "hero": "1742900280864-bcc27353ceba",
+  "heroAlt": "Painter working on a building exterior",
+  "about": "1717281234297-3def5ae3eee1",
+  "about2": "1574359411659-15573a27fd0c",
+  "aboutAlt": "Painters at work",
+  "gallery": [
+   "1688372199140-cade7ae820fe",
+   "1742900280861-32bed068938b",
+   "1745665777586-09381ba528d6",
+   "1599619585752-c3edb42a414c",
+   "1513364776144-60967b0f800f",
+   "1615803874161-f38b3a82fe7d"
+  ]
+ },
+ "servicesHead": "Painting services",
+ "servicesSub": "Residential painting inside and out, around Wagga Wagga and the Riverina.",
+ "services": [
+  {
+   "id": "interior",
+   "title": "Interior painting",
+   "img": "1745665777586-09381ba528d6",
+   "short": "Walls, ceilings and trims, done neatly.",
+   "long": "Interior painting for homes around Wagga Wagga. Tell Josh which rooms you'd like done and he'll arrange a time to look and quote.",
+   "points": [
+    "Walls & ceilings",
+    "Neat, tidy finish",
+    "Free to ask for a quote"
+   ]
+  },
+  {
+   "id": "exterior",
+   "title": "Exterior painting",
+   "img": "1742900280864-bcc27353ceba",
+   "short": "Freshen up the outside of the house.",
+   "long": "Exterior painting for Riverina homes. Send through a few details about the house and we'll talk you through it.",
+   "points": [
+    "Riverina homes",
+    "Whole house or touch-ups",
+    "Call for a quote"
+   ]
+  },
+  {
+   "id": "residential",
+   "title": "Residential repaints",
+   "img": "1688372199140-cade7ae820fe",
+   "short": "Full repaints for family homes.",
+   "long": "Whether it's one room or the whole house, Josh and the team handle residential repaints from start to finish.",
+   "points": [
+    "Homes & units",
+    "One room or the lot",
+    "Wagga & the Riverina"
+   ]
+  },
+  {
+   "id": "renovation",
+   "title": "Renovation painting",
+   "img": "1615803874161-f38b3a82fe7d",
+   "short": "Painting to finish off a reno.",
+   "long": "Renovating? We can paint as part of the job so the place is ready to live in or sell.",
+   "points": [
+    "Renos & updates",
+    "Fits around your trades",
+    "Talk to Josh"
+   ]
+  }
+ ],
+ "whyHead": "Why locals call Josh",
+ "whyText": "A local painter rated 5.0 on Google, working right across the Riverina.",
+ "why": [
+  "Rated 5.0 on Google",
+  "Interior and exterior work",
+  "Wagga Wagga and the Riverina",
+  "Open weekdays and weekends"
+ ],
+ "galleryHead": "Paint in progress",
+ "gallerySub": "Interior and exterior painting around Wagga Wagga.",
+ "faq": [
+  [
+   "Where do you work?",
+   "Wagga Wagga and the wider Riverina region."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday 7am–6pm, and Saturday and Sunday 9am–5pm."
+  ],
+  [
+   "Do you do inside and outside?",
+   "Yes, interior and exterior residential painting, plus painting for renovations."
+  ],
+  [
+   "How do I get a quote?",
+   "Call Josh on 0438 081 495 or send a request through this site."
+  ]
+ ],
+ "aboutHead": "About Rural Painting & Decorating",
+ "aboutSub": "Josh and the team, Wagga Wagga.",
+ "aboutParas": [
+  "Rural Painting & Decorating is Josh and his team, house painters based in Wagga Wagga.",
+  "We paint homes inside and out across the Riverina, from single rooms to full repaints and renovation work.",
+  "Customers have rated us 5.0 on Google. Call 0438 081 495 for a quote."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in Wagga Wagga, working across the Riverina."
+  ],
+  [
+   "Careful",
+   "Attention to detail on every wall and trim."
+  ],
+  [
+   "Reliable",
+   "On time and easy to deal with."
+  ]
+ ],
+ "contactHead": "Get a painting quote",
+ "contactSub": "Tell us about the job and we'll be in touch. Or call Josh on 0438 081 495.",
+ "bandText": "Ready for a fresh coat? Call Josh.",
+ "footerBlurb": "House painters in Wagga Wagga, working across the Riverina.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 6pm"
+  ],
+  [
+   "Saturday",
+   "9am – 5pm"
+  ],
+  [
+   "Sunday",
+   "9am – 5pm"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Inside, outside or both?",
+   "area_to_paint"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "999px",
+  "h1max": "92px",
+  "logoRadius": 9,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "400",
+  "onAccent": "#111111",
+  "hero": "overlay",
+  "icon": "roller",
+  "fontsQuery": "family=Abril+Fatface&family=Nunito+Sans:wght@400;600;700",
+  "headFont": "\"Abril Fatface\",Georgia,serif",
+  "bodyFont": "\"Nunito Sans\",system-ui,sans-serif",
+  "surface": "#F7F1EA",
+  "ink": "#24192F",
+  "muted": "#6A5F72",
+  "brand": "#33264B",
+  "brand2": "#24192F",
+  "accent": "#F7B538",
+  "line": "#E6DCD0",
+  "headerInk": "#33264B",
+  "overlay": "rgba(36,25,47,.9)",
+  "footBg": "#24192F",
+  "footInk": "#CFC5D8",
+  "footHead": "#F7B538",
+  "logoBg": "#F7B538",
+  "logoFg": "#33264B"
+ }
+}

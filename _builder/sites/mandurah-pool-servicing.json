@@ -1,0 +1,214 @@
+{
+ "slug": "mandurah-pool-servicing",
+ "name": "Mandurah Pool Servicing and Repairs",
+ "short": "Mandurah Pool Servicing",
+ "tag": "Pools · Mandurah WA",
+ "street": "",
+ "suburb": "San Remo",
+ "state": "WA",
+ "postcode": "6210",
+ "phone": "0435 310 148",
+ "phoneIntl": "+61435310148",
+ "topline": "San Remo, Mandurah WA · Pool servicing & repairs",
+ "addressLine": "San Remo, Mandurah WA 6210",
+ "area": "Mandurah",
+ "areaShort": "San Remo, Mandurah",
+ "areaText": "Mandurah Pool Servicing and Repairs is based in San Remo, Mandurah. Call 0435 310 148 to talk about your pool.",
+ "mapQuery": "San Remo WA 6210",
+ "seoTitle": "Pool Servicing & Repairs in Mandurah WA",
+ "metaDesc": "Mandurah Pool Servicing and Repairs, San Remo WA: pool servicing and repairs for Mandurah homes. Call 0435 310 148.",
+ "ctaLabel": "Book a pool service",
+ "ownerOrUs": "us",
+ "schemaType": "LocalBusiness",
+ "badge": [
+  "San Remo",
+  "Mandurah WA"
+ ],
+ "hero": {
+  "title": "Clear, healthy pools for Mandurah.",
+  "titleHtml": "Clear, healthy pools<br>for Mandurah.",
+  "lede": "Pool servicing and repairs from a local business based in San Remo, Mandurah.",
+  "trust": [
+   "Based in San Remo",
+   "Servicing & repairs",
+   "Call or text to book"
+  ]
+ },
+ "images": {
+  "hero": "1562016600-ece13e8ba570",
+  "heroAlt": "Rippling clear blue pool water",
+  "about": "1613977257365-aaae5a9817ff",
+  "about2": "1614667288602-9ac6e37318a7",
+  "aboutAlt": "Home swimming pool",
+  "gallery": [
+   "1558617320-e695f0d420de",
+   "1536745511564-a5fa6e596e7b",
+   "1557459325-b6733cbeae9c",
+   "1551491603-7d38b9e605f5",
+   "1591285713698-598d587de63e",
+   "1576610616656-d3aa5d1f4534"
+  ]
+ },
+ "servicesHead": "Pool services",
+ "servicesSub": "Servicing and repairs for pools around Mandurah.",
+ "services": [
+  {
+   "id": "servicing",
+   "title": "Pool servicing",
+   "img": "1558617320-e695f0d420de",
+   "short": "Keep the pool ready to swim.",
+   "long": "Pool servicing for Mandurah homes. Call and tell us about your pool and how often you'd like it looked after.",
+   "points": [
+    "Home pools",
+    "One-off or regular",
+    "Call to arrange"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Pool repairs",
+   "img": "1614667288602-9ac6e37318a7",
+   "short": "Something not working? We'll take a look.",
+   "long": "Pool repairs around Mandurah. Describe what's going on over the phone and we'll talk you through it.",
+   "points": [
+    "Talk it through first",
+    "Mandurah area",
+    "Call for a quote"
+   ]
+  },
+  {
+   "id": "green",
+   "title": "Pool not looking right?",
+   "img": "1551491603-7d38b9e605f5",
+   "short": "Cloudy or green water, give us a call.",
+   "long": "If the water isn't looking right, ring us and we'll work out what's needed to get it back.",
+   "points": [
+    "Cloudy water",
+    "Green pools",
+    "Local help"
+   ]
+  },
+  {
+   "id": "booking",
+   "title": "Easy booking",
+   "img": "1536745511564-a5fa6e596e7b",
+   "short": "Ring, text or send a request.",
+   "long": "Call or text 0435 310 148, or send a request through this site with your suburb and what you need.",
+   "points": [
+    "Phone or text",
+    "San Remo based",
+    "Quick reply"
+   ]
+  }
+ ],
+ "whyHead": "Why use a local",
+ "whyText": "A Mandurah pool business you can call directly.",
+ "why": [
+  "Based in San Remo, Mandurah",
+  "Servicing and repairs",
+  "Deal direct, no call centre",
+  "Easy to book by phone or text"
+ ],
+ "galleryHead": "Pool days",
+ "gallerySub": "Pools around Mandurah.",
+ "faq": [
+  [
+   "Where are you based?",
+   "San Remo, Mandurah WA."
+  ],
+  [
+   "What do you do?",
+   "Pool servicing and repairs."
+  ],
+  [
+   "How do I book?",
+   "Call or text 0435 310 148, or send a request through this site."
+  ],
+  [
+   "What should I tell you?",
+   "Your suburb, the type of pool and what it needs."
+  ]
+ ],
+ "aboutHead": "About Mandurah Pool Servicing and Repairs",
+ "aboutSub": "Local pool care, San Remo.",
+ "aboutParas": [
+  "Mandurah Pool Servicing and Repairs is a local pool business based in San Remo, Mandurah.",
+  "We service and repair pools for Mandurah households.",
+  "Call or text 0435 310 148 to talk about your pool."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in San Remo."
+  ],
+  [
+   "Direct",
+   "You talk to the person who does the work."
+  ],
+  [
+   "Simple",
+   "Easy to book by phone or text."
+  ]
+ ],
+ "contactHead": "Book a pool service",
+ "contactSub": "Tell us about your pool and where you are, and we'll be in touch. Or call 0435 310 148.",
+ "bandText": "Pool need some love? Give us a call.",
+ "footerBlurb": "Pool servicing and repairs, based in San Remo, Mandurah WA.",
+ "hours": [
+  [
+   "Bookings",
+   "Call 0435 310 148"
+  ],
+  [
+   "Text",
+   "Any time"
+  ],
+  [
+   "Area",
+   "Mandurah"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Pool service request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Pool type & size (if known)",
+   "pool"
+  ]
+ ],
+ "theme": {
+  "radius": "22px",
+  "btnRadius": "999px",
+  "h1max": "82px",
+  "logoRadius": 16,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "700",
+  "onAccent": "#03285A",
+  "hero": "center",
+  "icon": "waves",
+  "fontsQuery": "family=Comfortaa:wght@600;700&family=Mulish:wght@400;600;700",
+  "headFont": "Comfortaa,system-ui,sans-serif",
+  "bodyFont": "Mulish,system-ui,sans-serif",
+  "surface": "#EAF7FB",
+  "ink": "#0B2540",
+  "muted": "#4F6478",
+  "brand": "#023E8A",
+  "brand2": "#03285A",
+  "accent": "#48CAE4",
+  "line": "#CDE8F1",
+  "headerInk": "#023E8A",
+  "overlay": "rgba(3,40,90,.88)",
+  "footBg": "#03285A",
+  "footInk": "#B8D3EA",
+  "footHead": "#48CAE4",
+  "logoBg": "#48CAE4",
+  "logoFg": "#03285A"
+ }
+}

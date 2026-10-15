@@ -52,6 +52,11 @@ ICONS = {
  "grass": '<g fill="currentColor"><path d="M3 27C4 19 6 13 9 8c0 7 0 13 2 19z"/><path d="M10 27c0-9 2-17 6-24 1 9 1 17 0 24z"/><path d="M17 27c1-8 4-14 8-18-1 6-2 12-2 18z"/><path d="M23 27c1-5 3-9 6-11-1 4-1 7-1 11z"/><path d="M2 26h28v3H2z"/></g>',
  "tree": '<g fill="currentColor"><circle cx="16" cy="11" r="8"/><circle cx="9.5" cy="16" r="5.5"/><circle cx="22.5" cy="16" r="5.5"/><path d="M14.5 17h3v11h-3z"/><path d="M8 27h16v2.5H8z"/></g>',
  "piston": '<g fill="currentColor"><rect x="8" y="3" width="16" height="12" rx="2"/><path d="M14 15h4l3 9h-10z"/><circle cx="16" cy="25.5" r="4"/></g><path d="M8 7.5h16M8 11h16" stroke="var(--logo-ink)" stroke-width="1.4"/><circle cx="16" cy="25.5" r="1.6" fill="var(--logo-ink)"/>',
+ "roller": '<g fill="currentColor"><rect x="4" y="3" width="22" height="9" rx="2.5"/><path d="M26 6h2.5v8.5H17V19h-2.5v-7h11.5z"/><rect x="13" y="19" width="6.5" height="11" rx="1.5"/></g>',
+ "bugshield": '<path fill="currentColor" d="M16 2 28 6v9c0 7.5-5 12.5-12 15C9 27.5 4 22.5 4 15V6z"/><g fill="var(--logo-ink)"><ellipse cx="16" cy="17.5" rx="4" ry="5.5"/><circle cx="16" cy="10.5" r="2.4"/></g><path d="M11 13l2.5 2M21 13l-2.5 2M10.5 18h3M21.5 18h-3M11 23l2.5-2M21 23l-2.5-2" stroke="var(--logo-ink)" stroke-width="1.5" stroke-linecap="round"/>',
+ "tap": '<g fill="currentColor"><path d="M4 9h15a6 6 0 0 1 6 6v3h-5v-3a1 1 0 0 0-1-1H4z"/><rect x="10" y="3" width="3" height="6"/><rect x="6" y="2" width="11" height="3" rx="1.5"/></g><path d="M22.5 22c1.6 2.3 2.5 3.6 2.5 4.8a2.5 2.5 0 0 1-5 0c0-1.2.9-2.5 2.5-4.8z" fill="currentColor"/>',
+ "waves": '<g fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><path d="M3 13c3-3 5.5-3 8.5 0s5.5 3 8.5 0 5.5-3 8.5 0"/><path d="M3 20c3-3 5.5-3 8.5 0s5.5 3 8.5 0 5.5-3 8.5 0"/><path d="M3 27c3-3 5.5-3 8.5 0s5.5 3 8.5 0 5.5-3 8.5 0"/></g><circle cx="22" cy="6" r="3" fill="currentColor"/>',
+ "ute": '<g fill="currentColor"><path d="M2 13h15v-3l9 0 4 6v7H2z"/><rect x="4" y="6" width="9" height="6" rx="1"/><circle cx="8" cy="24" r="3.5"/><circle cx="23" cy="24" r="3.5"/></g><path d="M19 12h5.5l2.5 4h-8z" fill="var(--logo-ink)"/>',
 }
 
 def logo_svg(s, size=44):

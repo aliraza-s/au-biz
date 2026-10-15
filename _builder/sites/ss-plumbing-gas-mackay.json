@@ -1,0 +1,226 @@
+{
+ "slug": "ss-plumbing-gas-mackay",
+ "name": "SS Plumbing & Gas Mackay",
+ "short": "SS Plumbing & Gas",
+ "tag": "Plumber & gasfitter · Mackay QLD",
+ "street": "",
+ "suburb": "South Mackay",
+ "state": "QLD",
+ "postcode": "4740",
+ "phone": "0412 734 297",
+ "phoneIntl": "+61412734297",
+ "topline": "South Mackay QLD · 5.0★ from 93 Google reviews",
+ "addressLine": "South Mackay QLD 4740",
+ "area": "Mackay region",
+ "areaShort": "South Mackay & the Mackay region",
+ "areaText": "SS Plumbing & Gas Mackay is Stu, based in South Mackay and working across the Mackay region. Operating since 2003. Call 0412 734 297.",
+ "mapQuery": "South Mackay QLD 4740",
+ "seoTitle": "Plumber & Gasfitter in Mackay QLD",
+ "metaDesc": "SS Plumbing & Gas Mackay: hot water, gas fitting, leaks, taps and emergency plumbing across Mackay. 5.0 stars from 93 Google reviews. Call Stu on 0412 734 297.",
+ "ctaLabel": "Book a plumber",
+ "ownerOrUs": "Stu",
+ "schemaType": "Plumber",
+ "rating": 5.0,
+ "reviewCount": 93,
+ "hero": {
+  "title": "Plumbing and gas for Mackay homes.",
+  "titleHtml": "Mackay plumbing<br>and gas.",
+  "lede": "Hot water, gas, leaks, taps and urgent callouts from Stu at SS Plumbing & Gas, South Mackay. Rated 5.0 from 93 Google reviews.",
+  "trust": [
+   "5.0 from 93 Google reviews",
+   "Operating since 2003",
+   "After-hours callouts"
+  ]
+ },
+ "images": {
+  "hero": "1749532125405-70950966b0e5",
+  "heroAlt": "Plumber repairing bathroom plumbing",
+  "about": "1676210134188-4c05dd172f89",
+  "about2": "1676210133055-eab6ef033ce3",
+  "aboutAlt": "Plumber working on pipes",
+  "gallery": [
+   "1676210134190-3f2c0d5cf58d",
+   "1585704032915-c3400ca199e7",
+   "1542013936693-884638332954",
+   "1607472586893-edb57bdc0e39",
+   "1650551182991-b07558247564",
+   "1620653713380-7a34b773fef8"
+  ]
+ },
+ "servicesHead": "Plumbing & gas services",
+ "servicesSub": "What Mackay customers call Stu for.",
+ "services": [
+  {
+   "id": "hot-water",
+   "title": "Hot water systems",
+   "img": "1676210134190-3f2c0d5cf58d",
+   "short": "Repairs and replacements.",
+   "long": "No hot water? Stu repairs and replaces hot water systems around Mackay. Call with the brand and what it's doing.",
+   "points": [
+    "Repairs",
+    "Replacements",
+    "Call for a quote"
+   ]
+  },
+  {
+   "id": "gas",
+   "title": "Gas fitting",
+   "img": "1650551182991-b07558247564",
+   "short": "Gas work, leak detection and bottle moves.",
+   "long": "Gas fitting, gas leak detection and gas bottle relocations for Mackay homes.",
+   "points": [
+    "Gas leak detection",
+    "Bottle relocation",
+    "Gas fitting"
+   ]
+  },
+  {
+   "id": "leaks",
+   "title": "Leaks & burst pipes",
+   "img": "1607472586893-edb57bdc0e39",
+   "short": "Stop the water, fix the pipe.",
+   "long": "Burst pipes, leaks, taps and shower repairs. Ring and we'll get out as soon as we can.",
+   "points": [
+    "Burst pipes",
+    "Taps & showers",
+    "Dishwasher installs"
+   ]
+  },
+  {
+   "id": "urgent",
+   "title": "Emergency & after-hours",
+   "img": "1585704032915-c3400ca199e7",
+   "short": "Same-day and after-hours callouts.",
+   "long": "Customers say Stu was available the same day when others weren't. Call 0412 734 297 for urgent jobs, including after hours and weekends.",
+   "points": [
+    "Same-day when possible",
+    "After-hours",
+    "Rental maintenance"
+   ]
+  }
+ ],
+ "whyHead": "Why Mackay calls Stu",
+ "whyText": "A local plumber and gasfitter with 93 five-star Google reviews.",
+ "why": [
+  "5.0 stars from 93 Google reviews",
+  "Operating since 2003",
+  "Same-day and after-hours work",
+  "Rental property maintenance"
+ ],
+ "galleryHead": "On the job",
+ "gallerySub": "Plumbing and gas work around Mackay.",
+ "faq": [
+  [
+   "Where are you based?",
+   "South Mackay, working across the Mackay region."
+  ],
+  [
+   "Do you do after-hours jobs?",
+   "Yes, after-hours and emergency callouts. Call 0412 734 297."
+  ],
+  [
+   "Do you do gas work?",
+   "Yes: gas fitting, gas leak detection and gas bottle relocation."
+  ],
+  [
+   "Do you look after rentals?",
+   "Yes, rental property maintenance is part of what we do."
+  ],
+  [
+   "How do I book?",
+   "Call Stu on 0412 734 297 or send a request through this site."
+  ]
+ ],
+ "aboutHead": "About SS Plumbing & Gas",
+ "aboutSub": "Stu, South Mackay.",
+ "aboutParas": [
+  "SS Plumbing & Gas Mackay is Stu, a plumber and gasfitter based in South Mackay.",
+  "The business has been operating since 2003 and has a 5.0 rating from 93 Google reviews.",
+  "From hot water and gas to leaks and urgent callouts, call 0412 734 297."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Quick",
+   "Same-day where possible."
+  ],
+  [
+   "Local",
+   "South Mackay based."
+  ],
+  [
+   "Reliable",
+   "93 five-star Google reviews."
+  ]
+ ],
+ "contactHead": "Book SS Plumbing & Gas",
+ "contactSub": "Tell us what's going on and where, and Stu will get back to you. Urgent? Call 0412 734 297.",
+ "bandText": "Leak, no hot water or gas job? Call Stu.",
+ "footerBlurb": "Plumber and gasfitter in South Mackay, serving the Mackay region.",
+ "hours": [
+  [
+   "Bookings",
+   "Call 0412 734 297"
+  ],
+  [
+   "Urgent jobs",
+   "After-hours callouts"
+  ],
+  [
+   "Weekends",
+   "Call to check"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Available the same day here in Mackay.",
+   "who": "Google review"
+  },
+  {
+   "text": "The third plumber I called, and the only one who was able to get the job done today.",
+   "who": "Google review"
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "Snippets from SS Plumbing & Gas Mackay's Google reviews.",
+ "formHead": "Plumbing request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "What's the problem?",
+   "problem"
+  ]
+ ],
+ "theme": {
+  "radius": "14px",
+  "btnRadius": "10px",
+  "h1max": "80px",
+  "logoRadius": 9,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "700",
+  "onAccent": "#FFFFFF",
+  "hero": "split",
+  "icon": "tap",
+  "fontsQuery": "family=Rubik:wght@600;700;800&family=Karla:wght@400;500;700",
+  "headFont": "Rubik,system-ui,sans-serif",
+  "bodyFont": "Karla,system-ui,sans-serif",
+  "surface": "#EEF4F9",
+  "ink": "#0B2135",
+  "muted": "#52637A",
+  "brand": "#0A3D62",
+  "brand2": "#072A44",
+  "accent": "#F97316",
+  "line": "#D3E0EB",
+  "headerInk": "#0A3D62",
+  "overlay": "rgba(7,42,68,.9)",
+  "footBg": "#072A44",
+  "footInk": "#B7C9D9",
+  "footHead": "#F97316",
+  "logoBg": "#F97316",
+  "logoFg": "#FFFFFF"
+ }
+}

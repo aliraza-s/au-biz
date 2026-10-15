@@ -1,0 +1,223 @@
+{
+ "slug": "mister-shifter-removals",
+ "name": "Mister Shifter Removals",
+ "short": "Mister Shifter",
+ "tag": "Removals · Lismore NSW",
+ "street": "",
+ "suburb": "Lismore",
+ "state": "NSW",
+ "postcode": "2480",
+ "phone": "0475 074 906",
+ "phoneIntl": "+61475074906",
+ "facebook": "https://www.facebook.com/mistershifterremovals/",
+ "topline": "Lismore & the Northern Rivers · Man and ute removals",
+ "addressLine": "Lismore NSW 2480",
+ "area": "Lismore and the Northern Rivers",
+ "areaShort": "Lismore, Northern Rivers",
+ "areaText": "Mister Shifter Removals is Will, a man-and-ute removalist based in Lismore. Call 0475 074 906 to talk about your move.",
+ "mapQuery": "Lismore NSW 2480",
+ "seoTitle": "Man and Ute Removals in Lismore NSW",
+ "metaDesc": "Mister Shifter Removals: man and ute removals in Lismore and the Northern Rivers. Call Will on 0475 074 906.",
+ "ctaLabel": "Get a moving quote",
+ "ownerOrUs": "Will",
+ "schemaType": "MovingCompany",
+ "badge": [
+  "Man & ute",
+  "Lismore NSW"
+ ],
+ "hero": {
+  "title": "Moving in Lismore? Call Mister Shifter.",
+  "titleHtml": "Moving in Lismore?<br>Call Mister Shifter.",
+  "lede": "Man-and-ute removals from Will, for smaller moves and pickups around Lismore and the Northern Rivers.",
+  "trust": [
+   "Man & ute service",
+   "Deal direct with Will",
+   "Call or text"
+  ]
+ },
+ "images": {
+  "hero": "1714647211902-bb711d643a17",
+  "heroAlt": "Moving boxes in a living room",
+  "about": "1586781383963-8e66f88077ec",
+  "about2": "1566576721346-d4a3b4eaeb55",
+  "aboutAlt": "Cardboard moving boxes",
+  "gallery": [
+   "1600725935160-f67ee4f6084a",
+   "1730154838368-c37b1fdebcf6",
+   "1663625318264-695d2d04f11a",
+   "1609143739217-01b60dad1c67",
+   "1601467995997-ac1ae9a8fff4",
+   "1624137527136-66e631bdaa0e"
+  ]
+ },
+ "servicesHead": "How Will can help",
+ "servicesSub": "Man-and-ute removals around Lismore.",
+ "services": [
+  {
+   "id": "small-moves",
+   "title": "Small moves",
+   "img": "1730154838368-c37b1fdebcf6",
+   "short": "Units, rooms and smaller households.",
+   "long": "Moving a unit, a room or a smaller load? Tell Will what's going and where, and he'll let you know what it'll take.",
+   "points": [
+    "Units & rooms",
+    "Local moves",
+    "Call for a quote"
+   ]
+  },
+  {
+   "id": "pickups",
+   "title": "Pickups & deliveries",
+   "img": "1601467995997-ac1ae9a8fff4",
+   "short": "Bought something big? We'll grab it.",
+   "long": "Furniture or items to collect and drop off around the Northern Rivers. Give Will a ring with the details.",
+   "points": [
+    "Furniture pickups",
+    "Marketplace buys",
+    "Door to door"
+   ]
+  },
+  {
+   "id": "man-and-ute",
+   "title": "Man & ute hire",
+   "img": "1609143739217-01b60dad1c67",
+   "short": "An extra set of hands and a ute.",
+   "long": "Need a ute and someone to help lift? That's exactly what Mister Shifter does.",
+   "points": [
+    "Loading & unloading",
+    "Ute transport",
+    "Lismore based"
+   ]
+  },
+  {
+   "id": "booking",
+   "title": "Easy booking",
+   "img": "1566576721346-d4a3b4eaeb55",
+   "short": "Call, text or send a request.",
+   "long": "Call or text 0475 074 906, or send the details through this site: what's moving, from where, to where and when.",
+   "points": [
+    "Phone or text",
+    "Facebook messages",
+    "Talk to Will"
+   ]
+  }
+ ],
+ "whyHead": "Why call Will",
+ "whyText": "A local man-and-ute removalist you can deal with directly.",
+ "why": [
+  "Based in Lismore",
+  "Man-and-ute service",
+  "Deal direct with Will",
+  "Easy to book by phone or text"
+ ],
+ "galleryHead": "Packed and ready",
+ "gallerySub": "Moves and pickups around the Northern Rivers.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Lismore NSW, in the Northern Rivers."
+  ],
+  [
+   "What kind of moves do you do?",
+   "Man-and-ute removals: smaller moves, pickups and deliveries."
+  ],
+  [
+   "How do I get a quote?",
+   "Call or text Will on 0475 074 906, or send a request through this site."
+  ],
+  [
+   "What should I tell you?",
+   "What's moving, pickup and drop-off suburbs, and the date you have in mind."
+  ]
+ ],
+ "aboutHead": "About Mister Shifter Removals",
+ "aboutSub": "Will, Lismore.",
+ "aboutParas": [
+  "Mister Shifter Removals is Will, a man-and-ute removalist based in Lismore.",
+  "Whether it's a small move or a single item that needs picking up, you'll deal with Will directly.",
+  "Call or text 0475 074 906 or message us on Facebook."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Lismore based."
+  ],
+  [
+   "Direct",
+   "You talk to Will."
+  ],
+  [
+   "Handy",
+   "A ute and a spare set of hands."
+  ]
+ ],
+ "contactHead": "Get a moving quote",
+ "contactSub": "Tell us what's moving and where, and Will will be in touch. Or call 0475 074 906.",
+ "bandText": "Got something to move? Call Will.",
+ "footerBlurb": "Man-and-ute removals in Lismore and the Northern Rivers.",
+ "hours": [
+  [
+   "Bookings",
+   "Call 0475 074 906"
+  ],
+  [
+   "Text",
+   "Any time"
+  ],
+  [
+   "Facebook",
+   "Message us"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What customers say",
+ "formHead": "Moving quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Moving from",
+   "from"
+  ],
+  [
+   "Moving to",
+   "to"
+  ],
+  [
+   "Date",
+   "date"
+  ]
+ ],
+ "theme": {
+  "radius": "8px",
+  "btnRadius": "4px",
+  "h1max": "78px",
+  "logoRadius": 9,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "400",
+  "onAccent": "#111111",
+  "hero": "arch",
+  "icon": "ute",
+  "fontsQuery": "family=Alfa+Slab+One&family=Work+Sans:wght@400;500;700",
+  "headFont": "\"Alfa Slab One\",Georgia,serif",
+  "bodyFont": "\"Work Sans\",system-ui,sans-serif",
+  "surface": "#F5F1E8",
+  "ink": "#14213D",
+  "muted": "#5B6276",
+  "brand": "#14213D",
+  "brand2": "#F3E3C3",
+  "accent": "#FCA311",
+  "line": "#E3DCCB",
+  "headerInk": "#14213D",
+  "overlay": "rgba(20,33,61,.9)",
+  "footBg": "#0E1730",
+  "footInk": "#BFC6D6",
+  "footHead": "#FCA311",
+  "logoBg": "#FCA311",
+  "logoFg": "#14213D"
+ }
+}
