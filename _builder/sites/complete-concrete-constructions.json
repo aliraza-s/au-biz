@@ -1,0 +1,210 @@
+{
+ "ctaLabel": "Enquire now",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send enquiry",
+ "formHead": "Project enquiry",
+ "reviewsHead": "",
+ "slug": "complete-concrete-constructions",
+ "name": "Complete Concrete Constructions",
+ "short": "Complete Concrete",
+ "tag": "Constructions · Gladstone",
+ "street": "10 Fowler Street",
+ "suburb": "West Gladstone",
+ "state": "QLD",
+ "postcode": "4680",
+ "phone": "0422 700 927",
+ "phoneIntl": "+61422700927",
+ "topline": "Commercial concrete construction · Gladstone",
+ "addressLine": "10 Fowler Street, West Gladstone QLD 4680",
+ "area": "Gladstone",
+ "areaShort": "West Gladstone",
+ "areaText": "Complete Concrete Constructions is based at 10 Fowler Street, West Gladstone, and works on commercial concrete projects across Gladstone. Call 0422 700 927.",
+ "mapQuery": "10 Fowler St, West Gladstone QLD 4680",
+ "seoTitle": "Commercial concrete construction in Gladstone",
+ "metaDesc": "Complete Concrete Constructions, West Gladstone: commercial concrete construction, slabs, driveways, footpaths and structural repairs, from planning to handover. Call 0422 700 927.",
+ "ownerOrUs": "us",
+ "hero": {
+  "title": "Concrete construction, from plan to handover.",
+  "titleHtml": "Concrete construction, from plan to handover.",
+  "lede": "Commercial concrete construction, slabs and structural repairs in Gladstone, with planning, site supervision and a clean handover at the end.",
+  "trust": [
+   "Commercial projects",
+   "Slabs, driveways & footpaths",
+   "Plan to handover"
+  ]
+ },
+ "images": {
+  "hero": "1508450859948-4e04fabaa4ea",
+  "heroAlt": "Concrete building under construction",
+  "about": "1504307651254-35680f356dfd",
+  "about2": "1582540730843-f4418d96ccbe",
+  "aboutAlt": "Worker in a hard hat on site",
+  "gallery": [
+   "1694521787162-5373b598945c",
+   "1712711649566-16c7cfcf341c",
+   "1530863506128-dc9eb5c3e0fc",
+   "1531834685032-c34bf0d84c77",
+   "1640101086894-7d70c3e70179",
+   "1563166423-482a8c14b2d6"
+  ]
+ },
+ "servicesHead": "What we build",
+ "servicesSub": "Concrete construction for commercial projects in Gladstone, start to finish.",
+ "services": [
+  {
+   "id": "commercial",
+   "title": "Commercial concrete construction",
+   "img": "1508450859948-4e04fabaa4ea",
+   "short": "New commercial builds in concrete.",
+   "long": "Concrete construction for commercial projects, from early planning through to final handover, including multi-phase work on active sites.",
+   "points": [
+    "New builds",
+    "Multi-phase projects",
+    "Active sites"
+   ]
+  },
+  {
+   "id": "slabs",
+   "title": "Slabs, driveways & footpaths",
+   "img": "1574757987642-5755f0839101",
+   "short": "Concrete slabs, driveways and footpaths.",
+   "long": "Slab concreting plus concrete driveways and footpaths, using concrete pumps, formwork systems and proper site prep.",
+   "points": [
+    "Slabs",
+    "Driveways",
+    "Footpaths"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Structural repairs & restoration",
+   "img": "1530863506128-dc9eb5c3e0fc",
+   "short": "Repairing and restoring concrete structures.",
+   "long": "Structural repairs and restorations to get existing concrete back in shape.",
+   "points": [
+    "Structural repairs",
+    "Restorations",
+    "Assessment"
+   ]
+  },
+  {
+   "id": "management",
+   "title": "Project management & supervision",
+   "img": "1640101086894-7d70c3e70179",
+   "short": "Planning, scheduling, supervision and handover.",
+   "long": "Pre-construction planning and scheduling, design collaboration with architects, site supervision and subcontractor oversight, then final inspections and handover.",
+   "points": [
+    "Planning & scheduling",
+    "Site supervision",
+    "Final inspections & handover"
+   ]
+  }
+ ],
+ "whyHead": "One team, start to finish",
+ "whyText": "From design input to final handover, with clear communication along the way.",
+ "why": [
+  "Pre-construction planning and scheduling",
+  "Works with architects on design",
+  "Site supervision and subcontractor oversight",
+  "Concrete pumps, formwork, excavators and compactors"
+ ],
+ "galleryHead": "On site",
+ "gallerySub": "Commercial concrete construction around Gladstone.",
+ "faq": [
+  [
+   "Where are you based?",
+   "10 Fowler Street, West Gladstone QLD 4680."
+  ],
+  [
+   "What kind of work do you do?",
+   "Commercial concrete construction, slabs, driveways, footpaths and structural repairs and restorations."
+  ],
+  [
+   "Can you manage the whole project?",
+   "Yes: planning, scheduling, site supervision, subcontractor oversight and final handover."
+  ],
+  [
+   "What equipment do you use?",
+   "Concrete pumps, formwork systems, excavators and compactors, and site prep and finishing tools."
+  ]
+ ],
+ "aboutHead": "About Complete Concrete",
+ "aboutSub": "Commercial concrete construction in Gladstone.",
+ "aboutParas": [
+  "Complete Concrete Constructions is a West Gladstone business doing commercial concrete construction, slabs and structural repairs.",
+  "We work from early design input and pre-construction planning through to site supervision, final inspections and handover.",
+  "Call 0422 700 927 to discuss your project."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Planned",
+   "Scheduling and planning before the first pour."
+  ],
+  [
+   "Supervised",
+   "Site supervision and subcontractor oversight."
+  ],
+  [
+   "Finished",
+   "Final inspections and a proper handover."
+  ]
+ ],
+ "contactHead": "Discuss your project",
+ "contactSub": "Tell us about your project and we'll get back to you. Or call 0422 700 927.",
+ "bandText": "Got a concrete project coming up?",
+ "footerBlurb": "Commercial concrete construction, slabs and structural repairs in Gladstone.",
+ "hours": [
+  [
+   "Hours",
+   "Call to arrange a time"
+  ],
+  [
+   "Phone",
+   "0422 700 927"
+  ],
+  [
+   "Based in",
+   "West Gladstone"
+  ]
+ ],
+ "reviews": [],
+ "formExtra": [
+  [
+   "Project type & location",
+   "project"
+  ]
+ ],
+ "theme": {
+  "radius": "10px",
+  "btnRadius": "6px",
+  "h1max": "80px",
+  "logoRadius": 8,
+  "headTrack": "0",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "700",
+  "hero": "center",
+  "icon": "crane",
+  "fontsQuery": "family=Antonio:wght@600;700&family=Public+Sans:wght@400;500;700",
+  "headFont": "Antonio,Impact,sans-serif",
+  "bodyFont": "\"Public Sans\",system-ui,sans-serif",
+  "bg": "#FFFFFF",
+  "headerBg": "#0B132B",
+  "headerInk": "#FFFFFF",
+  "surface": "#F2F3F6",
+  "ink": "#0B132B",
+  "muted": "#525B70",
+  "line": "#E0E3EA",
+  "brand": "#0B132B",
+  "brand2": "#1C2541",
+  "accent": "#FF6B35",
+  "onAccent": "#0B132B",
+  "overlay": "rgba(11,19,43,.9)",
+  "footBg": "#0B132B",
+  "footInk": "#B9C0D0",
+  "footHead": "#FF6B35",
+  "logoBg": "#FF6B35",
+  "logoFg": "#0B132B"
+ }
+}

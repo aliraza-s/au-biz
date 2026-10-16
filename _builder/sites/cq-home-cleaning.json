@@ -1,0 +1,223 @@
+{
+ "ctaLabel": "Book a clean",
+ "schemaType": "HouseCleaningService",
+ "formButton": "Send request",
+ "formHead": "Cleaning request",
+ "reviewsHead": "",
+ "slug": "cq-home-cleaning",
+ "name": "Central Queensland Home Cleaning Services",
+ "short": "CQ Home Cleaning",
+ "tag": "Home cleaning · Gladstone",
+ "street": "",
+ "suburb": "Gladstone",
+ "state": "QLD",
+ "postcode": "4680",
+ "phone": "0439 527 808",
+ "phoneIntl": "+61439527808",
+ "facebook": "https://www.facebook.com/groups/cqhcleaningservices/",
+ "topline": "Servicing Gladstone · Mon–Fri 7am–6pm",
+ "addressLine": "Gladstone QLD 4680",
+ "area": "Gladstone",
+ "areaShort": "Servicing Gladstone",
+ "areaText": "We clean homes, flats, holiday units and rentals around Gladstone. You don't need to be home, and we bring our own supplies.",
+ "mapQuery": "South Gladstone QLD 4680",
+ "seoTitle": "House, bond & builders cleaning in Gladstone",
+ "metaDesc": "Central Queensland Home Cleaning Services: regular house cleans, bond cleans, builders cleans, oven and window cleaning in Gladstone. Call 0439 527 808.",
+ "ownerOrUs": "us",
+ "hero": {
+  "title": "We take the work out of your housework.",
+  "titleHtml": "We take the work out of your <em style=\"font-style:italic;color:var(--brand)\">housework.</em>",
+  "lede": "Regular house cleans, one-off deep cleans, bond cleans and builders cleans around Gladstone. Weekly, fortnightly, monthly or just once.",
+  "trust": [
+   "Screened cleaners",
+   "We bring the supplies",
+   "You don't need to be home"
+  ]
+ },
+ "images": {
+  "hero": "1646980241033-cd7abda2ee88",
+  "heroAlt": "Cleaner carrying a caddy and broom up the stairs",
+  "about": "1758523670739-0d26a3ee976d",
+  "about2": "1583847268964-b28dc8f51f92",
+  "aboutAlt": "Freshly cleaned living room",
+  "gallery": [
+   "1527515637462-cff94eecc1ac",
+   "1765970101654-337b573142fb",
+   "1642505172378-a6f5e5b15580",
+   "1563453392212-326f5e854473",
+   "1484154218962-a197022b5858",
+   "1628177142898-93e36e4e3a50"
+  ]
+ },
+ "servicesHead": "Home cleaning services",
+ "servicesSub": "For family homes, flats, holiday units and rental properties around Gladstone.",
+ "services": [
+  {
+   "id": "regular",
+   "title": "Regular house cleans",
+   "img": "1758523670739-0d26a3ee976d",
+   "short": "A cleaning plan that suits you: weekly, fortnightly or monthly.",
+   "long": "Set up a recurring cleaning plan and come home to a clean house. Any area of the house can be cleaned on request.",
+   "points": [
+    "Weekly, fortnightly or monthly",
+    "Any area on request",
+    "You don't need to be home"
+   ]
+  },
+  {
+   "id": "one-off",
+   "title": "One-off deep cleans",
+   "img": "1527515637462-cff94eecc1ac",
+   "short": "A one-time deep clean when the house needs a reset.",
+   "long": "Whether it's a one-time deep clean or something recurring, we can set up a plan that suits you.",
+   "points": [
+    "Whole house or selected rooms",
+    "We bring supplies & equipment",
+    "Homes, flats & units"
+   ]
+  },
+  {
+   "id": "bond",
+   "title": "Bond cleans",
+   "img": "1484154218962-a197022b5858",
+   "short": "End of lease cleans for rental properties.",
+   "long": "Moving out of a rental? We'll clean it thoroughly so it's ready to hand back.",
+   "points": [
+    "Rental properties",
+    "Holiday units",
+    "Whole-property clean"
+   ]
+  },
+  {
+   "id": "builders",
+   "title": "Builders final cleans",
+   "img": "1722710070534-e31f0290d8de",
+   "short": "The final clean after building or renovating.",
+   "long": "A builders' final clean to get a new or renovated home ready to move into.",
+   "points": [
+    "New builds",
+    "Renovations",
+    "Move-in ready"
+   ]
+  },
+  {
+   "id": "oven-windows",
+   "title": "Oven & window cleaning",
+   "img": "1581578731548-c64695cc6952",
+   "short": "Ovens and windows cleaned properly.",
+   "long": "Oven cleaning and window cleaning, on their own or added to any clean.",
+   "points": [
+    "Ovens",
+    "Windows",
+    "Add to any clean"
+   ]
+  }
+ ],
+ "whyHead": "Housework, handled",
+ "whyText": "Whether it's a one-time deep clean or something recurring, we can set up a cleaning plan for you.",
+ "why": [
+  "Every crew member is screened",
+  "We bring our own supplies and equipment",
+  "You don't need to be home",
+  "Daily, weekly or monthly visits"
+ ],
+ "galleryHead": "Fresh, clean homes",
+ "gallerySub": "Family homes, flats, holiday units and rentals in Gladstone.",
+ "faq": [
+  [
+   "Do I need to be home?",
+   "No, you don't need to be home while we clean."
+  ],
+  [
+   "Do you bring your own supplies?",
+   "Yes, our cleaners bring their own supplies and equipment."
+  ],
+  [
+   "How often can you come?",
+   "Daily, weekly, fortnightly, monthly, or just once."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 7am to 6pm."
+  ],
+  [
+   "How can I pay?",
+   "Cash, EFT, EFTPOS, Mastercard or Visa."
+  ]
+ ],
+ "aboutHead": "About CQ Home Cleaning",
+ "aboutSub": "Home cleaning around Gladstone.",
+ "aboutParas": [
+  "Central Queensland Home Cleaning Services cleans homes, flats, holiday units and rental properties around Gladstone.",
+  "Every crew member is screened, and we bring our own supplies and equipment. You don't even need to be home.",
+  "Call 0439 527 808 to set up a one-off clean or a regular cleaning plan."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Screened",
+   "Every crew member is screened."
+  ],
+  [
+   "Flexible",
+   "One-off, weekly, fortnightly or monthly."
+  ],
+  [
+   "Hassle-free",
+   "We bring everything. You don't need to be home."
+  ]
+ ],
+ "contactHead": "Book a clean",
+ "contactSub": "Tell us about your home and how often you'd like a clean. Or call 0439 527 808.",
+ "bandText": "Ready to hand over the housework?",
+ "footerBlurb": "House cleans, bond cleans, builders cleans, ovens and windows around Gladstone.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 6pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "formExtra": [
+  [
+   "How often? (once, weekly, fortnightly…)",
+   "frequency"
+  ]
+ ],
+ "theme": {
+  "radius": "22px",
+  "btnRadius": "999px",
+  "h1max": "78px",
+  "logoRadius": 999,
+  "headTrack": "-.015em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "hero": "arch",
+  "icon": "broom",
+  "fontsQuery": "family=Young+Serif&family=Onest:wght@400;500;700",
+  "headFont": "\"Young Serif\",Georgia,serif",
+  "bodyFont": "Onest,system-ui,sans-serif",
+  "bg": "#FBFCFE",
+  "headerBg": "#FBFCFE",
+  "surface": "#EEF3FA",
+  "ink": "#1C2433",
+  "muted": "#56627A",
+  "brand": "#274C77",
+  "brand2": "#E3ECF7",
+  "accent": "#F4A261",
+  "onAccent": "#1C2433",
+  "line": "#D9E3F0",
+  "headerInk": "#274C77",
+  "overlay": "rgba(20,40,64,.9)",
+  "footBg": "#1A3352",
+  "footInk": "#C6D3E5",
+  "footHead": "#F4A261",
+  "logoBg": "#274C77",
+  "logoFg": "#F4A261"
+ }
+}

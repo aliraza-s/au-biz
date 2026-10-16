@@ -1,0 +1,224 @@
+{
+ "ctaLabel": "Get a free estimate",
+ "schemaType": "HouseCleaningService",
+ "formButton": "Send request",
+ "formHead": "Free estimate request",
+ "reviewsHead": "What locals say",
+ "slug": "savage-cleaning-dalby",
+ "name": "Savage Cleaning Services",
+ "short": "Savage Cleaning",
+ "tag": "A great clean every time · Dalby",
+ "street": "9 Moy Street",
+ "suburb": "Dalby",
+ "state": "QLD",
+ "postcode": "4405",
+ "phone": "0408 989 236",
+ "phoneIntl": "+61408989236",
+ "topline": "Locally owned in Dalby · Office (07) 4662 4440",
+ "addressLine": "9 Moy Street, Dalby QLD 4405",
+ "area": "Dalby",
+ "areaShort": "Dalby & surrounding areas",
+ "areaText": "Savage Cleaning Services is at 9 Moy Street, Dalby, cleaning homes, businesses and work sites across Dalby and surrounding areas. Call 0408 989 236 or the office on (07) 4662 4440.",
+ "mapQuery": "9 Moy Street, Dalby QLD 4405",
+ "seoTitle": "Domestic, commercial & bond cleaning in Dalby",
+ "metaDesc": "Savage Cleaning Services, Dalby: domestic, commercial and industrial cleaning, bond cleans, builders cleans and deep cleans. Free estimates. Call 0408 989 236.",
+ "ownerOrUs": "us",
+ "badge": [
+  "Dalby",
+  "Locally owned & operated"
+ ],
+ "hero": {
+  "title": "A great clean, every time.",
+  "titleHtml": "A great clean,<br><span style=\"color:var(--accent)\">every time.</span>",
+  "lede": "Domestic, commercial and industrial cleaning, bond cleans and builders cleans across Dalby and surrounds. Prompt, affordable and locally owned.",
+  "trust": [
+   "Locally owned",
+   "Free estimates",
+   "Dalby & surrounds"
+  ]
+ },
+ "images": {
+  "hero": "1740657254989-42fe9c3b8cce",
+  "heroAlt": "Cleaner in gloves cleaning a floor",
+  "about": "1647381518264-97ff1835026f",
+  "about2": "1642505172378-a6f5e5b15580",
+  "aboutAlt": "Cleaner wiping a kitchen sink",
+  "gallery": [
+   "1484154218962-a197022b5858",
+   "1686178827149-6d55c72d81df",
+   "1585421514284-efb74c2b69ba",
+   "1713110824336-f78c320dcf8e",
+   "1722710070534-e31f0290d8de",
+   "1528740561666-dc2479dc08ab"
+  ]
+ },
+ "servicesHead": "What we clean",
+ "servicesSub": "Homes, businesses and work sites across Dalby, inside and out.",
+ "services": [
+  {
+   "id": "domestic",
+   "title": "Domestic cleaning",
+   "img": "1642505172378-a6f5e5b15580",
+   "short": "Home cleaning, inside and out.",
+   "long": "Interior and exterior cleaning for homes around Dalby, done promptly and to current hygiene standards.",
+   "points": [
+    "Interior cleaning",
+    "Exterior cleaning",
+    "Deep cleans"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial & industrial",
+   "img": "1669101602108-fa5ba89507ee",
+   "short": "Cleaning for businesses, offices and industrial sites.",
+   "long": "Commercial and industrial cleaning for Dalby businesses, with sanitisation of surfaces and appliances included.",
+   "points": [
+    "Offices & shops",
+    "Industrial sites",
+    "Sanitisation"
+   ]
+  },
+  {
+   "id": "bond",
+   "title": "Bond cleans",
+   "img": "1484154218962-a197022b5858",
+   "short": "End of lease cleans to get the property ready to hand back.",
+   "long": "Moving out? We clean the whole property thoroughly so it's ready to hand back.",
+   "points": [
+    "End of lease",
+    "Whole-house clean",
+    "Free estimate"
+   ]
+  },
+  {
+   "id": "builders",
+   "title": "Builders cleans",
+   "img": "1722710070534-e31f0290d8de",
+   "short": "Post-construction cleans and debris removal.",
+   "long": "Builders cleans after construction or renovation, including construction debris removal.",
+   "points": [
+    "Post-construction cleans",
+    "Debris removal",
+    "Ready for handover"
+   ]
+  }
+ ],
+ "whyHead": "Why Dalby calls Savage Cleaning",
+ "whyText": "We're a locally owned and operated business committed to top-notch, prompt and affordable cleaning.",
+ "why": [
+  "Locally owned and operated",
+  "Prompt and affordable",
+  "Sanitisation to current hygiene standards",
+  "Free estimates"
+ ],
+ "galleryHead": "Clean from top to bottom",
+ "gallerySub": "Homes, rentals and workplaces around Dalby.",
+ "faq": [
+  [
+   "Where are you based?",
+   "9 Moy Street, Dalby QLD 4405. We work across Dalby and surrounding areas."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 8am to 5pm. Closed weekends and public holidays."
+  ],
+  [
+   "Do you clean carpets?",
+   "No, but we can refer you to someone who does."
+  ],
+  [
+   "Do you give free estimates?",
+   "Yes. Call 0408 989 236 or (07) 4662 4440, or send a request."
+  ]
+ ],
+ "aboutHead": "About Savage Cleaning",
+ "aboutSub": "Locally owned and operated in Dalby.",
+ "aboutParas": [
+  "Savage Cleaning Services is a locally owned and operated Dalby business.",
+  "We're committed to top-notch, prompt and affordable cleaning for homes, businesses and work sites, from bond cleans to builders cleans.",
+  "Call 0408 989 236 or the office on (07) 4662 4440 for a free estimate."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Prompt",
+   "Quick replies and quick action on the job."
+  ],
+  [
+   "Affordable",
+   "Fair prices with free estimates."
+  ],
+  [
+   "Hygienic",
+   "Surfaces and appliances sanitised to current standards."
+  ]
+ ],
+ "contactHead": "Get a free estimate",
+ "contactSub": "Tell us what needs cleaning and we'll get back to you. Or call 0408 989 236.",
+ "bandText": "Need a great clean in Dalby?",
+ "footerBlurb": "Domestic, commercial and industrial cleaning, bond cleans and builders cleans in Dalby.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "8am – 5pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ],
+  [
+   "Public holidays",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Awesome Service from Judy and the crew",
+   "who": "Google review"
+  },
+  {
+   "text": "Quick reply and action for the job",
+   "who": "Google review"
+  }
+ ],
+ "reviewsSub": "From Google reviews.",
+ "formExtra": [
+  [
+   "Home, business or work site?",
+   "site"
+  ]
+ ],
+ "theme": {
+  "radius": "2px",
+  "btnRadius": "2px",
+  "h1max": "104px",
+  "logoRadius": 3,
+  "headTrack": "-.035em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "900",
+  "hero": "stack",
+  "icon": "bucket",
+  "fontsQuery": "family=Epilogue:wght@700;800;900&family=Libre+Franklin:wght@400;500;700",
+  "headFont": "Epilogue,system-ui,sans-serif",
+  "bodyFont": "\"Libre Franklin\",system-ui,sans-serif",
+  "bg": "#FFF9F2",
+  "headerBg": "#FFF9F2",
+  "surface": "#FCEEDC",
+  "ink": "#2A1215",
+  "muted": "#6B4F4A",
+  "brand": "#9A031E",
+  "brand2": "#5F0F15",
+  "accent": "#FB8B24",
+  "onAccent": "#2A1215",
+  "line": "#F0DCC8",
+  "headerInk": "#9A031E",
+  "overlay": "rgba(95,15,21,.9)",
+  "footBg": "#2A1215",
+  "footInk": "#E5CFC6",
+  "footHead": "#FB8B24",
+  "logoBg": "#9A031E",
+  "logoFg": "#FFF9F2"
+ }
+}

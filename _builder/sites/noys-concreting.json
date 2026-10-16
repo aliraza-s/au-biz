@@ -1,0 +1,226 @@
+{
+ "ctaLabel": "Request a quote",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send request",
+ "formHead": "Quote request",
+ "reviewsHead": "",
+ "slug": "noys-concreting",
+ "name": "Noys Concreting Services",
+ "short": "Noys Concreting",
+ "tag": "Concreting · West Gladstone",
+ "street": "22 Morley Street",
+ "suburb": "West Gladstone",
+ "state": "QLD",
+ "postcode": "4680",
+ "phone": "0407 925 841",
+ "phoneIntl": "+61407925841",
+ "topline": "Family-run Gladstone concreters · Residential & commercial",
+ "addressLine": "22 Morley Street, West Gladstone QLD 4680",
+ "area": "Gladstone",
+ "areaShort": "West Gladstone",
+ "areaText": "Noys Concreting Services is a family business based in West Gladstone, doing residential and commercial concreting around Gladstone. Call 0407 925 841 for an estimate.",
+ "mapQuery": "22 Morley St, West Gladstone QLD 4680",
+ "seoTitle": "Concreting, driveways & paving in Gladstone",
+ "metaDesc": "Noys Concreting Services, West Gladstone: family-run residential and commercial concreting, driveways, paving, stencilling and steel. Call 0407 925 841 for an estimate.",
+ "ownerOrUs": "us",
+ "badge": [
+  "Since 2007",
+  "Family-run in Gladstone"
+ ],
+ "hero": {
+  "title": "Gladstone concrete, laid by a local family.",
+  "titleHtml": "Gladstone concrete, laid by a local family.",
+  "lede": "Residential and commercial concreting from Shane and Deidre Noy's family business in West Gladstone. Driveways, paving, stencilled finishes and steel.",
+  "trust": [
+   "Family business",
+   "Residential & commercial",
+   "Estimates on request"
+  ]
+ },
+ "images": {
+  "hero": "1764856601179-dfeca7b37e4c",
+  "heroAlt": "Workers pouring concrete from a wheelbarrow",
+  "about": "1673978483810-ad14e573eece",
+  "about2": "1685464196332-ed9c9da28d9a",
+  "aboutAlt": "Concrete being poured on site",
+  "gallery": [
+   "1781637202423-33ec5b47e52e",
+   "1783125127341-81112b795c23",
+   "1600456899121-68eda5705257",
+   "1773432114391-f85c1674b233",
+   "1673978484202-ea21a0750148",
+   "1598171182339-b24dd64241a6"
+  ]
+ },
+ "servicesHead": "Concreting services",
+ "servicesSub": "Residential and commercial concrete work around Gladstone.",
+ "services": [
+  {
+   "id": "driveways",
+   "title": "Driveways & paving",
+   "img": "1781637202423-33ec5b47e52e",
+   "short": "Concrete driveways and paved areas for Gladstone homes.",
+   "long": "New concrete driveways and paving for homes around Gladstone. Call for an estimate.",
+   "points": [
+    "Driveways",
+    "Paving",
+    "Residential"
+   ]
+  },
+  {
+   "id": "residential",
+   "title": "Residential concreting",
+   "img": "1685464196332-ed9c9da28d9a",
+   "short": "Concrete work around the home.",
+   "long": "Residential concreting for Gladstone homes, from the family that's been doing it locally since 2007.",
+   "points": [
+    "Homes",
+    "Local family business",
+    "Estimates on request"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial concreting",
+   "img": "1773432114391-f85c1674b233",
+   "short": "Concrete work for commercial sites.",
+   "long": "Commercial concreting for Gladstone businesses and sites.",
+   "points": [
+    "Commercial sites",
+    "Gladstone region",
+    "Talk to the owners"
+   ]
+  },
+  {
+   "id": "stencil",
+   "title": "Stencilled concrete",
+   "img": "1598171182339-b24dd64241a6",
+   "short": "Stencilled finishes for a decorative look.",
+   "long": "Stencilled concrete finishes to give driveways and outdoor areas a decorative look.",
+   "points": [
+    "Stencilling",
+    "Driveways & paths",
+    "Decorative finishes"
+   ]
+  },
+  {
+   "id": "steel",
+   "title": "Steel reinforcement",
+   "img": "1673978484202-ea21a0750148",
+   "short": "Steel work as part of your concrete job.",
+   "long": "Steel reinforcement as part of the concrete job, so it's all handled by one local team.",
+   "points": [
+    "Reinforcing steel",
+    "One team",
+    "Residential & commercial"
+   ]
+  }
+ ],
+ "whyHead": "A local family business",
+ "whyText": "Noys Concreting Services is the family business of Shane and Deidre Noy, registered in Gladstone since 2007.",
+ "why": [
+  "Family-run since 2007",
+  "Based in West Gladstone",
+  "Residential and commercial",
+  "Estimates on request"
+ ],
+ "galleryHead": "Concrete work",
+ "gallerySub": "Driveways, paving and slabs.",
+ "faq": [
+  [
+   "Where are you based?",
+   "22 Morley Street, West Gladstone QLD 4680."
+  ],
+  [
+   "Do you do residential or commercial?",
+   "Both. Call to talk about your job."
+  ],
+  [
+   "Can I get an estimate?",
+   "Yes. Call 0407 925 841 or send a request through the contact page."
+  ],
+  [
+   "Do you do stencilled concrete?",
+   "Yes, stencilling is one of our services."
+  ]
+ ],
+ "aboutHead": "About Noys Concreting",
+ "aboutSub": "Shane and Deidre Noy, West Gladstone.",
+ "aboutParas": [
+  "Noys Concreting Services is a family business run by Shane and Deidre Noy in West Gladstone.",
+  "The business has been registered in Gladstone since 2007, doing residential and commercial concreting, driveways and paving, stencilling and steel.",
+  "Call 0407 925 841 to talk about your job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Family-run",
+   "You deal with the owners."
+  ],
+  [
+   "Local",
+   "Based in West Gladstone."
+  ],
+  [
+   "Versatile",
+   "Residential and commercial concrete."
+  ]
+ ],
+ "contactHead": "Request a quote",
+ "contactSub": "Tell us about your concrete job and we'll be in touch. Or call 0407 925 841.",
+ "bandText": "Planning a driveway or slab?",
+ "footerBlurb": "Family-run residential and commercial concreting in Gladstone.",
+ "hours": [
+  [
+   "Hours",
+   "Call to arrange a time"
+  ],
+  [
+   "Phone",
+   "0407 925 841"
+  ],
+  [
+   "Based in",
+   "West Gladstone"
+  ]
+ ],
+ "reviews": [],
+ "formExtra": [
+  [
+   "Type of job (driveway, slab, paving…)",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "0px",
+  "btnRadius": "0px",
+  "h1max": "86px",
+  "logoRadius": 0,
+  "headTrack": "-.01em",
+  "headExtra": "text-transform:uppercase;",
+  "onBrand": "#FFFFFF",
+  "headWeight": "900",
+  "hero": "split",
+  "icon": "barrow",
+  "fontsQuery": "family=Sofia+Sans+Condensed:wght@700;800;900&family=Sofia+Sans:wght@400;500;700",
+  "headFont": "\"Sofia Sans Condensed\",Impact,sans-serif",
+  "bodyFont": "\"Sofia Sans\",system-ui,sans-serif",
+  "bg": "#F7F8FA",
+  "headerBg": "#FFFFFF",
+  "surface": "#ECEFF3",
+  "ink": "#1E293B",
+  "muted": "#556275",
+  "line": "#D7DDE5",
+  "brand": "#1E293B",
+  "brand2": "#0F172A",
+  "accent": "#38BDF8",
+  "onAccent": "#0F172A",
+  "headerInk": "#1E293B",
+  "overlay": "rgba(15,23,42,.9)",
+  "footBg": "#0F172A",
+  "footInk": "#B6C2D2",
+  "footHead": "#38BDF8",
+  "logoBg": "#38BDF8",
+  "logoFg": "#0F172A"
+ }
+}

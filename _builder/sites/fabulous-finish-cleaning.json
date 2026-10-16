@@ -1,0 +1,247 @@
+{
+ "ctaLabel": "Get a free estimate",
+ "schemaType": "HouseCleaningService",
+ "formButton": "Send request",
+ "formHead": "Free estimate request",
+ "reviewsHead": "What clients say",
+ "slug": "fabulous-finish-cleaning",
+ "name": "Fabulous Finish Cleaning Services",
+ "short": "Fabulous Finish",
+ "tag": "Cleaning Services · Townsville",
+ "street": "17 Sullivan Place",
+ "suburb": "Kirwan",
+ "state": "QLD",
+ "postcode": "4817",
+ "phone": "0410 514 624",
+ "phoneIntl": "+61410514624",
+ "topline": "Locally owned in Kirwan since 2001 · Mon–Fri 6:30am–5:30pm",
+ "addressLine": "17 Sullivan Place, Kirwan QLD 4817",
+ "area": "Townsville",
+ "areaShort": "Kirwan, Townsville",
+ "areaText": "Fabulous Finish is based at 17 Sullivan Place, Kirwan, and cleans offices, unit complexes, shopfronts and homes around Townsville. Call Mark on 0410 514 624 or (07) 3497 4675.",
+ "mapQuery": "17 Sullivan Place, Kirwan QLD 4817",
+ "seoTitle": "Commercial, body corporate & window cleaning in Townsville",
+ "metaDesc": "Fabulous Finish Cleaning Services, Kirwan: body corporate, office, after-trade, window, carpet and pressure cleaning in Townsville since 2001. Free estimates. Call 0410 514 624.",
+ "ownerOrUs": "us",
+ "rating": 5.0,
+ "reviewCount": 2,
+ "ratingSource": "Google",
+ "hero": {
+  "title": "A fabulous finish, each and every time.",
+  "titleHtml": "A fabulous finish,<br>each and every time.",
+  "lede": "Office, body corporate, window, carpet and after-trade cleaning around Townsville. The owner-operators work on every job, with checklists to make sure nothing is missed.",
+  "trust": [
+   "Since 2001",
+   "Owner-operators on every job",
+   "Free estimates"
+  ]
+ },
+ "images": {
+  "hero": "1581578731548-c64695cc6952",
+  "heroAlt": "Cleaner wiping a large glass window",
+  "about": "1669101602108-fa5ba89507ee",
+  "about2": "1627905646269-7f034dcc5738",
+  "aboutAlt": "Cleaner wiping down an office desk",
+  "gallery": [
+   "1580256081112-e49377338b7f",
+   "1742483359033-13315b247c74",
+   "1563453392212-326f5e854473",
+   "1669101602124-f5b78895d91c",
+   "1628177142898-93e36e4e3a50",
+   "1585417238790-f6d290d6490c"
+  ]
+ },
+ "servicesHead": "Cleaning services",
+ "servicesSub": "Commercial, strata and home cleaning across Townsville, weekly, fortnightly or one-off.",
+ "services": [
+  {
+   "id": "body-corporate",
+   "title": "Body corporate cleaning",
+   "img": "1669101602108-fa5ba89507ee",
+   "short": "Common areas, stairwells, foyers, lifts and toilets in unit complexes.",
+   "long": "Regular cleaning of the shared spaces in unit complexes: common areas, stairwells, foyers, lifts and toilets, kept to the same standard every visit.",
+   "points": [
+    "Common areas & foyers",
+    "Stairwells & lifts",
+    "Toilets"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Office & commercial cleaning",
+   "img": "1627905646269-7f034dcc5738",
+   "short": "Commercial, industrial and retail offices, weekly or fortnightly.",
+   "long": "Weekly or fortnightly cleaning for commercial, industrial and retail offices, plus office vacate cleans when you move out.",
+   "points": [
+    "Weekly or fortnightly",
+    "Industrial & retail offices",
+    "Office vacate cleans"
+   ]
+  },
+  {
+   "id": "after-trade",
+   "title": "After-trade cleaning",
+   "img": "1669101602124-f5b78895d91c",
+   "short": "Insurance repairs, renovations and small builders' cleans.",
+   "long": "When the trades are done, we clean up after insurance repairs, renovations and small builds so the space is ready to use.",
+   "points": [
+    "Insurance repairs",
+    "Renovations",
+    "Small builders' cleans"
+   ]
+  },
+  {
+   "id": "windows",
+   "title": "Window & shopfront cleaning",
+   "img": "1581578731548-c64695cc6952",
+   "short": "Commercial and retail shopfront windows, plus windows and screens.",
+   "long": "Shopfront windows for commercial and retail premises, and window and screen cleaning for homes and offices.",
+   "points": [
+    "Shopfronts",
+    "Windows",
+    "Screens"
+   ]
+  },
+  {
+   "id": "pressure",
+   "title": "House washing & pressure cleaning",
+   "img": "1563453392212-326f5e854473",
+   "short": "External house washing, paths, fencing, driveways and acid cleaning of concrete.",
+   "long": "External house washing and pressure cleaning of paths, fencing, driveways and shopfronts, plus acid cleaning of concrete patios and garages.",
+   "points": [
+    "House washing",
+    "Paths, driveways & fencing",
+    "Acid cleaning of concrete"
+   ]
+  },
+  {
+   "id": "carpet",
+   "title": "Carpet & upholstery",
+   "img": "1742483359033-13315b247c74",
+   "short": "Carpets, mattresses, mats, lounges and window furnishings.",
+   "long": "Carpet and soft furnishing cleaning, including mattresses, mats, lounges and window furnishings.",
+   "points": [
+    "Carpets & mats",
+    "Lounges & mattresses",
+    "Window furnishings"
+   ]
+  }
+ ],
+ "whyHead": "Why Townsville businesses use Fabulous Finish",
+ "whyText": "Locally owned and cleaning around Townsville since 2001.",
+ "why": [
+  "Owner-operators work on every job",
+  "Staff work from cleaning checklists",
+  "Public liability and WorkCover insurance",
+  "Free estimates"
+ ],
+ "galleryHead": "Clean, top to bottom",
+ "gallerySub": "Offices, unit complexes, shopfronts and homes.",
+ "faq": [
+  [
+   "Where are you based?",
+   "17 Sullivan Place, Kirwan QLD 4817, in Townsville."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 6:30am to 5:30pm. Public holidays by appointment."
+  ],
+  [
+   "Do you give free estimates?",
+   "Yes. Call 0410 514 624 or send a request and we'll get back to you."
+  ],
+  [
+   "Are you insured?",
+   "Yes, we hold public liability and WorkCover insurance and review our WHS plans every year."
+  ],
+  [
+   "How often can you clean?",
+   "Weekly, fortnightly or as a one-off, whatever suits your site."
+  ]
+ ],
+ "aboutHead": "About Fabulous Finish",
+ "aboutSub": "Locally owned in Kirwan since 2001.",
+ "aboutParas": [
+  "Fabulous Finish Cleaning Services is a locally owned Townsville business, cleaning since 2001.",
+  "The owner-operators are on every job alongside the crew, and staff work from checklists so every clean is finished properly.",
+  "Our aim is simple: a fabulous finish clean each and every time, to your satisfaction. Call Mark on 0410 514 624."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Hands-on owners",
+   "The owners work on every job, not just the quote."
+  ],
+  [
+   "Checklists",
+   "Every clean follows a checklist, so nothing is missed."
+  ],
+  [
+   "Covered",
+   "Public liability, WorkCover and yearly-reviewed WHS plans."
+  ]
+ ],
+ "contactHead": "Get a free estimate",
+ "contactSub": "Tell us about your site and we'll get back to you. Or call 0410 514 624.",
+ "bandText": "Need a cleaner you can count on?",
+ "footerBlurb": "Office, body corporate, window, carpet and after-trade cleaning around Townsville since 2001.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "6:30am – 5:30pm"
+  ],
+  [
+   "Public holidays",
+   "By appointment"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Used Mark (Fabulous Finishes) for an office vacate clean in October 2022. Could not fault the service he provided. Professional, friendly, affordable and a perfect clean. Will definitely be using him again for my office cleaning needs.",
+   "who": "Kyle B. · Google review"
+  }
+ ],
+ "reviewsSub": "5.0★ on Google.",
+ "formExtra": [
+  [
+   "Type of site (office, units, home…)",
+   "site"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "4px",
+  "h1max": "88px",
+  "logoRadius": 6,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "hero": "overlay",
+  "icon": "squeegee",
+  "fontsQuery": "family=Gloock&family=Instrument+Sans:wght@400;500;700",
+  "headFont": "Gloock,Georgia,serif",
+  "bodyFont": "\"Instrument Sans\",system-ui,sans-serif",
+  "bg": "#FCFAFF",
+  "headerBg": "#FFFFFF",
+  "surface": "#F1ECFA",
+  "ink": "#1D1430",
+  "muted": "#5D5470",
+  "brand": "#4C1D95",
+  "brand2": "#2E1065",
+  "accent": "#FCD34D",
+  "onAccent": "#2E1065",
+  "line": "#E3DAF2",
+  "headerInk": "#2E1065",
+  "overlay": "rgba(46,16,101,.9)",
+  "footBg": "#2E1065",
+  "footInk": "#CFC4E6",
+  "footHead": "#FCD34D",
+  "logoBg": "#4C1D95",
+  "logoFg": "#FCD34D"
+ }
+}
