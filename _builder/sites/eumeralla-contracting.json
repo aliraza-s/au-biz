@@ -1,0 +1,227 @@
+{
+ "ctaLabel": "Get a free quote",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send request",
+ "formHead": "Quote request",
+ "reviewsHead": "What customers say",
+ "slug": "eumeralla-contracting",
+ "name": "Eumeralla Contracting",
+ "short": "Eumeralla",
+ "tag": "Tree services · Mount Gambier",
+ "street": "130 Lewis Avenue",
+ "suburb": "Mount Gambier",
+ "state": "SA",
+ "postcode": "5290",
+ "phone": "0484 732 222",
+ "phoneIntl": "+61484732222",
+ "topline": "Mount Gambier tree services · Open 7 days",
+ "addressLine": "130 Lewis Avenue, Mount Gambier SA 5290",
+ "area": "Mount Gambier",
+ "areaShort": "Mount Gambier",
+ "areaText": "Eumeralla Contracting is based at 130 Lewis Avenue, Mount Gambier. Open 7 days. Call Tom on 0484 732 222.",
+ "mapQuery": "Eumeralla Contracting, 130 Lewis Ave, Mount Gambier SA 5290",
+ "seoTitle": "Tree removal & trimming in Mount Gambier",
+ "metaDesc": "Eumeralla Contracting, Mount Gambier: tree removal, trimming and clearing. Fast quotes, 5.0★ from 31 Google reviews. Call Tom on 0484 732 222.",
+ "ownerOrUs": "Tom",
+ "rating": 5.0,
+ "reviewCount": 31,
+ "ratingSource": "Google",
+ "badge": [
+  "5.0★ · 31 Google reviews",
+  "Open 7 days"
+ ],
+ "hero": {
+  "title": "No tree job too big or too small.",
+  "titleHtml": "No tree job too big<br>or too small.",
+  "lede": "Tree removal, trimming and clearing around Mount Gambier. Quick quotes, quick turnaround and a tidy site when we leave.",
+  "trust": [
+   "5.0★ from 31 Google reviews",
+   "Fast quotes",
+   "Open 7 days"
+  ]
+ },
+ "images": {
+  "hero": "1754321860056-ca7254d5e7ac",
+  "heroAlt": "Arborist cutting a tree with a chainsaw",
+  "about": "1754321889123-0485c7fea5f1",
+  "about2": "1709560723621-23cdf5829539",
+  "aboutAlt": "Tree worker trimming a large tree",
+  "gallery": [
+   "1727818899530-5a3bee908607",
+   "1721486168037-aab8e6095f67",
+   "1754322449185-31f56117ed87",
+   "1637176463673-8f63699a85b5",
+   "1612306299440-15460d4009e4",
+   "1513836279014-a89f7a76ae86"
+  ]
+ },
+ "servicesHead": "Tree services",
+ "servicesSub": "From one dead tree to a full clear-out.",
+ "services": [
+  {
+   "id": "removal",
+   "title": "Tree removal",
+   "img": "1721486168037-aab8e6095f67",
+   "short": "Dead or unwanted trees taken down.",
+   "long": "Dead, dangerous or unwanted trees removed safely, often within days of the quote.",
+   "points": [
+    "Dead trees",
+    "Large trees",
+    "Quick turnaround"
+   ]
+  },
+  {
+   "id": "tricky",
+   "title": "Tight & tricky spots",
+   "img": "1709560723621-23cdf5829539",
+   "short": "Big trees in tight spaces.",
+   "long": "We've taken down large trees in tight spaces, including a big poplar near a power line. Good gear makes the difference.",
+   "points": [
+    "Tight access",
+    "Near buildings",
+    "Right equipment"
+   ]
+  },
+  {
+   "id": "trimming",
+   "title": "Trimming & pruning",
+   "img": "1754322449185-31f56117ed87",
+   "short": "Overgrown trees cut back.",
+   "long": "Trimming and pruning to keep trees safe, tidy and clear of your house and roof.",
+   "points": [
+    "Pruning",
+    "Cut-backs",
+    "Clearance"
+   ]
+  },
+  {
+   "id": "clearing",
+   "title": "Block clearing",
+   "img": "1637176463673-8f63699a85b5",
+   "short": "Multiple trees cleared.",
+   "long": "Clearing several trees from a block, with the team working hard to get it done in one go.",
+   "points": [
+    "Multiple trees",
+    "Well organised",
+    "Cleanup"
+   ]
+  }
+ ],
+ "whyHead": "Why Mount Gambier calls Tom",
+ "whyText": "Every review says it: prompt quotes, fast work and good prices.",
+ "why": [
+  "5.0 stars from 31 Google reviews",
+  "Quotes fast, work often starts the next day",
+  "Proper equipment for big jobs",
+  "Open 7 days"
+ ],
+ "galleryHead": "On the job",
+ "gallerySub": "Removals, trimming and clearing.",
+ "faq": [
+  [
+   "Where are you based?",
+   "130 Lewis Avenue, Mount Gambier SA 5290."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday 8am–5pm, Saturday and Sunday 9am–5pm."
+  ],
+  [
+   "How fast can you start?",
+   "Customers often had the job done the day after the quote."
+  ],
+  [
+   "Can you work near power lines or in tight spaces?",
+   "We've removed a large poplar near a power line in a tight space. Call Tom to talk through your job."
+  ]
+ ],
+ "aboutHead": "About Eumeralla",
+ "aboutSub": "Tom and the team, Mount Gambier.",
+ "aboutParas": [
+  "Eumeralla Contracting is Tom and his team (including Joe and Evan), doing tree work around Mount Gambier.",
+  "We give prompt quotes, turn up when we say, and get the job done quickly with the right equipment.",
+  "Call or email Tom for a quote: 0484 732 222."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Prompt",
+   "Quick replies and quick quotes."
+  ],
+  [
+   "Hard-working",
+   "Organised crew, job done right."
+  ],
+  [
+   "Fair",
+   "Good pricing on every size job."
+  ]
+ ],
+ "contactHead": "Get a free quote",
+ "contactSub": "Tell us about the tree and we'll get back to you fast. Or call Tom on 0484 732 222.",
+ "bandText": "Got a tree that needs to go?",
+ "footerBlurb": "Tree removal, trimming and clearing in Mount Gambier.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "8am – 5pm"
+  ],
+  [
+   "Sat – Sun",
+   "9am – 5pm"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Tom is a fantastic guy! Very prompt in giving quotes, very fast in getting the job done. Very professional and serious with what he does. Highly recommended!"
+  },
+  {
+   "text": "Tom did a great job in a tight space with a large poplar tree near a power line. Professional service, great equipment and great to deal with."
+  },
+  {
+   "text": "He replied promptly to my email, was polite and was able to do the work the day after he quoted, which was great."
+  },
+  {
+   "text": "No job too big or too small. Tom, Joe and Evan worked hard and got the job done, good pricing and well organised."
+  }
+ ],
+ "reviewsSub": "From Google reviews (5.0★, 31 reviews).",
+ "formExtra": [
+  [
+   "Tree type / size (if known)",
+   "tree"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "4px",
+  "h1max": "92px",
+  "logoRadius": 10,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "900",
+  "hero": "stack",
+  "icon": "saw",
+  "fontsQuery": "family=Chivo:wght@700;900&family=IBM+Plex+Sans:wght@400;500;700",
+  "headFont": "Chivo,system-ui,sans-serif",
+  "bodyFont": "\"IBM Plex Sans\",system-ui,sans-serif",
+  "surface": "#F2F4F3",
+  "ink": "#1A2226",
+  "muted": "#55616A",
+  "brand": "#22333B",
+  "brand2": "#16232A",
+  "accent": "#F28F3B",
+  "onAccent": "#16232A",
+  "line": "#DDE3E6",
+  "headerInk": "#22333B",
+  "overlay": "rgba(22,35,42,.88)",
+  "footBg": "#16232A",
+  "footInk": "#C1CCD2",
+  "footHead": "#F28F3B",
+  "logoBg": "#F28F3B",
+  "logoFg": "#22333B"
+ }
+}

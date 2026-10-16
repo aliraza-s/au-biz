@@ -1,0 +1,228 @@
+{
+ "ctaLabel": "Get a free quote",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send request",
+ "formHead": "Quote request",
+ "reviewsHead": "What customers say",
+ "slug": "deep-creek-tree-care",
+ "name": "Deep Creek Tree Care",
+ "short": "Deep Creek",
+ "tag": "Tree Care · Koroit & Warrnambool",
+ "street": "239 Penshurst-Warrnambool Road",
+ "suburb": "Koroit",
+ "state": "VIC",
+ "postcode": "3282",
+ "phone": "0458 950 070",
+ "phoneIntl": "+61458950070",
+ "facebook": "https://www.facebook.com/deepcreektc",
+ "topline": "Koroit & Warrnambool · Open 7 days",
+ "addressLine": "239 Penshurst-Warrnambool Road, Koroit VIC 3282",
+ "area": "Warrnambool",
+ "areaShort": "Koroit & Warrnambool",
+ "areaText": "Deep Creek Tree Care is at 239 Penshurst-Warrnambool Road, Koroit, near Warrnambool. Open 7 days. Call Brady on 0458 950 070.",
+ "mapQuery": "Deep Creek Tree Care, 239 Penshurst-Warrnambool Rd, Koroit VIC 3282",
+ "seoTitle": "Arborist & tree care in Koroit and Warrnambool",
+ "metaDesc": "Deep Creek Tree Care, Koroit: pruning, tree removal, stumps and garden clean-ups near Warrnambool. 4.9★ on Google. Call Brady on 0458 950 070.",
+ "ownerOrUs": "Brady",
+ "rating": 4.9,
+ "reviewCount": 10,
+ "ratingSource": "Google",
+ "badge": [
+  "4.9★ on Google",
+  "Open 7 days"
+ ],
+ "hero": {
+  "title": "Tree care done properly.",
+  "titleHtml": "Tree care,<br>done properly.",
+  "lede": "Pruning, removals and stumps around Koroit and Warrnambool. Reasonable quotes, on-time crews and a clean site every time.",
+  "trust": [
+   "4.9★ on Google",
+   "Reasonable quotes",
+   "Open 7 days"
+  ]
+ },
+ "images": {
+  "hero": "1754321902809-5c21cbc67228",
+  "heroAlt": "Arborist pruning a tree's branches",
+  "about": "1631300313270-227604e71ea5",
+  "about2": "1617410225897-c9d260e3055e",
+  "aboutAlt": "Arborist sitting on a tree branch",
+  "gallery": [
+   "1646903232892-4a5d5451231a",
+   "1657730391002-bf55ff069a80",
+   "1674240993086-fd2fed32c556",
+   "1491831718109-ffc2cb30cc38",
+   "1509414556967-312906f278a0",
+   "1578011166201-83d553ed495f"
+  ]
+ },
+ "servicesHead": "Tree care services",
+ "servicesSub": "No job too big or too small.",
+ "services": [
+  {
+   "id": "pruning",
+   "title": "Pruning",
+   "img": "1646903232892-4a5d5451231a",
+   "short": "Large trees pruned with care.",
+   "long": "Pruning for big backyard trees and smaller jobs, done efficiently and tidily.",
+   "points": [
+    "Large trees",
+    "Shaping",
+    "Safety"
+   ]
+  },
+  {
+   "id": "removal",
+   "title": "Tree removal",
+   "img": "1674240993086-fd2fed32c556",
+   "short": "Huge trees removed.",
+   "long": "Removal of large trees, including big backyard trees, done to perfection.",
+   "points": [
+    "Large trees",
+    "Backyards",
+    "Safe work"
+   ]
+  },
+  {
+   "id": "stumps",
+   "title": "Stumps & clean-ups",
+   "img": "1637176463719-2125381465c2",
+   "short": "Stumps out, garden turned around.",
+   "long": "Stumps removed and neglected gardens cleaned up so the yard looks new again.",
+   "points": [
+    "Stumps",
+    "Garden clean-ups",
+    "Overgrown yards"
+   ]
+  },
+  {
+   "id": "mulch",
+   "title": "Mulch & firewood",
+   "img": "1491831718109-ffc2cb30cc38",
+   "short": "Keep the mulch and logs.",
+   "long": "Want to keep it? Healthy mulch for the garden and logs cut up for the fire.",
+   "points": [
+    "Mulch",
+    "Logs cut up",
+    "Just ask"
+   ]
+  }
+ ],
+ "whyHead": "Why the south-west calls Brady",
+ "whyText": "Customers come back year after year.",
+ "why": [
+  "4.9 stars on Google",
+  "Reasonable quotes, every time",
+  "On time, friendly and tidy",
+  "Open 7 days"
+ ],
+ "galleryHead": "Tree care",
+ "gallerySub": "Pruning, removals and clean-ups.",
+ "faq": [
+  [
+   "Where are you based?",
+   "239 Penshurst-Warrnambool Road, Koroit VIC 3282, near Warrnambool."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday 7am–5:30pm, weekends 7:30am–5:30pm."
+  ],
+  [
+   "Do you clean up?",
+   "Yes, the team always cleans up before leaving."
+  ],
+  [
+   "Can I keep the mulch or wood?",
+   "Yes. Ask for mulch for the garden or logs cut up for the fire."
+  ]
+ ],
+ "aboutHead": "About Deep Creek",
+ "aboutSub": "Brady and the team, Koroit.",
+ "aboutParas": [
+  "Deep Creek Tree Care is Brady and his team, doing tree work around Koroit, Warrnambool and the south-west.",
+  "Our quotes are reasonable, we turn up on time, and we always clean up before we go.",
+  "Call Brady on 0458 950 070."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Reliable",
+   "On time, every time."
+  ],
+  [
+   "Friendly",
+   "A team that's easy to have around."
+  ],
+  [
+   "Tidy",
+   "Area cleaned before we leave."
+  ]
+ ],
+ "contactHead": "Get a free quote",
+ "contactSub": "Tell Brady about your trees and he'll get back to you. Or call 0458 950 070.",
+ "bandText": "Tree needs pruning or removing?",
+ "footerBlurb": "Pruning, removals and stumps around Koroit and Warrnambool.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 5:30pm"
+  ],
+  [
+   "Sat – Sun",
+   "7:30am – 5:30pm"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Highly recommend Brady and his team at Deep Creek Tree Care. They provided a very reasonable quote, arrived on time, and were efficient, professional, and friendly throughout the entire job."
+  },
+  {
+   "text": "Brady and his team have done plenty of work for us over the years. The quotes are always reasonable, he's there on time, and the team are always friendly and clean up the area before they go."
+  },
+  {
+   "text": "Brady did a great job for us, more than we had originally asked for! We also got a great load of healthy mulch and logs cut up for my son's fire. I'd recommend Deep Creek to anyone needing a good arborist."
+  },
+  {
+   "text": "Removed a huge tree in backyard to perfection & all other stumps. The garden was in a bad state but the boys managed to turn it around."
+  }
+ ],
+ "reviewsSub": "From Google reviews (4.9★).",
+ "formExtra": [
+  [
+   "Pruning or removal?",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "16px",
+  "btnRadius": "999px",
+  "h1max": "92px",
+  "logoRadius": 16,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FAFAF5",
+  "headerBg": "#FAFAF5",
+  "headWeight": "800",
+  "hero": "arch",
+  "icon": "oak",
+  "fontsQuery": "family=Playfair+Display:wght@600;800&family=Lato:wght@400;700",
+  "headFont": "\"Playfair Display\",Georgia,serif",
+  "bodyFont": "Lato,system-ui,sans-serif",
+  "surface": "#EEF4EC",
+  "ink": "#12261F",
+  "muted": "#4E5F58",
+  "brand": "#0B4F3C",
+  "brand2": "#073528",
+  "accent": "#C9E4A6",
+  "onAccent": "#073528",
+  "line": "#DAE6D8",
+  "headerInk": "#0B4F3C",
+  "overlay": "rgba(7,53,40,.88)",
+  "footBg": "#073528",
+  "footInk": "#C1D4CB",
+  "footHead": "#C9E4A6",
+  "logoBg": "#0B4F3C",
+  "logoFg": "#C9E4A6"
+ }
+}

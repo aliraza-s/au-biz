@@ -12,6 +12,11 @@ def img(id_, w=1400):
     return f"https://images.unsplash.com/photo-{id_}?auto=format&fit=crop&w={w}&q=80"
 
 ICONS = {
+ "saw": '<g fill="currentColor"><path d="M3 12h13a3 3 0 0 1 3 3v4a3 3 0 0 1-3 3H3z"/><path d="M19 13h7.5a3.5 3.5 0 0 1 0 7H19z" opacity=".75"/><path d="M6 8h7v3H6z"/></g><path d="M20 16.5h7" stroke="var(--logo-ink)" stroke-width="1.6" stroke-dasharray="1.6 1.4"/><circle cx="9" cy="17" r="2" fill="var(--logo-ink)"/>',
+ "pine": '<g fill="currentColor"><path d="M16 2 8 12h4l-6 8h5l-6 7h22l-6-7h5l-6-8h4z"/><path d="M14.5 26h3v4h-3z"/></g>',
+ "stump": '<g fill="currentColor"><path d="M6 12v12c0 2.8 4.5 5 10 5s10-2.2 10-5V12z"/><path d="M4 26l3-2M28 26l-3-2" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></g><ellipse cx="16" cy="12" rx="10" ry="5" fill="var(--logo-ink)"/><ellipse cx="16" cy="12" rx="6" ry="2.8" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="16" cy="12" r="1.2" fill="currentColor"/>',
+ "axe": '<g fill="currentColor"><path d="M17.5 7 26 28l-3 1.2L14.6 8.3z"/><path d="M8 3c5 0 10 1 12.5 4.5L14 14c-4-2-6.5-6-6-11z"/></g>',
+ "oak": '<g fill="currentColor"><circle cx="10" cy="13" r="6.5"/><circle cx="22" cy="13" r="6.5"/><circle cx="16" cy="8" r="6.5"/><circle cx="16" cy="16" r="6"/><path d="M14 18h4v11h-4z"/></g>',
  "mesh": '<g fill="none" stroke="currentColor"><rect x="4" y="4" width="24" height="24" rx="2" stroke-width="2.8"/><path d="M10 4v24M16 4v24M22 4v24M4 10h24M4 16h24M4 22h24" stroke-width="1.3"/></g>',
  "hammer": '<g fill="currentColor"><path d="M6 6h13l3 3v5h-6V11H6z"/><path d="M14 14h5v15a2.5 2.5 0 0 1-5 0z"/></g>',
  "leaf": '<path fill="currentColor" d="M27 4C13 4 5 11 5 21c0 2 .4 3.6 1 5l-2 2 1.5 1.5 2-2c1.6.9 3.5 1.5 5.5 1.5 11 0 14-11 14-25z"/><path d="M8 25c4-6 8-10 15-14" stroke="var(--logo-ink)" stroke-width="2" fill="none" stroke-linecap="round"/>',

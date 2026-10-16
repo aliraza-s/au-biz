@@ -1,0 +1,203 @@
+{
+ "ctaLabel": "Get a free quote",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send request",
+ "formHead": "Quote request",
+ "reviewsHead": "What customers say",
+ "slug": "goulburn-valley-tree-service",
+ "name": "Goulburn Valley Tree Service",
+ "short": "GV Tree Service",
+ "tag": "Total Tree & Stump Removal · Shepparton",
+ "suburb": "Shepparton",
+ "state": "VIC",
+ "postcode": "3630",
+ "phone": "0419 444 021",
+ "phoneIntl": "+61419444021",
+ "facebook": "https://www.facebook.com/p/Total-Tree-Stump-Removal-Goulburn-Valley-Tree-Service-100063588636549/",
+ "topline": "Shepparton & the Goulburn Valley · 0419 444 021",
+ "addressLine": "Shepparton VIC 3630",
+ "area": "Shepparton",
+ "areaShort": "Shepparton & Goulburn Valley",
+ "areaText": "Goulburn Valley Tree Service (Total Tree & Stump Removal) works around Shepparton and the Goulburn Valley. Call 0419 444 021.",
+ "mapQuery": "Goulburn Valley Tree Service, High St, Shepparton VIC 3630",
+ "seoTitle": "Tree & stump removal in Shepparton",
+ "metaDesc": "Goulburn Valley Tree Service (Total Tree & Stump Removal), Shepparton: tree removal, stump removal and tidy cleanups. Call 0419 444 021.",
+ "ownerOrUs": "us",
+ "badge": [
+  "Total Tree & Stump Removal",
+  "Goulburn Valley"
+ ],
+ "hero": {
+  "title": "Trees and stumps, gone for good.",
+  "titleHtml": "Trees &amp; stumps,<br>gone for good.",
+  "lede": "Total tree and stump removal around Shepparton and the Goulburn Valley. Careful work and a clean, tidy finish.",
+  "trust": [
+   "Trees & stumps",
+   "Clean & tidy finish",
+   "Goulburn Valley local"
+  ]
+ },
+ "images": {
+  "hero": "1626828476637-5bd713ef9f22",
+  "heroAlt": "Arborist climbing a tree",
+  "about": "1588878309774-4b3f42a19a8f",
+  "about2": "1636706529713-7cceb3d46365",
+  "aboutAlt": "Arborist in a helmet climbing a tree",
+  "gallery": [
+   "1476589143317-647df3b59c32",
+   "1534686249231-317acc98e634",
+   "1631364902305-5fbf4a418a12",
+   "1696883186987-299ff16b0cac",
+   "1610050564018-91f89d9ddea8",
+   "1597645945354-dc6f53c2cea1"
+  ]
+ },
+ "servicesHead": "Tree & stump services",
+ "servicesSub": "The whole tree, from the top branches to the stump.",
+ "services": [
+  {
+   "id": "trees",
+   "title": "Tree removal",
+   "img": "1588878309774-4b3f42a19a8f",
+   "short": "Trees taken down with care.",
+   "long": "Trees removed carefully, with the site left clean and tidy.",
+   "points": [
+    "Removals",
+    "Careful work",
+    "Tidy finish"
+   ]
+  },
+  {
+   "id": "stumps",
+   "title": "Stump removal",
+   "img": "1636706529713-7cceb3d46365",
+   "short": "Stumps out, ground clear.",
+   "long": "Stump removal so you get your yard back after the tree is gone.",
+   "points": [
+    "Stumps",
+    "Ground cleared",
+    "Yard ready"
+   ]
+  },
+  {
+   "id": "cleanup",
+   "title": "Cleanup",
+   "img": "1631364902305-5fbf4a418a12",
+   "short": "Everything left clean.",
+   "long": "We take care of the job and leave everything clean and tidy.",
+   "points": [
+    "Green waste",
+    "Tidy site",
+    "No mess"
+   ]
+  }
+ ],
+ "whyHead": "Why use GV Tree Service",
+ "whyText": "Professional, friendly and easy to deal with from start to finish.",
+ "why": [
+  "Trees and stumps handled in one job",
+  "Professional and friendly team",
+  "Clean, tidy finish",
+  "Local to Shepparton"
+ ],
+ "galleryHead": "Trees & stumps",
+ "gallerySub": "Tree and stump work around the valley.",
+ "faq": [
+  [
+   "What area do you cover?",
+   "Shepparton and the Goulburn Valley. Call 0419 444 021 to check your area."
+  ],
+  [
+   "When are you open?",
+   "Monday to Friday."
+  ],
+  [
+   "Do you remove stumps?",
+   "Yes, we do total tree and stump removal."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0419 444 021 or use the quote form."
+  ]
+ ],
+ "aboutHead": "About us",
+ "aboutSub": "Goulburn Valley Tree Service.",
+ "aboutParas": [
+  "Goulburn Valley Tree Service, also known as Total Tree & Stump Removal, does tree and stump work around Shepparton and the Goulburn Valley.",
+  "We take pride in our work and leave every site clean and tidy.",
+  "Call 0419 444 021 for a quote."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Careful",
+   "Great care on every job."
+  ],
+  [
+   "Friendly",
+   "Easy to deal with."
+  ],
+  [
+   "Tidy",
+   "Left clean when we're done."
+  ]
+ ],
+ "contactHead": "Get a free quote",
+ "contactSub": "Tell us about the tree or stump and we'll get back to you. Or call 0419 444 021.",
+ "bandText": "Tree or stump that needs to go?",
+ "footerBlurb": "Total tree and stump removal around Shepparton.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "Open 24 hours"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Highly recommend Goulburn Valley Tree Services! The team was professional, friendly and easy to deal with from start to finish. They took great care with the job and left everything clean and tidy. Would happily use them again!"
+  }
+ ],
+ "reviewsSub": "From Google reviews.",
+ "formExtra": [
+  [
+   "Tree or stump?",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "12px",
+  "btnRadius": "999px",
+  "h1max": "80px",
+  "logoRadius": 10,
+  "headTrack": "-.03em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "800",
+  "hero": "split",
+  "icon": "stump",
+  "fontsQuery": "family=Encode+Sans+Expanded:wght@600;800&family=Hind:wght@400;500;600",
+  "headFont": "\"Encode Sans Expanded\",system-ui,sans-serif",
+  "bodyFont": "Hind,system-ui,sans-serif",
+  "surface": "#EFF4F2",
+  "ink": "#14262C",
+  "muted": "#4E6268",
+  "brand": "#264653",
+  "brand2": "#1A3139",
+  "accent": "#8AB17D",
+  "onAccent": "#14262C",
+  "line": "#D7E3E0",
+  "headerInk": "#264653",
+  "overlay": "rgba(26,49,57,.88)",
+  "footBg": "#1A3139",
+  "footInk": "#C3D3D6",
+  "footHead": "#8AB17D",
+  "logoBg": "#264653",
+  "logoFg": "#8AB17D"
+ }
+}

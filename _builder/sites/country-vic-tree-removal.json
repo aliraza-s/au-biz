@@ -1,0 +1,225 @@
+{
+ "ctaLabel": "Get a free quote",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send request",
+ "formHead": "Quote request",
+ "reviewsHead": "What customers say",
+ "slug": "country-vic-tree-removal",
+ "name": "Country Vic Tree Removal",
+ "short": "Country Vic",
+ "tag": "Tree Removal · Tatura",
+ "street": "33 Hastie Street",
+ "suburb": "Tatura",
+ "state": "VIC",
+ "postcode": "3616",
+ "phone": "0455 365 659",
+ "phoneIntl": "+61455365659",
+ "facebook": "https://www.facebook.com/countryvictreeremoval/",
+ "topline": "Tatura & the Goulburn Valley · countryvic.treeremoval@gmail.com",
+ "addressLine": "33 Hastie Street, Tatura VIC 3616",
+ "area": "Tatura",
+ "areaShort": "Tatura & surrounds",
+ "areaText": "Country Vic Tree Removal is based at 33 Hastie Street, Tatura. Call Gene on 0455 365 659 or email countryvic.treeremoval@gmail.com.",
+ "mapQuery": "Country Vic Tree Removal, 33 Hastie St, Tatura VIC 3616",
+ "seoTitle": "Tree removal & lopping in Tatura",
+ "metaDesc": "Country Vic Tree Removal, Tatura: tree removal and lopping with spotless cleanup and logs cut for firewood. Call Gene on 0455 365 659.",
+ "ownerOrUs": "Gene",
+ "badge": [
+  "Tatura locals",
+  "7 days"
+ ],
+ "hero": {
+  "title": "Big trees down. Not a leaf left behind.",
+  "titleHtml": "Big trees down.<br>Not a leaf left behind.",
+  "lede": "Tree removal and lopping around Tatura with serious equipment, fair prices and a spotless cleanup.",
+  "trust": [
+   "Quote one day, done the next",
+   "Logs cut for firewood",
+   "Full cleanup"
+  ]
+ },
+ "images": {
+  "hero": "1474742509976-ddec6b387356",
+  "heroAlt": "Man cutting a tree with a chainsaw",
+  "about": "1699391414255-3a10698f8d50",
+  "about2": "1571040195944-85a412548a43",
+  "aboutAlt": "Tree worker with a chainsaw",
+  "gallery": [
+   "1474742817425-9f91918183b7",
+   "1641366784341-446c64b421a2",
+   "1602501436999-13c1db53e420",
+   "1697623317093-7a50b4aaf676",
+   "1566114912475-c04353a8eab1",
+   "1663528579230-5c2f44cdd5f3"
+  ]
+ },
+ "servicesHead": "Tree services",
+ "servicesSub": "Removal, lopping and the cleanup after.",
+ "services": [
+  {
+   "id": "removal",
+   "title": "Tree removal",
+   "img": "1474742817425-9f91918183b7",
+   "short": "Large trees removed.",
+   "long": "Large trees removed efficiently and safely, with the equipment to handle big jobs.",
+   "points": [
+    "Large trees",
+    "Multiple trees",
+    "Safe removal"
+   ]
+  },
+  {
+   "id": "lopping",
+   "title": "Tree lopping",
+   "img": "1754527914275-dd96e98a65b7",
+   "short": "Trees lopped back.",
+   "long": "Trees lopped and cut back so they're safer and tidier.",
+   "points": [
+    "Lopping",
+    "Cut-backs",
+    "Same-week jobs"
+   ]
+  },
+  {
+   "id": "cleanup",
+   "title": "Cleanup",
+   "img": "1697623317093-7a50b4aaf676",
+   "short": "Every leaf picked up.",
+   "long": "We clean up all the tree waste. Customers say you wouldn't know a tree was there.",
+   "points": [
+    "All waste removed",
+    "Spotless finish",
+    "No mess left"
+   ]
+  },
+  {
+   "id": "firewood",
+   "title": "Logs cut to size",
+   "img": "1602501436999-13c1db53e420",
+   "short": "Keep the wood for your fire.",
+   "long": "Want to keep the wood? We can cut logs to size for your fire.",
+   "points": [
+    "Firewood",
+    "Cut to size",
+    "Just ask"
+   ]
+  }
+ ],
+ "whyHead": "Why Tatura calls Gene",
+ "whyText": "Good gear, quick starts and a site left cleaner than we found it.",
+ "why": [
+  "Often back the morning after the quote",
+  "The right equipment for big trees",
+  "Cost effective compared with other quotes",
+  "Full cleanup every job"
+ ],
+ "galleryHead": "Tree work",
+ "gallerySub": "Removals, lopping and firewood.",
+ "faq": [
+  [
+   "Where are you based?",
+   "33 Hastie Street, Tatura VIC 3616."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday 6am–6pm, Saturday and Sunday 7am–5pm."
+  ],
+  [
+   "Do you clean up?",
+   "Yes. All tree waste is cleaned up before we leave."
+  ],
+  [
+   "Can I keep the wood?",
+   "Yes, we can cut logs to size for firewood."
+  ]
+ ],
+ "aboutHead": "About Country Vic",
+ "aboutSub": "Gene and the crew, Tatura.",
+ "aboutParas": [
+  "Country Vic Tree Removal is Gene and his crew, based in Tatura.",
+  "We remove and lop trees with the equipment to do it efficiently and safely, then clean up so well you'd barely know a tree was there.",
+  "Call Gene on 0455 365 659 or email countryvic.treeremoval@gmail.com."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Quick",
+   "Quote today, often done tomorrow."
+  ],
+  [
+   "Equipped",
+   "The best gear for the job."
+  ],
+  [
+   "Tidy",
+   "Not a leaf left on the ground."
+  ]
+ ],
+ "contactHead": "Get a free quote",
+ "contactSub": "Tell Gene about the trees and he'll be in touch. Or call 0455 365 659.",
+ "bandText": "Tree that needs to come down?",
+ "footerBlurb": "Tree removal and lopping in Tatura and surrounds.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "6am – 6pm"
+  ],
+  [
+   "Sat – Sun",
+   "7am – 5pm"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Highly recommend Gene & his crew, he came & gave me a quote one day & was back the next morning ready to go. Cleanup was excellent, not a leaf left on the ground anywhere."
+  },
+  {
+   "text": "Gene and the crew came out and removed a tree this morning. The guys were professional and cleaned up all tree waste. This is the second time using Country Vic Tree Removal and both times the work was outstanding."
+  },
+  {
+   "text": "They have the best equipment to get the job done efficiently and safely. Clean up was also A1. Very reasonable price."
+  },
+  {
+   "text": "Gene arrived on time for the quote and gave an accurate assessment. The guys cleaned up and I even got some logs cut to size for the fire!"
+  }
+ ],
+ "reviewsSub": "From Google reviews.",
+ "formExtra": [
+  [
+   "Number of trees (if known)",
+   "trees"
+  ]
+ ],
+ "theme": {
+  "radius": "8px",
+  "btnRadius": "8px",
+  "h1max": "96px",
+  "logoRadius": 10,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "400",
+  "hero": "overlay",
+  "icon": "pine",
+  "fontsQuery": "family=Bree+Serif&family=Open+Sans:wght@400;600;700",
+  "headFont": "\"Bree Serif\",Georgia,serif",
+  "bodyFont": "\"Open Sans\",system-ui,sans-serif",
+  "surface": "#F7F2EA",
+  "ink": "#2A2220",
+  "muted": "#655853",
+  "brand": "#3B2F2F",
+  "brand2": "#271F1F",
+  "accent": "#E9C46A",
+  "onAccent": "#271F1F",
+  "line": "#E7DDD0",
+  "headerInk": "#3B2F2F",
+  "overlay": "rgba(39,31,31,.9)",
+  "footBg": "#271F1F",
+  "footInk": "#D4C8BE",
+  "footHead": "#E9C46A",
+  "logoBg": "#3B2F2F",
+  "logoFg": "#E9C46A"
+ }
+}

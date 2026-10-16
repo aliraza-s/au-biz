@@ -1,0 +1,231 @@
+{
+ "ctaLabel": "Get a free quote",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send request",
+ "formHead": "Quote request",
+ "reviewsHead": "What customers say",
+ "slug": "border-trees",
+ "name": "Border Trees",
+ "short": "Border Trees",
+ "tag": "Tree & Stump Services · Wodonga",
+ "suburb": "Baranduda",
+ "state": "VIC",
+ "postcode": "3691",
+ "phone": "0457 729 039",
+ "phoneIntl": "+61457729039",
+ "facebook": "https://www.facebook.com/BorderTreeAndStumpServices",
+ "topline": "Albury–Wodonga · Josh 0457 729 039 · bordertrees@gmail.com",
+ "addressLine": "Baranduda VIC 3691",
+ "area": "Albury–Wodonga",
+ "areaShort": "Baranduda, Wodonga",
+ "areaText": "Border Trees is based in Baranduda near Wodonga. Call Josh on 0457 729 039 or 0400 361 323, or email bordertrees@gmail.com.",
+ "mapQuery": "Border Trees, Baranduda VIC 3691",
+ "seoTitle": "Tree removal & stump services in Wodonga",
+ "metaDesc": "Border Trees, Baranduda (Wodonga): tree removal, emergency tree work and stump services. 4.8★ from 42 Google reviews. Call Josh on 0457 729 039.",
+ "ownerOrUs": "Josh",
+ "rating": 4.8,
+ "reviewCount": 42,
+ "ratingSource": "Google",
+ "badge": [
+  "4.8★ · 42 Google reviews",
+  "Albury–Wodonga"
+ ],
+ "hero": {
+  "title": "A machine for any sized job.",
+  "titleHtml": "A machine for<br>any sized job.",
+  "lede": "Tree removal, emergency call-outs and stump work across the border. Quick response, clear communication and a spotless finish.",
+  "trust": [
+   "4.8★ from 42 Google reviews",
+   "Emergency help",
+   "Not a leaf left behind"
+  ]
+ },
+ "images": {
+  "hero": "1754321871548-61bdbc6f1506",
+  "heroAlt": "Arborist climbing a ladder to trim branches",
+  "about": "1709560723503-538158e48db8",
+  "about2": "1625337905972-56fb1efe20a3",
+  "aboutAlt": "Tree worker in a safety vest",
+  "gallery": [
+   "1644308852777-c129f2182388",
+   "1669065054992-3151b15aab08",
+   "1574359173269-291f060e6fe1",
+   "1608682783991-ca8bd491fad2",
+   "1592751854100-135b9021364c",
+   "1517962123380-eac440fa8120"
+  ]
+ },
+ "servicesHead": "Tree & stump services",
+ "servicesSub": "From urgent call-outs to planned removals.",
+ "services": [
+  {
+   "id": "removal",
+   "title": "Tree removal",
+   "img": "1574359173269-291f060e6fe1",
+   "short": "Large trees down, fast.",
+   "long": "Large trees removed quickly, sometimes within 48 hours of the quote being approved.",
+   "points": [
+    "Large trees",
+    "Fast start",
+    "Clean finish"
+   ]
+  },
+  {
+   "id": "emergency",
+   "title": "Emergency tree work",
+   "img": "1684332666088-f35b252b5aca",
+   "short": "Tree on the roof? Call Josh.",
+   "long": "Split trees, trees leaning on roofs and other emergencies handled at short notice.",
+   "points": [
+    "Short notice",
+    "Storm damage",
+    "Trees on roofs"
+   ]
+  },
+  {
+   "id": "stumps",
+   "title": "Stump services",
+   "img": "1608682783991-ca8bd491fad2",
+   "short": "Stumps dealt with.",
+   "long": "Stump work to finish the job so the yard is ready to use again.",
+   "points": [
+    "Stumps",
+    "Ground cleared",
+    "Yard ready"
+   ]
+  },
+  {
+   "id": "cleanup",
+   "title": "Cleanup",
+   "img": "1592751854100-135b9021364c",
+   "short": "Spotless when we leave.",
+   "long": "Every job ends with a full cleanup. Customers say not a leaf was left behind.",
+   "points": [
+    "Green waste",
+    "Spotless site",
+    "Every job"
+   ]
+  }
+ ],
+ "whyHead": "Why the border calls Border Trees",
+ "whyText": "Punctual, professional and properly equipped.",
+ "why": [
+  "4.8 stars from 42 Google reviews",
+  "A machine for any sized job",
+  "Quick response in emergencies",
+  "Ongoing communication through the job"
+ ],
+ "galleryHead": "On the tools",
+ "gallerySub": "Tree work around Albury–Wodonga.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Baranduda, near Wodonga VIC."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday 7am–5pm, Saturday 7am–12pm."
+  ],
+  [
+   "Do you do emergency work?",
+   "Yes, we've helped customers at very short notice, including trees leaning on roofs."
+  ],
+  [
+   "How do I contact you?",
+   "Call Josh on 0457 729 039 or 0400 361 323, or email bordertrees@gmail.com."
+  ]
+ ],
+ "aboutHead": "About Border Trees",
+ "aboutSub": "Josh and the team, Baranduda.",
+ "aboutParas": [
+  "Border Trees is Josh and his team, based in Baranduda near Wodonga.",
+  "We're punctual, professional and have a machine for any sized job, from a single tree to large removals and urgent call-outs.",
+  "Call Josh on 0457 729 039 or email bordertrees@gmail.com."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Punctual",
+   "On time, every time."
+  ],
+  [
+   "Equipped",
+   "The right machine for the job."
+  ],
+  [
+   "Spotless",
+   "Not a leaf to be seen."
+  ]
+ ],
+ "contactHead": "Get a free quote",
+ "contactSub": "Tell Josh about the job and he'll get back to you. Urgent? Call 0457 729 039.",
+ "bandText": "Tree trouble? Call Josh.",
+ "footerBlurb": "Tree and stump services across Albury–Wodonga.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 5pm"
+  ],
+  [
+   "Saturday",
+   "7am – 12pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Josh & his team are punctual, articulate and have a machine for any sized job. They are extremely professional in every sense. A reasonable price for a great job."
+  },
+  {
+   "text": "I phoned Josh when a tree split and was leaning on my roof. I was very impressed with the quick response, the ongoing communication, and of course the professional job done in removing the tree. Clean up was amazing!"
+  },
+  {
+   "text": "INCREDIBLE SERVICE. Removed 2 large trees within 48 hours of receiving and approving the quote and left the place perfect, not a leaf to be seen."
+  },
+  {
+   "text": "Josh and his team helped us during an emergency at very short notice. The team worked with amazing efficiency and the scene was left spotless."
+  }
+ ],
+ "reviewsSub": "From Google reviews (4.8★, 42 reviews).",
+ "formExtra": [
+  [
+   "Is it urgent?",
+   "urgent"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "6px",
+  "h1max": "110px",
+  "logoRadius": 10,
+  "headTrack": ".01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "headWeight": "400",
+  "hero": "center",
+  "icon": "axe",
+  "fontsQuery": "family=Staatliches&family=Work+Sans:wght@400;500;700",
+  "headFont": "Staatliches,Impact,sans-serif",
+  "bodyFont": "\"Work Sans\",system-ui,sans-serif",
+  "surface": "#F4F3EC",
+  "ink": "#1F2614",
+  "muted": "#5A6150",
+  "brand": "#283618",
+  "brand2": "#1A2410",
+  "accent": "#DDA15E",
+  "onAccent": "#1A2410",
+  "line": "#E2E0D3",
+  "headerInk": "#283618",
+  "overlay": "rgba(26,36,16,.88)",
+  "footBg": "#1A2410",
+  "footInk": "#CBCFBF",
+  "footHead": "#DDA15E",
+  "logoBg": "#DDA15E",
+  "logoFg": "#283618"
+ }
+}
