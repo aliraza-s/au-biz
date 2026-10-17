@@ -1,0 +1,196 @@
+{
+ "ctaLabel": "Call or request a quote",
+ "schemaType": "Electrician",
+ "formButton": "Send request",
+ "formHead": "Job request",
+ "reviewsHead": "",
+ "slug": "emerson-electrical-dubbo",
+ "name": "Emerson Electrical",
+ "short": "Emerson Electrical",
+ "tag": "Electrician · Dubbo",
+ "suburb": "Dubbo",
+ "state": "NSW",
+ "postcode": "2830",
+ "phone": "0476 259 846",
+ "phoneIntl": "+61476259846",
+ "topline": "Dubbo electrician · Open 24 hours · 0476 259 846",
+ "addressLine": "Servicing Dubbo, Dubbo East, Toongi & Mogriguy",
+ "area": "Dubbo",
+ "areaShort": "Dubbo",
+ "areaText": "Emerson Electrical services Dubbo, Dubbo East, Toongi and Mogriguy, and is listed as open 24 hours. Call 0476 259 846.",
+ "mapQuery": "Dubbo NSW 2830",
+ "seoTitle": "Electrician in Dubbo, open 24 hours",
+ "metaDesc": "Emerson Electrical: Dubbo electrician servicing Dubbo, Dubbo East, Toongi and Mogriguy. Open 24 hours. Call 0476 259 846.",
+ "ownerOrUs": "us",
+ "badge": [
+  "24 hrs",
+  "Dubbo electrician"
+ ],
+ "hero": {
+  "title": "Your Dubbo electrician, any hour.",
+  "titleHtml": "Your Dubbo electrician, any hour.",
+  "lede": "Emerson Electrical does electrical work around Dubbo, Dubbo East, Toongi and Mogriguy. Lights out or a job to plan? Give us a call.",
+  "trust": [
+   "Open 24 hours",
+   "Dubbo local",
+   "Call 0476 259 846"
+  ]
+ },
+ "images": {
+  "hero": "1621905251189-08b45d6a269e",
+  "heroAlt": "Electrician installing wiring",
+  "about": "1660330589693-99889d60181e",
+  "about2": "1758101755915-462eddc23f57",
+  "aboutAlt": "Electrician working on a switchboard",
+  "gallery": [
+   "1544724569-5f546fd6f2b5",
+   "1635335874521-7987db781153",
+   "1556217994-22de7face210",
+   "1698768144235-b5dbe3043bb2",
+   "1780034766312-73825064806c",
+   "1682345262055-8f95f3c513ea"
+  ]
+ },
+ "servicesHead": "Electrical work",
+ "servicesSub": "Call to talk about your job and we'll let you know how we can help.",
+ "services": [
+  {
+   "id": "electrical",
+   "title": "Electrical work",
+   "img": "1621905251189-08b45d6a269e",
+   "short": "Electrical jobs around Dubbo.",
+   "long": "Electrical work for properties around Dubbo. Call 0476 259 846 to talk about what you need.",
+   "points": [
+    "Dubbo & surrounds",
+    "Talk to us direct",
+    "Quotes on request"
+   ]
+  },
+  {
+   "id": "after-hours",
+   "title": "Any-hour calls",
+   "img": "1758101755915-462eddc23f57",
+   "short": "Listed as open 24 hours.",
+   "long": "Emerson Electrical is listed as open 24 hours, so you can call when something goes wrong.",
+   "points": [
+    "Open 24 hours",
+    "Call 0476 259 846",
+    "Dubbo"
+   ]
+  },
+  {
+   "id": "switchboards",
+   "title": "Switchboards & wiring",
+   "img": "1544724569-5f546fd6f2b5",
+   "short": "Switchboard and wiring jobs.",
+   "long": "Switchboard and wiring jobs. Call to talk through what's going on.",
+   "points": [
+    "Switchboards",
+    "Wiring",
+    "Call to discuss"
+   ]
+  }
+ ],
+ "whyHead": "Local to Dubbo",
+ "whyText": "Emerson Electrical services Dubbo and nearby areas, and you can call any time.",
+ "why": [
+  "Open 24 hours",
+  "Dubbo & Dubbo East",
+  "Toongi & Mogriguy",
+  "Call direct"
+ ],
+ "galleryHead": "Electrical work",
+ "gallerySub": "Switchboards, wiring, lights and power.",
+ "faq": [
+  [
+   "What areas do you service?",
+   "Dubbo, Dubbo East, Toongi and Mogriguy."
+  ],
+  [
+   "What hours are you open?",
+   "Emerson Electrical is listed as open 24 hours."
+  ],
+  [
+   "How do I book a job?",
+   "Call 0476 259 846 or send a request through the contact page."
+  ]
+ ],
+ "aboutHead": "About Emerson Electrical",
+ "aboutSub": "Electrician in Dubbo, NSW.",
+ "aboutParas": [
+  "Emerson Electrical is an electrician servicing Dubbo, Dubbo East, Toongi and Mogriguy.",
+  "Call 0476 259 846 any time to talk about your electrical job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Available",
+   "Open 24 hours."
+  ],
+  [
+   "Local",
+   "Servicing Dubbo and surrounds."
+  ],
+  [
+   "Direct",
+   "Call and talk to us."
+  ]
+ ],
+ "contactHead": "Request a job",
+ "contactSub": "Tell us about the electrical job and we'll call you back. Or ring 0476 259 846.",
+ "bandText": "Need an electrician in Dubbo?",
+ "footerBlurb": "Electrician servicing Dubbo, Dubbo East, Toongi and Mogriguy.",
+ "hours": [
+  [
+   "Hours",
+   "Open 24 hours"
+  ],
+  [
+   "Phone",
+   "0476 259 846"
+  ],
+  [
+   "Servicing",
+   "Dubbo & surrounds"
+  ]
+ ],
+ "reviews": [],
+ "formExtra": [
+  [
+   "What do you need done?",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "14px",
+  "btnRadius": "14px",
+  "h1max": "76px",
+  "logoRadius": 14,
+  "headTrack": "-.03em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "800",
+  "headerBg": "#FFFFFF",
+  "hero": "split",
+  "icon": "plug",
+  "fontsQuery": "family=Manrope:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600",
+  "headFont": "Manrope,system-ui,sans-serif",
+  "bodyFont": "\"IBM Plex Sans\",system-ui,sans-serif",
+  "bg": "#F5F8FA",
+  "surface": "#E8EEF2",
+  "ink": "#0D1B2A",
+  "muted": "#4E5D6C",
+  "line": "#D2DCE3",
+  "brand": "#0D1B2A",
+  "brand2": "#081320",
+  "accent": "#3DDC97",
+  "onAccent": "#0D1B2A",
+  "headerInk": "#0D1B2A",
+  "overlay": "rgba(8,19,32,.9)",
+  "footBg": "#081320",
+  "footInk": "#AFC0CE",
+  "footHead": "#3DDC97",
+  "logoBg": "#3DDC97",
+  "logoFg": "#0D1B2A"
+ }
+}

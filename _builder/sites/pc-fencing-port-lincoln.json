@@ -1,0 +1,192 @@
+{
+ "ctaLabel": "Get a quote",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send request",
+ "formHead": "Quote request",
+ "reviewsHead": "",
+ "slug": "pc-fencing-port-lincoln",
+ "name": "PC Fencing",
+ "short": "PC Fencing",
+ "tag": "Fencing · Port Lincoln",
+ "suburb": "Port Lincoln",
+ "state": "SA",
+ "postcode": "5606",
+ "phone": "0458 506 417",
+ "phoneIntl": "+61458506417",
+ "topline": "Fencing in Port Lincoln · Call 0458 506 417",
+ "addressLine": "Port Lincoln SA 5606",
+ "area": "Port Lincoln",
+ "areaShort": "Port Lincoln",
+ "areaText": "PC Fencing is a fencing business in Port Lincoln. Call 0458 506 417 to talk about your fence.",
+ "mapQuery": "Port Lincoln SA 5606",
+ "seoTitle": "Fencing in Port Lincoln",
+ "metaDesc": "PC Fencing, Port Lincoln SA: local fencing. Call 0458 506 417 to talk about your fence and get a quote.",
+ "ownerOrUs": "us",
+ "badge": [
+  "Local",
+  "Port Lincoln fencing"
+ ],
+ "hero": {
+  "title": "Fencing for Port Lincoln.",
+  "titleHtml": "Fencing for Port Lincoln.",
+  "lede": "PC Fencing is a local Port Lincoln fencer. Tell us what you need fenced and we'll talk you through it.",
+  "trust": [
+   "Port Lincoln local",
+   "Call direct",
+   "Quotes on request"
+  ]
+ },
+ "images": {
+  "hero": "1537407034356-b8f5f1ac2aa8",
+  "heroAlt": "Timber fence beside a grass field",
+  "about": "1604015641586-6fa03629f976",
+  "about2": "1583805978118-ba9a81ac1399",
+  "aboutAlt": "Timber fence under blue sky",
+  "gallery": [
+   "1556603235-0f484147fda4",
+   "1611841168695-cb9c76db8c0f",
+   "1558661610-006e0c940a82",
+   "1517265598349-76511a2fb389",
+   "1508263073532-98ed924de82d",
+   "1665171556882-cfec56e219d8"
+  ]
+ },
+ "servicesHead": "Fencing",
+ "servicesSub": "Call to talk about your fence and get a quote.",
+ "services": [
+  {
+   "id": "new-fences",
+   "title": "New fences",
+   "img": "1537407034356-b8f5f1ac2aa8",
+   "short": "A new fence for your property.",
+   "long": "New fencing around Port Lincoln. Call 0458 506 417 to talk about the job.",
+   "points": [
+    "Port Lincoln",
+    "Talk to us direct",
+    "Quotes on request"
+   ]
+  },
+  {
+   "id": "replacement",
+   "title": "Fence replacement",
+   "img": "1604015641586-6fa03629f976",
+   "short": "Old fence out, new fence in.",
+   "long": "Replacing a tired fence. Tell us what's there now and what you'd like.",
+   "points": [
+    "Replacement",
+    "Local",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "quotes",
+   "title": "Quotes",
+   "img": "1556603235-0f484147fda4",
+   "short": "Know the price before work starts.",
+   "long": "Call or send a request and we'll get back to you about a quote.",
+   "points": [
+    "Call 0458 506 417",
+    "Contact form",
+    "Port Lincoln"
+   ]
+  }
+ ],
+ "whyHead": "A Port Lincoln fencer",
+ "whyText": "PC Fencing is local to Port Lincoln, so you're dealing with someone nearby.",
+ "why": [
+  "Based in Port Lincoln",
+  "Call direct",
+  "Quotes on request",
+  "Local to the Eyre Peninsula"
+ ],
+ "galleryHead": "Fences",
+ "gallerySub": "Timber, mesh and steel.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Port Lincoln, SA."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0458 506 417 or send a request through the contact page."
+  ]
+ ],
+ "aboutHead": "About PC Fencing",
+ "aboutSub": "Fencing in Port Lincoln, SA.",
+ "aboutParas": [
+  "PC Fencing is a fencing business in Port Lincoln, South Australia.",
+  "Call 0458 506 417 to talk about your fence."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in Port Lincoln."
+  ],
+  [
+   "Direct",
+   "Call and talk to us."
+  ],
+  [
+   "Clear",
+   "A quote before work starts."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about your fence and we'll be in touch. Or call 0458 506 417.",
+ "bandText": "Need a fence?",
+ "footerBlurb": "Fencing in Port Lincoln, SA.",
+ "hours": [
+  [
+   "Hours",
+   "Call to arrange a time"
+  ],
+  [
+   "Phone",
+   "0458 506 417"
+  ],
+  [
+   "Based in",
+   "Port Lincoln"
+  ]
+ ],
+ "reviews": [],
+ "formExtra": [
+  [
+   "Fence length / type",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "16px",
+  "btnRadius": "999px",
+  "h1max": "80px",
+  "logoRadius": 999,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "800",
+  "headerBg": "#FFFFFF",
+  "hero": "arch",
+  "icon": "postrail",
+  "fontsQuery": "family=Libre+Franklin:wght@600;800&family=Source+Sans+3:wght@400;600",
+  "headFont": "\"Libre Franklin\",system-ui,sans-serif",
+  "bodyFont": "\"Source Sans 3\",system-ui,sans-serif",
+  "bg": "#F7F6F2",
+  "surface": "#ECEAE2",
+  "ink": "#1B2E36",
+  "muted": "#55666D",
+  "line": "#DAD7CC",
+  "brand": "#1F4E5F",
+  "brand2": "#E2ECEE",
+  "accent": "#E8C547",
+  "onAccent": "#163A47",
+  "headerInk": "#1B2E36",
+  "overlay": "rgba(22,58,71,.9)",
+  "footBg": "#163A47",
+  "footInk": "#B8CBD1",
+  "footHead": "#E8C547",
+  "logoBg": "#E8C547",
+  "logoFg": "#163A47"
+ }
+}

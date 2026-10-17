@@ -1,0 +1,196 @@
+{
+ "ctaLabel": "Request a quote",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send request",
+ "formHead": "Quote request",
+ "reviewsHead": "",
+ "slug": "solid-concrete-co",
+ "name": "Solid Concrete Co.",
+ "short": "Solid Concrete Co.",
+ "tag": "Concreting · Maryborough",
+ "suburb": "Tinana",
+ "state": "QLD",
+ "postcode": "4650",
+ "phone": "0427 550 330",
+ "phoneIntl": "+61427550330",
+ "topline": "Concreting in Maryborough & Tinana · Call Mick on 0427 550 330",
+ "addressLine": "Tinana, Maryborough QLD 4650",
+ "area": "Maryborough",
+ "areaShort": "Tinana",
+ "areaText": "Solid Concrete Co. is based in Tinana and does concrete work around Maryborough. Call Mick on 0427 550 330 to talk about your job.",
+ "mapQuery": "Tinana QLD 4650",
+ "seoTitle": "Concreting in Maryborough & Tinana",
+ "metaDesc": "Solid Concrete Co., Tinana: concrete work around Maryborough QLD, including pool surrounds. Call Mick on 0427 550 330 for a quote.",
+ "ownerOrUs": "us",
+ "badge": [
+  "Local",
+  "Tinana · Maryborough"
+ ],
+ "hero": {
+  "title": "Concrete done solid, right here in Maryborough.",
+  "titleHtml": "Concrete done solid, right here in Maryborough.",
+  "lede": "Solid Concrete Co. is a local concreting company based in Tinana. Tell Mick what you're planning and get a quote.",
+  "trust": [
+   "Based in Tinana",
+   "Talk to Mick direct",
+   "Quotes on request"
+  ]
+ },
+ "images": {
+  "hero": "1773432114474-c1afba22a339",
+  "heroAlt": "Concreter smoothing a fresh concrete slab",
+  "about": "1582540730843-f4418d96ccbe",
+  "about2": "1598171182339-b24dd64241a6",
+  "aboutAlt": "Concreter on site",
+  "gallery": [
+   "1774931363306-5a896cd4dd02",
+   "1618579830810-e89b6d35ff56",
+   "1616179058441-37aa58affac8",
+   "1694521787162-5373b598945c",
+   "1673978484202-ea21a0750148",
+   "1685464196332-ed9c9da28d9a"
+  ]
+ },
+ "servicesHead": "Concrete work",
+ "servicesSub": "Concreting around Maryborough and Tinana. Call to talk about your job.",
+ "services": [
+  {
+   "id": "concreting",
+   "title": "Concreting",
+   "img": "1774931363306-5a896cd4dd02",
+   "short": "Concrete work for Maryborough properties.",
+   "long": "Concrete work around Maryborough and Tinana. Call Mick to talk through what you need and get a quote.",
+   "points": [
+    "Maryborough & Tinana",
+    "Talk to Mick",
+    "Quotes on request"
+   ]
+  },
+  {
+   "id": "pool-surrounds",
+   "title": "Pool surrounds",
+   "img": "1618579830810-e89b6d35ff56",
+   "short": "Concrete around the pool.",
+   "long": "Concrete pool surrounds. Tell us about your pool area and we'll talk you through it.",
+   "points": [
+    "Pool areas",
+    "Outdoor living",
+    "Quotes on request"
+   ]
+  },
+  {
+   "id": "finishing",
+   "title": "Placing & finishing",
+   "img": "1773432114474-c1afba22a339",
+   "short": "Concrete placed and finished.",
+   "long": "Concrete placed and finished on site by the Solid Concrete Co. team.",
+   "points": [
+    "Placement",
+    "Finishing",
+    "Local team"
+   ]
+  }
+ ],
+ "whyHead": "A local concreting company",
+ "whyText": "Solid Concrete Co. is a Queensland company based in Tinana, doing concrete work around Maryborough.",
+ "why": [
+  "Based in Tinana",
+  "Local to Maryborough",
+  "Talk to Mick direct",
+  "Quotes on request"
+ ],
+ "galleryHead": "Concrete work",
+ "gallerySub": "Slabs, finishes and pours.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Tinana, Maryborough QLD 4650."
+  ],
+  [
+   "Do you do pool surrounds?",
+   "Yes. Call to talk about your pool area."
+  ],
+  [
+   "How do I get a quote?",
+   "Call Mick on 0427 550 330 or send a request through the contact page."
+  ]
+ ],
+ "aboutHead": "About Solid Concrete Co.",
+ "aboutSub": "Concreting from Tinana, Maryborough.",
+ "aboutParas": [
+  "Solid Concrete Co. Pty Ltd is a concreting company based in Tinana, Maryborough.",
+  "Call Mick on 0427 550 330 to talk about your concrete job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in Tinana, working around Maryborough."
+  ],
+  [
+   "Direct",
+   "You talk to Mick about your job."
+  ],
+  [
+   "Clear",
+   "A quote before work starts."
+  ]
+ ],
+ "contactHead": "Request a quote",
+ "contactSub": "Tell us about your concrete job and we'll be in touch. Or call Mick on 0427 550 330.",
+ "bandText": "Got a concrete job coming up?",
+ "footerBlurb": "Concreting in Maryborough and Tinana.",
+ "hours": [
+  [
+   "Hours",
+   "Call to arrange a time"
+  ],
+  [
+   "Phone",
+   "0427 550 330"
+  ],
+  [
+   "Based in",
+   "Tinana, Maryborough"
+  ]
+ ],
+ "reviews": [],
+ "formExtra": [
+  [
+   "Type of job (slab, pool surround…)",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "4px",
+  "h1max": "78px",
+  "logoRadius": 4,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "headerBg": "#FFFFFF",
+  "hero": "center",
+  "icon": "cube",
+  "fontsQuery": "family=Tilt+Warp&family=Hanken+Grotesk:wght@400;500;700",
+  "headFont": "\"Tilt Warp\",Impact,sans-serif",
+  "bodyFont": "\"Hanken Grotesk\",system-ui,sans-serif",
+  "bg": "#F6F4F1",
+  "surface": "#ECE8E2",
+  "ink": "#2A2724",
+  "muted": "#6A635B",
+  "line": "#DDD6CC",
+  "brand": "#3D3A36",
+  "brand2": "#26231F",
+  "accent": "#D96C4A",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#2A2724",
+  "overlay": "rgba(38,35,31,.9)",
+  "footBg": "#26231F",
+  "footInk": "#C9C0B4",
+  "footHead": "#E8956F",
+  "logoBg": "#D96C4A",
+  "logoFg": "#FFFFFF"
+ }
+}

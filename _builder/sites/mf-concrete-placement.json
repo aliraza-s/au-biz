@@ -1,0 +1,196 @@
+{
+ "ctaLabel": "Get a quote",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send request",
+ "formHead": "Quote request",
+ "reviewsHead": "",
+ "slug": "mf-concrete-placement",
+ "name": "MF Concrete Placement",
+ "short": "MF Concrete",
+ "tag": "Concrete placement · Warwick",
+ "suburb": "Warwick",
+ "state": "QLD",
+ "postcode": "4370",
+ "phone": "0407 182 358",
+ "phoneIntl": "+61407182358",
+ "topline": "Concrete placement in Warwick & the Southern Downs · Call Matthew",
+ "addressLine": "Warwick QLD 4370",
+ "area": "Warwick",
+ "areaShort": "Warwick",
+ "areaText": "MF Concrete Placement is a Warwick concrete contractor. Call Matthew on 0407 182 358 to talk about your job.",
+ "mapQuery": "Warwick QLD 4370",
+ "seoTitle": "Concrete contractor in Warwick",
+ "metaDesc": "MF Concrete Placement, Warwick QLD: local concrete contractor. Call Matthew on 0407 182 358 for a quote.",
+ "ownerOrUs": "us",
+ "badge": [
+  "Warwick",
+  "Local concrete contractor"
+ ],
+ "hero": {
+  "title": "Concrete placed right in Warwick.",
+  "titleHtml": "Concrete placed <em style=\"font-style:normal;color:var(--accent)\">right</em> in Warwick.",
+  "lede": "MF Concrete Placement is a local Warwick concrete contractor. Give Matthew a call to talk through your job.",
+  "trust": [
+   "Warwick local",
+   "Talk to Matthew",
+   "Quotes on request"
+  ]
+ },
+ "images": {
+  "hero": "1784644579477-3fa2b0af8ac2",
+  "heroAlt": "Concrete truck and excavator on a building site",
+  "about": "1685464196332-ed9c9da28d9a",
+  "about2": "1764856601179-dfeca7b37e4c",
+  "aboutAlt": "Concrete being placed on site",
+  "gallery": [
+   "1774931363306-5a896cd4dd02",
+   "1531834685032-c34bf0d84c77",
+   "1640101086894-7d70c3e70179",
+   "1773432114474-c1afba22a339",
+   "1598171182339-b24dd64241a6",
+   "1673978484202-ea21a0750148"
+  ]
+ },
+ "servicesHead": "What we do",
+ "servicesSub": "Concrete work in Warwick and around the Southern Downs.",
+ "services": [
+  {
+   "id": "placement",
+   "title": "Concrete placement",
+   "img": "1685464196332-ed9c9da28d9a",
+   "short": "Getting the concrete where it needs to go.",
+   "long": "Concrete placement on your site in and around Warwick. Call Matthew to talk through the job.",
+   "points": [
+    "Warwick",
+    "On site",
+    "Talk to Matthew"
+   ]
+  },
+  {
+   "id": "finishing",
+   "title": "Concrete finishing",
+   "img": "1773432114474-c1afba22a339",
+   "short": "A finished surface once the pour is down.",
+   "long": "Concrete finishing as part of the job. Tell us what you're after when you call.",
+   "points": [
+    "Finishing",
+    "Local",
+    "Quotes on request"
+   ]
+  },
+  {
+   "id": "contracting",
+   "title": "Concrete contracting",
+   "img": "1774931363306-5a896cd4dd02",
+   "short": "Concrete work for your project.",
+   "long": "Concrete contracting around Warwick. Call 0407 182 358 to talk about your project and get a quote.",
+   "points": [
+    "Southern Downs",
+    "Projects",
+    "Call for a quote"
+   ]
+  }
+ ],
+ "whyHead": "A Warwick concrete contractor",
+ "whyText": "MF Concrete Placement is listed as a concrete contractor in Warwick. Call Matthew direct to talk about your job.",
+ "why": [
+  "Based in Warwick",
+  "Southern Downs",
+  "Talk to Matthew",
+  "Quotes on request"
+ ],
+ "galleryHead": "Concrete work",
+ "gallerySub": "Pours, placement and finishing.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Warwick, QLD."
+  ],
+  [
+   "Who do I talk to?",
+   "Matthew. Call 0407 182 358."
+  ],
+  [
+   "How do I get a quote?",
+   "Call or send a request through the contact page."
+  ]
+ ],
+ "aboutHead": "About MF Concrete Placement",
+ "aboutSub": "Matthew, Warwick QLD.",
+ "aboutParas": [
+  "MF Concrete Placement is a concrete contractor in Warwick, Queensland.",
+  "Call Matthew on 0407 182 358 to talk about your concrete job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in Warwick."
+  ],
+  [
+   "Direct",
+   "You talk to Matthew."
+  ],
+  [
+   "Clear",
+   "A quote before work starts."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about your concrete job and we'll be in touch. Or call Matthew on 0407 182 358.",
+ "bandText": "Need concrete placed?",
+ "footerBlurb": "Concrete placement in Warwick and the Southern Downs.",
+ "hours": [
+  [
+   "Hours",
+   "Call to arrange a time"
+  ],
+  [
+   "Phone",
+   "0407 182 358"
+  ],
+  [
+   "Based in",
+   "Warwick"
+  ]
+ ],
+ "reviews": [],
+ "formExtra": [
+  [
+   "Type of job",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "2px",
+  "btnRadius": "40px",
+  "h1max": "104px",
+  "logoRadius": 40,
+  "headTrack": ".01em",
+  "headExtra": "text-transform:uppercase;",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "headerBg": "#FFFFFF",
+  "hero": "stack",
+  "icon": "pump",
+  "fontsQuery": "family=Fjalla+One&family=Nunito+Sans:wght@400;600;800",
+  "headFont": "\"Fjalla One\",Impact,sans-serif",
+  "bodyFont": "\"Nunito Sans\",system-ui,sans-serif",
+  "bg": "#F4F5F7",
+  "surface": "#E7EAEF",
+  "ink": "#1E2433",
+  "muted": "#5A6273",
+  "line": "#D3D8E0",
+  "brand": "#283044",
+  "brand2": "#1A2030",
+  "accent": "#F6AE2D",
+  "onAccent": "#1A2030",
+  "headerInk": "#1E2433",
+  "overlay": "rgba(26,32,48,.9)",
+  "footBg": "#1A2030",
+  "footInk": "#B4BCCB",
+  "footHead": "#F6AE2D",
+  "logoBg": "#F6AE2D",
+  "logoFg": "#1A2030"
+ }
+}

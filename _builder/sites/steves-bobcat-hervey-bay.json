@@ -1,0 +1,254 @@
+{
+ "ctaLabel": "Get a free quote",
+ "schemaType": "HomeAndConstructionBusiness",
+ "formButton": "Send request",
+ "formHead": "Free quote request",
+ "reviewsHead": "What customers say",
+ "reviewsSub": "Real Google and Localsearch reviews.",
+ "slug": "steves-bobcat-hervey-bay",
+ "name": "Steve's Bobcat Excavator & Tipper Hire",
+ "short": "Steve's Bobcat",
+ "tag": "Earthmoving · Hervey Bay",
+ "street": "98 Mungomery Rd",
+ "suburb": "Takura",
+ "state": "QLD",
+ "postcode": "4655",
+ "phone": "0439 412 803",
+ "phoneIntl": "+61439412803",
+ "topline": "Bobcat, excavator & tipper hire · Hervey Bay, Maryborough & the Fraser Coast",
+ "addressLine": "98 Mungomery Rd, Takura QLD 4655",
+ "area": "the Fraser Coast",
+ "areaShort": "Takura",
+ "areaText": "Steve works across Hervey Bay, Takura, Maryborough and the Fraser Coast. Call 0439 412 803 for a free quote.",
+ "mapQuery": "98 Mungomery Rd, Takura QLD 4655",
+ "seoTitle": "Bobcat, excavator & tipper hire in Hervey Bay",
+ "metaDesc": "Steve's Bobcat Excavator & Tipper Hire, Takura: bobcat and 2 tonne excavator work, driveways, site clean-ups, turf and landscape supplies around Hervey Bay and Maryborough. Call 0439 412 803.",
+ "ownerOrUs": "me",
+ "facebook": "https://www.facebook.com/p/Steves-Bobcat-Tipper-Hire-100057475329331",
+ "rating": 4.9,
+ "reviewCount": 8,
+ "ratingSource": "Google",
+ "hero": {
+  "title": "Bobcat, excavator & tipper work on the Fraser Coast.",
+  "titleHtml": "Bobcat, excavator & tipper work on the Fraser Coast.",
+  "lede": "Steve runs his own bobcat, 2 tonne excavator and tipper out of Takura. Driveways, site clean-ups, turf prep, trenching and soil, sand, mulch and gravel delivered.",
+  "trust": [
+   "4.9★ on Google",
+   "Fully insured",
+   "Free quotes"
+  ]
+ },
+ "images": {
+  "hero": "1780054984791-ef3f58ca753e",
+  "heroAlt": "Yellow excavator digging at a site",
+  "about": "1649807533255-bbc9c9fb7d77",
+  "about2": "1583024011792-b165975b52f5",
+  "aboutAlt": "Excavator on a dirt site",
+  "gallery": [
+   "1768085091650-e8e89ef57b76",
+   "1784058018200-f1eb0c6fcfcf",
+   "1780054984792-c5105f20390a",
+   "1649829726631-fcd218631ab5",
+   "1630288214173-a119cf823388",
+   "1764422743505-97c9ea0e43f2"
+  ]
+ },
+ "servicesHead": "Earthmoving services",
+ "servicesSub": "Bobcat, excavator and tipper work around Hervey Bay and Maryborough.",
+ "services": [
+  {
+   "id": "bobcat-excavator",
+   "title": "Bobcat & excavator hire",
+   "img": "1780054984791-ef3f58ca753e",
+   "short": "Bobcat and 2 tonne excavator, with Steve operating.",
+   "long": "Bobcat and 2 tonne excavator work with Steve on the controls. Post hole borer and spreader box available too.",
+   "points": [
+    "2 tonne excavator",
+    "Post hole borer",
+    "Spreader box"
+   ]
+  },
+  {
+   "id": "clearing",
+   "title": "Clearing & site clean-ups",
+   "img": "1764422743505-97c9ea0e43f2",
+   "short": "Small block clearing and site clean-ups.",
+   "long": "Small block cleaning, land clearing and site clean-ups, including spoil removal and small demolition.",
+   "points": [
+    "Small blocks",
+    "Spoil removal",
+    "Small demolition"
+   ]
+  },
+  {
+   "id": "driveways",
+   "title": "Driveways, levelling & trenching",
+   "img": "1784058018200-f1eb0c6fcfcf",
+   "short": "Driveways, cut and fill, levelling and trenching.",
+   "long": "Driveways, cut and fill, levelling and grading, and trenching around the Fraser Coast.",
+   "points": [
+    "Driveways",
+    "Cut & fill",
+    "Trenching"
+   ]
+  },
+  {
+   "id": "turf",
+   "title": "Turf preparation & laying",
+   "img": "1768085091650-e8e89ef57b76",
+   "short": "Ground prepared and turf laid.",
+   "long": "Turf preparation and laying, plus fencing including sediment fencing.",
+   "points": [
+    "Turf prep",
+    "Turf laying",
+    "Sediment fencing"
+   ]
+  },
+  {
+   "id": "supplies",
+   "title": "Tipper hire & landscape supplies",
+   "img": "1649829726631-fcd218631ab5",
+   "short": "Sand, soil, mulch, gravel and turf delivered.",
+   "long": "Supply and delivery of sand, soil, mulch, gravel and turf with the tipper.",
+   "points": [
+    "Sand & soil",
+    "Mulch & gravel",
+    "Turf"
+   ]
+  }
+ ],
+ "whyHead": "Why locals call Steve",
+ "whyText": "Steve is a solo operator, so the person who quotes your job is the one on the machine.",
+ "why": [
+  "4.9 stars from 8 Google reviews",
+  "Fully insured",
+  "Free quotes",
+  "24 hour callouts"
+ ],
+ "galleryHead": "On the job",
+ "gallerySub": "Excavator, bobcat and tipper work.",
+ "faq": [
+  [
+   "What areas do you cover?",
+   "Hervey Bay, Takura, Maryborough and the Fraser Coast."
+  ],
+  [
+   "What machines do you have?",
+   "Bobcat, 2 tonne excavator and tipper, with a post hole borer and spreader box."
+  ],
+  [
+   "Can you deliver soil or mulch?",
+   "Yes. Sand, soil, mulch, gravel and turf supplied and delivered."
+  ],
+  [
+   "Do you charge for quotes?",
+   "No, quotes are free."
+  ],
+  [
+   "How can I pay?",
+   "Cash or EFT."
+  ]
+ ],
+ "aboutHead": "About Steve",
+ "aboutSub": "Bobcat, excavator & tipper hire from Takura.",
+ "aboutParas": [
+  "Steve's Bobcat Excavator & Tipper Hire is run by Steve out of Takura, near Hervey Bay.",
+  "He works across Hervey Bay, Maryborough and the Fraser Coast with a bobcat, 2 tonne excavator and tipper, doing everything from driveways and small block clean-ups to turf prep and landscape supply deliveries.",
+  "Call 0439 412 803 for a free quote."
+ ],
+ "valuesHead": "How I work",
+ "values": [
+  [
+   "Hands-on",
+   "Steve quotes and operates every job."
+  ],
+  [
+   "Insured",
+   "Fully insured."
+  ],
+  [
+   "Available",
+   "24 hour callouts."
+  ]
+ ],
+ "contactHead": "Get a free quote",
+ "contactSub": "Tell Steve about your job and he'll get back to you. Or call 0439 412 803.",
+ "bandText": "Need a bobcat or excavator?",
+ "footerBlurb": "Bobcat, excavator and tipper hire around Hervey Bay and Maryborough.",
+ "hours": [
+  [
+   "Hours",
+   "24 hour callouts"
+  ],
+  [
+   "Phone",
+   "0439 412 803"
+  ],
+  [
+   "Payment",
+   "Cash or EFT"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Steve is our NO 1 go to man, with all our Bobcat/Excavation work… Very professional, high quality work, Affordable and extremely accomadating. Call Steve, you won't be disappointed.",
+   "who": "Kristen"
+  },
+  {
+   "text": "Steve is easy to get on with and is a very good operator. If you need a job done do not hesitate to ring him.",
+   "who": "Bruce",
+   "src": "Localsearch"
+  },
+  {
+   "text": "really really pleased with the work that was carried out… Nothing was an issue for him",
+   "who": "Peter",
+   "src": "Localsearch"
+  },
+  {
+   "text": "Great job at a good price",
+   "who": "Colin"
+  },
+  {
+   "text": "A nice fellow, very helpful",
+   "who": "Dizzy"
+  }
+ ],
+ "formExtra": [
+  [
+   "Type of job (driveway, clean-up, delivery…)",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "6px",
+  "h1max": "84px",
+  "logoRadius": 6,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "headerBg": "#FFFFFF",
+  "hero": "overlay",
+  "icon": "digger",
+  "fontsQuery": "family=Russo+One&family=Mulish:wght@400;600;800",
+  "headFont": "\"Russo One\",Impact,sans-serif",
+  "bodyFont": "Mulish,system-ui,sans-serif",
+  "bg": "#FBF8F3",
+  "surface": "#F1EADF",
+  "ink": "#2B1D12",
+  "muted": "#6E5B4A",
+  "line": "#E2D6C5",
+  "brand": "#4A2C1A",
+  "brand2": "#2E1B10",
+  "accent": "#F9A620",
+  "onAccent": "#2E1B10",
+  "headerInk": "#2B1D12",
+  "overlay": "rgba(46,27,16,.92)",
+  "footBg": "#2E1B10",
+  "footInk": "#D3C2AE",
+  "footHead": "#F9A620",
+  "logoBg": "#F9A620",
+  "logoFg": "#2E1B10"
+ }
+}
