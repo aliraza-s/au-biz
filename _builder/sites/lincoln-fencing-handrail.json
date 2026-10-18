@@ -1,0 +1,215 @@
+{
+ "slug": "lincoln-fencing-handrail",
+ "name": "Lincoln Fencing & Handrail",
+ "short": "Lincoln Fencing",
+ "tag": "Fencing, gates & balustrades · Port Lincoln",
+ "street": "7 Thomas Court",
+ "suburb": "Port Lincoln",
+ "state": "SA",
+ "postcode": "5606",
+ "phone": "(08) 8683 1355",
+ "phoneIntl": "+61886831355",
+ "formEmail": "sales@lincolnfencing.com.au",
+ "facebook": "https://www.facebook.com/lincfencing/",
+ "topline": "7 Thomas Court, Port Lincoln · sales@lincolnfencing.com.au",
+ "addressLine": "7 Thomas Court, Port Lincoln SA 5606",
+ "area": "Port Lincoln and the Eyre Peninsula",
+ "areaShort": "Port Lincoln, Eyre Peninsula",
+ "areaText": "Lincoln Fencing & Handrail is a family-owned business at 7 Thomas Court, Port Lincoln, working across the Eyre Peninsula. Call (08) 8683 1355 or email sales@lincolnfencing.com.au.",
+ "mapQuery": "Lincoln Fencing & Handrail, 7 Thomas Court, Port Lincoln SA 5606",
+ "seoTitle": "Fences, gates & balustrades in Port Lincoln",
+ "metaDesc": "Lincoln Fencing & Handrail, Port Lincoln SA: family-owned makers and installers of aluminium, steel and stainless steel fences, gates and balustrades since 1996. Call (08) 8683 1355.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Since 1996",
+  "Family-owned, Port Lincoln"
+ ],
+ "hero": {
+  "title": "Fences, gates and balustrades, made in Port Lincoln.",
+  "titleHtml": "Fences, gates &amp; balustrades, made in Port Lincoln.",
+  "lede": "Family-owned on the Eyre Peninsula. We make and install aluminium, steel and stainless steel fencing, gates and balustrades for homes, builders and commercial jobs.",
+  "trust": [
+   "Family-owned",
+   "Made locally",
+   "Measure & quote on site"
+  ]
+ },
+ "images": {
+  "hero": "1587780843696-044a14ea63ae",
+  "heroAlt": "Black metal fence",
+  "about": "1546562846-ab1f8939e037",
+  "about2": "1558661610-006e0c940a82",
+  "aboutAlt": "Metal fencing",
+  "gallery": [
+   "1508263073532-98ed924de82d",
+   "1621271697043-8f80216904e1",
+   "1606075920539-565e9f1de54c",
+   "1600198678570-3374c5c041a4",
+   "1590869942905-a4ada45d5a8a",
+   "1519478224231-4f91b359198b"
+  ]
+ },
+ "servicesHead": "What we make and install",
+ "servicesSub": "Standard designs on show at our Thomas Court showroom, or a custom design made to suit.",
+ "services": [
+  {
+   "id": "fences",
+   "title": "Tubular fencing",
+   "img": "1587780843696-044a14ea63ae",
+   "short": "Aluminium, steel and stainless steel fences.",
+   "long": "We manufacture tubular fencing here in Port Lincoln and install it for homes, builders and commercial sites.",
+   "points": [
+    "Aluminium",
+    "Steel",
+    "Stainless steel"
+   ]
+  },
+  {
+   "id": "pool-fences",
+   "title": "Pool fences",
+   "img": "1606075920539-565e9f1de54c",
+   "short": "Fencing around the pool.",
+   "long": "Pool fencing made and fitted by a local team. Call or send a request and we'll come out to measure.",
+   "points": [
+    "Made locally",
+    "Measured on site",
+    "Quote before work starts"
+   ]
+  },
+  {
+   "id": "gates",
+   "title": "Gates & automatic gates",
+   "img": "1621271697043-8f80216904e1",
+   "short": "Pedestrian, driveway and automatic gates.",
+   "long": "Gates to match your fence, including automatic gates for driveways and commercial entries.",
+   "points": [
+    "Driveway gates",
+    "Automatic gates",
+    "Matching designs"
+   ]
+  },
+  {
+   "id": "balustrades",
+   "title": "Balustrades & handrails",
+   "img": "1558661610-006e0c940a82",
+   "short": "Balustrades and handrails for decks, stairs and balconies.",
+   "long": "Balustrades and handrails in aluminium, steel or stainless steel, from standard designs to custom work.",
+   "points": [
+    "Standard or custom",
+    "Residential & commercial",
+    "Builders welcome"
+   ]
+  }
+ ],
+ "whyHead": "A local maker, not a reseller",
+ "whyText": "We build our fencing and balustrades here in Port Lincoln, so you deal with the people who make it.",
+ "why": [
+  "Family-owned on the Eyre Peninsula",
+  "In business since 1996",
+  "Showroom with standard designs",
+  "Custom designs available"
+ ],
+ "galleryHead": "Fencing, gates and rails",
+ "gallerySub": "Metal fencing around the Eyre Peninsula.",
+ "faq": [
+  [
+   "Where are you?",
+   "7 Thomas Court, Port Lincoln. Our showroom has standard designs on display."
+  ],
+  [
+   "Do you do custom designs?",
+   "Yes. Bring your idea in or tell us about it and we'll talk it through."
+  ],
+  [
+   "How do I get a quote?",
+   "Call (08) 8683 1355 or email sales@lincolnfencing.com.au. We measure and quote on site."
+  ],
+  [
+   "Who do you work for?",
+   "Home owners, builders and commercial clients."
+  ]
+ ],
+ "aboutHead": "About Lincoln Fencing & Handrail",
+ "aboutSub": "Family-owned in Port Lincoln since 1996.",
+ "aboutParas": [
+  "Lincoln Fencing & Handrail is a local, family-owned business on the Eyre Peninsula. We manufacture and install aluminium, steel and stainless steel fences, gates and balustrades.",
+  "Our standard designs are on display at the showroom on Thomas Court, and we also make custom designs. We work with home owners, builders and commercial clients, and we measure and quote on site."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Made here",
+   "Fencing and balustrades manufactured in Port Lincoln."
+  ],
+  [
+   "On-site quotes",
+   "We come out, measure up and quote."
+  ],
+  [
+   "Your design",
+   "Pick a standard design or ask for something custom."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about the job and we'll be in touch. Or call (08) 8683 1355.",
+ "bandText": "Planning a fence, gate or balustrade?",
+ "footerBlurb": "Fences, gates and balustrades made and installed in Port Lincoln since 1996.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "Business hours"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ],
+  [
+   "Showroom",
+   "7 Thomas Court"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Fence, gate or balustrade length (approx.)",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "6px",
+  "h1max": "74px",
+  "logoRadius": 6,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "700",
+  "bg": "#F6F7F7",
+  "headerBg": "#FFFFFF",
+  "hero": "split",
+  "icon": "rail",
+  "fontsQuery": "family=Familjen+Grotesk:wght@600;700&family=Atkinson+Hyperlegible:wght@400;700",
+  "headFont": "\"Familjen Grotesk\",system-ui,sans-serif",
+  "bodyFont": "\"Atkinson Hyperlegible\",system-ui,sans-serif",
+  "surface": "#E9ECEC",
+  "ink": "#1E2628",
+  "muted": "#56605F",
+  "line": "#D5DADA",
+  "brand": "#2C3639",
+  "brand2": "#E4E8E7",
+  "accent": "#E09F3E",
+  "onAccent": "#1E2628",
+  "headerInk": "#2C3639",
+  "overlay": "rgba(30,38,40,.9)",
+  "footBg": "#1E2628",
+  "footInk": "#B9C2C1",
+  "footHead": "#E09F3E",
+  "logoBg": "#2C3639",
+  "logoFg": "#E09F3E"
+ }
+}

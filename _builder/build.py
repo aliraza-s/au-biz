@@ -71,6 +71,11 @@ ICONS = {
  "broom": '<g fill="currentColor"><path d="M23.4 2.6 26 5 17.6 14.4 15.2 12z"/><path d="M13.6 12.4 19.2 18 12 29 3 20z"/></g><path d="M7 22.5l4.5 4.5M9.5 19.5l5 5M12 17l4.5 4.5" stroke="var(--logo-ink)" stroke-width="1.4"/>',
  "barrow": '<g fill="currentColor"><path d="M2 9h21l-4 10H7z"/><circle cx="22" cy="24.5" r="4"/><path d="M7 19 4 28h2.6l3-8z"/><path d="M17 19l4.5 4 1.5-1.6L19 18z"/><path d="M22 9l5-3 1.2 1.8-4.6 3z"/></g><circle cx="22" cy="24.5" r="1.5" fill="var(--logo-ink)"/>',
  "crane": '<g fill="currentColor"><path d="M8 3h3v26H8z"/><path d="M3 6h26v3H3z"/><path d="M5 27h9v3H5z"/><path d="M11 3 14 6h-3z"/></g><path d="M24 9v8" stroke="currentColor" stroke-width="1.6"/><rect x="21" y="17" width="6" height="5" rx="1" fill="currentColor"/><path d="M8.5 9l2 3-2 3 2 3-2 3 2 3" stroke="var(--logo-ink)" stroke-width="1.2" fill="none"/>',
+ "rail": '<g fill="currentColor"><rect x="2" y="5" width="28" height="3.4" rx="1.7"/><rect x="3" y="26" width="26" height="2.6" rx="1.3"/><path d="M4 8h3v18H4zM25 8h3v18h-3z"/></g><path d="M11 8v18M15 8v18M19 8v18" stroke="currentColor" stroke-width="1.8"/>',
+ "shears": '<g fill="currentColor"><path d="M15 15 27 3l2 2-12 12z"/><path d="M17 15 5 3 3 5l12 12z" opacity=".8"/><path d="M13.5 17.5 6 25l2.2 2.2 7.5-7.5z"/><path d="M18.5 17.5 26 25l-2.2 2.2-7.5-7.5z" opacity=".8"/><circle cx="16" cy="16" r="2.2"/></g>',
+ "stripes": '<circle cx="16" cy="16" r="14" fill="currentColor"/><g fill="var(--logo-ink)" opacity=".45"><path d="M9 4.5h4.5v23H9zM18.5 4.5H23v23h-4.5z"/></g>',
+ "turf": '<g fill="currentColor"><rect x="3" y="20" width="26" height="8" rx="2"/><path d="M5 20c0-5 1-9 3-12 0 4 1 8 2 12zM12 20c0-6 1.5-11 4-15 1 5 1 10 0 15zM19 20c1-5 3-9 6-11-1 4-1.5 7-1.5 11z"/></g>',
+ "sparkplug": '<g fill="currentColor"><rect x="13" y="2" width="6" height="5" rx="1"/><path d="M11 7h10v4H11z"/><path d="M12 11h8v9h-8z" opacity=".8"/><path d="M11 20h10v3H11z"/><path d="M14.5 23h3v4h-3z"/><path d="M17.5 27h4v2h-4z"/></g>',
  "ute":'<g fill="currentColor"><path d="M2 13h15v-3l9 0 4 6v7H2z"/><rect x="4" y="6" width="9" height="6" rx="1"/><circle cx="8" cy="24" r="3.5"/><circle cx="23" cy="24" r="3.5"/></g><path d="M19 12h5.5l2.5 4h-8z" fill="var(--logo-ink)"/>',
 }
 
@@ -437,7 +442,7 @@ def page_contact(s):
     return (head(s, f'Contact | {s["name"]}', f'Contact {s["name"]}: call {s["phone"]} or send a booking request.') + nav(s,"contact.html") + "<main>" +
             pagehead(s, s["contactHead"], s["contactSub"], "Contact") +
             f"""<section><div class="wrap contact-grid">
-<form class="book" name="{fname}" data-sms="{s['phoneIntl']}" data-biz="{E(s['short'])}" onsubmit="return sendReq(this)">
+<form class="book" name="{fname}" data-sms="{s['phoneIntl']}" data-mail="{E(s.get('formEmail',''))}" data-biz="{E(s['short'])}" onsubmit="return sendReq(this)">
  <h2 style="font-size:30px">{E(s['formHead'])}</h2>
  <div class="two"><label>Your name<input name="name" required autocomplete="name"></label><label>Phone<input name="phone" type="tel" required autocomplete="tel"></label></div>
  <div class="two"><label>Email<input name="email" type="email" autocomplete="email"></label><label>Suburb<input name="suburb" autocomplete="address-level2"></label></div>
@@ -445,13 +450,15 @@ def page_contact(s):
  <label>What do you need?<select name="service">{opts}</select></label>
  <label>Anything we should know?<textarea name="message" rows="4"></textarea></label>
  <button type="submit">{E(s['formButton'])}</button>
- <p class="note-sms" style="font-size:14px;color:var(--muted)">Your messages app will open with your request ready to send. Prefer to talk? Call {E(s['phone'])}.</p>
+ <p class="note-sms" style="font-size:14px;color:var(--muted)">Your {'email' if s.get('formEmail') else 'messages'} app will open with your request ready to send. Prefer to talk? Call {E(s['phone'])}.</p>
 </form>
 <script>
 function sendReq(f){{var d=new FormData(f),t=[];
 t.push("Hi "+f.dataset.biz+", booking request:");
 d.forEach(function(v,k){{if(v)t.push(k.charAt(0).toUpperCase()+k.slice(1).replace(/_/g," ")+": "+v);}});
-var body=encodeURIComponent(t.join(String.fromCharCode(10)));var sep=/iPhone|iPad|Mac/i.test(navigator.userAgent)?"&":"?";
+var body=encodeURIComponent(t.join(String.fromCharCode(10)));
+if(f.dataset.mail){{window.location.href="mailto:"+f.dataset.mail+"?subject="+encodeURIComponent("Quote request")+"&body="+body;return false;}}
+var sep=/iPhone|iPad|Mac/i.test(navigator.userAgent)?"&":"?";
 window.location.href="sms:"+f.dataset.sms+sep+"body="+body;return false;}}
 </script>
 <div class="contact-card">

@@ -1,0 +1,210 @@
+{
+ "slug": "heaths-mowing-rockhampton",
+ "name": "Heath's Mowing Service",
+ "short": "Heath's Mowing",
+ "tag": "Mowing · Rockhampton",
+ "street": "229A Murray Street",
+ "suburb": "Rockhampton City",
+ "state": "QLD",
+ "postcode": "4700",
+ "phone": "0448 110 229",
+ "phoneIntl": "+61448110229",
+ "facebook": "https://www.facebook.com/heathsmowingservice/",
+ "topline": "Rockhampton · Call Heath on 0448 110 229",
+ "addressLine": "229A Murray Street, Rockhampton City QLD 4700",
+ "area": "Rockhampton",
+ "areaShort": "Rockhampton City",
+ "areaText": "Heath's Mowing Service is based on Murray Street in Rockhampton City. Call Heath on 0448 110 229 or email heath-79@hotmail.com.",
+ "mapQuery": "229A Murray St, Rockhampton City QLD 4700",
+ "seoTitle": "Lawn mowing in Rockhampton",
+ "metaDesc": "Heath's Mowing Service, Rockhampton: mowing, edging, weeding and yard maintenance for homes and businesses. Call Heath on 0448 110 229.",
+ "ctaLabel": "Book a mow",
+ "ownerOrUs": "Heath",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Rockhampton",
+  "Homes & businesses"
+ ],
+ "hero": {
+  "title": "Mowing, edging and weeding in Rockhampton.",
+  "titleHtml": "Mowing, edging<br>and weeding in Rocky.",
+  "lede": "Heath keeps lawns and yards neat for homes and businesses around Rockhampton. Mon–Fri and Saturday mornings.",
+  "trust": [
+   "Residential & commercial",
+   "Saturday mornings",
+   "Call Heath direct"
+  ]
+ },
+ "images": {
+  "hero": "1683316924890-6a8c5ab10d29",
+  "heroAlt": "Man mowing a front yard",
+  "about": "1637531347055-4fa8aa80c111",
+  "about2": "1689728318937-17d24bc0a65c",
+  "aboutAlt": "Whipper snipping a lawn edge",
+  "gallery": [
+   "1621272156568-7306716648df",
+   "1535090467336-9501f96eef89",
+   "1668120089662-42642838cfef",
+   "1738193830098-2d92352a1856",
+   "1779636489807-ffad2fc04e8e",
+   "1667072927318-0aa05b0a010d"
+  ]
+ },
+ "servicesHead": "Mowing & maintenance",
+ "servicesSub": "For homes and commercial properties in Rockhampton.",
+ "services": [
+  {
+   "id": "mowing",
+   "title": "Mowing",
+   "img": "1779636489807-ffad2fc04e8e",
+   "short": "Lawns cut neat and even.",
+   "long": "Lawn mowing for homes and commercial properties around Rockhampton.",
+   "points": [
+    "Residential",
+    "Commercial",
+    "Regular or one-off"
+   ]
+  },
+  {
+   "id": "edging",
+   "title": "Edging",
+   "img": "1689728318937-17d24bc0a65c",
+   "short": "Clean lines along paths and beds.",
+   "long": "Edges trimmed along driveways, paths and garden beds for a tidy finish.",
+   "points": [
+    "Paths & driveways",
+    "Garden beds",
+    "Tidy finish"
+   ]
+  },
+  {
+   "id": "weeding",
+   "title": "Weeding",
+   "img": "1621272156568-7306716648df",
+   "short": "Weeds out of beds and borders.",
+   "long": "Weeding to keep garden beds and borders clean.",
+   "points": [
+    "Garden beds",
+    "Borders",
+    "Ask about the job"
+   ]
+  },
+  {
+   "id": "maintenance",
+   "title": "Yard maintenance",
+   "img": "1535090467336-9501f96eef89",
+   "short": "General upkeep for your yard.",
+   "long": "Other maintenance to keep outdoor spaces neat and looked after. Call Heath to talk it through.",
+   "points": [
+    "Homes",
+    "Businesses",
+    "Call to discuss"
+   ]
+  }
+ ],
+ "whyHead": "Why call Heath",
+ "whyText": "A local Rockhampton mowing service for homes and businesses.",
+ "why": [
+  "Based in Rockhampton City",
+  "Residential and commercial",
+  "Open Saturday mornings",
+  "Talk to Heath direct"
+ ],
+ "galleryHead": "Lawns and yards",
+ "gallerySub": "Mowing and yard work around Rockhampton.",
+ "faq": [
+  [
+   "What are your hours?",
+   "Monday to Friday 7am–5pm, Saturday 7am–12pm."
+  ],
+  [
+   "Do you do commercial properties?",
+   "Yes, residential and commercial."
+  ],
+  [
+   "How do I book?",
+   "Call or text Heath on 0448 110 229, or send a request on the contact page."
+  ]
+ ],
+ "aboutHead": "About Heath's Mowing Service",
+ "aboutSub": "Heath, Rockhampton City.",
+ "aboutParas": [
+  "Heath's Mowing Service is a Rockhampton lawn care business run by Heath.",
+  "We look after mowing, edging, weeding and other yard maintenance for residential and commercial clients, keeping outdoor spaces neat and well maintained."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Neat",
+   "Mowed, edged and tidied."
+  ],
+  [
+   "Flexible",
+   "Weekdays and Saturday mornings."
+  ],
+  [
+   "Direct",
+   "You deal with Heath."
+  ]
+ ],
+ "contactHead": "Book a mow",
+ "contactSub": "Tell us about your yard and Heath will be in touch. Or call 0448 110 229.",
+ "bandText": "Grass getting long?",
+ "footerBlurb": "Mowing, edging, weeding and yard maintenance in Rockhampton.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 5pm"
+  ],
+  [
+   "Saturday",
+   "7am – 12pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Booking request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Block size or property type",
+   "yard"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "4px",
+  "h1max": "92px",
+  "logoRadius": 4,
+  "headTrack": ".005em",
+  "headExtra": "text-transform:uppercase;",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "bg": "#FBFAF5",
+  "headerBg": "#283618",
+  "hero": "overlay",
+  "icon": "stripes",
+  "fontsQuery": "family=Passion+One&family=Sarabun:wght@400;600;700",
+  "headFont": "\"Passion One\",Impact,sans-serif",
+  "bodyFont": "Sarabun,system-ui,sans-serif",
+  "surface": "#F1EFE2",
+  "ink": "#1F2614",
+  "muted": "#5A604C",
+  "line": "#E0DCC8",
+  "brand": "#283618",
+  "brand2": "#606C38",
+  "accent": "#DDA15E",
+  "onAccent": "#1F2614",
+  "headerInk": "#FEFAE0",
+  "overlay": "rgba(40,54,24,.9)",
+  "footBg": "#1F2A12",
+  "footInk": "#CFD3BC",
+  "footHead": "#DDA15E",
+  "logoBg": "#DDA15E",
+  "logoFg": "#283618"
+ }
+}

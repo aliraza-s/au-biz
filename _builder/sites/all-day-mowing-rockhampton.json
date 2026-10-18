@@ -1,0 +1,237 @@
+{
+ "slug": "all-day-mowing-rockhampton",
+ "name": "All Day Mowing & Garden Services",
+ "short": "All Day Mowing",
+ "tag": "Mowing & gardening · Rockhampton",
+ "suburb": "The Range",
+ "state": "QLD",
+ "postcode": "4700",
+ "phone": "0402 923 671",
+ "phoneIntl": "+61402923671",
+ "facebook": "https://www.facebook.com/Alldaymowingandgardeningservice/",
+ "topline": "Rockhampton & surrounds · alldaymowing.gardening@gmail.com",
+ "addressLine": "The Range, Rockhampton QLD 4700",
+ "area": "Rockhampton and surrounding areas",
+ "areaShort": "Rockhampton & surrounds",
+ "areaText": "All Day Mowing & Garden Services is Lleyton, based at The Range and working across Rockhampton and surrounding areas. Call 0402 923 671 or email alldaymowing.gardening@gmail.com.",
+ "mapQuery": "The Range QLD 4700",
+ "seoTitle": "Mowing & garden services in Rockhampton",
+ "metaDesc": "All Day Mowing & Garden Services, Rockhampton: mowing, gardening, hedge trimming, tree pruning, mulch, decorative rocks, dump runs and green waste removal. Call Lleyton on 0402 923 671.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "Lleyton",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Rockhampton",
+  "Taking on new regulars"
+ ],
+ "hero": {
+  "title": "Yard maintenance of any kind, all over Rocky.",
+  "titleHtml": "Yard maintenance<br>of any kind, all over Rocky.",
+  "lede": "Mowing, gardening, hedges, pruning, mulch, rocks and green waste. Reliable, and always taking on new regular customers.",
+  "trust": [
+   "Rockhampton & surrounds",
+   "Regular or one-off",
+   "Green waste taken away"
+  ]
+ },
+ "images": {
+  "hero": "1779636489740-6077a4198be6",
+  "heroAlt": "Two men mowing and trimming a front lawn",
+  "about": "1605117882932-f9e32b03fea9",
+  "about2": "1621272156506-cdbdb6a47243",
+  "aboutAlt": "Gardener holding a shovel",
+  "gallery": [
+   "1601001815894-4bb6c81416d7",
+   "1555955207-b96159c16808",
+   "1661534154810-8cd4f8fc1a2a",
+   "1686663048931-6df69f577a2f",
+   "1734079692079-aae7e24a7035",
+   "1597201278257-3687be27d954"
+  ]
+ },
+ "servicesHead": "Yard services",
+ "servicesSub": "From a regular mow to a full yard tidy-up.",
+ "services": [
+  {
+   "id": "mowing",
+   "title": "Mowing",
+   "img": "1782613064276-750c3a3ccdec",
+   "short": "Regular or one-off mows.",
+   "long": "Lawn mowing around Rockhampton, for regular customers or a one-off tidy.",
+   "points": [
+    "Regular customers",
+    "One-off mows",
+    "Rockhampton & surrounds"
+   ]
+  },
+  {
+   "id": "gardening",
+   "title": "Gardening",
+   "img": "1661534154810-8cd4f8fc1a2a",
+   "short": "Garden beds kept tidy.",
+   "long": "General gardening to keep your yard looking after itself between visits.",
+   "points": [
+    "Garden care",
+    "Tidy-ups",
+    "Ask about the job"
+   ]
+  },
+  {
+   "id": "hedges",
+   "title": "Hedge trimming & shaping",
+   "img": "1555955207-b96159c16808",
+   "short": "Hedges trimmed and shaped.",
+   "long": "Hedges trimmed back and shaped neatly.",
+   "points": [
+    "Trimming",
+    "Shaping",
+    "Clippings removed"
+   ]
+  },
+  {
+   "id": "pruning",
+   "title": "Tree pruning",
+   "img": "1734079692079-aae7e24a7035",
+   "short": "Trees and shrubs pruned back.",
+   "long": "Pruning of trees around the yard.",
+   "points": [
+    "Pruning",
+    "Clean-up after",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "mulch-rocks",
+   "title": "Mulch & decorative rocks",
+   "img": "1621272156506-cdbdb6a47243",
+   "short": "Fresh mulch and decorative rock.",
+   "long": "Mulch and decorative rocks laid to freshen up garden beds.",
+   "points": [
+    "Mulch",
+    "Decorative rocks",
+    "Garden beds"
+   ]
+  },
+  {
+   "id": "green-waste",
+   "title": "Dump runs & green waste",
+   "img": "1734303023491-db8037a21f09",
+   "short": "Rubbish and green waste taken away.",
+   "long": "Dump runs and green waste removal so you're not left with the pile.",
+   "points": [
+    "Dump runs",
+    "Green waste removal",
+    "Yard clean-ups"
+   ]
+  }
+ ],
+ "whyHead": "Why Rocky calls All Day",
+ "whyText": "Very reliable, and always taking on new regular customers.",
+ "why": [
+  "Yard maintenance of any kind",
+  "Regular customers welcome",
+  "Green waste taken away",
+  "Rockhampton & surrounds"
+ ],
+ "galleryHead": "Yards and gardens",
+ "gallerySub": "Mowing and garden work around Rockhampton.",
+ "faq": [
+  [
+   "What areas do you cover?",
+   "Rockhampton and surrounding areas."
+  ],
+  [
+   "Do you take on regular customers?",
+   "Yes, we're always taking on new regulars."
+  ],
+  [
+   "Can you take the green waste away?",
+   "Yes, we do dump runs and green waste removal."
+  ],
+  [
+   "How do I get a quote?",
+   "Call or text Lleyton on 0402 923 671, or send a request on the contact page."
+  ]
+ ],
+ "aboutHead": "About All Day Mowing",
+ "aboutSub": "Lleyton, The Range, Rockhampton.",
+ "aboutParas": [
+  "All Day Mowing & Garden Services is run by Lleyton and looks after yards across Rockhampton and surrounding areas.",
+  "We do yard maintenance of any kind: mowing, gardening, hedge trimming and shaping, tree pruning, mulch, decorative rocks, dump runs and green waste removal."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Reliable",
+   "We turn up when we say we will."
+  ],
+  [
+   "Any yard job",
+   "Mowing through to mulch and dump runs."
+  ],
+  [
+   "Regulars welcome",
+   "Set up a regular service that suits you."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about your yard and we'll be in touch. Or call Lleyton on 0402 923 671.",
+ "bandText": "Yard getting away from you?",
+ "footerBlurb": "Mowing and garden services across Rockhampton and surrounds.",
+ "hours": [
+  [
+   "Hours",
+   "Call or text to arrange"
+  ],
+  [
+   "Phone",
+   "0402 923 671"
+  ],
+  [
+   "Area",
+   "Rockhampton & surrounds"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Block size or yard details",
+   "yard"
+  ]
+ ],
+ "theme": {
+  "radius": "22px",
+  "btnRadius": "999px",
+  "h1max": "84px",
+  "logoRadius": 999,
+  "headTrack": "-.015em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "800",
+  "bg": "#FFFDF7",
+  "headerBg": "#FFFDF7",
+  "hero": "center",
+  "icon": "shears",
+  "fontsQuery": "family=Gabarito:wght@600;800&family=Be+Vietnam+Pro:wght@400;600",
+  "headFont": "Gabarito,system-ui,sans-serif",
+  "bodyFont": "\"Be Vietnam Pro\",system-ui,sans-serif",
+  "surface": "#F1F5EC",
+  "ink": "#18261E",
+  "muted": "#536257",
+  "line": "#DDE6D6",
+  "brand": "#2D6A4F",
+  "brand2": "#1B4332",
+  "accent": "#FFD166",
+  "onAccent": "#18261E",
+  "headerInk": "#2D6A4F",
+  "overlay": "rgba(27,67,50,.88)",
+  "footBg": "#1B4332",
+  "footInk": "#C5DBCD",
+  "footHead": "#FFD166",
+  "logoBg": "#FFD166",
+  "logoFg": "#1B4332"
+ }
+}

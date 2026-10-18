@@ -1,0 +1,197 @@
+{
+ "slug": "greencut-lawn-care-gladstone",
+ "name": "GreenCut Lawn Care Gladstone",
+ "short": "GreenCut Lawn Care",
+ "tag": "Lawn care · Gladstone",
+ "suburb": "Clinton",
+ "state": "QLD",
+ "postcode": "4680",
+ "phone": "0476 226 584",
+ "phoneIntl": "+61476226584",
+ "facebook": "https://www.facebook.com/profile.php?id=100090773966798",
+ "topline": "Clinton, Gladstone · greencut.au@gmail.com",
+ "addressLine": "Clinton, Gladstone QLD 4680",
+ "area": "Gladstone",
+ "areaShort": "Clinton, Gladstone",
+ "areaText": "GreenCut Lawn Care is based in Clinton and looks after lawns around Gladstone. Call 0476 226 584 or email greencut.au@gmail.com.",
+ "mapQuery": "Clinton QLD 4680",
+ "seoTitle": "Lawn mowing & lawn care in Gladstone",
+ "metaDesc": "GreenCut Lawn Care Gladstone, Clinton QLD: lawn mowing, lawn care and maintenance, and landscaping. Mon–Fri 7am–4pm. Call 0476 226 584.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Gladstone",
+  "Lawn care local"
+ ],
+ "hero": {
+  "title": "Gladstone lawns, kept green and cut clean.",
+  "titleHtml": "Gladstone lawns,<br>kept green and cut clean.",
+  "lede": "Lawn care, maintenance and landscaping from Clinton. Tell us about your yard and we'll sort a quote.",
+  "trust": [
+   "Based in Clinton",
+   "Mon–Fri 7am–4pm",
+   "Quotes on request"
+  ]
+ },
+ "images": {
+  "hero": "1558904541-efa843a96f01",
+  "heroAlt": "Freshly mown green lawn",
+  "about": "1590820292118-e256c3ac2676",
+  "about2": "1689728222087-6984f72460c4",
+  "aboutAlt": "Push mower on green grass",
+  "gallery": [
+   "1690068023694-053da714f95f",
+   "1458245201577-fc8a130b8829",
+   "1641317430847-243b44c07125",
+   "1734303023481-7508b5c9f1ff",
+   "1734079692160-fcbe4be6ab96",
+   "1706920925080-be07c32398e1"
+  ]
+ },
+ "servicesHead": "Lawn services",
+ "servicesSub": "Mowing, ongoing lawn care and landscaping around Gladstone.",
+ "services": [
+  {
+   "id": "mowing",
+   "title": "Lawn mowing",
+   "img": "1690068023694-053da714f95f",
+   "short": "A clean, even cut.",
+   "long": "Lawn mowing for homes around Gladstone. Call or send a request to book in.",
+   "points": [
+    "Gladstone",
+    "Residential",
+    "Quotes on request"
+   ]
+  },
+  {
+   "id": "lawn-care",
+   "title": "Lawn care & maintenance",
+   "img": "1641317430847-243b44c07125",
+   "short": "Keep the lawn healthy between mows.",
+   "long": "Ongoing lawn care and maintenance to keep your yard looking good.",
+   "points": [
+    "Ongoing care",
+    "Neat edges",
+    "Tidy finish"
+   ]
+  },
+  {
+   "id": "landscaping",
+   "title": "Landscaping",
+   "img": "1458245201577-fc8a130b8829",
+   "short": "Freshen up the yard.",
+   "long": "Landscaping work to tidy up and improve outdoor spaces. Tell us what you have in mind.",
+   "points": [
+    "Outdoor spaces",
+    "Talk it through",
+    "Quote first"
+   ]
+  }
+ ],
+ "whyHead": "Local lawn care",
+ "whyText": "GreenCut is based in Clinton, so we're close by for Gladstone lawns.",
+ "why": [
+  "Based in Clinton, Gladstone",
+  "Mon–Fri 7am–4pm",
+  "Lawn care and landscaping",
+  "Call or text direct"
+ ],
+ "galleryHead": "Green lawns",
+ "gallerySub": "Mowing and lawn care.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Clinton, Gladstone."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 7am to 4pm."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0476 226 584, email greencut.au@gmail.com, or use the contact form."
+  ]
+ ],
+ "aboutHead": "About GreenCut Lawn Care",
+ "aboutSub": "Lawn care from Clinton, Gladstone.",
+ "aboutParas": [
+  "GreenCut Lawn Care Gladstone is a local lawn care business based in Clinton.",
+  "We do lawn mowing, lawn care and maintenance, and landscaping, to keep outdoor spaces neat and well looked after."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in Clinton."
+  ],
+  [
+   "Tidy",
+   "A neat finish every visit."
+  ],
+  [
+   "Clear",
+   "A quote before work starts."
+  ]
+ ],
+ "contactHead": "Get a quote",
+ "contactSub": "Tell us about your lawn and we'll be in touch. Or call 0476 226 584.",
+ "bandText": "Lawn need a cut?",
+ "footerBlurb": "Lawn mowing, lawn care and landscaping in Gladstone.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 4pm"
+  ],
+  [
+   "Saturday",
+   "Closed"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Block size (if known)",
+   "lawn"
+  ]
+ ],
+ "theme": {
+  "radius": "14px",
+  "btnRadius": "12px",
+  "h1max": "72px",
+  "logoRadius": 12,
+  "headTrack": "0",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "hero": "stack",
+  "icon": "turf",
+  "fontsQuery": "family=Dela+Gothic+One&family=Mukta:wght@400;600;700",
+  "headFont": "\"Dela Gothic One\",system-ui,sans-serif",
+  "bodyFont": "Mukta,system-ui,sans-serif",
+  "surface": "#EEF6F4",
+  "ink": "#102A28",
+  "muted": "#4C625F",
+  "line": "#D3E4E0",
+  "brand": "#134E4A",
+  "brand2": "#0D3633",
+  "accent": "#F4D35E",
+  "onAccent": "#102A28",
+  "headerInk": "#134E4A",
+  "overlay": "rgba(13,54,51,.88)",
+  "footBg": "#0D3633",
+  "footInk": "#BCD5D1",
+  "footHead": "#F4D35E",
+  "logoBg": "#134E4A",
+  "logoFg": "#F4D35E"
+ }
+}
