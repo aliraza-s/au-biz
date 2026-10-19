@@ -1,0 +1,229 @@
+{
+ "slug": "drainworx-mackay",
+ "name": "Drainworx Plumbing, Gas & Roofing",
+ "short": "Drainworx",
+ "tag": "Plumbing, gas & roofing · Mackay",
+ "street": "Unit 2/171 Sydney Street",
+ "suburb": "Mackay",
+ "state": "QLD",
+ "postcode": "4740",
+ "phone": "0458 940 300",
+ "phoneIntl": "+61458940300",
+ "facebook": "https://www.facebook.com/drainworxmackay/",
+ "topline": "Mackay & Whitsundays · 171 Sydney Street, Mackay",
+ "addressLine": "Unit 2/171 Sydney St, Mackay QLD 4740",
+ "area": "Mackay and the Whitsundays",
+ "areaShort": "Mackay & Whitsundays",
+ "areaText": "Drainworx works across Mackay and the Whitsundays from Unit 2/171 Sydney Street, Mackay. Call 0458 940 300.",
+ "mapQuery": "171 Sydney St, Mackay QLD 4740",
+ "seoTitle": "Plumber, gas & roofing in Mackay",
+ "metaDesc": "Drainworx Plumbing, Gas & Roofing, Mackay & Whitsundays: blocked drains, CCTV drain camera, gas fitting, hot water and roofing. Call 0458 940 300.",
+ "ctaLabel": "Book a plumber",
+ "ownerOrUs": "Drainworx",
+ "schemaType": "Plumber",
+ "badge": [
+  "Mackay",
+  "Whitsundays"
+ ],
+ "hero": {
+  "title": "Drains, gas and roofs across Mackay & the Whitsundays.",
+  "titleHtml": "Drains, gas and roofs across Mackay & the Whitsundays.",
+  "lede": "Blocked drains, CCTV drain inspections, gas fitting, hot water and roofing for homes, businesses and industry. Locally owned and operated.",
+  "trust": [
+   "Locally owned",
+   "Drain camera",
+   "Residential & commercial"
+  ]
+ },
+ "images": {
+  "hero": "1676210133055-eab6ef033ce3",
+  "heroAlt": "Plumber working on pipes under a cabinet",
+  "about": "1676210134188-4c05dd172f89",
+  "about2": "1635424709961-f3a150459ad4",
+  "aboutAlt": "Tradesmen working on a roof",
+  "gallery": [
+   "1635424824849-1b09bdcc55b1",
+   "1607472586893-edb57bdc0e39",
+   "1676210134190-3f2c0d5cf58d",
+   "1538474705339-e87de81450e8",
+   "1650551182991-b07558247564",
+   "1635424709870-cdc6e64f0e20"
+  ]
+ },
+ "servicesHead": "Plumbing, gas & roofing",
+ "servicesSub": "Call 0458 940 300 to book or talk about a job.",
+ "services": [
+  {
+   "id": "drains",
+   "title": "Blocked drains & drainage",
+   "img": "1538474705339-e87de81450e8",
+   "short": "Drains cleared, pipes flowing.",
+   "long": "Drain cleaning, blocked drains and water pipe clearing, plus drainage work for homes and businesses.",
+   "points": [
+    "Blocked drains",
+    "Pipe clearing",
+    "Drainage"
+   ]
+  },
+  {
+   "id": "cctv",
+   "title": "CCTV drain camera",
+   "img": "1607472586893-edb57bdc0e39",
+   "short": "See what's in the pipe.",
+   "long": "A CCTV drain camera shows what's causing the problem before any digging starts.",
+   "points": [
+    "Find the blockage",
+    "Check pipe condition",
+    "Less guesswork"
+   ]
+  },
+  {
+   "id": "gas",
+   "title": "Gas fitting",
+   "img": "1650551182991-b07558247564",
+   "short": "Installs, repairs and leaks.",
+   "long": "Gas fitting installation and maintenance for homes and businesses. One customer had a small gas leak fixed on the spot.",
+   "points": [
+    "Gas installs",
+    "Leaks fixed",
+    "Maintenance"
+   ]
+  },
+  {
+   "id": "hotwater",
+   "title": "Hot water",
+   "img": "1676210134190-3f2c0d5cf58d",
+   "short": "Repairs and new systems.",
+   "long": "Hot water repairs and installation.",
+   "points": [
+    "Repairs",
+    "Installation",
+    "Call to book"
+   ]
+  },
+  {
+   "id": "roofing",
+   "title": "Roofing & re-roofs",
+   "img": "1635424824849-1b09bdcc55b1",
+   "short": "Re-roofs and maintenance.",
+   "long": "Re-roofs and roof maintenance across Mackay and the Whitsundays.",
+   "points": [
+    "Re-roofs",
+    "Roof maintenance",
+    "Residential & commercial"
+   ]
+  }
+ ],
+ "whyHead": "Why call Drainworx",
+ "whyText": "One team for plumbing, drainage, gas and roofing, working for homes, businesses, industry, civil and mining.",
+ "why": [
+  "Locally owned and operated",
+  "CCTV drain camera",
+  "Residential, commercial & industrial",
+  "Mackay & Whitsundays"
+ ],
+ "galleryHead": "On the tools",
+ "gallerySub": "Plumbing, gas and roofing around Mackay.",
+ "faq": [
+  [
+   "Where are you?",
+   "Unit 2/171 Sydney Street, Mackay QLD 4740."
+  ],
+  [
+   "What areas do you cover?",
+   "Mackay and the Whitsundays."
+  ],
+  [
+   "Do you do commercial work?",
+   "Yes: residential, commercial, industrial, civil and mining."
+  ],
+  [
+   "How do I book?",
+   "Call 0458 940 300 or send the form on the contact page."
+  ]
+ ],
+ "aboutHead": "About Drainworx",
+ "aboutSub": "Plumbing, gas & roofing for Mackay & the Whitsundays.",
+ "aboutParas": [
+  "Drainworx Plumbing, Gas & Roofing is a locally owned and operated business working from Sydney Street, Mackay.",
+  "We look after plumbing, drainage, gas fitting, hot water and roofing for homes, businesses, industry, civil and mining clients across Mackay and the Whitsundays."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Quick",
+   "Problems fixed fast."
+  ],
+  [
+   "Find the cause",
+   "Drain camera before digging."
+  ],
+  [
+   "One call",
+   "Plumbing, gas and roofing."
+  ]
+ ],
+ "contactHead": "Book a plumber",
+ "contactSub": "Tell us what's going on and we'll be in touch. Or call 0458 940 300.",
+ "bandText": "Blocked drain or gas problem?",
+ "footerBlurb": "Plumbing, drainage, gas fitting and roofing across Mackay and the Whitsundays.",
+ "hours": [
+  [
+   "Bookings",
+   "Call 0458 940 300"
+  ],
+  [
+   "Urgent jobs",
+   "Call to check"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Great service, Had the problem fixed within the hour , highly recommended",
+   "who": "Leanna R.",
+   "src": "Google"
+  },
+  {
+   "text": "Great service. Fast and efficient. Had a small gas leak, he fixed it on the spot",
+   "who": "ClearedToLand7",
+   "src": "Google"
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "From Google reviews.",
+ "formHead": "Job request",
+ "formButton": "Send request",
+ "formExtra": [],
+ "theme": {
+  "radius": "14px",
+  "btnRadius": "14px",
+  "h1max": "78px",
+  "logoRadius": 50,
+  "headTrack": "-.025em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "800",
+  "bg": "#FFFFFF",
+  "headerBg": "#16181D",
+  "logoFg": "#16181D",
+  "hero": "overlay",
+  "icon": "drain",
+  "fontsQuery": "family=League+Spartan:wght@700;800&family=Urbanist:wght@400;500;700",
+  "headFont": "\"League Spartan\",system-ui,sans-serif",
+  "bodyFont": "Urbanist,system-ui,sans-serif",
+  "surface": "#EEF4F7",
+  "ink": "#16181D",
+  "muted": "#555B66",
+  "line": "#DCE3E8",
+  "brand": "#16181D",
+  "brand2": "#E5F6FA",
+  "accent": "#00B4D8",
+  "onAccent": "#06141A",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(10,14,20,.92)",
+  "footBg": "#0E1014",
+  "footInk": "#B8C1CC",
+  "footHead": "#00B4D8",
+  "logoBg": "#00B4D8"
+ }
+}

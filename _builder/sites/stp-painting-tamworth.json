@@ -1,0 +1,198 @@
+{
+ "slug": "stp-painting-tamworth",
+ "name": "STP Painting Group",
+ "short": "STP Painting Group",
+ "tag": "Painters · Tamworth",
+ "street": "344 Peel Street",
+ "suburb": "Tamworth",
+ "state": "NSW",
+ "postcode": "2340",
+ "phone": "0472 523 223",
+ "phoneIntl": "+61472523223",
+ "formEmail": "stp.construction23@gmail.com",
+ "topline": "344 Peel Street, Tamworth · Mon–Fri 7am–6pm",
+ "addressLine": "344 Peel Street, Tamworth NSW 2340",
+ "area": "Tamworth and the New England North West",
+ "areaShort": "Tamworth NSW",
+ "areaText": "STP Painting Group is at 344 Peel Street, Tamworth. Call 0472 523 223 or email stp.construction23@gmail.com.",
+ "mapQuery": "344 Peel St, Tamworth NSW 2340",
+ "seoTitle": "Painters in Tamworth",
+ "metaDesc": "STP Painting Group, Tamworth NSW: residential and commercial painting and custom finishes. Mon–Fri 7am–6pm. Call 0472 523 223.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "STP",
+ "schemaType": "HousePainter",
+ "badge": [
+  "Tamworth",
+  "Peel Street"
+ ],
+ "hero": {
+  "title": "Homes and businesses painted properly, in Tamworth.",
+  "titleHtml": "Homes and businesses painted properly, in Tamworth.",
+  "lede": "STP Painting Group paints houses, shops and offices, and does custom finishes. Ask about low-VOC paint. Call or email for a quote.",
+  "trust": [
+   "Residential & commercial",
+   "Low-VOC options",
+   "Mon–Fri 7am–6pm"
+  ]
+ },
+ "images": {
+  "hero": "1742900280861-32bed068938b",
+  "heroAlt": "Painter painting a wall from a ladder",
+  "about": "1717281234297-3def5ae3eee1",
+  "about2": "1574359411659-15573a27fd0c",
+  "aboutAlt": "Painters at work on a wall",
+  "gallery": [
+   "1734475318787-b2b737296469",
+   "1652829069862-87874e119527",
+   "1525909002-1b05e0c869d8",
+   "1652572036885-b5e9205dd847",
+   "1599619585752-c3edb42a414c",
+   "1674376360445-2996327553e7"
+  ]
+ },
+ "servicesHead": "What we paint",
+ "servicesSub": "Call 0472 523 223 or email to talk about your job.",
+ "services": [
+  {
+   "id": "residential",
+   "title": "Residential painting",
+   "img": "1717281234297-3def5ae3eee1",
+   "short": "Inside and out, for your home.",
+   "long": "House painting in Tamworth, inside and out. Tell us about the rooms or walls you want done and we'll arrange a quote.",
+   "points": [
+    "Interior walls & ceilings",
+    "Exterior repaints",
+    "Quotes on request"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial painting",
+   "img": "1574359411659-15573a27fd0c",
+   "short": "Shops, offices and workplaces.",
+   "long": "Painting for businesses, shops and offices. Call to talk through the job and timing.",
+   "points": [
+    "Shops & offices",
+    "Planned around your business",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "finishes",
+   "title": "Custom finishes",
+   "img": "1525909002-1b05e0c869d8",
+   "short": "A finish that suits the space.",
+   "long": "Custom finishes for feature walls and spaces that need something different. Ask us what's possible.",
+   "points": [
+    "Feature walls",
+    "Low-VOC paint options",
+    "Ask about colours"
+   ]
+  }
+ ],
+ "whyHead": "Why call STP",
+ "whyText": "A Tamworth painting crew working Monday to Friday, with a Peel Street address you can find.",
+ "why": [
+  "Residential and commercial work",
+  "Custom finishes",
+  "Eco-friendly, low-VOC paint options",
+  "Open Mon–Fri 7am–6pm"
+ ],
+ "galleryHead": "Paint, prep and finish",
+ "gallerySub": "Residential and commercial painting around Tamworth.",
+ "faq": [
+  [
+   "Where are you?",
+   "344 Peel Street, Tamworth NSW 2340."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 7am to 6pm."
+  ],
+  [
+   "Do you offer low-VOC paint?",
+   "Yes, eco-friendly and low-VOC paint options are available. Ask when you get your quote."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0472 523 223, email stp.construction23@gmail.com, or send the form on the contact page."
+  ]
+ ],
+ "aboutHead": "About STP Painting Group",
+ "aboutSub": "Painters based on Peel Street, Tamworth.",
+ "aboutParas": [
+  "STP Painting Group is a Tamworth painting business at 344 Peel Street.",
+  "We take on residential and commercial painting and custom finishes, with eco-friendly, low-VOC paint options if you want them. Call or email Brenda to talk about your job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Prep first",
+   "Good paint jobs start with good prep."
+  ],
+  [
+   "Tidy",
+   "We look after your home or workplace."
+  ],
+  [
+   "Clear quotes",
+   "You know what you're getting before we start."
+  ]
+ ],
+ "contactHead": "Get a painting quote",
+ "contactSub": "Tell us about the job and we'll be in touch. Or call 0472 523 223.",
+ "bandText": "Got walls that need a fresh coat?",
+ "footerBlurb": "Residential and commercial painting and custom finishes from Peel Street, Tamworth.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 6pm"
+  ],
+  [
+   "Sat – Sun",
+   "Call to ask"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Rooms or areas to paint",
+   "areas"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "999px",
+  "h1max": "70px",
+  "logoRadius": 16,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "700",
+  "bg": "#FFFDF7",
+  "headerBg": "#FFFDF7",
+  "logoFg": "#FFFFFF",
+  "hero": "center",
+  "icon": "brush",
+  "fontsQuery": "family=Gelasio:wght@600;700&family=Schibsted+Grotesk:wght@400;500;700",
+  "headFont": "Gelasio,Georgia,serif",
+  "bodyFont": "\"Schibsted Grotesk\",system-ui,sans-serif",
+  "surface": "#F3EFE4",
+  "ink": "#1A2326",
+  "muted": "#56615F",
+  "line": "#E4DECF",
+  "brand": "#0F4C5C",
+  "brand2": "#E3EEF0",
+  "accent": "#E36414",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#1A2326",
+  "overlay": "rgba(10,50,60,.9)",
+  "footBg": "#0B3440",
+  "footInk": "#C9D8DB",
+  "footHead": "#F7A26A",
+  "logoBg": "#0F4C5C"
+ }
+}

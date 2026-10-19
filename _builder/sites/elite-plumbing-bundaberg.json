@@ -1,0 +1,252 @@
+{
+ "slug": "elite-plumbing-bundaberg",
+ "name": "Elite Plumbing Co.",
+ "short": "Elite Plumbing Co.",
+ "tag": "Plumbing & wastewater · Bundaberg",
+ "street": "",
+ "suburb": "Elliott Heads",
+ "state": "QLD",
+ "postcode": "4670",
+ "phone": "0498 662 752",
+ "phoneIntl": "+61498662752",
+ "facebook": "https://www.facebook.com/p/Elite-Plumbing-Co-100093073055356/",
+ "topline": "Elliott Heads · Bundaberg region · Call Ross on 0498 662 752",
+ "addressLine": "Elliott Heads QLD 4670",
+ "area": "Bundaberg and surrounds",
+ "areaShort": "Elliott Heads, Bundaberg",
+ "areaText": "Elite Plumbing Co. (Elite Wastewater & Plumbing) is based at Elliott Heads and works around Bundaberg. Call Ross on 0498 662 752.",
+ "mapQuery": "Elliott Heads QLD 4670",
+ "seoTitle": "Plumbing, septic & wastewater in Bundaberg",
+ "metaDesc": "Elite Plumbing Co., Bundaberg & Elliott Heads: septic and HSTP systems, wastewater, plumbing, gasfitting and excavation. 5.0★ on Google. Call 0498 662 752.",
+ "ctaLabel": "Request a job",
+ "ownerOrUs": "Ross",
+ "schemaType": "Plumber",
+ "rating": 5.0,
+ "reviewCount": 15,
+ "ratingSource": "Google",
+ "badge": [
+  "5.0★ on Google",
+  "Bundaberg"
+ ],
+ "hero": {
+  "title": "Septic, wastewater and plumbing, sorted.",
+  "titleHtml": "Septic, wastewater<br>and plumbing, <em style='font-style:normal;color:var(--accent)'>sorted.</em>",
+  "lede": "Ross and the team install and service septic and HSTP systems, fix greywater and plumbing, and do the earthworks too. Rated 5.0 on Google.",
+  "trust": [
+   "5.0★ on Google",
+   "Septic & HSTP",
+   "Plumbing · gas · excavation"
+  ]
+ },
+ "images": {
+  "hero": "1785484267483-a61168355677",
+  "heroAlt": "Mini excavator and trench in a backyard",
+  "about": "1676210134188-4c05dd172f89",
+  "about2": "1759950345011-ee5a96640e00",
+  "aboutAlt": "Plumber working on pipes",
+  "gallery": [
+   "1785484267836-07b873a4221d",
+   "1693907986952-3cd372e4c9d8",
+   "1650551182991-b07558247564",
+   "1759950344779-86b5aeb1349e",
+   "1676210133055-eab6ef033ce3",
+   "1607472586893-edb57bdc0e39"
+  ]
+ },
+ "servicesHead": "What we do",
+ "servicesSub": "Call Ross on 0498 662 752 to talk about your system or job.",
+ "services": [
+  {
+   "id": "septic",
+   "title": "Septic & HSTP systems",
+   "img": "1785484267836-07b873a4221d",
+   "short": "Installs and replacements.",
+   "long": "Septic and home sewage treatment plant (HSTP) installs and replacements, including the earthworks. Customers say the site is left clean and levelled.",
+   "points": [
+    "New & replacement systems",
+    "Site left clean",
+    "Quoted up front"
+   ]
+  },
+  {
+   "id": "servicing",
+   "title": "Septic servicing & pumps",
+   "img": "1759950344779-86b5aeb1349e",
+   "short": "Get your system running again.",
+   "long": "Septic servicing and aerator pump replacements. One customer's pump failed overnight and Ross had the right one there within a couple of hours.",
+   "points": [
+    "Septic servicing",
+    "Aerator pumps supplied",
+    "Prompt help"
+   ]
+  },
+  {
+   "id": "greywater",
+   "title": "Greywater & wastewater",
+   "img": "1693907986952-3cd372e4c9d8",
+   "short": "Failing systems replaced.",
+   "long": "Greywater and wastewater plumbing, including replacing failing systems.",
+   "points": [
+    "Greywater systems",
+    "Wastewater plumbing",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "plumbing",
+   "title": "Plumbing & gasfitting",
+   "img": "1650551182991-b07558247564",
+   "short": "General plumbing and gas.",
+   "long": "General plumbing, fixing existing plumbing, and gasfitting.",
+   "points": [
+    "General plumbing",
+    "Gasfitting",
+    "Repairs"
+   ]
+  },
+  {
+   "id": "earthworks",
+   "title": "Excavation & roofing",
+   "img": "1785484267483-a61168355677",
+   "short": "Digging and roof work.",
+   "long": "Excavation for wastewater jobs and other plumbing work, plus roofing.",
+   "points": [
+    "Excavation",
+    "Roofing",
+    "Ask Ross"
+   ]
+  }
+ ],
+ "whyHead": "Why locals call Ross",
+ "whyText": "Reviews keep mentioning the same things: quick help, a clean site and a price that matches the quote.",
+ "why": [
+  "5.0 stars on Google",
+  "Price matched the quote",
+  "Site left clean and levelled",
+  "Prompt, efficient service"
+ ],
+ "galleryHead": "On the job",
+ "gallerySub": "Septic, wastewater and plumbing work around Bundaberg.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Elliott Heads, working around Bundaberg."
+  ],
+  [
+   "Do you do septic and HSTP systems?",
+   "Yes: installs, replacements, servicing and aerator pumps."
+  ],
+  [
+   "Do you do gas?",
+   "Yes, gasfitting as well as plumbing."
+  ],
+  [
+   "How do I book?",
+   "Call or text Ross on 0498 662 752, or send the form on the contact page."
+  ]
+ ],
+ "aboutHead": "About Elite Plumbing Co.",
+ "aboutSub": "Elite Wastewater & Plumbing, Elliott Heads.",
+ "aboutParas": [
+  "Elite Plumbing Co. (Elite Wastewater & Plumbing Pty Ltd) is based at Elliott Heads and works around the Bundaberg region.",
+  "Ross and Brooke look after customers on septic, HSTP and greywater systems, general plumbing, gasfitting, roofing and excavation. Customers rate the business 5.0 on Google."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "As quoted",
+   "The price is what we said."
+  ],
+  [
+   "Clean sites",
+   "We leave it clean and levelled."
+  ],
+  [
+   "Quick",
+   "We get your system back up fast."
+  ]
+ ],
+ "contactHead": "Request a job",
+ "contactSub": "Tell us what's going on and Ross will be in touch. Or call 0498 662 752.",
+ "bandText": "System playing up?",
+ "footerBlurb": "Septic, wastewater, plumbing, gasfitting and excavation from Elliott Heads, Bundaberg.",
+ "hours": [
+  [
+   "Bookings",
+   "Call or text Ross"
+  ],
+  [
+   "Breakdowns",
+   "Call 0498 662 752"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Ross and the team did an amazing job on our HSTP system. Our site was left clean and levelled with care.",
+   "who": "Samantha T.",
+   "src": "Google"
+  },
+  {
+   "text": "The work was outstanding and the price was exactly what was quoted even though Ross had to do a lot of extra work.",
+   "who": "Mick O.",
+   "src": "Google"
+  },
+  {
+   "text": "His prompt, efficient, and exceptional customer service had my system back up and running in no time.",
+   "who": "Kelsey M.",
+   "src": "Google"
+  },
+  {
+   "text": "Great service straight up.",
+   "who": "Brad C.",
+   "src": "Google"
+  },
+  {
+   "text": "I would highly recommend elite wastewater and plumbing.",
+   "who": "Susan K.",
+   "src": "Google"
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "Rated 5.0★ on Google.",
+ "formHead": "Job request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "System type (septic, HSTP, greywater…)",
+   "system"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "4px",
+  "h1max": "84px",
+  "logoRadius": 6,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "700",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "logoFg": "#FFFFFF",
+  "hero": "stack",
+  "icon": "septic",
+  "fontsQuery": "family=Bai+Jamjuree:wght@600;700&family=Noto+Sans:wght@400;500;700",
+  "headFont": "\"Bai Jamjuree\",system-ui,sans-serif",
+  "bodyFont": "\"Noto Sans\",system-ui,sans-serif",
+  "surface": "#EEF3EF",
+  "ink": "#14211B",
+  "muted": "#4F5E56",
+  "line": "#D9E3DC",
+  "brand": "#1B4332",
+  "brand2": "#E5F0E9",
+  "accent": "#F9C74F",
+  "onAccent": "#14211B",
+  "headerInk": "#14211B",
+  "overlay": "rgba(15,40,28,.9)",
+  "footBg": "#102A1F",
+  "footInk": "#BFD3C7",
+  "footHead": "#F9C74F",
+  "logoBg": "#1B4332"
+ }
+}

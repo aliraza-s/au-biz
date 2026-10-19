@@ -1,0 +1,209 @@
+{
+ "slug": "ds-hedging-mildura",
+ "name": "D & S Hedging",
+ "short": "D & S Hedging",
+ "tag": "Orchard hedging · Mildura",
+ "street": "",
+ "suburb": "Mildura",
+ "state": "VIC",
+ "postcode": "3500",
+ "phone": "0429 333 573",
+ "phoneIntl": "+61429333573",
+ "topline": "Mechanical hedging & pruning · Mildura · Office (03) 5025 7597",
+ "addressLine": "Mildura VIC 3500",
+ "area": "Mildura and the Sunraysia district",
+ "areaShort": "Mildura, VIC",
+ "areaText": "D & S Hedging is based in Mildura. Call 0429 333 573 or the office on (03) 5025 7597.",
+ "mapQuery": "Koorlong VIC 3501",
+ "seoTitle": "Mechanical orchard hedging in Mildura",
+ "metaDesc": "D & S Hedging, Mildura VIC: mechanical hedging, topping and skirting for citrus, nut, stone fruit, avocado and olive growers, 5 to 500 hectares. Call 0429 333 573.",
+ "ctaLabel": "Book hedging",
+ "ownerOrUs": "D & S",
+ "schemaType": "LocalBusiness",
+ "badge": [
+  "5–500 ha",
+  "Mildura"
+ ],
+ "hero": {
+  "title": "Mechanical hedging for Sunraysia orchards.",
+  "titleHtml": "Mechanical hedging for <em style='color:var(--brand)'>Sunraysia</em> orchards.",
+  "lede": "Hedging, topping and skirting for citrus, nuts, stone fruit, avocados and olives. Small growers to large corporations, 5 to 500 hectares.",
+  "trust": [
+   "Fully insured",
+   "5 to 500 hectares",
+   "OH&S procedures"
+  ]
+ },
+ "images": {
+  "hero": "1737947292441-b301ab724114",
+  "heroAlt": "A row of trees in an orchard under blue sky",
+  "about": "1594771804886-a933bb2d609b",
+  "about2": "1615811361523-6bd03d7748e7",
+  "aboutAlt": "Tractor working on a farm",
+  "gallery": [
+   "1654509480655-327cc2b46f86",
+   "1727120279660-5c28b8461609",
+   "1590123471813-366f7ac75045",
+   "1600674005500-ad293bd9d9cc",
+   "1609196119588-15e77a42bf70",
+   "1565769583756-fe3ffffcae49"
+  ]
+ },
+ "servicesHead": "What we do",
+ "servicesSub": "Call 0429 333 573 to book or talk about your block.",
+ "services": [
+  {
+   "id": "hedging",
+   "title": "Hedging",
+   "img": "1737947292441-b301ab724114",
+   "short": "Clean, even tree rows.",
+   "long": "Mechanical hedging for orchards and plantations, keeping rows tidy and trees in shape.",
+   "points": [
+    "Citrus & stone fruit",
+    "Nuts, avocados & olives",
+    "5 to 500 hectares"
+   ]
+  },
+  {
+   "id": "topping",
+   "title": "Topping & skirting",
+   "img": "1654509480655-327cc2b46f86",
+   "short": "Height and skirt control.",
+   "long": "Topping to manage tree height and skirting to lift the lower canopy.",
+   "points": [
+    "Topping",
+    "Skirting",
+    "Mechanical pruning"
+   ]
+  },
+  {
+   "id": "windbreaks",
+   "title": "Wind breaks",
+   "img": "1600674005500-ad293bd9d9cc",
+   "short": "Create and shape wind breaks.",
+   "long": "Creating wind breaks to protect your trees and crop.",
+   "points": [
+    "New wind breaks",
+    "Shaping",
+    "Ask for a quote"
+   ]
+  },
+  {
+   "id": "firetrails",
+   "title": "Fire trails & roads",
+   "img": "1594771804886-a933bb2d609b",
+   "short": "Access kept clear.",
+   "long": "Fire trail work and road maintenance to keep access around your property clear.",
+   "points": [
+    "Fire trails",
+    "Road maintenance",
+    "Property access"
+   ]
+  }
+ ],
+ "whyHead": "Why growers use D & S",
+ "whyText": "We work for small growers and large corporations, with current OH&S procedures and full public liability insurance.",
+ "why": [
+  "Small growers to large corporations",
+  "Blocks from 5 to 500 hectares",
+  "Current OH&S procedures",
+  "Full public liability insurance"
+ ],
+ "galleryHead": "In the rows",
+ "gallerySub": "Citrus, nuts, stone fruit, avocados and olives.",
+ "faq": [
+  [
+   "What crops do you work on?",
+   "Citrus, nuts, stone fruit, avocados and olives."
+  ],
+  [
+   "How big a property do you take on?",
+   "From 5 to 500 hectares, for small growers and large corporations."
+  ],
+  [
+   "Are you insured?",
+   "Yes, we hold full public liability insurance and follow current OH&S procedures."
+  ],
+  [
+   "How do I book?",
+   "Call 0429 333 573, ring the office on (03) 5025 7597, or send the form on the contact page."
+  ]
+ ],
+ "aboutHead": "About D & S Hedging",
+ "aboutSub": "Mechanical hedging and pruning, Mildura.",
+ "aboutParas": [
+  "D & S Hedging is a Mildura contractor doing mechanical hedging and pruning for orchards and plantations.",
+  "We do hedging, topping, skirting, wind breaks, fire trails and road maintenance for citrus, nut, stone fruit, avocado and olive growers, on properties from 5 to 500 hectares."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Safe",
+   "Current OH&S procedures."
+  ],
+  [
+   "Insured",
+   "Full public liability cover."
+  ],
+  [
+   "Any size",
+   "5 to 500 hectares."
+  ]
+ ],
+ "contactHead": "Book hedging",
+ "contactSub": "Tell us about your block and we'll be in touch. Or call 0429 333 573.",
+ "bandText": "Rows need hedging this season?",
+ "footerBlurb": "Mechanical hedging, topping and skirting for Sunraysia orchards and plantations.",
+ "hours": [
+  [
+   "Mobile",
+   "0429 333 573"
+  ],
+  [
+   "Office",
+   "(03) 5025 7597"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Hedging request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Crop & hectares",
+   "crop"
+  ]
+ ],
+ "theme": {
+  "radius": "10px",
+  "btnRadius": "6px",
+  "h1max": "74px",
+  "logoRadius": 50,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "800",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "logoFg": "#FFFFFF",
+  "hero": "arch",
+  "icon": "citrus",
+  "fontsQuery": "family=Alegreya:wght@700;800&family=Alegreya+Sans:wght@400;500;700",
+  "headFont": "Alegreya,Georgia,serif",
+  "bodyFont": "\"Alegreya Sans\",system-ui,sans-serif",
+  "surface": "#F2F2EA",
+  "ink": "#1F2A1E",
+  "muted": "#58624F",
+  "line": "#E0E3D6",
+  "brand": "#3A5A40",
+  "brand2": "#EDF0E3",
+  "accent": "#F08A00",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#1F2A1E",
+  "overlay": "rgba(30,48,32,.9)",
+  "footBg": "#24382A",
+  "footInk": "#C9D3C3",
+  "footHead": "#FFB347",
+  "logoBg": "#3A5A40"
+ }
+}

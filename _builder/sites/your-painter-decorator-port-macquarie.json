@@ -1,0 +1,220 @@
+{
+ "slug": "your-painter-decorator-port-macquarie",
+ "name": "Your Painter & Decorator",
+ "short": "Your Painter & Decorator",
+ "tag": "Painter · Port Macquarie",
+ "street": "",
+ "suburb": "Port Macquarie",
+ "state": "NSW",
+ "postcode": "2444",
+ "phone": "0409 815 278",
+ "phoneIntl": "+61409815278",
+ "topline": "Port Macquarie & surrounds · Call James on 0409 815 278",
+ "addressLine": "Port Macquarie NSW 2444",
+ "area": "Port Macquarie and surrounding areas",
+ "areaShort": "Port Macquarie & surrounds",
+ "areaText": "James paints homes and businesses around Port Macquarie and surrounding areas. Call him on 0409 815 278.",
+ "mapQuery": "Port Macquarie NSW 2444",
+ "seoTitle": "Painter in Port Macquarie",
+ "metaDesc": "Your Painter & Decorator, Port Macquarie NSW: house and business painting by James. 5.0★ on SureQuote. Call 0409 815 278.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "James",
+ "schemaType": "HousePainter",
+ "badge": [
+  "5.0★ SureQuote",
+  "Port Macquarie"
+ ],
+ "hero": {
+  "title": "A painter who leaves your place the way he found it.",
+  "titleHtml": "A painter who leaves your place the way he found it.",
+  "lede": "James paints homes and businesses around Port Macquarie, from single walls to whole-house repaints. Rated 5.0 by customers on SureQuote.",
+  "trust": [
+   "5.0★ on SureQuote",
+   "Homes & businesses",
+   "Talk to James direct"
+  ]
+ },
+ "images": {
+  "hero": "1734475318787-b2b737296469",
+  "heroAlt": "Painter painting a window frame from a ladder",
+  "about": "1742900280864-bcc27353ceba",
+  "about2": "1742900280861-32bed068938b",
+  "aboutAlt": "Painter working on a wall",
+  "gallery": [
+   "1770677350521-d5fdcbd74367",
+   "1649083048381-520a5b3d91ff",
+   "1599619585752-c3edb42a414c",
+   "1652829069862-87874e119527",
+   "1598928506311-c55ded91a20c",
+   "1565183997392-2f6f122e5912"
+  ]
+ },
+ "servicesHead": "Painting jobs, big and small",
+ "servicesSub": "Call James on 0409 815 278 to talk about yours.",
+ "services": [
+  {
+   "id": "repaints",
+   "title": "Whole-house repaints",
+   "img": "1742900280864-bcc27353ceba",
+   "short": "New homes and full repaints.",
+   "long": "Whole-house painting, including new homes. Customers say James works around short notice where he can. Call to talk timing.",
+   "points": [
+    "New homes",
+    "Full repaints",
+    "Quoted up front"
+   ]
+  },
+  {
+   "id": "interior",
+   "title": "Interior painting",
+   "img": "1770677350521-d5fdcbd74367",
+   "short": "Walls, rooms and touch-ups.",
+   "long": "Inside painting for rooms and walls, with the sanding and prep done first so the finish lasts.",
+   "points": [
+    "Sanding & prep",
+    "Walls & rooms",
+    "Tidy finish"
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business & office painting",
+   "img": "1598928506311-c55ded91a20c",
+   "short": "Offices and workplaces.",
+   "long": "James has painted for businesses as well as homes, including sanding and repainting office walls.",
+   "points": [
+    "Offices",
+    "Shop and work spaces",
+    "Call to discuss"
+   ]
+  }
+ ],
+ "whyHead": "Why people have James back",
+ "whyText": "Customers say he's professional, polite and leaves the property as he found it.",
+ "why": [
+  "5.0 rating on SureQuote",
+  "Professional and polite",
+  "Leaves your property clean",
+  "Takes pride in his work"
+ ],
+ "galleryHead": "Fresh walls, clean lines",
+ "gallerySub": "House and business painting around Port Macquarie.",
+ "faq": [
+  [
+   "What areas do you cover?",
+   "Port Macquarie and surrounding locations."
+  ],
+  [
+   "Do you paint businesses?",
+   "Yes. James paints homes and businesses, including office walls."
+  ],
+  [
+   "How do I get a quote?",
+   "Call or text James on 0409 815 278, or send the form on the contact page."
+  ]
+ ],
+ "aboutHead": "About James",
+ "aboutSub": "Your Painter & Decorator, Port Macquarie.",
+ "aboutParas": [
+  "Your Painter & Decorator is James, a painter working around Port Macquarie and surrounding areas.",
+  "He paints homes and businesses, from a single office wall to a whole house. Customers on SureQuote rate him 5.0 and describe him as genuine, honest and caring about his work."
+ ],
+ "valuesHead": "How James works",
+ "values": [
+  [
+   "Respect",
+   "Your place is left as he found it."
+  ],
+  [
+   "Straight talk",
+   "You deal with James himself."
+  ],
+  [
+   "Pride",
+   "He takes care over every job."
+  ]
+ ],
+ "contactHead": "Get a painting quote",
+ "contactSub": "Tell James about the job and he'll be in touch. Or call 0409 815 278.",
+ "bandText": "Ready for a fresh coat?",
+ "footerBlurb": "House and business painting by James around Port Macquarie, NSW.",
+ "hours": [
+  [
+   "Quotes",
+   "Call or text James"
+  ],
+  [
+   "Phone",
+   "0409 815 278"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "They did a great job, very pleasant to have around.",
+   "who": "Penny D.",
+   "src": "SureQuote"
+  },
+  {
+   "text": "James is professional, leaves your property as he found it.",
+   "who": "Mel C.",
+   "src": "SureQuote"
+  },
+  {
+   "text": "James himself is just such a genuine, honest, and caring bloke who truly takes pride in what he does.",
+   "who": "Suzie B.",
+   "src": "SureQuote"
+  },
+  {
+   "text": "Amazing work. Will have him back to paint my place. :)",
+   "who": "Vee E.",
+   "src": "SureQuote"
+  },
+  {
+   "text": "Very professional at his job and very polite",
+   "who": "Allan S.",
+   "src": "SureQuote"
+  }
+ ],
+ "reviewsHead": "What customers say",
+ "reviewsSub": "Reviews from SureQuote, rated 5.0.",
+ "formHead": "Quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "What needs painting?",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "18px",
+  "btnRadius": "8px",
+  "h1max": "70px",
+  "logoRadius": 8,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "700",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "logoFg": "#FFFFFF",
+  "hero": "split",
+  "icon": "paintcan",
+  "fontsQuery": "family=Lora:wght@600;700&family=Readex+Pro:wght@400;500;600",
+  "headFont": "Lora,Georgia,serif",
+  "bodyFont": "\"Readex Pro\",system-ui,sans-serif",
+  "surface": "#F4F1EA",
+  "ink": "#1C2433",
+  "muted": "#5A6272",
+  "line": "#E3E0D8",
+  "brand": "#1D3557",
+  "brand2": "#E8EEF5",
+  "accent": "#F4A261",
+  "onAccent": "#1C2433",
+  "headerInk": "#1C2433",
+  "overlay": "rgba(20,35,60,.9)",
+  "footBg": "#14253D",
+  "footInk": "#C5CEDB",
+  "footHead": "#F4A261",
+  "logoBg": "#1D3557"
+ }
+}
