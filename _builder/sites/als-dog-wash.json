@@ -3,85 +3,252 @@
  "name": "Al's Dog-Wash Ballarat",
  "short": "Al's Dog-Wash",
  "tag": "Mobile dog wash & grooming, Ballarat",
- "topline": "Mobile service across Ballarat · Tue, Wed, Fri & Sat",
+ "topline": "Mobile dog grooming across Ballarat · Tue, Wed, Fri & Sat, 9am–5pm",
  "phone": "0400 508 057",
  "phoneIntl": "+61400508057",
- "street": "38 Glazebrook St",
+ "street": "",
  "suburb": "Ballarat East",
  "state": "VIC",
  "postcode": "3350",
  "addressLine": "Ballarat East VIC 3350",
  "area": "Ballarat",
  "areaShort": "Mobile across Ballarat and nearby towns",
- "areaText": "Based in Ballarat East and coming to you anywhere around Ballarat. Not sure if Al reaches your street? Just ask.",
+ "areaText": "Al comes to you around Ballarat. Not sure if your street is covered? Send a quick message and ask.",
  "mapQuery": "Ballarat East VIC 3350",
  "rating": 4.9,
  "reviewCount": 43,
  "schemaType": "LocalBusiness",
  "seoTitle": "Mobile Dog Wash & Grooming in Ballarat",
- "metaDesc": "Mobile dog washing and grooming across Ballarat. Gentle with big, double-coated and nervous dogs. 4.9 stars from 43 Google reviews. Call Al on 0400 508 057.",
+ "metaDesc": "Mobile dog grooming in Ballarat. Golden retrievers, border collies and big double-coated dogs are Al's speciality. 4.9 stars from 43 Google reviews. Book online or call 0400 508 057.",
  "ctaLabel": "Book a wash",
  "bookingUrl": "https://alsdogwashballarat.groomore.com",
  "facebook": "https://www.facebook.com/AlsDogWash/",
  "instagram": "https://www.instagram.com/alsdogwashballarat/",
  "ownerOrUs": "Al",
  "hero": {
-  "title": "A proper wash and groom, right in your driveway.",
-  "lede": "Mobile dog washing across Ballarat. Calm, patient and unhurried, especially with big, fluffy and nervous dogs.",
-  "trust": ["4.9★ from 43 reviews", "We come to you", "Nervous dogs welcome"]
+  "title": "Big, hairy, double-coated? Al's your groomer.",
+  "titleHtml": "Big, hairy, double&#8209;coated? <span style=\"color:var(--accent)\">Al's your groomer.</span>",
+  "lede": "Mobile dog grooming that comes to your door in Ballarat. Golden retrievers, border collies and other long or double coats are what Al knows best.",
+  "trust": [
+   "4.9★ from 43 Google reviews",
+   "Comes to your door",
+   "Book online 24/7"
+  ]
  },
  "images": {
-  "hero": "1528846104175-4fd300ee59da", "heroAlt": "Groomer brushing out a dog's coat",
-  "about": "1570888234661-a2428afad010", "about2": "1629246999700-1e7ad7a1ba03", "aboutAlt": "Fluffy white spitz after a groom",
-  "gallery": ["1647002380358-fc70ed2f04e0", "1608138498574-e5dab4c0ca52", "1581887936036-3f4f7f0b6679", "1555325084-b068599743c9", "1629246999471-f0cf6b30ceae", "1647002380351-ba23ff97c428"]
+  "hero": "1539692177343-b2b990faef15",
+  "heroAlt": "Golden retriever sitting on the grass",
+  "about": "1568393691080-d016376b767d",
+  "about2": "1570888234661-a2428afad010",
+  "aboutAlt": "Border collie close up",
+  "gallery": [
+   "1503256207526-0d5d80fa2f47",
+   "1693615775129-f2004d6e3e0b",
+   "1629246999700-1e7ad7a1ba03",
+   "1593270379182-fe1b1f6d67e5",
+   "1587402092301-725e37c70fd8",
+   "1513549054-cb3611a004fe"
+  ]
  },
- "servicesHead": "What Al does",
- "servicesSub": "Every visit is one dog at a time, at your place, with warm water and all the gear set up in the van.",
+ "servicesHead": "Grooming services",
+ "servicesSub": "Everything is done at your place. Book online, or call Al to talk about your dog.",
  "services": [
-  {"id":"wash","title":"Wash & blow-dry","img":"1647002380358-fc70ed2f04e0","short":"A warm hydrobath, gentle shampoo and a thorough dry so the coat comes up soft and fresh.","long":"Your dog gets a warm hydrobath with a shampoo chosen for their coat and skin, then a full blow-dry and brush so they come out soft, fluffy and smelling fresh for days. No car trip, no waiting room.","points":["Shampoo to suit sensitive skin","Full blow-dry and brush","Ears checked and cleaned"]},
-  {"id":"deshed","title":"De-shed & brush-out","img":"1570888234661-a2428afad010","short":"For spitz, huskies, collies and other double coats. Undercoat out, no knots left behind.","long":"Double-coated breeds drop a lot of undercoat, and it ends up all over your house. A proper de-shed lifts out the loose undercoat and works through knots without shaving the coat that keeps them comfortable.","points":["Spitz, huskies, collies, shepherds","Undercoat removal without shaving","Great before summer"]},
-  {"id":"groom","title":"Groom & tidy","img":"1555325084-b068599743c9","short":"Face, feet and hygiene tidy-ups, plus full clips when they're due.","long":"From a quick tidy of the face, feet and hygiene areas through to a full clip, Al keeps your dog looking neat between bigger grooms.","points":["Face, feet and hygiene trim","Full clips on request","Regular bookings available"]},
-  {"id":"nails","title":"Nail trims","img":"1581887936036-3f4f7f0b6679","short":"Calm, quick nail clips, even for dogs who usually won't allow it.","long":"Plenty of dogs hate having their feet touched. Al takes it slowly and many owners say it's the first time their dog has stayed calm for a nail clip.","points":["Patient, low-stress approach","Add to any wash","Ideal for older dogs"]}
+  {
+   "id": "wash",
+   "title": "Wash & dry",
+   "img": "1693615775129-f2004d6e3e0b",
+   "short": "A wash and dry at your door, so there's no car trip to a salon.",
+   "long": "A wash and dry without leaving home. Good between full grooms, or for dogs who just need freshening up.",
+   "points": [
+    "Wash & dry",
+    "Brush-out",
+    "Ear cleaning"
+   ]
+  },
+  {
+   "id": "deshed",
+   "title": "Big de-sheds & undercoat removal",
+   "img": "1570888234661-a2428afad010",
+   "short": "For double coats that drop hair all over the house.",
+   "long": "Undercoat removal and big de-sheds for double-coated dogs. One reviewer calls Al 'the best double coated groomer in Ballarat'.",
+   "points": [
+    "Double coats",
+    "Undercoat removal",
+    "Big de-sheds"
+   ]
+  },
+  {
+   "id": "full-groom",
+   "title": "Full grooms",
+   "img": "1503256207526-0d5d80fa2f47",
+   "short": "Full grooms, including golden retriever and border collie grooms.",
+   "long": "Full grooms for large dogs with long or double coats. Golden retriever and border collie full grooms are on the list.",
+   "points": [
+    "Golden retrievers",
+    "Border collies",
+    "Long coats"
+   ]
+  },
+  {
+   "id": "clips",
+   "title": "Clips & hygiene tidy-ups",
+   "img": "1587402092301-725e37c70fd8",
+   "short": "All-over body clips, hygiene clips and paw/pad trims.",
+   "long": "All-over body clips, hygiene clips and paw/pad trims, done at home.",
+   "points": [
+    "All-over body clip",
+    "Hygiene clip",
+    "Paw/pad trim"
+   ]
+  },
+  {
+   "id": "nails",
+   "title": "Nail trims",
+   "img": "1593270379182-fe1b1f6d67e5",
+   "short": "Nail trims, even for dogs who usually won't sit still for them.",
+   "long": "One owner wrote that Al calmed their dog's nerves and she was content getting her nails clipped, 'which was a first for us'.",
+   "points": [
+    "Nail trim",
+    "Anxious dogs",
+    "Add to any groom"
+   ]
+  }
  ],
- "whyHead": "Good with the dogs other groomers find hard",
- "whyText": "Big dogs, old dogs and worried dogs do better at home. There's no car trip, no kennel and no barking room, just Al, the van and your driveway.",
- "why": ["Takes time to settle nervous dogs before starting","Experienced with heavy double coats","Handles nail clips for dogs who usually won't allow it","Same groomer every visit"],
- "galleryHead": "Fresh, fluffy and happy",
- "gallerySub": "The kind of finish Ballarat dog owners book Al for.",
+ "whyHead": "Why Ballarat owners book Al",
+ "whyText": "Big, long-coated dogs are a lot of work. Al specialises in them and comes to your door.",
+ "why": [
+  "Specialises in golden retrievers & border collies",
+  "Large dogs with long or double coats",
+  "Calm with nervous dogs",
+  "Book online any time"
+ ],
+ "galleryHead": "The dogs Al knows best",
+ "gallerySub": "Goldens, collies, spitz and other big coats.",
  "reviewsHead": "What Ballarat dog owners say",
  "reviews": [
-  {"text":"I think he is the best double coated groomer in Ballarat. He did an excellent groom with my Japanese spitz."},
-  {"text":"Al calmed our Tilly's nerves, and she was very content getting her nails clipped, which was a first for us."},
-  {"text":"Top shelf grooming for my big and hairy border collie."},
-  {"text":"I thought Murphy would be a super difficult groom but Al had him all sorted in an hour. Smells amazing and not a single knot in sight."},
-  {"text":"Al was fantastic and incredibly gentle with him. The convenience of a mobile service made it so easy for us."},
-  {"text":"We will definitely be making this a regular booking!"}
+  {
+   "text": "I think he is the best double coated groomer in Ballarat. He did an excellent groom with my Japanese spitz."
+  },
+  {
+   "text": "Al calmed our Tilly's nerves, and she was very content getting her nails clipped, which was a first for us."
+  },
+  {
+   "text": "Top shelf grooming for my big and hairy border collie."
+  },
+  {
+   "text": "I thought Murphy would be a super difficult groom but Al had him all sorted in an hour. Smells amazing and not a single knot in sight."
+  },
+  {
+   "text": "Al was fantastic and incredibly gentle with him. The convenience of a mobile service made it so easy for us."
+  },
+  {
+   "text": "We will definitely be making this a regular booking!"
+  }
  ],
  "faq": [
-  ["Do I need to be home?","It's best if someone is home to hand your dog over and pay, but Al can work around you. Just mention it when you book."],
-  ["What does the van need from me?","Nothing. The van carries its own warm water and power, so Al only needs somewhere to park near your driveway."],
-  ["Can you handle anxious or reactive dogs?","Yes. Al takes time to settle each dog first, and many clients book him because their dog does better at home than in a salon."],
-  ["How often should my dog be washed?","Most dogs do well every 4 to 8 weeks. Double-coated breeds benefit from a de-shed at the change of seasons."]
+  [
+   "Where do you groom?",
+   "At your place. It's a mobile service around Ballarat."
+  ],
+  [
+   "What days do you work?",
+   "Tuesday, Wednesday, Friday and Saturday, 9am to 5pm."
+  ],
+  [
+   "Can my nervous dog be groomed?",
+   "Yes. Reviewers mention Al calming nervous dogs, including for nail clips."
+  ],
+  [
+   "How do I book?",
+   "Book online any time, or call or text Al on 0400 508 057."
+  ]
  ],
  "aboutHead": "Meet Al",
- "aboutSub": "A mobile groomer who treats every dog like his own.",
- "aboutParas": ["Al's Dog-Wash started with a simple idea: dogs are calmer at home, so bring the wash to them.","Al works one dog at a time from a fully fitted van, with warm water, professional dryers and grooming gear on board. That means no car trips, no cages and no waiting around in a noisy salon.","He's built a loyal following across Ballarat, especially with owners of big, fluffy and nervous dogs who have struggled with groomers before."],
+ "aboutSub": "Mobile dog groomer, Ballarat East.",
+ "aboutParas": [
+  "Al's Dog-Wash Ballarat is run by Al (Alex), from Ballarat East.",
+  "He specialises in golden retrievers and border collies, plus large dogs with long or double coats: the breeds that take the most time and patience to groom.",
+  "The service is mobile, so your dog stays home. Bookings are online 24/7, or call Al on 0400 508 057."
+ ],
  "valuesHead": "How Al works",
- "values": [["One dog at a time","Your dog gets Al's full attention from start to finish."],["Patience first","Nervous dogs get time to settle before anything starts."],["Coat-friendly","Proper de-shedding instead of shaving double coats."]],
+ "values": [
+  [
+   "Big coats",
+   "Golden retrievers, border collies, double coats."
+  ],
+  [
+   "At your door",
+   "No car trip to a salon."
+  ],
+  [
+   "Patient",
+   "Reviewers mention nervous dogs settling."
+  ]
+ ],
  "contactHead": "Book a wash",
  "contactSub": "Send a request below or book online. Al will confirm your time by text.",
  "formHead": "Request a booking",
  "formButton": "Send booking request",
- "formExtra": [["Dog's breed and size","dog"]],
+ "formExtra": [
+  [
+   "Dog's breed and size",
+   "dog"
+  ]
+ ],
  "bandText": "Ready for a cleaner, happier dog?",
- "footerBlurb": "Mobile dog washing and grooming across Ballarat. Gentle, patient and great with big dogs.",
- "hours": [["Tuesday","9am – 5pm"],["Wednesday","9am – 5pm"],["Friday","9am – 5pm"],["Saturday","9am – 5pm"],["Mon, Thu, Sun","Closed"]],
+ "footerBlurb": "Mobile dog grooming in Ballarat. Golden retrievers, border collies and big double coats.",
+ "hours": [
+  [
+   "Tuesday",
+   "9am – 5pm"
+  ],
+  [
+   "Wednesday",
+   "9am – 5pm"
+  ],
+  [
+   "Friday",
+   "9am – 5pm"
+  ],
+  [
+   "Saturday",
+   "9am – 5pm"
+  ],
+  [
+   "Mon, Thu, Sun",
+   "Closed"
+  ]
+ ],
  "theme": {
-  "fontsQuery": "family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800",
-  "headFont": "\"Bricolage Grotesque\",system-ui,sans-serif", "bodyFont": "\"Bricolage Grotesque\",system-ui,sans-serif", "headWeight": "800", "headTrack": "-.02em", "headExtra": "",
-  "bg": "#FFFFFF", "surface": "#E8F4F2", "ink": "#12272B", "muted": "#4A6164", "brand": "#0E5E6F", "brand2": "#073B46", "accent": "#F6C343", "onBrand": "#FFFFFF", "onAccent": "#073B46", "line": "#CFE2E0",
-  "radius": "20px", "btnRadius": "14px", "h1max": "80px", "headerBg": "#073B46", "headerInk": "#FFFFFF", "overlay": "rgba(7,59,70,.85)",
-  "footBg": "#06323B", "footInk": "#CFE6E4", "footHead": "#F6C343",
-  "logoBg": "#F6C343", "logoFg": "#073B46", "icon": "drop", "logoRadius": 16, "hero": "split"
+  "fontsQuery": "family=Instrument+Serif:ital@0;1&family=Figtree:wght@400;500;700",
+  "headFont": "\"Instrument Serif\",Georgia,serif",
+  "bodyFont": "Figtree,system-ui,sans-serif",
+  "headWeight": "400",
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "bg": "#FFF8EE",
+  "surface": "#F6EBDA",
+  "ink": "#1D2B27",
+  "muted": "#5B665F",
+  "brand": "#1F4B43",
+  "brand2": "#F3E4CC",
+  "accent": "#C95F35",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "line": "#E8D9C2",
+  "radius": "22px",
+  "btnRadius": "999px",
+  "h1max": "92px",
+  "headerBg": "#FFF8EE",
+  "headerInk": "#1D2B27",
+  "overlay": "rgba(20,46,41,.88)",
+  "footBg": "#163A34",
+  "footInk": "#CFE0D9",
+  "footHead": "#F4A47E",
+  "logoBg": "#1F4B43",
+  "logoFg": "#FFF8EE",
+  "icon": "paw",
+  "logoRadius": 999,
+  "hero": "arch"
  }
 }
