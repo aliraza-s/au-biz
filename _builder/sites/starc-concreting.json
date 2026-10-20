@@ -206,6 +206,23 @@
   "logoBg": "#E8590C",
   "logoFg": "#FFFFFF",
   "icon": "level",
-  "hero": "arch"
+  "hero": "arch",
+  "layout": {
+   "nav": "bar",
+   "hero": "diagonal",
+   "stats": "strip",
+   "services": "list",
+   "why": "dark",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "lines",
+   "btn": "shadow",
+   "order": "A",
+   "eyebrow": false
+  }
  }
 }

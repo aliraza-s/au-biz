@@ -225,7 +225,24 @@
   "footInk": "#C3DDD8",
   "footHead": "#94D2BD",
   "logoBg": "#005F73",
-  "logoFg": "#94D2BD"
+  "logoFg": "#94D2BD",
+  "layout": {
+   "nav": "split",
+   "hero": "editorial",
+   "stats": "strip",
+   "services": "bento",
+   "why": "band",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "blob",
+   "btn": "shadow",
+   "order": "A",
+   "eyebrow": false
+  }
  },
  "rating": 5.0,
  "reviewCount": 18

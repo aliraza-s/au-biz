@@ -204,6 +204,23 @@
   "footBg": "#24382A",
   "footInk": "#C9D3C3",
   "footHead": "#FFB347",
-  "logoBg": "#3A5A40"
+  "logoBg": "#3A5A40",
+  "layout": {
+   "nav": "bar",
+   "hero": "diagonal",
+   "stats": "strip",
+   "services": "alt",
+   "why": "dark",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "lines",
+   "btn": "flat",
+   "order": "D",
+   "eyebrow": false
+  }
  }
 }

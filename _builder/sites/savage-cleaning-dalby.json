@@ -219,6 +219,23 @@
   "footInk": "#E5CFC6",
   "footHead": "#FB8B24",
   "logoBg": "#9A031E",
-  "logoFg": "#FFF9F2"
+  "logoFg": "#FFF9F2",
+  "layout": {
+   "nav": "pill",
+   "hero": "frame",
+   "stats": "pills",
+   "services": "alt",
+   "why": "split",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "dots",
+   "btn": "shadow",
+   "order": "D",
+   "eyebrow": true
+  }
  }
 }

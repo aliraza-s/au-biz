@@ -205,6 +205,23 @@
   "footInk": "#CFD3BC",
   "footHead": "#DDA15E",
   "logoBg": "#DDA15E",
-  "logoFg": "#283618"
+  "logoFg": "#283618",
+  "layout": {
+   "nav": "stripe",
+   "hero": "mosaic",
+   "stats": "none",
+   "services": "list",
+   "why": "stackimg",
+   "gallery": "tilt",
+   "reviews": "featured",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "grid",
+   "btn": "flat",
+   "order": "F",
+   "eyebrow": false
+  }
  }
 }

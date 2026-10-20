@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-AU">
+<html lang="en-AU" class="nav-stripe btn-shadow">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,15 +11,17 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<script>document.documentElement.classList.add('js')</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "GeneralContractor", "name": "AAA Concrete Services", "telephone": "+61432526282", "address": {"@type": "PostalAddress", "streetAddress": "7A Lorikeet St", "addressLocality": "Gooburrum", "addressRegion": "QLD", "postalCode": "4670", "addressCountry": "AU"}, "areaServed": "Bundaberg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 5.0, "reviewCount": 20}}</script>
 </head>
-<body><div class="top"><div class="wrap"><span class="hide-m">Driveways, slabs and resurfacing · Mon–Sat 6am–6pm</span><span><a href="tel:+61432526282">Call 0432 526 282</a></span></div></div>
+<body>
 <header class="site"><div class="wrap nav">
  <a class="brandmark" href="index.html"><svg class="logo-mark" width="44" height="44" viewBox="0 0 32 32" aria-hidden="true" style="--logo-ink:#7A1F1F"><rect width="32" height="32" rx="8" fill="#7A1F1F"/><g style="color:#F4C95D" transform="translate(4 4) scale(.75)"><g fill="currentColor"><rect x="3" y="3" width="12" height="12" rx="2"/><rect x="17" y="3" width="12" height="12" rx="2"/><rect x="3" y="17" width="12" height="12" rx="2"/><rect x="17" y="17" width="12" height="12" rx="2"/></g></g></svg><span><b>AAA Concrete Services</b><small>Concreting, Bundaberg</small></span></a>
  <button class="burger" aria-label="Open menu" aria-expanded="false" onclick="var m=document.getElementById('menu');m.classList.toggle('open');this.setAttribute('aria-expanded',m.classList.contains('open'))"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
  <ul class="menu" id="menu"><li><a href="index.html">Home</a></li><li><a href="services.html">Services</a></li><li><a href="about.html">About</a></li><li><a href="contact.html" aria-current="page">Contact</a></li><li><a class="btn btn-main" href="contact.html">Get a quote</a></li></ul>
-</div></header><main><div class="pagehead"><div class="wrap"><div class="crumbs"><a href="index.html">Home</a> / Contact</div><h1>Get a concrete quote</h1><p>Tell us about your job and Shem will get back to you.</p></div></div><section><div class="wrap contact-grid">
-<form class="book" name="booking-aaa-concrete-bundaberg" data-sms="+61432526282" data-biz="AAA Concrete Services" onsubmit="return sendReq(this)">
+ 
+</div></header><main><div class="pagehead image"><img src="https://images.unsplash.com/photo-1574757987642-5755f0839101?auto=format&fit=crop&w=2000&q=80" alt=""><div class="wrap"><div class="crumbs"><a href="index.html">Home</a> / Contact</div><h1>Get a concrete quote</h1><p>Tell us about your job and Shem will get back to you.</p></div></div><section><div class="wrap contact-grid">
+<form class="book" name="booking-aaa-concrete-bundaberg" data-sms="+61432526282" data-mail="" data-biz="AAA Concrete Services" onsubmit="return sendReq(this)">
  <h2 style="font-size:30px">Quote request</h2>
  <div class="two"><label>Your name<input name="name" required autocomplete="name"></label><label>Phone<input name="phone" type="tel" required autocomplete="tel"></label></div>
  <div class="two"><label>Email<input name="email" type="email" autocomplete="email"></label><label>Suburb<input name="suburb" autocomplete="address-level2"></label></div>
@@ -33,24 +35,21 @@
 function sendReq(f){var d=new FormData(f),t=[];
 t.push("Hi "+f.dataset.biz+", booking request:");
 d.forEach(function(v,k){if(v)t.push(k.charAt(0).toUpperCase()+k.slice(1).replace(/_/g," ")+": "+v);});
-var body=encodeURIComponent(t.join(String.fromCharCode(10)));var sep=/iPhone|iPad|Mac/i.test(navigator.userAgent)?"&":"?";
+var body=encodeURIComponent(t.join(String.fromCharCode(10)));
+if(f.dataset.mail){window.location.href="mailto:"+f.dataset.mail+"?subject="+encodeURIComponent("Quote request")+"&body="+body;return false;}
+var sep=/iPhone|iPad|Mac/i.test(navigator.userAgent)?"&":"?";
 window.location.href="sms:"+f.dataset.sms+sep+"body="+body;return false;}
 </script>
 <div class="contact-card">
  <a class="line" href="tel:+61432526282"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg></span><span><b>0432 526 282</b><small>Call or text any time during business hours</small></span></a>
  
  <a class="line" href="https://www.google.com/maps/search/?api=1&query=7A%20Lorikeet%20St%2C%20Gooburrum%20QLD%204670" rel="noopener"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s7-6.1 7-12a7 7 0 0 0-14 0c0 5.9 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg></span><span><b>Gooburrum, Bundaberg QLD 4670</b><small>Bundaberg and surrounds</small></span></a>
- <div class="line" style="display:block;padding:18px;border:1px solid var(--line);border-radius:var(--r)"><div style="display:flex;gap:14px;align-items:center;margin-bottom:8px"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><b>Opening hours</b></div><table class="hours"><tr><td>Monday – Saturday</td><td>6am – 6pm</td></tr><tr><td>Sunday</td><td>Closed</td></tr></table></div>
+ <div class="line" style="display:block"><div style="display:flex;gap:14px;align-items:center;margin-bottom:8px"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><b>Opening hours</b></div><table class="hours"><tr><td>Monday – Saturday</td><td>6am – 6pm</td></tr><tr><td>Sunday</td><td>Closed</td></tr></table></div>
 </div></div></section>
 <section style="padding-top:0"><div class="wrap"><iframe class="map" title="Map showing AAA Concrete Services" loading="lazy" src="https://maps.google.com/maps?q=7A%20Lorikeet%20St%2C%20Gooburrum%20QLD%204670&z=13&output=embed"></iframe></div></section>
-</main><footer class="foot"><div class="wrap">
- <div class="fgrid">
+</main><footer class="foot grid"><div class="wrap"><div class="fgrid">
   <div><a class="brandmark" href="index.html"><svg class="logo-mark" width="40" height="40" viewBox="0 0 32 32" aria-hidden="true" style="--logo-ink:#7A1F1F"><rect width="32" height="32" rx="8" fill="#7A1F1F"/><g style="color:#F4C95D" transform="translate(4 4) scale(.75)"><g fill="currentColor"><rect x="3" y="3" width="12" height="12" rx="2"/><rect x="17" y="3" width="12" height="12" rx="2"/><rect x="3" y="17" width="12" height="12" rx="2"/><rect x="17" y="17" width="12" height="12" rx="2"/></g></g></svg><span><b>AAA Concrete Services</b><small>Concreting, Bundaberg</small></span></a><p style="margin-top:16px;opacity:.85;max-width:34ch">Driveways, slabs and resurfacing across Bundaberg.</p><div class="soc"></div></div>
   <div><h4>Services</h4><ul><li><a href="services.html#driveways">Driveways</a></li><li><a href="services.html#resurfacing">Driveway resurfacing</a></li><li><a href="services.html#slabs">Spa, shed &amp; garden slabs</a></li></ul></div>
   <div><h4>Hours</h4><ul><li>Monday – Saturday: 6am – 6pm</li><li>Sunday: Closed</li></ul></div>
   <div><h4>Contact</h4><ul><li><a href="tel:+61432526282">0432 526 282</a></li><li>Gooburrum, Bundaberg QLD 4670</li><li><a href="contact.html">Get a quote</a></li></ul></div>
- </div>
- <div class="legal"><span>© 2026 AAA Concrete Services. All rights reserved.</span><span>Developed with <span class="heart" aria-label="love">❤</span> by <a href="https://gemprogrammers.com" rel="noopener"><b>Mr. Developer</b></a></span></div>
-</div></footer>
-<div class="mbar"><a href="tel:+61432526282">Call now</a><a href="contact.html">Get a quote</a></div>
-</body></html>
+ </div><div class="legal"><span>© 2026 AAA Concrete Services. All rights reserved.</span><span>Developed with <span class="heart" aria-label="love">❤</span> by <a href="https://gemprogrammers.com" rel="noopener"><b>Mr. Developer</b></a></span></div></div></footer><div class="mbar"><a href="tel:+61432526282">Call now</a><a href="contact.html">Get a quote</a></div><script>(function(){if(!('IntersectionObserver' in window))return;var o=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');o.unobserve(e.target)}})},{rootMargin:'0px 0px -8%'});document.querySelectorAll('.rv-up').forEach(function(el){o.observe(el)})})();</script></body></html>

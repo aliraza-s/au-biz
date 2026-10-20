@@ -26,60 +26,215 @@
  "hero": {
   "title": "Clean, fluffy dogs without leaving home.",
   "lede": "Our groomers bring the whole salon to your door in Melton. Washes, clips and tidy-ups, seven days by appointment.",
-  "trust": ["4.9★ from 37 reviews", "7 days by appointment", "Gentle with anxious dogs"]
+  "trust": [
+   "4.9★ from 37 reviews",
+   "7 days by appointment",
+   "Gentle with anxious dogs"
+  ]
  },
  "images": {
-  "hero": "1611173622933-91942d394b04", "heroAlt": "Fluffy pomeranian wrapped in a pink towel after a wash",
-  "about": "1592887302112-b87aca16ad2c", "about2": "1583534778255-5d67d3dcf95d", "aboutAlt": "Small dog relaxing on a blue towel after a bath",
-  "gallery": ["1534361960057-19889db9621e", "1605197161470-d0261cac6767", "1672426637959-49f39230ad7e", "1587402092301-725e37c70fd8", "1582456780653-aabf23f711b9", "1678153184494-1f6fc14a673d"]
+  "hero": "1611173622933-91942d394b04",
+  "heroAlt": "Fluffy pomeranian wrapped in a pink towel after a wash",
+  "about": "1592887302112-b87aca16ad2c",
+  "about2": "1583534778255-5d67d3dcf95d",
+  "aboutAlt": "Small dog relaxing on a blue towel after a bath",
+  "gallery": [
+   "1534361960057-19889db9621e",
+   "1605197161470-d0261cac6767",
+   "1672426637959-49f39230ad7e",
+   "1587402092301-725e37c70fd8",
+   "1582456780653-aabf23f711b9",
+   "1678153184494-1f6fc14a673d"
+  ]
  },
  "servicesHead": "Everything your dog needs, at your door",
  "servicesSub": "No car trips and no waiting room. Your dog stays relaxed and you don't lose half a day.",
  "services": [
-  {"id":"wash","title":"Wash & dry","img":"1672426637959-49f39230ad7e","short":"Warm hydrobath, shampoo and a full blow-dry in our van.","long":"A warm hydrobath with a gentle shampoo, a full blow-dry and a brush-out. Your dog comes back inside clean, fluffy and smelling amazing, and all the hair stays in our van.","points":["Gentle shampoo and conditioner","Full blow-dry and brush","All mess stays in the van"]},
-  {"id":"groom","title":"Full groom & clip","img":"1605197161470-d0261cac6767","short":"Clean, even cuts styled the way you like them.","long":"A full groom including wash, dry, clip or scissor cut, and a tidy of the face, feet and hygiene areas. Tell us the look you want and we'll get it right.","points":["Clip or scissor styles","Face, feet and hygiene tidy","Ears and nails included"]},
-  {"id":"tidy","title":"Tidy-up & nails","img":"1582456780653-aabf23f711b9","short":"A quick freshen-up between full grooms.","long":"A short visit for nails, a face and feet tidy and a brush, perfect for keeping your dog comfortable between full grooms.","points":["Nail trim","Face and paw tidy","Brush-out"]},
-  {"id":"anxious","title":"Anxious & reactive dogs","img":"1534361960057-19889db9621e","short":"Extra time and patience for dogs other groomers turn away.","long":"Some dogs find salons overwhelming. At home, with one groomer and no other dogs around, they settle much faster. We take it slowly and stop for breaks whenever needed.","points":["One-on-one, no other dogs","Breaks whenever needed","Calm, quiet approach"]}
+  {
+   "id": "wash",
+   "title": "Wash & dry",
+   "img": "1672426637959-49f39230ad7e",
+   "short": "Warm hydrobath, shampoo and a full blow-dry in our van.",
+   "long": "A warm hydrobath with a gentle shampoo, a full blow-dry and a brush-out. Your dog comes back inside clean, fluffy and smelling amazing, and all the hair stays in our van.",
+   "points": [
+    "Gentle shampoo and conditioner",
+    "Full blow-dry and brush",
+    "All mess stays in the van"
+   ]
+  },
+  {
+   "id": "groom",
+   "title": "Full groom & clip",
+   "img": "1605197161470-d0261cac6767",
+   "short": "Clean, even cuts styled the way you like them.",
+   "long": "A full groom including wash, dry, clip or scissor cut, and a tidy of the face, feet and hygiene areas. Tell us the look you want and we'll get it right.",
+   "points": [
+    "Clip or scissor styles",
+    "Face, feet and hygiene tidy",
+    "Ears and nails included"
+   ]
+  },
+  {
+   "id": "tidy",
+   "title": "Tidy-up & nails",
+   "img": "1582456780653-aabf23f711b9",
+   "short": "A quick freshen-up between full grooms.",
+   "long": "A short visit for nails, a face and feet tidy and a brush, perfect for keeping your dog comfortable between full grooms.",
+   "points": [
+    "Nail trim",
+    "Face and paw tidy",
+    "Brush-out"
+   ]
+  },
+  {
+   "id": "anxious",
+   "title": "Anxious & reactive dogs",
+   "img": "1534361960057-19889db9621e",
+   "short": "Extra time and patience for dogs other groomers turn away.",
+   "long": "Some dogs find salons overwhelming. At home, with one groomer and no other dogs around, they settle much faster. We take it slowly and stop for breaks whenever needed.",
+   "points": [
+    "One-on-one, no other dogs",
+    "Breaks whenever needed",
+    "Calm, quiet approach"
+   ]
+  }
  ],
  "whyHead": "Meet the groomers customers ask for by name",
  "whyText": "Alisha, Rochelle, Shane and Samantha are mentioned again and again in our reviews. Each one treats your dog like their own.",
- "why": ["Alisha: great with pregnant and nervous dogs","Rochelle: clean, even, beautifully styled cuts","Shane: a favourite with the bigger dogs","Samantha: takes on the reactive ones others won't"],
+ "why": [
+  "Alisha: great with pregnant and nervous dogs",
+  "Rochelle: clean, even, beautifully styled cuts",
+  "Shane: a favourite with the bigger dogs",
+  "Samantha: takes on the reactive ones others won't"
+ ],
  "galleryHead": "Happy dogs of Melton",
  "gallerySub": "Clean, fluffy and ready for cuddles.",
  "reviewsHead": "Melton dogs (and owners) love it",
  "reviews": [
-  {"text":"Alisha went out of her way to look after her and not stress her out too much. Ellie is clean, fluffy and smells amazing."},
-  {"text":"Their cuts were clean, even, and beautifully styled. Rochelle handled them with so much care that they were relaxed the whole time."},
-  {"text":"Samantha was actually the only groomer willing to take him on, and she went above and beyond."},
-  {"text":"She arrived early and introduced herself to our dog gently. He looks really good and smells lovely."},
-  {"text":"From Alisha, who instantly stole Jax's heart, to Shane, who became Luna's favourite, they've always treated my fur-babies like their own."},
-  {"text":"Highly recommended for anyone in the Melton area."}
+  {
+   "text": "Alisha went out of her way to look after her and not stress her out too much. Ellie is clean, fluffy and smells amazing."
+  },
+  {
+   "text": "Their cuts were clean, even, and beautifully styled. Rochelle handled them with so much care that they were relaxed the whole time."
+  },
+  {
+   "text": "Samantha was actually the only groomer willing to take him on, and she went above and beyond."
+  },
+  {
+   "text": "She arrived early and introduced herself to our dog gently. He looks really good and smells lovely."
+  },
+  {
+   "text": "From Alisha, who instantly stole Jax's heart, to Shane, who became Luna's favourite, they've always treated my fur-babies like their own."
+  },
+  {
+   "text": "Highly recommended for anyone in the Melton area."
+  }
  ],
  "faq": [
-  ["Do you really come to my house?","Yes. Our van is a fully equipped mobile salon, so we park outside and groom your dog right there."],
-  ["Which days can you come?","We work seven days by appointment. Send a request and we'll offer you the next available times."],
-  ["My dog is anxious. Can you still groom them?","Yes. Many of our regulars are nervous dogs who do much better at home with one groomer and no other dogs around."],
-  ["How long does a groom take?","Most washes take under an hour; full grooms take longer depending on the coat."]
+  [
+   "Do you really come to my house?",
+   "Yes. Our van is a fully equipped mobile salon, so we park outside and groom your dog right there."
+  ],
+  [
+   "Which days can you come?",
+   "We work seven days by appointment. Send a request and we'll offer you the next available times."
+  ],
+  [
+   "My dog is anxious. Can you still groom them?",
+   "Yes. Many of our regulars are nervous dogs who do much better at home with one groomer and no other dogs around."
+  ],
+  [
+   "How long does a groom take?",
+   "Most washes take under an hour; full grooms take longer depending on the coat."
+  ]
  ],
  "aboutHead": "About us",
  "aboutSub": "A local mobile grooming team based in Weir Views.",
- "aboutParas": ["Melton Mobile Dog Wash and Grooming brings professional grooming to your driveway, so your dog never has to sit in a noisy salon or travel in the car.","Our team of groomers has looked after hundreds of Melton dogs, from tiny puppies on their first groom to big, anxious dogs other groomers turned away.","Every groom is one-on-one, in a clean and fully equipped van, by people who genuinely love dogs."],
+ "aboutParas": [
+  "Melton Mobile Dog Wash and Grooming brings professional grooming to your driveway, so your dog never has to sit in a noisy salon or travel in the car.",
+  "Our team of groomers has looked after hundreds of Melton dogs, from tiny puppies on their first groom to big, anxious dogs other groomers turned away.",
+  "Every groom is one-on-one, in a clean and fully equipped van, by people who genuinely love dogs."
+ ],
  "valuesHead": "Why home grooming is better",
- "values": [["Less stress","No car trip, no cages and no other dogs."],["Saves you time","No drop-off or pick-up. We come to you."],["One-on-one care","Your dog has the groomer's full attention."]],
+ "values": [
+  [
+   "Less stress",
+   "No car trip, no cages and no other dogs."
+  ],
+  [
+   "Saves you time",
+   "No drop-off or pick-up. We come to you."
+  ],
+  [
+   "One-on-one care",
+   "Your dog has the groomer's full attention."
+  ]
+ ],
  "contactHead": "Book your dog in",
  "contactSub": "Tell us a little about your dog and we'll text you back with a time.",
  "formHead": "Booking request",
  "formButton": "Send booking request",
- "formExtra": [["Dog's breed and size","dog"]],
+ "formExtra": [
+  [
+   "Dog's breed and size",
+   "dog"
+  ]
+ ],
  "bandText": "Book a groom at your door this week.",
  "footerBlurb": "Mobile dog wash and grooming across Melton, seven days by appointment.",
- "hours": [["Monday – Sunday","By appointment"]],
+ "hours": [
+  [
+   "Monday – Sunday",
+   "By appointment"
+  ]
+ ],
  "theme": {
   "fontsQuery": "family=Fredoka:wght@500;600;700&family=Nunito+Sans:wght@400;600;700",
-  "headFont": "Fredoka,system-ui,sans-serif", "bodyFont": "\"Nunito Sans\",system-ui,sans-serif", "headWeight": "700", "headTrack": "0", "headExtra": "",
-  "bg": "#FFFFFF", "surface": "#EAF5FD", "ink": "#1D2433", "muted": "#4A5568", "brand": "#2E8FD6", "brand2": "#5B3FA8", "accent": "#FFD84D", "onBrand": "#FFFFFF", "onAccent": "#1D2433", "line": "#DCE8F2",
-  "radius": "28px", "btnRadius": "999px", "h1max": "80px", "headerBg": "#FFFFFF", "headerInk": "#2A1E5C", "overlay": "rgba(46,143,214,.85)",
-  "footBg": "#3B2A7A", "footInk": "#DDD5F7", "footHead": "#FFD84D",
-  "logoBg": "#5B3FA8", "logoFg": "#FFD84D", "icon": "bubbles", "logoRadius": 16, "hero": "center"
+  "headFont": "Fredoka,system-ui,sans-serif",
+  "bodyFont": "\"Nunito Sans\",system-ui,sans-serif",
+  "headWeight": "700",
+  "headTrack": "0",
+  "headExtra": "",
+  "bg": "#FFFFFF",
+  "surface": "#EAF5FD",
+  "ink": "#1D2433",
+  "muted": "#4A5568",
+  "brand": "#2E8FD6",
+  "brand2": "#5B3FA8",
+  "accent": "#FFD84D",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#1D2433",
+  "line": "#DCE8F2",
+  "radius": "28px",
+  "btnRadius": "999px",
+  "h1max": "80px",
+  "headerBg": "#FFFFFF",
+  "headerInk": "#2A1E5C",
+  "overlay": "rgba(46,143,214,.85)",
+  "footBg": "#3B2A7A",
+  "footInk": "#DDD5F7",
+  "footHead": "#FFD84D",
+  "logoBg": "#5B3FA8",
+  "logoFg": "#FFD84D",
+  "icon": "bubbles",
+  "logoRadius": 16,
+  "hero": "center",
+  "layout": {
+   "nav": "pill",
+   "hero": "frame",
+   "stats": "pills",
+   "services": "list",
+   "why": "split",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "dots",
+   "btn": "flat",
+   "order": "F",
+   "eyebrow": true
+  }
  }
 }

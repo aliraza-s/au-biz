@@ -210,6 +210,23 @@
   "logoFg": "#1B2A5C",
   "icon": "house",
   "logoRadius": 10,
-  "hero": "center"
+  "hero": "center",
+  "layout": {
+   "nav": "center",
+   "hero": "split",
+   "stats": "ticker",
+   "services": "bento",
+   "why": "splitR",
+   "gallery": "grid",
+   "reviews": "light",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "none",
+   "btn": "shadow",
+   "order": "A",
+   "eyebrow": true
+  }
  }
 }

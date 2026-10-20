@@ -193,6 +193,23 @@
   "footBg": "#0B3440",
   "footInk": "#C9D8DB",
   "footHead": "#F7A26A",
-  "logoBg": "#0F4C5C"
+  "logoBg": "#0F4C5C",
+  "layout": {
+   "nav": "center",
+   "hero": "card",
+   "stats": "pills",
+   "services": "list",
+   "why": "splitR",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "none",
+   "btn": "flat",
+   "order": "F",
+   "eyebrow": true
+  }
  }
 }

@@ -206,6 +206,23 @@
   "logoFg": "#F4C95D",
   "icon": "grid",
   "logoRadius": 8,
-  "hero": "center"
+  "hero": "center",
+  "layout": {
+   "nav": "stripe",
+   "hero": "mosaic",
+   "stats": "none",
+   "services": "alt",
+   "why": "stackimg",
+   "gallery": "tilt",
+   "reviews": "featured",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "grid",
+   "btn": "shadow",
+   "order": "D",
+   "eyebrow": false
+  }
  }
 }

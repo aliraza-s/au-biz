@@ -224,6 +224,23 @@
   "footBg": "#0E1014",
   "footInk": "#B8C1CC",
   "footHead": "#00B4D8",
-  "logoBg": "#00B4D8"
+  "logoBg": "#00B4D8",
+  "layout": {
+   "nav": "stripe",
+   "hero": "mosaic",
+   "stats": "pills",
+   "services": "side",
+   "why": "stackimg",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "arrow",
+   "order": "B",
+   "eyebrow": true
+  }
  }
 }

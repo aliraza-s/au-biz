@@ -227,6 +227,23 @@
   "logoFg": "#FBF8F2",
   "icon": "spray",
   "logoRadius": 50,
-  "hero": "arch"
+  "hero": "arch",
+  "layout": {
+   "nav": "bar",
+   "hero": "diagonal",
+   "stats": "strip",
+   "services": "tiles",
+   "why": "dark",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "lines",
+   "btn": "arrow",
+   "order": "E",
+   "eyebrow": false
+  }
  }
 }

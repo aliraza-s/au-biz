@@ -187,6 +187,23 @@
   "footInk": "#B8CBD1",
   "footHead": "#E8C547",
   "logoBg": "#E8C547",
-  "logoFg": "#163A47"
+  "logoFg": "#163A47",
+  "layout": {
+   "nav": "center",
+   "hero": "split",
+   "stats": "strip",
+   "services": "cards",
+   "why": "splitR",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "none",
+   "btn": "arrow",
+   "order": "E",
+   "eyebrow": false
+  }
  }
 }

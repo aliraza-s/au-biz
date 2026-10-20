@@ -185,6 +185,23 @@
   "logoFg": "#FFFFFF",
   "icon": "trowel",
   "logoRadius": 2,
-  "hero": "stack"
+  "hero": "stack",
+  "layout": {
+   "nav": "center",
+   "hero": "split",
+   "stats": "ticker",
+   "services": "side",
+   "why": "splitR",
+   "gallery": "grid",
+   "reviews": "light",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "none",
+   "btn": "flat",
+   "order": "D",
+   "eyebrow": true
+  }
  }
 }

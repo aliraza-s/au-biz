@@ -237,6 +237,23 @@
   "footInk": "#BFD0DC",
   "footHead": "#BFD7EA",
   "logoBg": "#0B3954",
-  "logoFg": "#BFD7EA"
+  "logoFg": "#BFD7EA",
+  "layout": {
+   "nav": "bar",
+   "hero": "diagonal",
+   "stats": "ticker",
+   "services": "cards",
+   "why": "dark",
+   "gallery": "grid",
+   "reviews": "light",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "lines",
+   "btn": "arrow",
+   "order": "E",
+   "eyebrow": true
+  }
  }
 }

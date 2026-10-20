@@ -213,6 +213,23 @@
   "logoBg": "#FFC20E",
   "logoFg": "#2F3A1F",
   "icon": "loader",
-  "hero": "stack"
+  "hero": "stack",
+  "layout": {
+   "nav": "bar",
+   "hero": "overlay",
+   "stats": "none",
+   "services": "bento",
+   "why": "dark",
+   "gallery": "tilt",
+   "reviews": "featured",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "none",
+   "btn": "arrow",
+   "order": "B",
+   "eyebrow": false
+  }
  }
 }

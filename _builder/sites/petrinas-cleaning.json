@@ -218,6 +218,23 @@
   "logoFg": "#FFB4A2",
   "icon": "heart",
   "logoRadius": 16,
-  "hero": "overlay"
+  "hero": "overlay",
+  "layout": {
+   "nav": "stripe",
+   "hero": "mosaic",
+   "stats": "none",
+   "services": "bento",
+   "why": "stackimg",
+   "gallery": "tilt",
+   "reviews": "featured",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "arrow",
+   "order": "B",
+   "eyebrow": false
+  }
  }
 }

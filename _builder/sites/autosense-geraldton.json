@@ -213,6 +213,23 @@
   "logoBg": "#20352B",
   "logoFg": "#F2B134",
   "icon": "gear",
-  "hero": "arch"
+  "hero": "arch",
+  "layout": {
+   "nav": "stripe",
+   "hero": "mosaic",
+   "stats": "pills",
+   "services": "cards",
+   "why": "stackimg",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "grid",
+   "btn": "shadow",
+   "order": "D",
+   "eyebrow": true
+  }
  }
 }

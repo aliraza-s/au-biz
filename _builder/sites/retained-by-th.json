@@ -197,6 +197,23 @@
   "footInk": "#DCCDBA",
   "footHead": "#B5CC7A",
   "logoBg": "#6B4F3A",
-  "logoFg": "#F1E6D6"
+  "logoFg": "#F1E6D6",
+  "layout": {
+   "nav": "pill",
+   "hero": "arch",
+   "stats": "strip",
+   "services": "bento",
+   "why": "split",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "dots",
+   "btn": "shadow",
+   "order": "A",
+   "eyebrow": false
+  }
  }
 }

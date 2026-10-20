@@ -214,7 +214,24 @@
   "footInk": "#D7DCC6",
   "footHead": "#E9C46A",
   "logoBg": "#4A5D23",
-  "logoFg": "#E9C46A"
+  "logoFg": "#E9C46A",
+  "layout": {
+   "nav": "split",
+   "hero": "stack",
+   "stats": "pills",
+   "services": "cards",
+   "why": "band",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "blob",
+   "btn": "shadow",
+   "order": "D",
+   "eyebrow": true
+  }
  },
  "rating": 5.0,
  "reviewCount": 3,

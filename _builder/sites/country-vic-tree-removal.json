@@ -220,6 +220,23 @@
   "footInk": "#D4C8BE",
   "footHead": "#E9C46A",
   "logoBg": "#3B2F2F",
-  "logoFg": "#E9C46A"
+  "logoFg": "#E9C46A",
+  "layout": {
+   "nav": "pill",
+   "hero": "arch",
+   "stats": "strip",
+   "services": "tiles",
+   "why": "split",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "dots",
+   "btn": "arrow",
+   "order": "E",
+   "eyebrow": false
+  }
  }
 }

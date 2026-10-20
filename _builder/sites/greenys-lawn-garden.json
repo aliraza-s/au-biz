@@ -244,7 +244,24 @@
   "footInk": "#D3DDCF",
   "footHead": "#F2E8CF",
   "logoBg": "#386641",
-  "logoFg": "#F2E8CF"
+  "logoFg": "#F2E8CF",
+  "layout": {
+   "nav": "pill",
+   "hero": "frame",
+   "stats": "none",
+   "services": "cards",
+   "why": "split",
+   "gallery": "tilt",
+   "reviews": "featured",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "dots",
+   "btn": "shadow",
+   "order": "D",
+   "eyebrow": false
+  }
  },
  "rating": 4.5,
  "reviewCount": 8,

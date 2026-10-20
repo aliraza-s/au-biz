@@ -203,6 +203,23 @@
   "logoFg": "#0A2463",
   "icon": "star",
   "logoRadius": 8,
-  "hero": "split"
+  "hero": "split",
+  "layout": {
+   "nav": "stripe",
+   "hero": "center",
+   "stats": "pills",
+   "services": "side",
+   "why": "stackimg",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "grid",
+   "btn": "flat",
+   "order": "C",
+   "eyebrow": false
+  }
  }
 }

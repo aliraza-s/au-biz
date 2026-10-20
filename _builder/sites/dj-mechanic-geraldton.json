@@ -213,6 +213,23 @@
   "logoBg": "#9FC5E8",
   "logoFg": "#5B1A2B",
   "icon": "tyre",
-  "hero": "stack"
+  "hero": "stack",
+  "layout": {
+   "nav": "center",
+   "hero": "split",
+   "stats": "strip",
+   "services": "alt",
+   "why": "splitR",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "none",
+   "btn": "flat",
+   "order": "D",
+   "eyebrow": false
+  }
  }
 }

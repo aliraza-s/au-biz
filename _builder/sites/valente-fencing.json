@@ -196,6 +196,23 @@
   "footInk": "#C9D1DC",
   "footHead": "#F2A58F",
   "logoBg": "#2E4057",
-  "logoFg": "#F2A58F"
+  "logoFg": "#F2A58F",
+  "layout": {
+   "nav": "stripe",
+   "hero": "center",
+   "stats": "pills",
+   "services": "list",
+   "why": "stackimg",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "grid",
+   "btn": "shadow",
+   "order": "A",
+   "eyebrow": false
+  }
  }
 }

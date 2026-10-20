@@ -12,9 +12,15 @@ and record them in the sheet.
    hours, address and 4-6 real review excerpts; web search for services, owner first name, socials.
    Never invent prices, awards, licences or staff names.
 3. Write _builder/sites/<slug>.json by copying the structure of an existing JSON file.
-   - Each site needs a DIFFERENT look: pick a new palette, font pair (Google Fonts) and hero variant
-     (split | overlay | center | stack | arch), and a logo icon (paw | drop | scissors | bubbles | bone, or add
-     a new simple SVG icon to ICONS in build.py that suits the trade, e.g. tree, fence, wrench, spray).
+   - Each site needs a DIFFERENT look: pick a new palette, font pair (Google Fonts) and a logo icon
+     (see _builder/icons.py; add a new simple SVG icon there if none suits the trade).
+   - Also set theme.layout (see the docstring at the top of build.py for every option):
+     nav, hero, stats, services, why, gallery, reviews, hours, cta, footer, pagehead, decor, btn, order, eyebrow.
+     Run `grep -h '"hero"\|"services"\|"nav"' _builder/sites/*.json | sort | uniq -c` and choose a combination
+     (hero + services + why + nav) that no existing site in the same trade uses. If layout is missing, build.py
+     derives one from the slug, but pick it deliberately so the 5 daily sites all look different from each other.
+   - Real photos beat stock: if Ali has dropped photos/logo into <slug>/img/ (hero.jpg, about.jpg, about2.jpg,
+     gallery-1..6.jpg, svc-<id>.jpg, logo.png) build.py uses them automatically. Otherwise use Unsplash as below.
    - Photos: Unsplash photo IDs that match the trade. Find them by WebFetch of
      https://unsplash.com/s/photos/<trade-keyword> and use only IDs that appear on that page
      (images.unsplash.com/photo-<id>), never plus.unsplash.com.

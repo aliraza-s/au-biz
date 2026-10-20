@@ -249,6 +249,23 @@
   "logoFg": "#FFF8EE",
   "icon": "paw",
   "logoRadius": 999,
-  "hero": "arch"
+  "hero": "arch",
+  "layout": {
+   "nav": "stripe",
+   "hero": "center",
+   "stats": "pills",
+   "services": "tiles",
+   "why": "stackimg",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "arrow",
+   "order": "E",
+   "eyebrow": false
+  }
  }
 }

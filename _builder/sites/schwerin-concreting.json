@@ -247,6 +247,23 @@
   "logoBg": "#2B3A42",
   "logoFg": "#E3A72F",
   "icon": "mixer",
-  "hero": "split"
+  "hero": "split",
+  "layout": {
+   "nav": "stripe",
+   "hero": "mosaic",
+   "stats": "pills",
+   "services": "tiles",
+   "why": "stackimg",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "grid",
+   "btn": "flat",
+   "order": "F",
+   "eyebrow": true
+  }
  }
 }

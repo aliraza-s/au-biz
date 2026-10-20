@@ -212,6 +212,23 @@
   "logoFg": "#0B6E4F",
   "icon": "mop",
   "logoRadius": 10,
-  "hero": "arch"
+  "hero": "arch",
+  "layout": {
+   "nav": "bar",
+   "hero": "overlay",
+   "stats": "pills",
+   "services": "alt",
+   "why": "dark",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "none",
+   "btn": "shadow",
+   "order": "D",
+   "eyebrow": true
+  }
  }
 }

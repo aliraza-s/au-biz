@@ -231,6 +231,23 @@
   "logoFg": "#FFFFFF",
   "icon": "layers",
   "logoRadius": 3,
-  "hero": "overlay"
+  "hero": "overlay",
+  "layout": {
+   "nav": "split",
+   "hero": "stack",
+   "stats": "pills",
+   "services": "bento",
+   "why": "band",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "blob",
+   "btn": "arrow",
+   "order": "B",
+   "eyebrow": true
+  }
  }
 }

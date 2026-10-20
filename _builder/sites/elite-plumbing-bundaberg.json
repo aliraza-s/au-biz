@@ -247,6 +247,23 @@
   "footBg": "#102A1F",
   "footInk": "#BFD3C7",
   "footHead": "#F9C74F",
-  "logoBg": "#1B4332"
+  "logoBg": "#1B4332",
+  "layout": {
+   "nav": "pill",
+   "hero": "arch",
+   "stats": "ticker",
+   "services": "alt",
+   "why": "split",
+   "gallery": "grid",
+   "reviews": "light",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "dots",
+   "btn": "flat",
+   "order": "C",
+   "eyebrow": true
+  }
  }
 }

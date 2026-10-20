@@ -27,60 +27,223 @@
  "hero": {
   "title": "Groomed by someone who knows your dog by name.",
   "lede": "Mark has been grooming Ballarat's dogs for years, first as Buninyong Dog Grooming and now at Complete K9 in Delacombe. Breed cuts done right, with daycare on site.",
-  "trust": ["5.0★ on Google", "Grooming + daycare", "Formerly Buninyong Dog Grooming"]
+  "trust": [
+   "5.0★ on Google",
+   "Grooming + daycare",
+   "Formerly Buninyong Dog Grooming"
+  ]
  },
  "images": {
-  "hero": "1719464454959-9cf304ef4774", "heroAlt": "Small white dog being scissored by a groomer",
-  "about": "1548199973-03cce0bbc87b", "about2": "1505628346881-b72b27e84530", "aboutAlt": "Two happy dogs running together",
-  "gallery": ["1588943211346-0908a1fb0b01", "1625277743460-43716b93507a", "1537151608828-ea2b11777ee8", "1560807707-8cc77767d783", "1597603413826-cd1c06b05222", "1588269845464-8993565cac3a"]
+  "hero": "1719464454959-9cf304ef4774",
+  "heroAlt": "Small white dog being scissored by a groomer",
+  "about": "1548199973-03cce0bbc87b",
+  "about2": "1505628346881-b72b27e84530",
+  "aboutAlt": "Two happy dogs running together",
+  "gallery": [
+   "1588943211346-0908a1fb0b01",
+   "1625277743460-43716b93507a",
+   "1537151608828-ea2b11777ee8",
+   "1560807707-8cc77767d783",
+   "1597603413826-cd1c06b05222",
+   "1588269845464-8993565cac3a"
+  ]
  },
  "servicesHead": "Grooming and daycare under one roof",
  "servicesSub": "Drop your dog off for a day of play and pick them up freshly groomed.",
  "services": [
-  {"id":"clips","title":"Breed & custom clips","img":"1719464454959-9cf304ef4774","short":"Full clips and breed-specific cuts, done the same way every visit.","long":"Mark is known for getting tricky cuts right, from Airedales to Labradoodles. Tell him how you like your dog to look and he'll keep it consistent visit after visit.","points":["Breed-standard and custom styles","Hand-scissored finishes","Consistent cut every visit"]},
-  {"id":"bath","title":"Bath & tidy","img":"1597603413826-cd1c06b05222","short":"Bath, blow-dry, brush-out, face and feet tidy, nails and ears.","long":"A fresh bath and blow-dry with a tidy of the face, feet and hygiene areas. The perfect in-between groom to keep coats manageable.","points":["Shampoo and blow-dry","Face, feet and hygiene tidy","Nails and ears included"]},
-  {"id":"daycare","title":"Doggy daycare","img":"1548199973-03cce0bbc87b","short":"Supervised play in a clean, well-run space with staff who know every dog.","long":"Daycare gives your dog a fun, social day while you're at work. The team gets to know every dog's personality, and you can add a groom so they come home looking their best.","points":["Supervised small-group play","Add a groom to any day","Treats and accessories in store"]},
-  {"id":"puppy","title":"Puppy first grooms","img":"1537151608828-ea2b11777ee8","short":"A gentle introduction so grooming is something your puppy enjoys.","long":"A short, calm first visit to get puppies used to the bath, the dryer and being handled, setting them up for a lifetime of easy grooms.","points":["Short, positive sessions","Bath, dryer and handling practice","Light tidy of face and feet"]}
+  {
+   "id": "clips",
+   "title": "Breed & custom clips",
+   "img": "1719464454959-9cf304ef4774",
+   "short": "Full clips and breed-specific cuts, done the same way every visit.",
+   "long": "Mark is known for getting tricky cuts right, from Airedales to Labradoodles. Tell him how you like your dog to look and he'll keep it consistent visit after visit.",
+   "points": [
+    "Breed-standard and custom styles",
+    "Hand-scissored finishes",
+    "Consistent cut every visit"
+   ]
+  },
+  {
+   "id": "bath",
+   "title": "Bath & tidy",
+   "img": "1597603413826-cd1c06b05222",
+   "short": "Bath, blow-dry, brush-out, face and feet tidy, nails and ears.",
+   "long": "A fresh bath and blow-dry with a tidy of the face, feet and hygiene areas. The perfect in-between groom to keep coats manageable.",
+   "points": [
+    "Shampoo and blow-dry",
+    "Face, feet and hygiene tidy",
+    "Nails and ears included"
+   ]
+  },
+  {
+   "id": "daycare",
+   "title": "Doggy daycare",
+   "img": "1548199973-03cce0bbc87b",
+   "short": "Supervised play in a clean, well-run space with staff who know every dog.",
+   "long": "Daycare gives your dog a fun, social day while you're at work. The team gets to know every dog's personality, and you can add a groom so they come home looking their best.",
+   "points": [
+    "Supervised small-group play",
+    "Add a groom to any day",
+    "Treats and accessories in store"
+   ]
+  },
+  {
+   "id": "puppy",
+   "title": "Puppy first grooms",
+   "img": "1537151608828-ea2b11777ee8",
+   "short": "A gentle introduction so grooming is something your puppy enjoys.",
+   "long": "A short, calm first visit to get puppies used to the bath, the dryer and being handled, setting them up for a lifetime of easy grooms.",
+   "points": [
+    "Short, positive sessions",
+    "Bath, dryer and handling practice",
+    "Light tidy of face and feet"
+   ]
+  }
  ],
  "whyHead": "Why Ballarat owners keep coming back",
  "whyText": "Complete K9 is a clean, calm salon where the same people look after your dog every time. Some clients have been with Mark for years.",
- "why": ["Same groomer, same cut, every visit","Daycare and grooming in one drop-off","Kind with seniors and nervous dogs","Clean, well-run facility"],
+ "why": [
+  "Same groomer, same cut, every visit",
+  "Daycare and grooming in one drop-off",
+  "Kind with seniors and nervous dogs",
+  "Clean, well-run facility"
+ ],
  "galleryHead": "Fresh from the salon",
  "gallerySub": "A few of the happy faces we see each week.",
  "reviewsHead": "From the regulars",
  "reviews": [
-  {"text":"He always does a great job on our Airedale Murphy, who requires a very specific and difficult cut."},
-  {"text":"Such a well-run, clean facility with staff who genuinely know every dog and make the effort to understand their personalities."},
-  {"text":"As a constant return customer of almost four years we can happily say he's the best for our Labradoodle!"},
-  {"text":"He is so kind and caring. You can really feel the passion for the job."},
-  {"text":"Known Mark for a long time as our dog's groomer. The best dog care around."},
-  {"text":"So convenient having a groomer on-site, so our dog can enjoy a fun daycare day and come home freshly groomed too."}
+  {
+   "text": "He always does a great job on our Airedale Murphy, who requires a very specific and difficult cut."
+  },
+  {
+   "text": "Such a well-run, clean facility with staff who genuinely know every dog and make the effort to understand their personalities."
+  },
+  {
+   "text": "As a constant return customer of almost four years we can happily say he's the best for our Labradoodle!"
+  },
+  {
+   "text": "He is so kind and caring. You can really feel the passion for the job."
+  },
+  {
+   "text": "Known Mark for a long time as our dog's groomer. The best dog care around."
+  },
+  {
+   "text": "So convenient having a groomer on-site, so our dog can enjoy a fun daycare day and come home freshly groomed too."
+  }
  ],
  "faq": [
-  ["How do I book?","Call or text Mark on 0432 840 257, or send the booking form and we'll confirm a time with you."],
-  ["Can my dog do daycare and a groom on the same day?","Yes. Drop them off in the morning for daycare and they'll be groomed before pick-up."],
-  ["Do you groom senior or anxious dogs?","Yes. We take things slowly and give older and nervous dogs extra time and breaks."],
-  ["Are you the same business as Buninyong Dog Grooming?","Yes. Mark ran Buninyong Dog Grooming before moving to the Complete K9 salon in Delacombe."]
+  [
+   "How do I book?",
+   "Call or text Mark on 0432 840 257, or send the booking form and we'll confirm a time with you."
+  ],
+  [
+   "Can my dog do daycare and a groom on the same day?",
+   "Yes. Drop them off in the morning for daycare and they'll be groomed before pick-up."
+  ],
+  [
+   "Do you groom senior or anxious dogs?",
+   "Yes. We take things slowly and give older and nervous dogs extra time and breaks."
+  ],
+  [
+   "Are you the same business as Buninyong Dog Grooming?",
+   "Yes. Mark ran Buninyong Dog Grooming before moving to the Complete K9 salon in Delacombe."
+  ]
  ],
  "aboutHead": "About Complete K9",
  "aboutSub": "Formerly Buninyong Dog Grooming, now a full grooming and daycare salon in Delacombe.",
- "aboutParas": ["Mark started grooming in Buninyong and built up a loyal client list of dogs and owners who wouldn't go anywhere else.","Complete K9 brings grooming and daycare together in one clean, purpose-set-up space in Delacombe, so your dog can play all day and come home looking great.","The team takes the time to get to know each dog, which is why so many clients have been coming back for years."],
+ "aboutParas": [
+  "Mark started grooming in Buninyong and built up a loyal client list of dogs and owners who wouldn't go anywhere else.",
+  "Complete K9 brings grooming and daycare together in one clean, purpose-set-up space in Delacombe, so your dog can play all day and come home looking great.",
+  "The team takes the time to get to know each dog, which is why so many clients have been coming back for years."
+ ],
  "valuesHead": "What we care about",
- "values": [["Consistency","Your dog's cut done the same way, every time."],["Calm handling","Patience with puppies, seniors and nervous dogs."],["A clean salon","A tidy, well-run space dogs are happy to come back to."]],
+ "values": [
+  [
+   "Consistency",
+   "Your dog's cut done the same way, every time."
+  ],
+  [
+   "Calm handling",
+   "Patience with puppies, seniors and nervous dogs."
+  ],
+  [
+   "A clean salon",
+   "A tidy, well-run space dogs are happy to come back to."
+  ]
+ ],
  "contactHead": "Book a groom or daycare day",
  "contactSub": "Send a request and we'll confirm your booking. Mark fills up fast, so book ahead.",
  "formHead": "Booking request",
  "formButton": "Request a booking",
- "formExtra": [["Dog's name and breed","dog"]],
+ "formExtra": [
+  [
+   "Dog's name and breed",
+   "dog"
+  ]
+ ],
  "bandText": "Book your dog in with Mark.",
  "footerBlurb": "Dog grooming and daycare in Delacombe, Ballarat. Formerly Buninyong Dog Grooming.",
- "hours": [["Monday","9am – 5pm"],["Tuesday – Friday","8am – 6pm"],["Saturday & Sunday","Closed"]],
+ "hours": [
+  [
+   "Monday",
+   "9am – 5pm"
+  ],
+  [
+   "Tuesday – Friday",
+   "8am – 6pm"
+  ],
+  [
+   "Saturday & Sunday",
+   "Closed"
+  ]
+ ],
  "theme": {
   "fontsQuery": "family=DM+Serif+Display&family=Manrope:wght@400;600;700;800",
-  "headFont": "\"DM Serif Display\",Georgia,serif", "bodyFont": "Manrope,system-ui,sans-serif", "headWeight": "400", "headTrack": "-.005em", "headExtra": "",
-  "bg": "#F6F8F5", "surface": "#E9EFEA", "ink": "#17231E", "muted": "#53635B", "brand": "#1D3B2F", "brand2": "#2F5A47", "accent": "#C9A45C", "onBrand": "#FFFFFF", "onAccent": "#1D3B2F", "line": "#D3DDD6",
-  "radius": "6px", "btnRadius": "6px", "h1max": "92px", "headerBg": "#F6F8F5", "headerInk": "#17231E", "overlay": "rgba(13,32,24,.9)",
-  "footBg": "#15291F", "footInk": "#C3D2C9", "footHead": "#C9A45C",
-  "logoBg": "#1D3B2F", "logoFg": "#C9A45C", "icon": "scissors", "logoRadius": 4, "hero": "overlay"
+  "headFont": "\"DM Serif Display\",Georgia,serif",
+  "bodyFont": "Manrope,system-ui,sans-serif",
+  "headWeight": "400",
+  "headTrack": "-.005em",
+  "headExtra": "",
+  "bg": "#F6F8F5",
+  "surface": "#E9EFEA",
+  "ink": "#17231E",
+  "muted": "#53635B",
+  "brand": "#1D3B2F",
+  "brand2": "#2F5A47",
+  "accent": "#C9A45C",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#1D3B2F",
+  "line": "#D3DDD6",
+  "radius": "6px",
+  "btnRadius": "6px",
+  "h1max": "92px",
+  "headerBg": "#F6F8F5",
+  "headerInk": "#17231E",
+  "overlay": "rgba(13,32,24,.9)",
+  "footBg": "#15291F",
+  "footInk": "#C3D2C9",
+  "footHead": "#C9A45C",
+  "logoBg": "#1D3B2F",
+  "logoFg": "#C9A45C",
+  "icon": "scissors",
+  "logoRadius": 4,
+  "hero": "overlay",
+  "layout": {
+   "nav": "stripe",
+   "hero": "center",
+   "stats": "ticker",
+   "services": "cards",
+   "why": "stackimg",
+   "gallery": "grid",
+   "reviews": "light",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "arrow",
+   "order": "E",
+   "eyebrow": true
+  }
  }
 }

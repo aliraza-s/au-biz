@@ -232,6 +232,23 @@
   "logoBg": "#8FD3F4",
   "logoFg": "#FFFFFF",
   "icon": "bear",
-  "hero": "center"
+  "hero": "center",
+  "layout": {
+   "nav": "center",
+   "hero": "card",
+   "stats": "pills",
+   "services": "alt",
+   "why": "splitR",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "none",
+   "btn": "shadow",
+   "order": "D",
+   "eyebrow": true
+  }
  }
 }

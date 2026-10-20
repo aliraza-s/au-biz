@@ -212,6 +212,23 @@
   "logoBg": "#E10600",
   "logoFg": "#FFFFFF",
   "icon": "tow",
-  "hero": "overlay"
+  "hero": "overlay",
+  "layout": {
+   "nav": "split",
+   "hero": "editorial",
+   "stats": "ticker",
+   "services": "alt",
+   "why": "band",
+   "gallery": "grid",
+   "reviews": "light",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "blob",
+   "btn": "flat",
+   "order": "D",
+   "eyebrow": true
+  }
  }
 }

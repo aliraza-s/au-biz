@@ -218,6 +218,23 @@
   "footInk": "#C6D3E5",
   "footHead": "#F4A261",
   "logoBg": "#274C77",
-  "logoFg": "#F4A261"
+  "logoFg": "#F4A261",
+  "layout": {
+   "nav": "pill",
+   "hero": "arch",
+   "stats": "strip",
+   "services": "side",
+   "why": "split",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "dots",
+   "btn": "flat",
+   "order": "D",
+   "eyebrow": false
+  }
  }
 }

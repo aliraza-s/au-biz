@@ -213,6 +213,23 @@
   "logoBg": "#0F4C5C",
   "logoFg": "#F28C28",
   "icon": "wrench",
-  "hero": "split"
+  "hero": "split",
+  "layout": {
+   "nav": "bar",
+   "hero": "overlay",
+   "stats": "pills",
+   "services": "side",
+   "why": "dark",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "none",
+   "btn": "arrow",
+   "order": "B",
+   "eyebrow": true
+  }
  }
 }

@@ -228,6 +228,23 @@
   "logoFg": "#F4DADD",
   "icon": "scissors",
   "logoRadius": 16,
-  "hero": "arch"
+  "hero": "arch",
+  "layout": {
+   "nav": "pill",
+   "hero": "frame",
+   "stats": "pills",
+   "services": "cards",
+   "why": "split",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "dots",
+   "btn": "shadow",
+   "order": "D",
+   "eyebrow": true
+  }
  }
 }

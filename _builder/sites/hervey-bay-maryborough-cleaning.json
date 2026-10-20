@@ -226,6 +226,23 @@
   "logoFg": "#FFFFFF",
   "icon": "sparkle",
   "logoRadius": 16,
-  "hero": "split"
+  "hero": "split",
+  "layout": {
+   "nav": "split",
+   "hero": "stack",
+   "stats": "pills",
+   "services": "list",
+   "why": "band",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "blob",
+   "btn": "flat",
+   "order": "F",
+   "eyebrow": true
+  }
  }
 }

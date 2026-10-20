@@ -224,6 +224,23 @@
   "logoFg": "#16181D",
   "icon": "bolt",
   "logoRadius": 6,
-  "hero": "overlay"
+  "hero": "overlay",
+  "layout": {
+   "nav": "split",
+   "hero": "stack",
+   "stats": "none",
+   "services": "side",
+   "why": "band",
+   "gallery": "tilt",
+   "reviews": "featured",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "blob",
+   "btn": "arrow",
+   "order": "B",
+   "eyebrow": false
+  }
  }
 }

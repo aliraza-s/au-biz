@@ -209,6 +209,23 @@
   "logoBg": "#0D4F5C",
   "logoFg": "#E9C46A",
   "icon": "blocks",
-  "hero": "overlay"
+  "hero": "overlay",
+  "layout": {
+   "nav": "stripe",
+   "hero": "center",
+   "stats": "pills",
+   "services": "alt",
+   "why": "stackimg",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "grid",
+   "btn": "flat",
+   "order": "D",
+   "eyebrow": false
+  }
  }
 }
