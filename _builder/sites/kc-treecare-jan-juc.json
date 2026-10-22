@@ -1,0 +1,253 @@
+{
+ "slug": "kc-treecare-jan-juc",
+ "name": "KC Treecare",
+ "short": "KC Treecare",
+ "tag": "Arborists · Jan Juc & Surf Coast",
+ "street": "",
+ "suburb": "Jan Juc",
+ "state": "VIC",
+ "postcode": "3228",
+ "phone": "0400 945 891",
+ "phoneIntl": "+61400945891",
+ "email": "admin@kctreecare.com.au",
+ "formEmail": "admin@kctreecare.com.au",
+ "facebook": "https://www.facebook.com/profile.php?id=100034170386238",
+ "topline": "Climbing arborists since 2009 · Geelong, Bellarine & Surf Coast · Emergencies: 0400 945 891",
+ "addressLine": "Jan Juc VIC 3228",
+ "area": "Geelong, the Bellarine and the Surf Coast",
+ "areaShort": "Jan Juc, VIC",
+ "areaText": "KC Treecare is based in Jan Juc and works across Geelong, the Bellarine and the Surf Coast. Call Kevin on 0400 945 891.",
+ "mapQuery": "Jan Juc VIC 3228",
+ "seoTitle": "Arborist and tree removal in Jan Juc, Torquay & Geelong",
+ "metaDesc": "KC Treecare, Jan Juc VIC: tree removal, pruning, stump removal, service line clearance, fire prevention and tree reports for Geelong, the Bellarine and the Surf Coast. Call 0400 945 891.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "Kevin",
+ "schemaType": "LocalBusiness",
+ "badge": [
+  "Since 2009",
+  "Climbing arborists"
+ ],
+ "hero": {
+  "title": "Expert tree care for the Surf Coast.",
+  "titleHtml": "Expert tree care for the <em style='color:var(--accent)'>Surf Coast</em>.",
+  "lede": "Tree removals, pruning, stump removal and tree reports across Geelong, the Bellarine and the Surf Coast, from a Jan Juc team of local arborists.",
+  "trust": [
+   "15+ years climbing",
+   "Local Jan Juc team",
+   "Emergency call-outs"
+  ]
+ },
+ "images": {
+  "hero": "1626828476637-5bd713ef9f22",
+  "heroAlt": "Arborist climbing a tree",
+  "about": "1588878309774-4b3f42a19a8f",
+  "about2": "1669065054992-3151b15aab08",
+  "aboutAlt": "Arborist in a helmet up in a tree",
+  "gallery": [
+   "1754322449185-31f56117ed87",
+   "1754321871548-61bdbc6f1506",
+   "1754321860056-ca7254d5e7ac",
+   "1754321902809-5c21cbc67228",
+   "1754322449005-bdc38c631682",
+   "1657730390984-13ab529bb175"
+  ]
+ },
+ "servicesHead": "Tree services",
+ "servicesSub": "From a single fruit tree to a difficult removal over the house.",
+ "services": [
+  {
+   "id": "removals",
+   "title": "Tree removals",
+   "img": "1754321860056-ca7254d5e7ac",
+   "short": "Including the tricky ones.",
+   "long": "Tree removals, including difficult jobs: trees over houses, next to delicate gardens and in backyards with no machine access.",
+   "points": [
+    "Trees over houses",
+    "Confined spaces",
+    "Chipper available"
+   ]
+  },
+  {
+   "id": "pruning",
+   "title": "Pruning",
+   "img": "1754321902809-5c21cbc67228",
+   "short": "Healthier, safer trees.",
+   "long": "Tree pruning by climbing arborists, including fruit tree pruning.",
+   "points": [
+    "Tree pruning",
+    "Fruit tree pruning",
+    "Climbing arborists"
+   ]
+  },
+  {
+   "id": "powerlines",
+   "title": "Service line clearance",
+   "img": "1754321871548-61bdbc6f1506",
+   "short": "Branches kept clear of lines.",
+   "long": "Clearing trees and branches away from service lines.",
+   "points": [
+    "Service line clearance",
+    "Pruning back",
+    "Ask for a quote"
+   ]
+  },
+  {
+   "id": "fire",
+   "title": "Fire prevention, stumps & mulch",
+   "img": "1754321895426-68b04ba453e3",
+   "short": "Ready for fire season.",
+   "long": "Fire hazard reduction, stump removal and mulching.",
+   "points": [
+    "Fire hazard reduction",
+    "Stump removal",
+    "Mulching"
+   ]
+  },
+  {
+   "id": "reports",
+   "title": "Consultancy & tree reports",
+   "img": "1669065054992-3151b15aab08",
+   "short": "Reports and inventories.",
+   "long": "Tree reports and tree inventories for schools, caravan parks and development planning, plus expert witness work.",
+   "points": [
+    "Tree reports",
+    "Tree inventories",
+    "Expert witness"
+   ]
+  },
+  {
+   "id": "emergency",
+   "title": "Emergency call-outs",
+   "img": "1574359173269-291f060e6fe1",
+   "short": "Storm damage? Call us.",
+   "long": "We generally work a standard tradesman's day, but can be reached at most hours and will help in emergencies. We even do cat rescues.",
+   "points": [
+    "Emergency call-outs",
+    "Most hours",
+    "Cat rescue"
+   ]
+  }
+ ],
+ "whyHead": "Why the Surf Coast calls KC",
+ "whyText": "Kevin Chisholm lives and works in Jan Juc and employs local people. He holds a Bachelor of Environmental Science and a Graduate Certificate in Arboriculture from the University of Melbourne (Burnley).",
+ "why": [
+  "15 years (and counting) as climbing arborists",
+  "Six full-time local arborists",
+  "Difficult and confined-space removals",
+  "Passionate about tree care and sustainability"
+ ],
+ "galleryHead": "Up in the canopy",
+ "gallerySub": "Climbing, pruning and removals around Geelong and the Surf Coast.",
+ "faq": [
+  [
+   "What areas do you cover?",
+   "Geelong, the Bellarine and the Surf Coast. We're based in Jan Juc."
+  ],
+  [
+   "Can you remove a tree with no machine access?",
+   "Yes. We specialise in difficult removals: trees over houses, near delicate gardens and in backyards you can't get a machine into."
+  ],
+  [
+   "Do you do tree reports?",
+   "Yes. We prepare tree reports and inventories for schools, caravan parks and development planning, and do expert witness work."
+  ],
+  [
+   "What about emergencies?",
+   "We generally work a standard tradesman's day, but can be reached at most hours and will help in emergencies. Call 0400 945 891."
+  ]
+ ],
+ "aboutHead": "About KC Treecare",
+ "aboutSub": "Local arborists, Jan Juc.",
+ "aboutParas": [
+  "KC Treecare is run by director Kevin Chisholm, who lives and works in Jan Juc. The business was established in 2009, and the team has 15 years (and counting) as climbing arborists.",
+  "Kevin holds a Bachelor of Environmental Science and a Graduate Certificate in Arboriculture from the University of Melbourne (Burnley campus). He employs local people, and the team of six full-time arborists covers Geelong, the Bellarine and the Surf Coast."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Qualified",
+   "Graduate Certificate in Arboriculture."
+  ],
+  [
+   "Local",
+   "Jan Juc based, local crew."
+  ],
+  [
+   "Careful",
+   "Trees near houses and gardens."
+  ]
+ ],
+ "contactHead": "Get a tree quote",
+ "contactSub": "Tell us about the tree and we'll be in touch. Or call Kevin on 0400 945 891.",
+ "bandText": "Tree worrying you before the next big blow?",
+ "footerBlurb": "Arborist services for Geelong, the Bellarine and the Surf Coast, from Jan Juc.",
+ "hours": [
+  [
+   "Mon – Sun",
+   "7:00 am – 7:00 pm"
+  ],
+  [
+   "Emergencies",
+   "Call 0400 945 891"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Tree quote request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Tree & job details",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "18px",
+  "btnRadius": "40px",
+  "h1max": "76px",
+  "logoRadius": 16,
+  "headTrack": "0",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "bg": "#FBFAF6",
+  "headerBg": "#FBFAF6",
+  "logoFg": "#FFFFFF",
+  "onAccent": "#14262B",
+  "icon": "climber",
+  "fontsQuery": "family=Gilda+Display&family=Mulish:wght@400;600;800",
+  "headFont": "\"Gilda Display\",Georgia,serif",
+  "bodyFont": "Mulish,system-ui,sans-serif",
+  "surface": "#EEF2EE",
+  "ink": "#14262B",
+  "muted": "#4E6166",
+  "line": "#D9E1DE",
+  "brand": "#1D4E5A",
+  "brand2": "#E3EEEE",
+  "accent": "#E09F3E",
+  "headerInk": "#14262B",
+  "overlay": "rgba(16,40,46,.88)",
+  "footBg": "#10282E",
+  "footInk": "#BFD0D2",
+  "footHead": "#E09F3E",
+  "logoBg": "#1D4E5A",
+  "layout": {
+   "nav": "stripe",
+   "hero": "mosaic",
+   "stats": "pills",
+   "services": "cards",
+   "why": "stackimg",
+   "gallery": "tilt",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "card",
+   "footer": "bold",
+   "pagehead": "image",
+   "decor": "blob",
+   "btn": "arrow",
+   "order": "E",
+   "eyebrow": true
+  },
+  "hero": "mosaic"
+ }
+}

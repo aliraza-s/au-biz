@@ -1,0 +1,251 @@
+{
+ "slug": "hawe-earthmoving-bundaberg",
+ "name": "Hawe Earthmoving",
+ "short": "Hawe Earthmoving",
+ "tag": "Civil contracting & plant hire · Bundaberg since 1968",
+ "street": "9 Collins Street",
+ "suburb": "Bundaberg East",
+ "state": "QLD",
+ "postcode": "4670",
+ "phone": "0415 798 364",
+ "phoneIntl": "+61415798364",
+ "facebook": "https://www.facebook.com/HaweEarthmoving/",
+ "topline": "Civil engineering contracts & plant hire · Bundaberg since 1968 · Office (07) 4152 8498",
+ "addressLine": "9 Collins Street, Bundaberg East QLD 4670",
+ "area": "Bundaberg and the Wide Bay Burnett",
+ "areaShort": "Bundaberg East, QLD",
+ "areaText": "Hawe Earthmoving works out of 9 Collins Street, Bundaberg East, across Bundaberg and surrounding areas. Call 0415 798 364 or the office on (07) 4152 8498.",
+ "mapQuery": "9 Collins Street, Bundaberg East QLD 4670",
+ "seoTitle": "Earthmoving, civil works & plant hire in Bundaberg",
+ "metaDesc": "Hawe Earthmoving, Bundaberg East: civil contracting since 1968. Excavation, road construction, land clearing, dams, kerbing, stormwater, concrete works and plant hire. Call 0415 798 364.",
+ "ctaLabel": "Request a quote",
+ "ownerOrUs": "Hawe",
+ "schemaType": "GeneralContractor",
+ "badge": [
+  "Since 1968",
+  "Bundaberg civil contractor"
+ ],
+ "hero": {
+  "title": "Quality personnel & equipment to finish civil projects on time.",
+  "titleHtml": "Quality people &amp; machines to finish civil projects <em style='color:var(--accent)'>on time</em>.",
+  "lede": "A Bundaberg civil contractor since 1968 that started with a single dozer. Earthworks, roads, dams, drainage, concrete works and plant hire across Bundaberg and surrounds.",
+  "trust": [
+   "Since 1968",
+   "Family owned",
+   "Free quotes"
+  ]
+ },
+ "images": {
+  "hero": "1504307651254-35680f356dfd",
+  "heroAlt": "Earthmoving machinery working on a site",
+  "about": "1530863506128-dc9eb5c3e0fc",
+  "about2": "1563166423-482a8c14b2d6",
+  "aboutAlt": "Excavator on a dirt site",
+  "gallery": [
+   "1780054984791-ef3f58ca753e",
+   "1768085091650-e8e89ef57b76",
+   "1784058018200-f1eb0c6fcfcf",
+   "1649829726631-fcd218631ab5",
+   "1764422743505-97c9ea0e43f2",
+   "1616179058441-37aa58affac8"
+  ]
+ },
+ "servicesHead": "Civil works & plant hire",
+ "servicesSub": "From a house pad to a subdivision. Call 0415 798 364 for a free quote.",
+ "services": [
+  {
+   "id": "earthworks",
+   "title": "Earthworks & excavation",
+   "img": "1504307651254-35680f356dfd",
+   "short": "Bulk and detailed excavation.",
+   "long": "General earthworks, bulk and detailed excavation, cut and fill, land levelling with machine control, and building pads.",
+   "points": [
+    "Cut & fill / levelling",
+    "Machine control",
+    "Building pads"
+   ]
+  },
+  {
+   "id": "roads",
+   "title": "Roads & subdivisions",
+   "img": "1649807533255-bbc9c9fb7d77",
+   "short": "Roads, kerbs and subdivisions.",
+   "long": "Road construction and upgrades, kerbing, and residential and commercial subdivisions.",
+   "points": [
+    "Road building",
+    "Kerb & channel",
+    "Subdivisions"
+   ]
+  },
+  {
+   "id": "clearing",
+   "title": "Land clearing & dams",
+   "img": "1583024011792-b165975b52f5",
+   "short": "Sites cleared and shaped.",
+   "long": "Land clearing and site preparation, dam building, rock retaining walls, rock breaking and avocado mounding.",
+   "points": [
+    "Site preparation",
+    "Dam building",
+    "Avocado mounding"
+   ]
+  },
+  {
+   "id": "services",
+   "title": "Water, sewer & stormwater",
+   "img": "1630288214173-a119cf823388",
+   "short": "Pipes in the ground.",
+   "long": "Water and sewer reticulation, sewer pump stations, rising and irrigation mains, stormwater, electrical and communications reticulation, with poly and electrofusion welding.",
+   "points": [
+    "Sewer pump stations",
+    "Irrigation mains",
+    "Poly welding"
+   ]
+  },
+  {
+   "id": "concrete",
+   "title": "Concrete works & driveways",
+   "img": "1574757987642-5755f0839101",
+   "short": "Concrete, drainage, trenches.",
+   "long": "Concrete works, driveways, drainage, trenches, sedimentation traps and environmental projects.",
+   "points": [
+    "Driveways",
+    "Drainage & trenches",
+    "Sediment traps"
+   ]
+  },
+  {
+   "id": "hire",
+   "title": "Plant hire & haulage",
+   "img": "1587052694737-a972e4186288",
+   "short": "Well-kept machines.",
+   "long": "Excavators, graders, dozers, rollers, scrapers, backhoes, loaders, skid steers, water trucks, truck and dog, float and bulk or heavy haulage. Sand and gravel supplies too.",
+   "points": [
+    "Excavators to scrapers",
+    "Truck & dog, float",
+    "Sand & gravel"
+   ]
+  }
+ ],
+ "whyHead": "Built on 50+ years of Bundaberg jobs",
+ "whyText": "Every machine in the fleet has a lifelong ID number and its own service schedule, built from daily checklists, manufacturer guidelines, driver handbooks and TMR requirements.",
+ "why": [
+  "Civil contracting in Bundaberg since 1968",
+  "Family owned and locally owned",
+  "Fleet maintained to TMR requirements",
+  "Free estimates, reliable service"
+ ],
+ "galleryHead": "On site",
+ "gallerySub": "Civil, commercial and rural projects around Bundaberg.",
+ "faq": [
+  [
+   "How long has Hawe Earthmoving been around?",
+   "Since 1968. The business started with a single dozer and has grown on the back of quality service."
+  ],
+  [
+   "Do you hire out machines?",
+   "Yes. Excavators, graders, dozers, rollers, scrapers, backhoes, loaders, skid steers, trucks and more. Machine hire is also available for training purposes."
+  ],
+  [
+   "Do you supply sand and gravel?",
+   "Yes, we supply sand and gravel."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0415 798 364, ring the office on (07) 4152 8498, or send the form on the contact page. Quotes are free."
+  ]
+ ],
+ "aboutHead": "About Hawe Earthmoving",
+ "aboutSub": "Civil contractors, Bundaberg since 1968.",
+ "aboutParas": [
+  "Hawe Earthmoving has been a civil contracting firm in Bundaberg since 1968. It started with a single dozer and has grown on the back of quality service.",
+  "Today the family-owned business takes on civil, commercial and rural projects of all sizes across Bundaberg and the Wide Bay Burnett, from road construction and subdivisions to dams, drainage and concrete works, with its own fleet of plant for hire."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "On time",
+   "Quality people and equipment."
+  ],
+  [
+   "Maintained",
+   "Every machine on a schedule."
+  ],
+  [
+   "Local",
+   "Family owned, Bundaberg based."
+  ]
+ ],
+ "contactHead": "Request a quote",
+ "contactSub": "Tell us about the project or the machine you need. Or call 0415 798 364.",
+ "bandText": "Got a site that needs moving?",
+ "footerBlurb": "Civil engineering contracts and plant hire, Bundaberg East. Since 1968.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7:00 am – 5:00 pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Project or hire request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Project or machine needed",
+   "project"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "2px",
+  "h1max": "84px",
+  "logoRadius": 4,
+  "headTrack": ".005em",
+  "headExtra": "text-transform:uppercase;",
+  "onBrand": "#FFFFFF",
+  "headWeight": "800",
+  "bg": "#F6F5F1",
+  "headerBg": "#151515",
+  "logoFg": "#151515",
+  "onAccent": "#151515",
+  "icon": "dozer",
+  "fontsQuery": "family=Big+Shoulders+Display:wght@700;800;900&family=Archivo:wght@400;500;700",
+  "headFont": "\"Big Shoulders Display\",Impact,sans-serif",
+  "bodyFont": "Archivo,system-ui,sans-serif",
+  "surface": "#ECEAE3",
+  "ink": "#151515",
+  "muted": "#55524B",
+  "line": "#DCD8CC",
+  "brand": "#151515",
+  "brand2": "#FFF4CC",
+  "accent": "#F2B705",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(15,15,15,.82)",
+  "footBg": "#151515",
+  "footInk": "#BDB9AE",
+  "footHead": "#F2B705",
+  "logoBg": "#F2B705",
+  "layout": {
+   "nav": "center",
+   "hero": "frame",
+   "stats": "ticker",
+   "services": "list",
+   "why": "splitR",
+   "gallery": "grid",
+   "reviews": "light",
+   "hours": "grid",
+   "cta": "dark",
+   "footer": "grid",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "flat",
+   "order": "D",
+   "eyebrow": false
+  },
+  "hero": "frame"
+ }
+}

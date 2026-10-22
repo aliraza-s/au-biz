@@ -1,0 +1,232 @@
+{
+ "slug": "town-rural-fencing-port-lincoln",
+ "name": "Town & Rural Fencing Services",
+ "short": "Town & Rural Fencing",
+ "tag": "Fencing · Port Lincoln & Eyre Peninsula",
+ "street": "29 Hanchant Road",
+ "suburb": "Port Lincoln",
+ "state": "SA",
+ "postcode": "5606",
+ "phone": "(08) 8682 4680",
+ "phoneIntl": "+61886824680",
+ "email": "info@townfencing.com.au",
+ "formEmail": "info@townfencing.com.au",
+ "topline": "Town & rural fencing · Eyre Peninsula, WA border to Port Augusta · Phil 0429 933 293 · Hayden 0488 358 321",
+ "addressLine": "29 Hanchant Road, Port Lincoln SA 5606",
+ "area": "the Eyre Peninsula, from the WA border to Port Augusta",
+ "areaShort": "Port Lincoln, SA",
+ "areaText": "We're at 29 Hanchant Road, Port Lincoln, and cover the Eyre Peninsula from the WA border to Port Augusta and all in between. Trade enquiries welcome.",
+ "mapQuery": "29 Hanchant Road, Port Lincoln SA 5606",
+ "seoTitle": "Town and rural fencing in Port Lincoln & the Eyre Peninsula",
+ "metaDesc": "Town & Rural Fencing Services, 29 Hanchant Road, Port Lincoln: personal service, expert advice and quality fencing across the Eyre Peninsula, WA border to Port Augusta. Trade enquiries welcome. (08) 8682 4680.",
+ "ctaLabel": "Talk fencing",
+ "ownerOrUs": "Phil",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Eyre Peninsula",
+  "WA border to Port Augusta"
+ ],
+ "hero": {
+  "title": "Fencing for town and rural Eyre Peninsula.",
+  "titleHtml": "Fencing for town &amp; <em style='color:var(--accent)'>rural</em> Eyre Peninsula.",
+  "lede": "Personal service, expert advice and a commitment to quality. We'll guide you through your fencing job and take the hassle out of it, from Port Lincoln to the WA border and Port Augusta.",
+  "trust": [
+   "Personal service",
+   "Expert advice",
+   "Trade enquiries welcome"
+  ]
+ },
+ "images": {
+  "hero": "1653942786759-f3caff948222",
+  "heroAlt": "Wooden fence across a grassy paddock",
+  "about": "1652697539681-23f05288f0e0",
+  "about2": "1758636588716-5dc04a819c24",
+  "aboutAlt": "Country road with a fence line and farm behind",
+  "gallery": [
+   "1702641397914-30fbd18c0d93",
+   "1657471967963-46c95deaf6b5",
+   "1676315545741-6363b941ce60",
+   "1610529079154-e7adfb87558c",
+   "1643117206942-d46e92da506c",
+   "1715886741261-cbb80f21522f"
+  ]
+ },
+ "servicesHead": "How we can help",
+ "servicesSub": "Speak with us today about your fencing. Call (08) 8682 4680.",
+ "services": [
+  {
+   "id": "town",
+   "title": "Town fencing",
+   "img": "1657471967963-46c95deaf6b5",
+   "short": "Fences for town blocks.",
+   "long": "Fencing for homes and businesses in Port Lincoln and the towns of the Eyre Peninsula.",
+   "points": [
+    "Homes & businesses",
+    "Port Lincoln & towns",
+    "Quality work"
+   ]
+  },
+  {
+   "id": "rural",
+   "title": "Rural fencing",
+   "img": "1702641397914-30fbd18c0d93",
+   "short": "Paddocks and farms.",
+   "long": "Fencing for farms and rural properties right across the Eyre Peninsula, from the WA border to Port Augusta.",
+   "points": [
+    "Farms & paddocks",
+    "Across the Peninsula",
+    "Quality work"
+   ]
+  },
+  {
+   "id": "advice",
+   "title": "Advice & planning",
+   "img": "1652697539681-23f05288f0e0",
+   "short": "We guide you through it.",
+   "long": "We guide you through your fencing requirements and offer suggestions to take the hassle out of your project.",
+   "points": [
+    "Expert advice",
+    "Suggestions",
+    "No hassle"
+   ]
+  },
+  {
+   "id": "trade",
+   "title": "Trade enquiries",
+   "img": "1610529079154-e7adfb87558c",
+   "short": "Builders and trades welcome.",
+   "long": "Trade enquiries are welcome. Call the office on (08) 8682 4680.",
+   "points": [
+    "Trade welcome",
+    "Office (08) 8682 4680",
+    "Port Lincoln"
+   ]
+  }
+ ],
+ "whyHead": "Why Eyre Peninsula uses Town & Rural",
+ "whyText": "We maintain a small work force so that we can ensure a quality service. Speak with us today about your fencing requirements.",
+ "why": [
+  "Personal service from Phil and the team",
+  "Expert advice and suggestions",
+  "Small work force, quality service",
+  "WA border to Port Augusta and all in between"
+ ],
+ "galleryHead": "Fence lines",
+ "gallerySub": "Town and rural fencing across the Eyre Peninsula.",
+ "faq": [
+  [
+   "Where do you work?",
+   "Across the Eyre Peninsula, from the WA border to Port Augusta and all in between."
+  ],
+  [
+   "Do you take trade enquiries?",
+   "Yes, trade enquiries are welcome."
+  ],
+  [
+   "Can you help me plan my fence?",
+   "Yes. We'll guide you through your fencing requirements and offer suggestions to take the hassle out of your project."
+  ],
+  [
+   "How do I contact you?",
+   "Call the office on (08) 8682 4680 (Mon–Fri 9:00–5:30), Phil on 0429 933 293 or Hayden on 0488 358 321, or email info@townfencing.com.au."
+  ]
+ ],
+ "aboutHead": "About Town & Rural Fencing",
+ "aboutSub": "Port Lincoln fencing, Eyre Peninsula wide.",
+ "aboutParas": [
+  "Town & Rural Fencing Services is a Port Lincoln business at 29 Hanchant Road, run by Phil and Jill Borlase.",
+  "We take pride in our work, offering personal service, expert advice and a commitment to quality. We maintain a small work force so that we can ensure a quality service, and we cover the Eyre Peninsula from the WA border to Port Augusta."
+ ],
+ "valuesHead": "What we stand for",
+ "values": [
+  [
+   "Personal",
+   "You deal with us directly."
+  ],
+  [
+   "Expert",
+   "Advice that saves hassle."
+  ],
+  [
+   "Quality",
+   "A small, careful crew."
+  ]
+ ],
+ "contactHead": "Talk to us about your fence",
+ "contactSub": "Tell us about the job and we'll be in touch. Or call (08) 8682 4680.",
+ "bandText": "Planning a fence anywhere on the Peninsula?",
+ "footerBlurb": "Town and rural fencing for Port Lincoln and the Eyre Peninsula. Trade enquiries welcome.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "9:00 am – 5:30 pm"
+  ],
+  [
+   "Phil",
+   "0429 933 293"
+  ],
+  [
+   "Hayden",
+   "0488 358 321"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Fencing enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Fence type & length",
+   "fence"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "4px",
+  "h1max": "70px",
+  "logoRadius": 3,
+  "headTrack": "0",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "bg": "#FBF8F1",
+  "headerBg": "#FBF8F1",
+  "logoFg": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "icon": "wirefence",
+  "fontsQuery": "family=Crete+Round&family=Karla:wght@400;500;700",
+  "headFont": "\"Crete Round\",Georgia,serif",
+  "bodyFont": "Karla,system-ui,sans-serif",
+  "surface": "#F1EADB",
+  "ink": "#26291C",
+  "muted": "#5E604F",
+  "line": "#E2D9C4",
+  "brand": "#4A5D23",
+  "brand2": "#EEF0DD",
+  "accent": "#C98A1B",
+  "headerInk": "#26291C",
+  "overlay": "rgba(38,45,20,.85)",
+  "footBg": "#2B3416",
+  "footInk": "#D4D6BF",
+  "footHead": "#E3B04B",
+  "logoBg": "#4A5D23",
+  "layout": {
+   "nav": "pill",
+   "hero": "center",
+   "stats": "none",
+   "services": "tiles",
+   "why": "band",
+   "gallery": "strip",
+   "reviews": "slider",
+   "hours": "cards",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "light",
+   "decor": "lines",
+   "btn": "arrow",
+   "order": "B",
+   "eyebrow": false
+  },
+  "hero": "center"
+ }
+}

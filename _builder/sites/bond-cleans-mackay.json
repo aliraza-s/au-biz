@@ -1,0 +1,231 @@
+{
+ "slug": "bond-cleans-mackay",
+ "name": "Bond Cleans Mackay",
+ "short": "Bond Cleans Mackay",
+ "tag": "Bond & end of lease cleaning · Mackay",
+ "street": "",
+ "suburb": "Rural View",
+ "state": "QLD",
+ "postcode": "4740",
+ "phone": "0447 000 673",
+ "phoneIntl": "+61447000673",
+ "facebook": "https://www.facebook.com/profile.php?id=100087556775050",
+ "topline": "Locally run · Mobile bond cleaning across Mackay · Free quotes 0447 000 673",
+ "addressLine": "Rural View, Mackay QLD 4740",
+ "area": "Mackay and surrounds",
+ "areaShort": "Rural View, Mackay",
+ "areaText": "Bond Cleans Mackay is a locally run, mobile service based in Rural View. Call or text 0447 000 673 for a free quote.",
+ "mapQuery": "Rural View QLD 4740",
+ "seoTitle": "Bond cleaning & end of lease cleans in Mackay",
+ "metaDesc": "Bond Cleans Mackay, Rural View QLD: locally run, mobile bond cleaning, end of lease cleaning and house cleaning across Mackay. Free quotes on 0447 000 673.",
+ "ctaLabel": "Free quote",
+ "ownerOrUs": "us",
+ "schemaType": "HouseCleaningService",
+ "badge": [
+  "Free quotes",
+  "Locally run"
+ ],
+ "hero": {
+  "title": "Moving out? Leave the bond clean to us.",
+  "titleHtml": "Moving out? Leave the <em style='color:var(--accent)'>bond clean</em> to us.",
+  "lede": "Bond cleaning, end of lease cleaning and house cleaning from a locally run Mackay business. We come to you. Free quotes.",
+  "trust": [
+   "Locally run",
+   "Mobile service",
+   "Free quotes"
+  ]
+ },
+ "images": {
+  "hero": "1581578731548-c64695cc6952",
+  "heroAlt": "Cleaner wiping down a kitchen bench",
+  "about": "1556910096-6f5e72db6803",
+  "about2": "1758273705627-937374bfa978",
+  "aboutAlt": "Clean, bright kitchen",
+  "gallery": [
+   "1649083048337-4aeb6dda80bb",
+   "1556909212-d5b604d0c90d",
+   "1556912167-f556f1f39fdf",
+   "1758272421995-e993f97fae22",
+   "1556185781-a47769abb7ee",
+   "1502005097973-6a7082348e28"
+  ]
+ },
+ "servicesHead": "Cleaning services",
+ "servicesSub": "Text 0447 000 673 with your address and number of bedrooms for a free quote.",
+ "services": [
+  {
+   "id": "bond",
+   "title": "Bond cleaning",
+   "img": "1581578731548-c64695cc6952",
+   "short": "Ready for the final inspection.",
+   "long": "Bond cleaning for tenants moving out of rentals around Mackay.",
+   "points": [
+    "Rentals & units",
+    "Moving out",
+    "Free quote"
+   ]
+  },
+  {
+   "id": "eol",
+   "title": "End of lease cleaning",
+   "img": "1556910096-6f5e72db6803",
+   "short": "Handover-ready homes.",
+   "long": "End of lease cleans for tenants, landlords and property managers.",
+   "points": [
+    "Tenants",
+    "Landlords",
+    "Property managers"
+   ]
+  },
+  {
+   "id": "house",
+   "title": "House cleaning",
+   "img": "1556912167-f556f1f39fdf",
+   "short": "A clean home, done for you.",
+   "long": "House cleaning services across Mackay.",
+   "points": [
+    "Homes",
+    "Mobile service",
+    "Ask for a quote"
+   ]
+  },
+  {
+   "id": "pro",
+   "title": "Professional cleans",
+   "img": "1758273705627-937374bfa978",
+   "short": "When it needs to be spotless.",
+   "long": "Professional cleans from a locally run Mackay business.",
+   "points": [
+    "Locally run",
+    "We come to you",
+    "Cash, EFTPOS & card"
+   ]
+  }
+ ],
+ "whyHead": "Why Mackay renters call us",
+ "whyText": "We're a locally run business based in Rural View. We come to you, quotes are free, and you can pay by cash, EFT, EFTPOS, Visa or Mastercard.",
+ "why": [
+  "Locally run Mackay business",
+  "Mobile service: we come to you",
+  "Free quotes",
+  "Cash, EFT, EFTPOS, Visa & Mastercard"
+ ],
+ "galleryHead": "Fresh & clean",
+ "gallerySub": "Kitchens, bathrooms and whole homes.",
+ "faq": [
+  [
+   "Where are you based?",
+   "We're based in Rural View and are a mobile service, so we come to you around Mackay."
+  ],
+  [
+   "Is the quote free?",
+   "Yes, quotes are free. Call or text 0447 000 673."
+  ],
+  [
+   "How can I pay?",
+   "Cash, EFT, EFTPOS, Visa or Mastercard."
+  ],
+  [
+   "What do you clean?",
+   "Bond cleans, end of lease cleans, house cleaning and professional cleans."
+  ]
+ ],
+ "aboutHead": "About Bond Cleans Mackay",
+ "aboutSub": "Locally run cleaning, Rural View.",
+ "aboutParas": [
+  "Bond Cleans Mackay is a locally run cleaning business based in Rural View, Mackay.",
+  "We're a mobile service doing bond cleaning, end of lease cleaning, house cleaning and professional cleans. Get in touch for a free quote."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Mackay run and based."
+  ],
+  [
+   "Mobile",
+   "We come to you."
+  ],
+  [
+   "Easy",
+   "Free quotes, easy payment."
+  ]
+ ],
+ "contactHead": "Get a free quote",
+ "contactSub": "Send your address, bedrooms and move-out date. Or call 0447 000 673.",
+ "bandText": "Lease ending soon?",
+ "footerBlurb": "Bond, end of lease and house cleaning. Locally run in Rural View, Mackay.",
+ "hours": [
+  [
+   "Opens",
+   "7:00 am"
+  ],
+  [
+   "Call or text",
+   "0447 000 673"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Bond clean quote",
+ "formButton": "Send by text",
+ "formExtra": [
+  [
+   "Bedrooms & bathrooms",
+   "rooms"
+  ],
+  [
+   "Move-out date",
+   "date"
+  ]
+ ],
+ "theme": {
+  "radius": "22px",
+  "btnRadius": "40px",
+  "h1max": "68px",
+  "logoRadius": 20,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "800",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "logoFg": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "icon": "keyhouse",
+  "fontsQuery": "family=Urbanist:wght@600;700;800&family=Rubik:wght@400;500",
+  "headFont": "Urbanist,system-ui,sans-serif",
+  "bodyFont": "Rubik,system-ui,sans-serif",
+  "surface": "#EAF7F6",
+  "ink": "#10302F",
+  "muted": "#4C6665",
+  "line": "#D4EBE9",
+  "brand": "#0E7C86",
+  "brand2": "#E0F4F3",
+  "accent": "#FF6B6B",
+  "headerInk": "#10302F",
+  "overlay": "rgba(8,70,76,.85)",
+  "footBg": "#0A4A50",
+  "footInk": "#BFE0DE",
+  "footHead": "#FF9A8A",
+  "logoBg": "#0E7C86",
+  "layout": {
+   "nav": "bar",
+   "hero": "editorial",
+   "stats": "pills",
+   "services": "tiles",
+   "why": "split",
+   "gallery": "bento",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "band",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "blob",
+   "btn": "shadow",
+   "order": "C",
+   "eyebrow": true
+  },
+  "hero": "editorial"
+ }
+}
