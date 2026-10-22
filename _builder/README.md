@@ -11,3 +11,7 @@ Put the business's own photos (from their Google Business Profile or Facebook pa
 ## Layout
 `theme.layout` in each JSON picks the composition (nav, hero, services, why, gallery, reviews, hours, cta, footer,
 pagehead, decor, buttons, section order). Options are listed at the top of `build.py`.
+
+## Custom sites
+`_builder/custom/` holds hand-built sites that do not use build.py (e.g. `mister_shifter.py` -> `mister-shifter-removals/`).
+Their old generic JSON is kept beside them as `*.generic.json` so build.py never overwrites the custom folder.
