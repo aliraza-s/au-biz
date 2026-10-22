@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://aliraza-s.github.io/au-biz/mister-shifter-removals/sitemap.xml
