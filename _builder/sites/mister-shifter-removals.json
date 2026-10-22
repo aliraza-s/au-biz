@@ -2,7 +2,7 @@
  "slug": "mister-shifter-removals",
  "name": "Mister Shifter Removals",
  "short": "Mister Shifter",
- "tag": "Removals · Lismore NSW",
+ "tag": "Removals · Lismore & Northern Rivers",
  "street": "",
  "suburb": "Lismore",
  "state": "NSW",
@@ -10,152 +10,140 @@
  "phone": "0475 074 906",
  "phoneIntl": "+61475074906",
  "facebook": "https://www.facebook.com/mistershifterremovals/",
- "topline": "Lismore & the Northern Rivers · Man and ute removals",
+ "topline": "Truck removals across Lismore & the Northern Rivers · Call Will",
  "addressLine": "Lismore NSW 2480",
  "area": "Lismore and the Northern Rivers",
  "areaShort": "Lismore, Northern Rivers",
- "areaText": "Mister Shifter Removals is Will, a man-and-ute removalist based in Lismore. Call 0475 074 906 to talk about your move.",
+ "areaText": "Mister Shifter Removals is based in Lismore and runs trucks across the Northern Rivers. Call Will on 0475 074 906 to talk about your move.",
  "mapQuery": "Lismore NSW 2480",
- "seoTitle": "Man and Ute Removals in Lismore NSW",
- "metaDesc": "Mister Shifter Removals: man and ute removals in Lismore and the Northern Rivers. Call Will on 0475 074 906.",
+ "seoTitle": "Removalists in Lismore & the Northern Rivers",
+ "metaDesc": "Mister Shifter Removals: truck removals for homes and businesses across Lismore and the Northern Rivers. Call Will on 0475 074 906 for a quote.",
  "ctaLabel": "Get a moving quote",
  "ownerOrUs": "Will",
  "schemaType": "MovingCompany",
  "badge": [
-  "Man & ute",
-  "Lismore NSW"
+  "Trucks",
+  "Lismore & Northern Rivers"
  ],
  "hero": {
-  "title": "Moving in Lismore? Call Mister Shifter.",
-  "titleHtml": "Moving in Lismore?<br>Call Mister Shifter.",
-  "lede": "Man-and-ute removals from Will, for smaller moves and pickups around Lismore and the Northern Rivers.",
+  "title": "Moving in the Northern Rivers? Mister Shifter has the trucks.",
+  "titleHtml": "Moving in the Northern Rivers? <span style=\"color:var(--accent)\">Mister Shifter</span> has the trucks.",
+  "lede": "Truck removals for homes and businesses across Lismore and the Northern Rivers. Tell Will what's moving and where, and get a straight quote.",
   "trust": [
-   "Man & ute service",
+   "Truck removals",
    "Deal direct with Will",
-   "Call or text"
+   "Quotes by phone or text"
   ]
  },
  "images": {
-  "hero": "1714647211902-bb711d643a17",
-  "heroAlt": "Moving boxes in a living room",
-  "about": "1586781383963-8e66f88077ec",
+  "hero": "1616432043562-3671ea2e5242",
+  "heroAlt": "Removal truck on the road",
+  "about": "1600518464441-9154a4dea21b",
   "about2": "1566576721346-d4a3b4eaeb55",
-  "aboutAlt": "Cardboard moving boxes",
+  "aboutAlt": "Loading a removal truck",
   "gallery": [
-   "1600725935160-f67ee4f6084a",
-   "1730154838368-c37b1fdebcf6",
-   "1663625318264-695d2d04f11a",
-   "1609143739217-01b60dad1c67",
    "1601467995997-ac1ae9a8fff4",
+   "1600725935160-f67ee4f6084a",
+   "1586206670130-4c6d8e646c9a",
+   "1586781383963-8e66f88077ec",
+   "1592838064575-70ed626d3a0e",
    "1624137527136-66e631bdaa0e"
   ]
  },
- "servicesHead": "How Will can help",
- "servicesSub": "Man-and-ute removals around Lismore.",
+ "servicesHead": "Removal services",
+ "servicesSub": "House and business moves by truck across Lismore and the Northern Rivers.",
  "services": [
   {
-   "id": "small-moves",
-   "title": "Small moves",
-   "img": "1730154838368-c37b1fdebcf6",
-   "short": "Units, rooms and smaller households.",
-   "long": "Moving a unit, a room or a smaller load? Tell Will what's going and where, and he'll let you know what it'll take.",
-   "points": [
-    "Units & rooms",
-    "Local moves",
-    "Call for a quote"
-   ]
-  },
-  {
-   "id": "pickups",
-   "title": "Pickups & deliveries",
+   "id": "house-moves",
+   "title": "House moves",
    "img": "1601467995997-ac1ae9a8fff4",
-   "short": "Bought something big? We'll grab it.",
-   "long": "Furniture or items to collect and drop off around the Northern Rivers. Give Will a ring with the details.",
+   "short": "Full households moved by truck.",
+   "long": "House moves by truck around Lismore and the Northern Rivers. Call Will with the size of the place, where it's going and your dates.",
    "points": [
-    "Furniture pickups",
-    "Marketplace buys",
-    "Door to door"
+    "Houses & units",
+    "Northern Rivers",
+    "Quote by phone"
    ]
   },
   {
-   "id": "man-and-ute",
-   "title": "Man & ute hire",
-   "img": "1609143739217-01b60dad1c67",
-   "short": "An extra set of hands and a ute.",
-   "long": "Need a ute and someone to help lift? That's exactly what Mister Shifter does.",
+   "id": "business-moves",
+   "title": "Business & office moves",
+   "img": "1600518464441-9154a4dea21b",
+   "short": "Offices, shops and workplaces.",
+   "long": "Moving a business? Tell Will what needs shifting and when you need to be in, and he'll work out the truck and crew.",
    "points": [
-    "Loading & unloading",
-    "Ute transport",
-    "Lismore based"
+    "Offices & shops",
+    "Planned around your hours",
+    "Call to discuss"
    ]
   },
   {
-   "id": "booking",
-   "title": "Easy booking",
-   "img": "1566576721346-d4a3b4eaeb55",
-   "short": "Call, text or send a request.",
-   "long": "Call or text 0475 074 906, or send the details through this site: what's moving, from where, to where and when.",
+   "id": "furniture",
+   "title": "Furniture & single-item moves",
+   "img": "1600725935160-f67ee4f6084a",
+   "short": "Big items picked up and delivered.",
+   "long": "Furniture and large items collected and delivered around the Northern Rivers.",
    "points": [
-    "Phone or text",
-    "Facebook messages",
-    "Talk to Will"
+    "Furniture",
+    "Large items",
+    "Local deliveries"
    ]
   }
  ],
- "whyHead": "Why call Will",
- "whyText": "A local man-and-ute removalist you can deal with directly.",
+ "whyHead": "Why locals call Will",
+ "whyText": "Mister Shifter Removals is a Lismore removalist running trucks across the Northern Rivers. You talk to Will directly, from quote to delivery.",
  "why": [
+  "Truck removals, not a ute",
   "Based in Lismore",
-  "Man-and-ute service",
   "Deal direct with Will",
-  "Easy to book by phone or text"
+  "Quotes by phone or text"
  ],
- "galleryHead": "Packed and ready",
- "gallerySub": "Moves and pickups around the Northern Rivers.",
+ "galleryHead": "On the move",
+ "gallerySub": "Trucks, loading and deliveries.",
  "faq": [
   [
-   "Where are you based?",
-   "Lismore NSW, in the Northern Rivers."
+   "What areas do you cover?",
+   "Lismore and the Northern Rivers. Call to check your move."
   ],
   [
-   "What kind of moves do you do?",
-   "Man-and-ute removals: smaller moves, pickups and deliveries."
+   "Do you use trucks?",
+   "Yes. Mister Shifter runs trucks for house and business moves."
   ],
   [
    "How do I get a quote?",
-   "Call or text Will on 0475 074 906, or send a request through this site."
+   "Call or text Will on 0475 074 906 with what's moving, where to and your dates."
   ],
   [
-   "What should I tell you?",
-   "What's moving, pickup and drop-off suburbs, and the date you have in mind."
+   "Can you do a single big item?",
+   "Yes, furniture and large items are fine. Call with the details."
   ]
  ],
- "aboutHead": "About Mister Shifter Removals",
- "aboutSub": "Will, Lismore.",
+ "aboutHead": "About Mister Shifter",
+ "aboutSub": "Truck removals from Lismore.",
  "aboutParas": [
-  "Mister Shifter Removals is Will, a man-and-ute removalist based in Lismore.",
-  "Whether it's a small move or a single item that needs picking up, you'll deal with Will directly.",
+  "Mister Shifter Removals is Will's removalist business, based in Lismore and working across the Northern Rivers.",
+  "The business runs trucks for house and business moves, as well as furniture and large-item deliveries.",
   "Call or text 0475 074 906 or message us on Facebook."
  ],
  "valuesHead": "How we work",
  "values": [
   [
-   "Local",
-   "Lismore based."
+   "Trucks",
+   "Set up for full house and business moves."
   ],
   [
    "Direct",
-   "You talk to Will."
+   "You deal with Will from quote to delivery."
   ],
   [
-   "Handy",
-   "A ute and a spare set of hands."
+   "Local",
+   "Based in Lismore, working across the Northern Rivers."
   ]
  ],
  "contactHead": "Get a moving quote",
- "contactSub": "Tell us what's moving and where, and Will will be in touch. Or call 0475 074 906.",
- "bandText": "Got something to move? Call Will.",
- "footerBlurb": "Man-and-ute removals in Lismore and the Northern Rivers.",
+ "contactSub": "Tell us what's moving and when. Or call Will on 0475 074 906.",
+ "bandText": "Got a move coming up?",
+ "footerBlurb": "Truck removals for homes and businesses across Lismore and the Northern Rivers.",
  "hours": [
   [
    "Bookings",
@@ -176,15 +164,11 @@
  "formButton": "Send request",
  "formExtra": [
   [
-   "Moving from",
-   "from"
+   "Moving from / to",
+   "move"
   ],
   [
-   "Moving to",
-   "to"
-  ],
-  [
-   "Date",
+   "Moving date",
    "date"
   ]
  ],
