@@ -1,0 +1,231 @@
+{
+ "slug": "neil-stone-concrete-bowen",
+ "name": "Neil Stone Concrete",
+ "short": "Neil Stone Concrete",
+ "tag": "Concreting · Bowen QLD",
+ "street": "",
+ "suburb": "Bowen",
+ "state": "QLD",
+ "postcode": "4805",
+ "phone": "0417 787 731",
+ "phoneIntl": "+61417787731",
+ "facebook": "",
+ "topline": "Bowen concreting · Talk to Neil direct · 0417 787 731",
+ "addressLine": "Bowen QLD 4805",
+ "area": "Bowen and the Whitsunday region",
+ "areaShort": "Bowen",
+ "areaText": "Neil Stone Concrete is based in Bowen. Call Neil on 0417 787 731.",
+ "mapQuery": "Bowen QLD 4805",
+ "seoTitle": "Concreter in Bowen QLD: Neil Stone Concrete",
+ "metaDesc": "Neil Stone Concrete, Bowen QLD: local concreting for driveways, slabs and paths. Call Neil on 0417 787 731 for a free quote.",
+ "ctaLabel": "Call Neil",
+ "ownerOrUs": "Neil",
+ "schemaType": "GeneralContractor",
+ "badge": [
+  "Bowen local",
+  "Free quotes"
+ ],
+ "hero": {
+  "title": "Bowen concreting, straight from Neil.",
+  "titleHtml": "Bowen concreting, <em style='color:var(--accent)'>straight from Neil</em>.",
+  "lede": "Neil Stone Concrete is a local Bowen concreter. Driveways, slabs and paths, quoted and poured by the bloke whose name is on it.",
+  "trust": [
+   "Bowen based",
+   "Talk to Neil",
+   "Free quotes"
+  ]
+ },
+ "images": {
+  "hero": "1783278092758-3d9713960a85",
+  "heroAlt": "Concrete pour on site",
+  "about": "1685464197144-790d716b8649",
+  "about2": "1759355787121-eaef014a501d",
+  "aboutAlt": "Finished concrete",
+  "gallery": [
+   "1630683924997-fe27050a0416",
+   "1788438293104-b7a2750c23ec",
+   "1784644579477-3fa2b0af8ac2",
+   "1774931363306-5a896cd4dd02",
+   "1531834685032-c34bf0d84c77",
+   "1640101086894-7d70c3e70179"
+  ]
+ },
+ "servicesHead": "What Neil pours",
+ "servicesSub": "Call 0417 787 731 to talk through your job.",
+ "services": [
+  {
+   "id": "driveways",
+   "title": "Driveways",
+   "img": "1783278092758-3d9713960a85",
+   "short": "Built for Bowen.",
+   "long": "Concrete driveways for homes around Bowen.",
+   "points": [
+    "New driveways",
+    "Replacements",
+    "Free quote"
+   ]
+  },
+  {
+   "id": "slabs",
+   "title": "Slabs",
+   "img": "1685464197144-790d716b8649",
+   "short": "Sheds, garages & more.",
+   "long": "Concrete slabs for sheds, garages and extensions.",
+   "points": [
+    "Sheds",
+    "Garages",
+    "Carports"
+   ]
+  },
+  {
+   "id": "paths",
+   "title": "Paths & outdoor areas",
+   "img": "1759355787121-eaef014a501d",
+   "short": "Somewhere to sit.",
+   "long": "Paths, patios and outdoor areas.",
+   "points": [
+    "Paths",
+    "Patios",
+    "Pool surrounds"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other concrete jobs",
+   "img": "1630683924997-fe27050a0416",
+   "short": "Just ask.",
+   "long": "Got a different concrete job? Call Neil and ask.",
+   "points": [
+    "Homes",
+    "Properties",
+    "Bowen region"
+   ]
+  }
+ ],
+ "whyHead": "Why work with Neil",
+ "whyText": "A local Bowen concreter where you deal with Neil himself, from the quote to the finished job.",
+ "why": [
+  "Bowen based",
+  "Deal with Neil directly",
+  "Free quotes",
+  "Local knowledge"
+ ],
+ "galleryHead": "Concrete work",
+ "gallerySub": "Driveways, slabs and paths.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Bowen, QLD 4805."
+  ],
+  [
+   "How do I get a quote?",
+   "Call or text Neil on 0417 787 731, or send the form."
+  ],
+  [
+   "What areas do you cover?",
+   "Bowen and the surrounding area. Call to check your location."
+  ],
+  [
+   "What kind of work?",
+   "Concreting: driveways, slabs, paths and outdoor areas."
+  ]
+ ],
+ "aboutHead": "About Neil Stone Concrete",
+ "aboutSub": "Local concreting, Bowen QLD.",
+ "aboutParas": [
+  "Neil Stone Concrete is a concreting business in Bowen, Queensland, run by Neil.",
+  "Call Neil on 0417 787 731 to talk about your driveway, slab or path and get a free quote."
+ ],
+ "valuesHead": "How Neil works",
+ "values": [
+  [
+   "Direct",
+   "You talk to Neil."
+  ],
+  [
+   "Clear",
+   "Straight quotes."
+  ],
+  [
+   "Local",
+   "Bowen based."
+  ]
+ ],
+ "contactHead": "Get a concrete quote",
+ "contactSub": "Tell Neil about the job, or call 0417 787 731.",
+ "bandText": "Ready to pour?",
+ "footerBlurb": "Concreting in Bowen and the Whitsunday region.",
+ "hours": [
+  [
+   "Quotes",
+   "Call or text"
+  ],
+  [
+   "Phone",
+   "0417 787 731"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Concrete quote",
+ "formButton": "Send by text",
+ "formExtra": [
+  [
+   "Type of job",
+   "job"
+  ],
+  [
+   "Approx. size (m²)",
+   "size"
+  ]
+ ],
+ "theme": {
+  "radius": "0px",
+  "btnRadius": "0px",
+  "h1max": "70px",
+  "logoRadius": 16,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "700",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "logoFg": "#2A353C",
+  "onAccent": "#1E272D",
+  "icon": "stones",
+  "fontsQuery": "family=IBM+Plex+Sans+Condensed:wght@600;700&family=IBM+Plex+Sans:wght@400;500",
+  "headFont": "'IBM Plex Sans Condensed',system-ui,sans-serif",
+  "bodyFont": "'IBM Plex Sans',system-ui,sans-serif",
+  "surface": "#F3F4F5",
+  "ink": "#1E272D",
+  "muted": "#57626A",
+  "line": "#DDE1E4",
+  "brand": "#3B4A54",
+  "brand2": "#FFF3D6",
+  "accent": "#F59E0B",
+  "headerInk": "#1E272D",
+  "overlay": "rgba(30,39,45,.84)",
+  "footBg": "#232D33",
+  "footInk": "#BAC3C9",
+  "footHead": "#FBBF24",
+  "logoBg": "#F59E0B",
+  "layout": {
+   "nav": "bar",
+   "hero": "stack",
+   "stats": "strip",
+   "services": "alt",
+   "why": "stackimg",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "grid",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "image",
+   "decor": "none",
+   "btn": "flat",
+   "order": "F",
+   "eyebrow": false
+  },
+  "hero": "stack"
+ }
+}

@@ -1,0 +1,231 @@
+{
+ "slug": "empyr-painting-dubbo",
+ "name": "Empyr Painting",
+ "short": "Empyr Painting",
+ "tag": "Painting & coatings · Dubbo NSW",
+ "street": "",
+ "suburb": "Dubbo",
+ "state": "NSW",
+ "postcode": "2830",
+ "phone": "0427 227 676",
+ "phoneIntl": "+61427227676",
+ "facebook": "",
+ "topline": "Dubbo painters · Interior & exterior · Call Mitch 0427 227 676",
+ "addressLine": "Dubbo NSW 2830",
+ "area": "Dubbo and the surrounding region",
+ "areaShort": "Dubbo",
+ "areaText": "Empyr Painting is based in Dubbo. Call Mitch on 0427 227 676 to talk about your job.",
+ "mapQuery": "Dubbo NSW 2830",
+ "seoTitle": "Painters in Dubbo: Empyr Painting (Empyr Coatings)",
+ "metaDesc": "Empyr Painting (Empyr Coatings), Dubbo NSW: interior and exterior painting and coatings. Call Mitch on 0427 227 676 for a quote.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "Mitch",
+ "schemaType": "HousePainter",
+ "badge": [
+  "Dubbo local",
+  "Free quotes"
+ ],
+ "hero": {
+  "title": "A finish that does your place justice.",
+  "titleHtml": "A finish that does your place <em style='color:var(--accent)'>justice</em>.",
+  "lede": "Empyr Painting is a Dubbo painting and coatings business run by Mitch. Inside, outside, homes and properties.",
+  "trust": [
+   "Dubbo based",
+   "Talk to Mitch",
+   "Free quotes"
+  ]
+ },
+ "images": {
+  "hero": "1742900280864-bcc27353ceba",
+  "heroAlt": "Painter rolling paint on a wall",
+  "about": "1717281234297-3def5ae3eee1",
+  "about2": "1574359411659-15573a27fd0c",
+  "aboutAlt": "Fresh painted room",
+  "gallery": [
+   "1688372199140-cade7ae820fe",
+   "1742900280861-32bed068938b",
+   "1745665777586-09381ba528d6",
+   "1599619585752-c3edb42a414c",
+   "1615803874161-f38b3a82fe7d",
+   "1734475318787-b2b737296469"
+  ]
+ },
+ "servicesHead": "Painting & coatings",
+ "servicesSub": "Call Mitch on 0427 227 676 to talk through your job.",
+ "services": [
+  {
+   "id": "interior",
+   "title": "Interior painting",
+   "img": "1742900280864-bcc27353ceba",
+   "short": "Walls, ceilings & trims.",
+   "long": "Interior painting for homes and properties around Dubbo.",
+   "points": [
+    "Walls & ceilings",
+    "Doors & trims",
+    "Free quote"
+   ]
+  },
+  {
+   "id": "exterior",
+   "title": "Exterior painting",
+   "img": "1688372199140-cade7ae820fe",
+   "short": "Street appeal, refreshed.",
+   "long": "Exterior painting to bring the outside of your place back to life.",
+   "points": [
+    "Weatherboards",
+    "Eaves & fascias",
+    "Fences & decks"
+   ]
+  },
+  {
+   "id": "coatings",
+   "title": "Coatings",
+   "img": "1717281234297-3def5ae3eee1",
+   "short": "Protective finishes.",
+   "long": "Empyr also trades as Empyr Coatings. Ask Mitch about coatings for your job.",
+   "points": [
+    "Ask Mitch",
+    "Dubbo area",
+    "Free quote"
+   ]
+  },
+  {
+   "id": "repaint",
+   "title": "Repaints",
+   "img": "1745665777586-09381ba528d6",
+   "short": "Selling, renting or refreshing.",
+   "long": "Repaints for homeowners, landlords and anyone getting a place ready.",
+   "points": [
+    "Homeowners",
+    "Landlords",
+    "Before sale"
+   ]
+  }
+ ],
+ "whyHead": "Why Dubbo calls Empyr",
+ "whyText": "A local painting business where you deal with Mitch from the quote to the final coat.",
+ "why": [
+  "Dubbo based",
+  "Deal directly with Mitch",
+  "Interior, exterior & coatings",
+  "Free quotes"
+ ],
+ "galleryHead": "Fresh coats",
+ "gallerySub": "Interiors, exteriors and finishes.",
+ "faq": [
+  [
+   "Where do you work?",
+   "Dubbo and the surrounding region. Call 0427 227 676 to check your area."
+  ],
+  [
+   "Is the quote free?",
+   "Yes. Call or text Mitch, or send the form."
+  ],
+  [
+   "Do you do coatings?",
+   "Yes, Empyr also trades as Empyr Coatings. Ask Mitch about your job."
+  ],
+  [
+   "Inside or outside?",
+   "Both: interior and exterior painting."
+  ]
+ ],
+ "aboutHead": "About Empyr Painting",
+ "aboutSub": "Painting & coatings, Dubbo NSW.",
+ "aboutParas": [
+  "Empyr Painting, also known as Empyr Coatings, is a painting business in Dubbo, NSW, run by Mitch.",
+  "Whether it's a room, a whole house or the outside, call Mitch on 0427 227 676 to talk about the job and get a free quote."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Listen",
+   "We talk through what you want."
+  ],
+  [
+   "Prepare",
+   "Good prep, clean job."
+  ],
+  [
+   "Finish",
+   "A result you're proud of."
+  ]
+ ],
+ "contactHead": "Get a free painting quote",
+ "contactSub": "Tell us about the job, or call Mitch on 0427 227 676.",
+ "bandText": "Time for a fresh coat?",
+ "footerBlurb": "Interior, exterior painting and coatings in Dubbo, NSW.",
+ "hours": [
+  [
+   "Quotes",
+   "Call or text"
+  ],
+  [
+   "Phone",
+   "0427 227 676"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Painting quote",
+ "formButton": "Send by text",
+ "formExtra": [
+  [
+   "Inside, outside or both?",
+   "scope"
+  ],
+  [
+   "Suburb",
+   "suburb"
+  ]
+ ],
+ "theme": {
+  "radius": "2px",
+  "btnRadius": "2px",
+  "h1max": "66px",
+  "logoRadius": 16,
+  "headTrack": ".02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "bg": "#FBFAF6",
+  "headerBg": "#FBFAF6",
+  "logoFg": "#E3B652",
+  "onAccent": "#16211F",
+  "icon": "swatch",
+  "fontsQuery": "family=Marcellus&family=Karla:wght@400;500;700",
+  "headFont": "Marcellus,Georgia,serif",
+  "bodyFont": "Karla,system-ui,sans-serif",
+  "surface": "#F1EEE4",
+  "ink": "#16211F",
+  "muted": "#56605D",
+  "line": "#E2DDCF",
+  "brand": "#0F3D3E",
+  "brand2": "#E5EFEC",
+  "accent": "#C9962B",
+  "headerInk": "#0F3D3E",
+  "overlay": "rgba(10,40,41,.84)",
+  "footBg": "#0B2C2D",
+  "footInk": "#B9CBC8",
+  "footHead": "#E3B652",
+  "logoBg": "#0F3D3E",
+  "layout": {
+   "nav": "split",
+   "hero": "diagonal",
+   "stats": "strip",
+   "services": "tiles",
+   "why": "dark",
+   "gallery": "grid",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "light",
+   "decor": "lines",
+   "btn": "flat",
+   "order": "E",
+   "eyebrow": false
+  },
+  "hero": "diagonal"
+ }
+}

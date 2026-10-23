@@ -1,0 +1,231 @@
+{
+ "slug": "mobile-mechanic-mandurah",
+ "name": "Mobile Mechanic Mandurah",
+ "short": "Mobile Mechanic",
+ "tag": "Mobile mechanic · Mandurah WA",
+ "street": "",
+ "suburb": "Mandurah",
+ "state": "WA",
+ "postcode": "6210",
+ "phone": "0450 241 667",
+ "phoneIntl": "+61450241667",
+ "facebook": "",
+ "topline": "Mobile mechanic · We come to you around Mandurah · Call Adam 0450 241 667",
+ "addressLine": "Mandurah WA 6210",
+ "area": "Mandurah and surrounds",
+ "areaShort": "Mandurah",
+ "areaText": "A mobile mechanic based in Mandurah. Call Adam on 0450 241 667 to check if he can get to you.",
+ "mapQuery": "Mandurah WA 6210",
+ "seoTitle": "Mobile mechanic in Mandurah, we come to you",
+ "metaDesc": "Mobile Mechanic Mandurah: Adam comes to your home or work around Mandurah for car servicing and repairs. Call 0450 241 667.",
+ "ctaLabel": "Call Adam",
+ "ownerOrUs": "Adam",
+ "schemaType": "AutoRepair",
+ "badge": [
+  "Mobile service",
+  "Mandurah local"
+ ],
+ "hero": {
+  "title": "Car trouble? The mechanic comes to you.",
+  "titleHtml": "Car trouble? The <em style='color:var(--accent)'>mechanic</em> comes to you.",
+  "lede": "Mobile mechanic in Mandurah. Adam brings the tools to your driveway, so you don't have to get the car to a workshop.",
+  "trust": [
+   "Mobile service",
+   "Mandurah based",
+   "Call or text"
+  ]
+ },
+ "images": {
+  "hero": "1625047509248-ec889cbff17f",
+  "heroAlt": "Mechanic working under a car bonnet",
+  "about": "1619642751034-765dfdf7c58e",
+  "about2": "1487754180451-c456f719a1fc",
+  "aboutAlt": "Mechanic with tools",
+  "gallery": [
+   "1615906655593-ad0386982a0f",
+   "1643700973089-baa86a1ab9ee",
+   "1486262715619-67b85e0b08d3",
+   "1637640125496-31852f042a60",
+   "1606577924006-27d39b132ae2",
+   "1504222490345-c075b6008014"
+  ]
+ },
+ "servicesHead": "What Adam can help with",
+ "servicesSub": "Not sure if it's something he can fix on the spot? Call 0450 241 667 and ask.",
+ "services": [
+  {
+   "id": "service",
+   "title": "Car servicing",
+   "img": "1625047509248-ec889cbff17f",
+   "short": "Servicing at your place.",
+   "long": "Car servicing done at your home or workplace around Mandurah.",
+   "points": [
+    "At your home",
+    "At your work",
+    "Call to book"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Mechanical repairs",
+   "img": "1619642751034-765dfdf7c58e",
+   "short": "Repairs without the tow.",
+   "long": "Mechanical repairs done on site wherever the job allows it.",
+   "points": [
+    "On-site repairs",
+    "Mandurah area",
+    "Ask Adam"
+   ]
+  },
+  {
+   "id": "diagnose",
+   "title": "Fault finding",
+   "img": "1615906655593-ad0386982a0f",
+   "short": "Find out what's wrong.",
+   "long": "Car playing up or won't start? Call and describe the problem.",
+   "points": [
+    "Won't start",
+    "Warning lights",
+    "Strange noises"
+   ]
+  },
+  {
+   "id": "callout",
+   "title": "Mobile call-outs",
+   "img": "1643700973089-baa86a1ab9ee",
+   "short": "We come to you.",
+   "long": "A mobile service, so there's no need to drop the car off.",
+   "points": [
+    "Driveways",
+    "Workplaces",
+    "Mandurah & nearby"
+   ]
+  }
+ ],
+ "whyHead": "Why go mobile?",
+ "whyText": "A mobile mechanic saves you the drop-off, the lift home and the pick-up. Adam comes to you around Mandurah.",
+ "why": [
+  "No workshop drop-off",
+  "Work done at your home or work",
+  "Mandurah based",
+  "Talk directly to the mechanic"
+ ],
+ "galleryHead": "On the tools",
+ "gallerySub": "Servicing and repairs, done on site.",
+ "faq": [
+  [
+   "Do you come to me?",
+   "Yes, it's a mobile service around Mandurah. Call 0450 241 667 to check availability."
+  ],
+  [
+   "Who will I speak to?",
+   "You'll speak with Adam directly."
+  ],
+  [
+   "Can you fix it on the spot?",
+   "Many jobs can be done on site. Describe the problem when you call and Adam will let you know."
+  ],
+  [
+   "How do I book?",
+   "Call or text 0450 241 667, or send the form on the contact page."
+  ]
+ ],
+ "aboutHead": "About Mobile Mechanic Mandurah",
+ "aboutSub": "Adam, your local mobile mechanic.",
+ "aboutParas": [
+  "Mobile Mechanic Mandurah is run by Adam, a mobile mechanic working around Mandurah, WA.",
+  "Instead of taking your car to a workshop, Adam comes to you. Call or text 0450 241 667 to talk about the job."
+ ],
+ "valuesHead": "How it works",
+ "values": [
+  [
+   "Call",
+   "Tell Adam what's going on."
+  ],
+  [
+   "Book",
+   "Pick a time and place."
+  ],
+  [
+   "Sorted",
+   "He comes to you."
+  ]
+ ],
+ "contactHead": "Book a mobile mechanic",
+ "contactSub": "Tell us the make, model and problem. Or call Adam on 0450 241 667.",
+ "bandText": "Car won't cooperate?",
+ "footerBlurb": "Mobile car servicing and repairs around Mandurah, WA.",
+ "hours": [
+  [
+   "Bookings",
+   "Call or text"
+  ],
+  [
+   "Phone",
+   "0450 241 667"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Booking request",
+ "formButton": "Send by text",
+ "formExtra": [
+  [
+   "Car make & model",
+   "car"
+  ],
+  [
+   "What's the problem?",
+   "problem"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "4px",
+  "h1max": "52px",
+  "logoRadius": 6,
+  "headTrack": ".01em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "bg": "#F5F6F2",
+  "headerBg": "#1F2421",
+  "logoFg": "#1F2421",
+  "onAccent": "#141813",
+  "icon": "ute",
+  "fontsQuery": "family=Michroma&family=Inter:wght@400;500;600",
+  "headFont": "Michroma,system-ui,sans-serif",
+  "bodyFont": "Inter,system-ui,sans-serif",
+  "surface": "#ECEEE6",
+  "ink": "#1A1E1B",
+  "muted": "#525A54",
+  "line": "#DADDD3",
+  "brand": "#1F2421",
+  "brand2": "#E9F7C9",
+  "accent": "#9BD62C",
+  "headerInk": "#F3F6EE",
+  "overlay": "rgba(20,24,21,.86)",
+  "footBg": "#141815",
+  "footInk": "#B7BEB3",
+  "footHead": "#B8F23A",
+  "logoBg": "#B8F23A",
+  "layout": {
+   "nav": "pill",
+   "hero": "center",
+   "stats": "ticker",
+   "services": "bento",
+   "why": "band",
+   "gallery": "strip",
+   "reviews": "light",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "simple",
+   "pagehead": "image",
+   "decor": "grid",
+   "btn": "arrow",
+   "order": "D",
+   "eyebrow": true
+  },
+  "hero": "center"
+ }
+}
