@@ -1,0 +1,234 @@
+{
+ "schemaType": "LocalBusiness",
+ "ratingSource": "Google",
+ "rating": null,
+ "reviewCount": 0,
+ "reviews": [],
+ "reviewsHead": "",
+ "facebook": "",
+ "street": "",
+ "postcode": "4370",
+ "slug": "handy-andy-lawn-care-warwick",
+ "name": "Handy Andy Lawn Care Service",
+ "short": "Handy Andy",
+ "tag": "Lawn care · Warwick & the Southern Downs",
+ "suburb": "Warwick",
+ "state": "QLD",
+ "phone": "0478 228 025",
+ "phoneIntl": "+61478228025",
+ "topline": "Warwick lawn care · 0478 228 025",
+ "addressLine": "Warwick QLD 4370",
+ "area": "Warwick and the Southern Downs",
+ "areaShort": "Warwick",
+ "areaText": "Handy Andy Lawn Care Service is based in Warwick on the Southern Downs. Call 0478 228 025 to check your area.",
+ "mapQuery": "Warwick QLD 4370",
+ "seoTitle": "Lawn care & mowing in Warwick QLD",
+ "metaDesc": "Handy Andy Lawn Care Service, Warwick QLD: lawn care around Warwick and the Southern Downs. Call 0478 228 025 to book.",
+ "ctaLabel": "Call Handy Andy",
+ "ownerOrUs": "us",
+ "badge": [
+  "Warwick local",
+  "Lawn care"
+ ],
+ "hero": {
+  "title": "Lawn care, the handy way.",
+  "titleHtml": "Lawn care, <em style='color:var(--accent)'>the handy way</em>.",
+  "lede": "Handy Andy Lawn Care Service looks after lawns in Warwick. One call to 0478 228 025 and your lawn's on the list.",
+  "trust": [
+   "Warwick based",
+   "Southern Downs",
+   "Call to book"
+  ]
+ },
+ "images": {
+  "hero": "1558904541-efa843a96f01",
+  "heroAlt": "Freshly mown lawn",
+  "about": "1689728318937-17d24bc0a65c",
+  "about2": "1734303023481-7508b5c9f1ff",
+  "aboutAlt": "Trimming a lawn",
+  "gallery": [
+   "1780419748459-075ce111534a",
+   "1779636489807-ffad2fc04e8e",
+   "1624253430532-f144134a9757",
+   "1629575063988-881596e38d31",
+   "1621272156568-7306716648df",
+   "1686663048931-6df69f577a2f"
+  ]
+ },
+ "servicesHead": "Lawn care in Warwick",
+ "servicesSub": "Call 0478 228 025 to book or ask what's included.",
+ "services": [
+  {
+   "id": "mowing",
+   "title": "Lawn mowing",
+   "img": "1780419748459-075ce111534a",
+   "short": "Lawns kept short and neat.",
+   "long": "Lawn mowing for Warwick homes. Call 0478 228 025 to book.",
+   "points": [
+    "Homes",
+    "Rentals",
+    "Call to book"
+   ]
+  },
+  {
+   "id": "edges",
+   "title": "Edges & trimming",
+   "img": "1779636489807-ffad2fc04e8e",
+   "short": "The finishing touch.",
+   "long": "Ask about edges and trimming around paths and fences when you book.",
+   "points": [
+    "Edges",
+    "Trimming",
+    "Ask when booking"
+   ]
+  },
+  {
+   "id": "regular",
+   "title": "Regular lawn care",
+   "img": "1624253430532-f144134a9757",
+   "short": "Stay on top of it.",
+   "long": "Ongoing lawn care so the grass never gets away from you. Call to set it up.",
+   "points": [
+    "Ongoing",
+    "Seasonal",
+    "Call to arrange"
+   ]
+  },
+  {
+   "id": "oneoff",
+   "title": "One-off tidy-ups",
+   "img": "1779636489744-c7243917ace0",
+   "short": "Overgrown? Give us a call.",
+   "long": "Lawn got away from you? Call and talk through a one-off job.",
+   "points": [
+    "Overgrown lawns",
+    "Before sale",
+    "One-off jobs"
+   ]
+  }
+ ],
+ "whyHead": "Why Warwick calls Handy Andy",
+ "whyText": "A local Warwick lawn care service you can call direct.",
+ "why": [
+  "Warwick based",
+  "Lawn care is the job",
+  "Local, direct contact",
+  "One call: 0478 228 025"
+ ],
+ "galleryHead": "Lawns",
+ "gallerySub": "Lawn care around Warwick.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Warwick QLD, on the Southern Downs."
+  ],
+  [
+   "How do I book?",
+   "Call 0478 228 025 or send the form on the contact page."
+  ],
+  [
+   "Do you do one-off jobs?",
+   "Call and talk through what you need."
+  ],
+  [
+   "Do you cover my suburb?",
+   "Call 0478 228 025 to check."
+  ]
+ ],
+ "aboutHead": "About Handy Andy",
+ "aboutSub": "Lawn care, Warwick QLD.",
+ "aboutParas": [
+  "Handy Andy Lawn Care Service is a Warwick lawn care business on the Southern Downs.",
+  "Call 0478 228 025 to book a mow or talk through what your lawn needs."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Warwick based."
+  ],
+  [
+   "Handy",
+   "Lawns looked after."
+  ],
+  [
+   "Direct",
+   "One call books it."
+  ]
+ ],
+ "contactHead": "Book a mow",
+ "contactSub": "Send your address and what you need, or call 0478 228 025.",
+ "bandText": "Grass getting long?",
+ "footerBlurb": "Lawn care in Warwick and the Southern Downs, QLD.",
+ "hours": [
+  [
+   "Bookings",
+   "Call to book"
+  ],
+  [
+   "Phone",
+   "0478 228 025"
+  ]
+ ],
+ "formHead": "Lawn request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Address",
+   "address"
+  ],
+  [
+   "What do you need?",
+   "need"
+  ]
+ ],
+ "theme": {
+  "radius": "22px",
+  "btnRadius": "999px",
+  "h1max": "66px",
+  "logoRadius": 999,
+  "headTrack": "0",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "bg": "#FFFBF1",
+  "headerBg": "#FFFBF1",
+  "logoFg": "#FFFBF1",
+  "onAccent": "#2B2207",
+  "icon": "edger",
+  "fontsQuery": "family=Shrikhand&family=Work+Sans:wght@400;600;700",
+  "headFont": "'Shrikhand',Georgia,serif",
+  "bodyFont": "'Work Sans',system-ui,sans-serif",
+  "surface": "#F6EEDA",
+  "ink": "#1F2E33",
+  "muted": "#5A6468",
+  "line": "#EADFC3",
+  "brand": "#2C4A52",
+  "brand2": "#E2ECEC",
+  "accent": "#E9B44C",
+  "headerInk": "#1F2E33",
+  "overlay": "rgba(28,46,51,.78)",
+  "footBg": "#1F343A",
+  "footInk": "#C4D2D3",
+  "footHead": "#E9B44C",
+  "logoBg": "#2C4A52",
+  "layout": {
+   "nav": "split",
+   "hero": "overlay",
+   "stats": "pills",
+   "services": "tiles",
+   "why": "stackimg",
+   "gallery": "grid",
+   "reviews": "light",
+   "hours": "cards",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "blob",
+   "btn": "shadow",
+   "order": "E",
+   "eyebrow": false
+  },
+  "hero": "overlay"
+ }
+}

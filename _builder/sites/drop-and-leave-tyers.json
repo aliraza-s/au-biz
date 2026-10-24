@@ -1,0 +1,284 @@
+{
+ "schemaType": "LocalBusiness",
+ "ratingSource": "Oneflare",
+ "rating": null,
+ "reviewCount": 3,
+ "reviews": [
+  {
+   "text": "Excellent service, all OH&S systems in place, works completed on time as agreed.",
+   "who": "David M., Yarram · Oneflare"
+  },
+  {
+   "text": "The only company who got back to me. Work done quickly and yard left tidy.",
+   "who": "Bronwyn, Alberton · Oneflare"
+  },
+  {
+   "text": "Excellent workers and a excellent job well done lads thank you all very much.",
+   "who": "Brian P., Bunyip · Oneflare"
+  }
+ ],
+ "reviewsHead": "What customers said",
+ "facebook": "https://www.facebook.com/dropandleave",
+ "street": "54a Main Road",
+ "postcode": "",
+ "slug": "drop-and-leave-tyers",
+ "name": "Drop & Leave",
+ "short": "Drop & Leave",
+ "tag": "Tree pruning, removals & stump grinding · Gippsland",
+ "suburb": "Tyers",
+ "state": "VIC",
+ "phone": "0412 112 925",
+ "phoneIntl": "+61412112925",
+ "topline": "Gippsland tree services since 2008 · 0412 112 925",
+ "addressLine": "54a Main Road, Tyers VIC",
+ "area": "Traralgon, the Latrobe Valley and Gippsland",
+ "areaShort": "Gippsland",
+ "areaText": "Drop & Leave is based at 54a Main Road, Tyers, just north of Traralgon, and works across Gippsland, with jobs from Bunyip to Yarram and Alberton.",
+ "mapQuery": "54a Main Road, Tyers VIC",
+ "seoTitle": "Tree removal, pruning & stump grinding in Traralgon and Gippsland",
+ "metaDesc": "Drop & Leave, Tyers VIC: tree pruning, removals, reductions, stump grinding, storm damage, fire-risk reduction, wood chipping and mulch across Gippsland since 2008. Call 0412 112 925.",
+ "ctaLabel": "Call Drop & Leave",
+ "ownerOrUs": "us",
+ "badge": [
+  "Since 2008",
+  "Level III Arboriculture"
+ ],
+ "hero": {
+  "title": "Trees down safely. Yard left tidy.",
+  "titleHtml": "Trees down safely. <em style='color:var(--accent)'>Yard left tidy.</em>",
+  "lede": "Gippsland tree services since 2008: pruning, removals, stump grinding and storm clean-ups by a team trained in Level III Arboriculture.",
+  "trust": [
+   "Since 2008",
+   "Level III trained team",
+   "$10M liability cover"
+  ]
+ },
+ "images": {
+  "hero": "1754321860056-ca7254d5e7ac",
+  "heroAlt": "Arborist working in a tree",
+  "about": "1631300313270-227604e71ea5",
+  "about2": "1754322449185-31f56117ed87",
+  "aboutAlt": "Tree crew at work",
+  "gallery": [
+   "1657730391002-bf55ff069a80",
+   "1574359173269-291f060e6fe1",
+   "1608682783991-ca8bd491fad2",
+   "1474742817425-9f91918183b7",
+   "1491831718109-ffc2cb30cc38",
+   "1754321902809-5c21cbc67228"
+  ]
+ },
+ "servicesHead": "Tree services across Gippsland",
+ "servicesSub": "Call 0412 112 925 to talk through your job.",
+ "services": [
+  {
+   "id": "pruning",
+   "title": "Tree pruning & reductions",
+   "img": "1754321902809-5c21cbc67228",
+   "short": "Shape, thin or reduce.",
+   "long": "Tree pruning and reductions by qualified climbers, plus advice on long-term tree management.",
+   "points": [
+    "Pruning",
+    "Reductions",
+    "Long-term advice"
+   ]
+  },
+  {
+   "id": "removals",
+   "title": "Tree removals",
+   "img": "1574359173269-291f060e6fe1",
+   "short": "Safe removals, any size.",
+   "long": "Tree removals with all OH&S systems in place, by professional, qualified arborists.",
+   "points": [
+    "Removals",
+    "OH&S systems",
+    "Qualified climbers"
+   ]
+  },
+  {
+   "id": "stumps",
+   "title": "Stump grinding",
+   "img": "1608682783991-ca8bd491fad2",
+   "short": "Stumps gone, ground back.",
+   "long": "Stump grinding to clear the ground after a removal.",
+   "points": [
+    "Stump grinding",
+    "After removals",
+    "Clean finish"
+   ]
+  },
+  {
+   "id": "storm",
+   "title": "Wind & storm damage",
+   "img": "1657730391002-bf55ff069a80",
+   "short": "Recovery after the weather.",
+   "long": "Wind and storm damage recovery to make trees and properties safe again.",
+   "points": [
+    "Storm damage",
+    "Fallen trees",
+    "Make safe"
+   ]
+  },
+  {
+   "id": "fire",
+   "title": "Fire risk reduction",
+   "img": "1754321871548-61bdbc6f1506",
+   "short": "Clear around your home.",
+   "long": "Reducing fire risk around the home before the season.",
+   "points": [
+    "Around the home",
+    "Fuel reduction",
+    "Advice"
+   ]
+  },
+  {
+   "id": "assess",
+   "title": "Hazard & tree assessments",
+   "img": "1669065054992-3151b15aab08",
+   "short": "Know what's safe.",
+   "long": "Hazard assessments and tree quality assessments, with advice on long-term management.",
+   "points": [
+    "Hazard assessments",
+    "Tree quality",
+    "Management advice"
+   ]
+  },
+  {
+   "id": "mulch",
+   "title": "Wood chipping & mulch",
+   "img": "1491831718109-ffc2cb30cc38",
+   "short": "Chipped on site, mulch for sale.",
+   "long": "Wood chipping and mulch sales.",
+   "points": [
+    "Wood chipping",
+    "Mulch sales",
+    "Ask for supply"
+   ]
+  }
+ ],
+ "whyHead": "Why Gippsland calls Drop & Leave",
+ "whyText": "Every employee is trained in Level III Arboriculture, the climbers are qualified arborists, and the business carries $10,000,000 professional liability insurance.",
+ "why": [
+  "Providing services since 2008",
+  "Team trained in Level III Arboriculture",
+  "$10M professional liability insurance",
+  "Pruning to stump grinding, one crew"
+ ],
+ "galleryHead": "Out on the job",
+ "gallerySub": "Tree work around Gippsland.",
+ "reviewsSub": "Reviews from Oneflare.",
+ "faq": [
+  [
+   "Where are you based?",
+   "54a Main Road, Tyers, just north of Traralgon. We work across Gippsland."
+  ],
+  [
+   "Are your team qualified?",
+   "Every employee is trained in Level III Arboriculture and our climbers are qualified arborists."
+  ],
+  [
+   "Are you insured?",
+   "Yes, we carry $10,000,000 professional liability insurance."
+  ],
+  [
+   "Do you grind stumps and chip the waste?",
+   "Yes: stump grinding, wood chipping and mulch sales."
+  ]
+ ],
+ "aboutHead": "About Drop & Leave",
+ "aboutSub": "Gippsland tree services since 2008.",
+ "aboutParas": [
+  "Drop & Leave Pty Ltd has been providing tree services in Gippsland since 2008, from our base at 54a Main Road, Tyers.",
+  "Every member of the team is trained in Level III Arboriculture, and our climbers are professional, qualified arborists. We handle pruning, removals, reductions, stump grinding, storm damage, fire-risk reduction, hazard assessments, wood chipping and mulch."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Trained",
+   "Level III Arboriculture."
+  ],
+  [
+   "Insured",
+   "$10M liability cover."
+  ],
+  [
+   "Tidy",
+   "Yard left clean."
+  ]
+ ],
+ "contactHead": "Get a tree quote",
+ "contactSub": "Tell us about the tree, or call 0412 112 925.",
+ "bandText": "Tree that needs to come down?",
+ "footerBlurb": "Tree pruning, removals, stump grinding, storm damage and mulch. 54a Main Road, Tyers VIC. Serving Gippsland since 2008.",
+ "hours": [
+  [
+   "Quotes",
+   "Call to book"
+  ],
+  [
+   "Phone",
+   "0412 112 925"
+  ]
+ ],
+ "formHead": "Tree job details",
+ "formButton": "Request a quote",
+ "formExtra": [
+  [
+   "Address",
+   "address"
+  ],
+  [
+   "What needs doing?",
+   "need"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "4px",
+  "h1max": "70px",
+  "logoRadius": 6,
+  "headTrack": "0",
+  "headExtra": "text-transform:uppercase;",
+  "onBrand": "#FFFFFF",
+  "headWeight": "700",
+  "bg": "#F7F5F0",
+  "headerBg": "#1E1F1C",
+  "logoFg": "#1E1F1C",
+  "onAccent": "#1E1F1C",
+  "icon": "log",
+  "fontsQuery": "family=Barlow+Semi+Condensed:wght@600;700&family=Karla:wght@400;600;700",
+  "headFont": "'Barlow Semi Condensed',system-ui,sans-serif",
+  "bodyFont": "'Karla',system-ui,sans-serif",
+  "surface": "#ECE8DE",
+  "ink": "#1E1F1C",
+  "muted": "#5D5C55",
+  "line": "#DCD6C8",
+  "brand": "#2E3A2F",
+  "brand2": "#E5E9DF",
+  "accent": "#F07A1A",
+  "headerInk": "#F7F5F0",
+  "overlay": "rgba(24,26,22,.82)",
+  "footBg": "#1E1F1C",
+  "footInk": "#BDBAAF",
+  "footHead": "#F07A1A",
+  "logoBg": "#F07A1A",
+  "layout": {
+   "nav": "center",
+   "hero": "stack",
+   "stats": "ticker",
+   "services": "list",
+   "why": "band",
+   "gallery": "strip",
+   "reviews": "featured",
+   "hours": "grid",
+   "cta": "band",
+   "footer": "grid",
+   "pagehead": "solid",
+   "decor": "lines",
+   "btn": "arrow",
+   "order": "C",
+   "eyebrow": false
+  },
+  "hero": "stack"
+ }
+}

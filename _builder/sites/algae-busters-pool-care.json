@@ -1,0 +1,263 @@
+{
+ "schemaType": "LocalBusiness",
+ "ratingSource": "Google",
+ "rating": null,
+ "reviewCount": 0,
+ "reviews": [],
+ "reviewsHead": "",
+ "facebook": "",
+ "street": "",
+ "postcode": "6233",
+ "slug": "algae-busters-pool-care",
+ "name": "Algae Busters Pool Care",
+ "short": "Algae Busters",
+ "tag": "Pool servicing, repairs & supplies · Australind",
+ "suburb": "Australind",
+ "state": "WA",
+ "phone": "0419 959 935",
+ "phoneIntl": "+61419959935",
+ "email": "PoolCare@algaebusters.com.au",
+ "topline": "Pool care from Harvey to Capel · 0419 959 935",
+ "addressLine": "Australind WA 6233",
+ "area": "Bunbury and surrounds, from Harvey to Capel",
+ "areaShort": "Bunbury region",
+ "areaText": "Algae Busters Pool Care is based in Australind and services pools across Bunbury and the surrounding areas, from Harvey to Capel.",
+ "mapQuery": "Australind WA 6233",
+ "seoTitle": "Pool servicing, repairs & equipment in Australind and Bunbury",
+ "metaDesc": "Algae Busters Pool Care, Australind WA: pool maintenance, heat pumps, equipment repairs, filtration, pumps, chlorinators and commercial servicing from Harvey to Capel. Call 0419 959 935.",
+ "ctaLabel": "Call Algae Busters",
+ "ownerOrUs": "us",
+ "badge": [
+  "Over 20 years",
+  "Second-generation family business"
+ ],
+ "hero": {
+  "title": "Clear pools, from Harvey to Capel.",
+  "titleHtml": "Clear pools, <em style='color:var(--accent)'>from Harvey to Capel</em>.",
+  "lede": "A second-generation family pool business with over 20 years in the game: regular servicing, repairs, equipment and supplies for pools around Bunbury.",
+  "trust": [
+   "Over 20 years",
+   "Family business",
+   "Home & commercial"
+  ]
+ },
+ "images": {
+  "hero": "1562016600-ece13e8ba570",
+  "heroAlt": "Clear blue swimming pool",
+  "about": "1613977257365-aaae5a9817ff",
+  "about2": "1504309092620-4d0ec726efa4",
+  "aboutAlt": "Pool with ladder",
+  "gallery": [
+   "1557459325-b6733cbeae9c",
+   "1572331165267-854da2b10ccc",
+   "1604348825621-22800b6ed16d",
+   "1613152184920-bc1c4ab7fd1d",
+   "1641408092943-8c3451252da9",
+   "1600291994772-1e7d606e9307"
+  ]
+ },
+ "servicesHead": "Everything your pool needs",
+ "servicesSub": "Servicing, repairs and supplies. Call 0419 959 935 or email PoolCare@algaebusters.com.au.",
+ "services": [
+  {
+   "id": "maintenance",
+   "title": "Pool maintenance",
+   "img": "1558617320-e695f0d420de",
+   "short": "Regular services and on-the-spot repairs.",
+   "long": "Regular pool servicing, new equipment installation and on-the-spot repairs to keep your water right.",
+   "points": [
+    "Regular services",
+    "New equipment installs",
+    "On-the-spot repairs"
+   ]
+  },
+  {
+   "id": "heatpumps",
+   "title": "Heat pump systems",
+   "img": "1687160954681-230591e7b494",
+   "short": "Warmer water for longer.",
+   "long": "Heat pump systems for your pool. Call to talk through what suits your setup.",
+   "points": [
+    "Heat pumps",
+    "Advice",
+    "Installation"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Fault finding & repairs",
+   "img": "1614667288602-9ac6e37318a7",
+   "short": "Including electrical.",
+   "long": "Equipment fault finding and repairs, including electrical faults, so your gear gets running again.",
+   "points": [
+    "Fault finding",
+    "Electrical",
+    "Equipment repairs"
+   ]
+  },
+  {
+   "id": "filtration",
+   "title": "Filtration, pumps & chlorinators",
+   "img": "1504309092620-4d0ec726efa4",
+   "short": "The gear that keeps water clear.",
+   "long": "Pool filtration systems, pumps and chlorinators supplied, fitted and serviced.",
+   "points": [
+    "Filters",
+    "Pumps",
+    "Chlorinators"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial servicing",
+   "img": "1613152184920-bc1c4ab7fd1d",
+   "short": "For businesses and complexes.",
+   "long": "Commercial pool servicing around the Bunbury region.",
+   "points": [
+    "Commercial pools",
+    "Regular servicing",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "supply",
+   "title": "Equipment supply & fitting",
+   "img": "1604348825621-22800b6ed16d",
+   "short": "Blankets, auto vacuums, chemicals.",
+   "long": "Pool blankets, auto vacuums, chemicals and general pool equipment, supplied and fitted.",
+   "points": [
+    "Pool blankets",
+    "Auto vacuums",
+    "Chemicals"
+   ]
+  }
+ ],
+ "whyHead": "Why pool owners call Algae Busters",
+ "whyText": "Over 20 years of pool care from a second-generation family business, with servicing, repairs and supplies all in one place.",
+ "why": [
+  "Over 20 years experience",
+  "Second-generation family business",
+  "Repairs including electrical",
+  "Harvey to Capel covered"
+ ],
+ "galleryHead": "Pools we look after",
+ "gallerySub": "Clear water across the Bunbury region.",
+ "faq": [
+  [
+   "What areas do you cover?",
+   "Bunbury and surrounding areas, from Harvey to Capel."
+  ],
+  [
+   "Do you repair pool equipment?",
+   "Yes: fault finding and repairs, including electrical, plus pumps, filters and chlorinators."
+  ],
+  [
+   "Do you service commercial pools?",
+   "Yes, commercial servicing is one of our services."
+  ],
+  [
+   "How do I book?",
+   "Call 0419 959 935, email PoolCare@algaebusters.com.au or send the form on the contact page."
+  ]
+ ],
+ "aboutHead": "About Algae Busters",
+ "aboutSub": "Second-generation family pool care, Australind.",
+ "aboutParas": [
+  "Algae Busters Pool Care is a second-generation family business with over 20 years of experience looking after pools.",
+  "Based in Australind, we service pools across Bunbury and the surrounding areas from Harvey to Capel: regular maintenance, heat pumps, repairs, filtration and equipment supply. Your reliable source for all your pool services and supplies."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Family",
+   "Second-generation business."
+  ],
+  [
+   "Experienced",
+   "Over 20 years in pools."
+  ],
+  [
+   "All-in-one",
+   "Service, repairs & supplies."
+  ]
+ ],
+ "contactHead": "Book a pool service",
+ "contactSub": "Tell us about your pool, or call 0419 959 935.",
+ "bandText": "Pool turning green?",
+ "footerBlurb": "Pool maintenance, repairs, equipment and supplies. Australind WA, servicing Harvey to Capel.",
+ "hours": [
+  [
+   "Bookings",
+   "Call or email"
+  ],
+  [
+   "Phone",
+   "0419 959 935"
+  ],
+  [
+   "Email",
+   "PoolCare@algaebusters.com.au"
+  ]
+ ],
+ "formHead": "Pool service request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Address",
+   "address"
+  ],
+  [
+   "What does your pool need?",
+   "need"
+  ]
+ ],
+ "theme": {
+  "radius": "14px",
+  "btnRadius": "10px",
+  "h1max": "64px",
+  "logoRadius": 12,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "700",
+  "bg": "#F4FBFA",
+  "headerBg": "#FFFFFF",
+  "logoFg": "#FFFFFF",
+  "onAccent": "#10302B",
+  "icon": "poolladder",
+  "fontsQuery": "family=Prompt:wght@500;700&family=Figtree:wght@400;600;700",
+  "headFont": "'Prompt',system-ui,sans-serif",
+  "bodyFont": "'Figtree',system-ui,sans-serif",
+  "surface": "#E3F4F1",
+  "ink": "#0F2A2E",
+  "muted": "#4D6668",
+  "line": "#CDE6E2",
+  "brand": "#0A7C7A",
+  "brand2": "#D9F2EE",
+  "accent": "#9BD43B",
+  "headerInk": "#0F2A2E",
+  "overlay": "rgba(6,60,62,.80)",
+  "footBg": "#08393B",
+  "footInk": "#BFDCD8",
+  "footHead": "#B7E86A",
+  "logoBg": "#0A7C7A",
+  "layout": {
+   "nav": "stripe",
+   "hero": "mosaic",
+   "stats": "pills",
+   "services": "alt",
+   "why": "stackimg",
+   "gallery": "tilt",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "image",
+   "decor": "dots",
+   "btn": "flat",
+   "order": "D",
+   "eyebrow": true
+  },
+  "hero": "mosaic"
+ }
+}

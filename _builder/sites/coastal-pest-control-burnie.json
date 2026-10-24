@@ -1,0 +1,247 @@
+{
+ "schemaType": "LocalBusiness",
+ "ratingSource": "Google",
+ "rating": null,
+ "reviewCount": 0,
+ "reviews": [],
+ "reviewsHead": "",
+ "facebook": "",
+ "street": "77 Illoura Road",
+ "postcode": "7320",
+ "slug": "coastal-pest-control-burnie",
+ "name": "Coastal Pest Control",
+ "short": "Coastal Pest",
+ "tag": "Pest control · North West Coast of Tasmania",
+ "suburb": "Romaine",
+ "state": "TAS",
+ "phone": "0408 270 763",
+ "phoneIntl": "+61408270763",
+ "email": "nevfranks@hotmail.com",
+ "topline": "Family owned pest control · North West Tasmania · 0408 270 763",
+ "addressLine": "77 Illoura Road, Romaine TAS 7320",
+ "area": "the North West Coast of Tasmania",
+ "areaShort": "North West Coast",
+ "areaText": "Coastal Pest Control is based at 77 Illoura Road, Romaine (Burnie) and services the North West Coast of Tasmania.",
+ "mapQuery": "77 Illoura Road, Romaine TAS 7320",
+ "seoTitle": "Pest control in Burnie & the North West Coast of Tasmania",
+ "metaDesc": "Coastal Pest Control, Romaine (Burnie) TAS: family owned pest control since 1999. Rodents, fleas, wasps and bees, inspections, domestic and commercial. Free estimates. Call 0408 270 763.",
+ "ctaLabel": "Call Nev",
+ "ownerOrUs": "Nev",
+ "badge": [
+  "Established 1999",
+  "Family owned & operated"
+ ],
+ "hero": {
+  "title": "Pest control that's safe for the family.",
+  "titleHtml": "Pest control that's <em style='color:var(--accent)'>safe for the family</em>.",
+  "lede": "Family owned and operated since 1999. Low-toxicity, environmentally friendly treatments for homes and businesses on Tasmania's North West Coast, and you're back inside 90 minutes after a spray.",
+  "trust": [
+   "Established 1999",
+   "Free estimates",
+   "Back home in 90 min"
+  ]
+ },
+ "images": {
+  "hero": "1747659629851-a92bd71149f6",
+  "heroAlt": "Pest control technician",
+  "about": "1628075266567-741edccba913",
+  "about2": "1733630769656-f2de52d70bea",
+  "aboutAlt": "Home pest treatment",
+  "gallery": [
+   "1581932356811-078b68a73640",
+   "1628652462669-6835a3090864",
+   "1635407159911-b72f386d87c0",
+   "1622263772227-49e1d28573b9",
+   "1733639516571-575618028339",
+   "1613105162507-d7c2a370fff6"
+  ]
+ },
+ "servicesHead": "Pests we deal with",
+ "servicesSub": "Free estimates. Call 0408 270 763.",
+ "services": [
+  {
+   "id": "rodents",
+   "title": "Rodent control & removal",
+   "img": "1733630769656-f2de52d70bea",
+   "short": "Rats and mice, out.",
+   "long": "Rodent control and removal, with trapping where it's needed.",
+   "points": [
+    "Rats & mice",
+    "Trapping",
+    "Removal"
+   ]
+  },
+  {
+   "id": "fleas",
+   "title": "Flea treatment",
+   "img": "1628075266567-741edccba913",
+   "short": "For homes with pets.",
+   "long": "Flea treatments for your home, using low-toxicity products that are safe for your family and pets.",
+   "points": [
+    "Homes",
+    "Pet-safe approach",
+    "Low toxicity"
+   ]
+  },
+  {
+   "id": "wasps",
+   "title": "Wasp & bee control",
+   "img": "1628652462669-6835a3090864",
+   "short": "Nests dealt with.",
+   "long": "Wasp and bee control around your home or business.",
+   "points": [
+    "Wasps",
+    "Bees",
+    "Nests"
+   ]
+  },
+  {
+   "id": "general",
+   "title": "Domestic & commercial",
+   "img": "1622263772227-49e1d28573b9",
+   "short": "Homes and businesses.",
+   "long": "Commercial and domestic pest control, including pyrethrum-based treatments, extermination and deodorising.",
+   "points": [
+    "Homes",
+    "Businesses",
+    "Pyrethrum-based"
+   ]
+  },
+  {
+   "id": "inspect",
+   "title": "Inspections & management",
+   "img": "1581932356811-078b68a73640",
+   "short": "Find it, then fix it.",
+   "long": "Pest inspection, trapping and ongoing pest management, with free estimates.",
+   "points": [
+    "Inspections",
+    "Trapping",
+    "Free estimates"
+   ]
+  }
+ ],
+ "whyHead": "Why the North West Coast calls Coastal Pest",
+ "whyText": "Honest, reliable and safe for your family, your pets and the environment. Locally owned, with fully licensed technicians and low-toxicity chemicals.",
+ "why": [
+  "Family owned since 1999",
+  "Fully licensed technicians",
+  "Low-toxicity, eco-friendly chemicals",
+  "Back home 90 minutes after a spray"
+ ],
+ "galleryHead": "On the job",
+ "gallerySub": "Pest control around the North West Coast.",
+ "faq": [
+  [
+   "Where are you based?",
+   "77 Illoura Road, Romaine (Burnie). We service the North West Coast of Tasmania."
+  ],
+  [
+   "How soon can I go back inside?",
+   "You can return home 90 minutes after a spray."
+  ],
+  [
+   "Is it safe for pets?",
+   "We use low-toxicity, environmentally friendly chemicals that are safe for your family, your pets and the environment."
+  ],
+  [
+   "Do you give estimates?",
+   "Yes, estimates are free. Call 0408 270 763."
+  ]
+ ],
+ "aboutHead": "About Coastal Pest Control",
+ "aboutSub": "Family owned & operated, Romaine TAS.",
+ "aboutParas": [
+  "Coastal Pest Control is a locally owned, family operated pest control business based at Romaine, Burnie, established in 1999.",
+  "We service homes and businesses across the North West Coast of Tasmania with low-toxicity, environmentally friendly treatments: honest, reliable and safe for your family, your pets and the environment."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Honest",
+   "Free estimates."
+  ],
+  [
+   "Safe",
+   "Low-toxicity products."
+  ],
+  [
+   "Local",
+   "Family owned since 1999."
+  ]
+ ],
+ "contactHead": "Get a free estimate",
+ "contactSub": "Tell us what's bugging you, or call 0408 270 763.",
+ "bandText": "Something bugging you?",
+ "footerBlurb": "Family owned pest control since 1999. 77 Illoura Road, Romaine TAS. Servicing the North West Coast of Tasmania.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "8am – 6pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "formHead": "Pest enquiry",
+ "formButton": "Request estimate",
+ "formExtra": [
+  [
+   "Address",
+   "address"
+  ],
+  [
+   "What pest?",
+   "need"
+  ]
+ ],
+ "theme": {
+  "radius": "12px",
+  "btnRadius": "8px",
+  "h1max": "60px",
+  "logoRadius": 10,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "onBrand": "#FFFFFF",
+  "headWeight": "700",
+  "bg": "#F6F8F9",
+  "headerBg": "#FFFFFF",
+  "logoFg": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "icon": "mouse",
+  "fontsQuery": "family=Onest:wght@500;700;800&family=Source+Sans+3:wght@400;600;700",
+  "headFont": "'Onest',system-ui,sans-serif",
+  "bodyFont": "'Source Sans 3',system-ui,sans-serif",
+  "surface": "#E7EEF1",
+  "ink": "#14262E",
+  "muted": "#4F6168",
+  "line": "#D5E0E5",
+  "brand": "#0E4D64",
+  "brand2": "#DCEBF0",
+  "accent": "#E4572E",
+  "headerInk": "#14262E",
+  "overlay": "rgba(10,48,62,.82)",
+  "footBg": "#0B3A4B",
+  "footInk": "#B9CED6",
+  "footHead": "#F2A65A",
+  "logoBg": "#0E4D64",
+  "layout": {
+   "nav": "pill",
+   "hero": "center",
+   "stats": "strip",
+   "services": "list",
+   "why": "splitR",
+   "gallery": "bento",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "band",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "none",
+   "btn": "arrow",
+   "order": "F",
+   "eyebrow": true
+  },
+  "hero": "center"
+ }
+}

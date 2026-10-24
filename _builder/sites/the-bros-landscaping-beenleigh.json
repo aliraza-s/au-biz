@@ -1,0 +1,234 @@
+{
+ "schemaType": "LocalBusiness",
+ "ratingSource": "Google",
+ "rating": null,
+ "reviewCount": 0,
+ "reviews": [],
+ "reviewsHead": "",
+ "facebook": "",
+ "street": "",
+ "postcode": "4207",
+ "slug": "the-bros-landscaping-beenleigh",
+ "name": "THE BROS Landscaping and Maintenance",
+ "short": "The Bros",
+ "tag": "Landscaping & maintenance · Beenleigh",
+ "suburb": "Beenleigh",
+ "state": "QLD",
+ "phone": "0404 401 192",
+ "phoneIntl": "+61404401192",
+ "topline": "Beenleigh landscaping & maintenance · 0404 401 192",
+ "addressLine": "Beenleigh QLD 4207",
+ "area": "Beenleigh and the Logan area",
+ "areaShort": "Beenleigh",
+ "areaText": "THE BROS Landscaping and Maintenance is based in Beenleigh. Call 0404 401 192 to check if they cover your suburb.",
+ "mapQuery": "Beenleigh QLD 4207",
+ "seoTitle": "Landscaping & yard maintenance in Beenleigh",
+ "metaDesc": "THE BROS Landscaping and Maintenance Pty Ltd, Beenleigh QLD: landscaping and property maintenance. Call 0404 401 192 to talk about your yard.",
+ "ctaLabel": "Call The Bros",
+ "ownerOrUs": "the Bros",
+ "badge": [
+  "Beenleigh local",
+  "Landscaping & maintenance"
+ ],
+ "hero": {
+  "title": "Your yard, sorted by The Bros.",
+  "titleHtml": "Your yard, sorted by <em style='color:var(--accent)'>The Bros</em>.",
+  "lede": "Landscaping and maintenance from a Beenleigh business. Call 0404 401 192 and talk through what your yard needs.",
+  "trust": [
+   "Beenleigh based",
+   "Landscaping",
+   "Maintenance"
+  ]
+ },
+ "images": {
+  "hero": "1779636489740-6077a4198be6",
+  "heroAlt": "Two men mowing and trimming a lawn",
+  "about": "1605117882932-f9e32b03fea9",
+  "about2": "1637531347055-4fa8aa80c111",
+  "aboutAlt": "Landscaper with tools",
+  "gallery": [
+   "1738193830098-2d92352a1856",
+   "1597201278257-3687be27d954",
+   "1734303023491-db8037a21f09",
+   "1782386963665-b83ce1d6752e",
+   "1528092744838-b91de0a10615",
+   "1779636489744-c7243917ace0"
+  ]
+ },
+ "servicesHead": "Landscaping & maintenance",
+ "servicesSub": "Call 0404 401 192 to talk about your job.",
+ "services": [
+  {
+   "id": "landscaping",
+   "title": "Landscaping",
+   "img": "1738193830098-2d92352a1856",
+   "short": "Make the yard look right.",
+   "long": "Landscaping for Beenleigh homes. Call The Bros to talk through your ideas.",
+   "points": [
+    "Yards",
+    "Gardens",
+    "Call to discuss"
+   ]
+  },
+  {
+   "id": "maintenance",
+   "title": "Yard maintenance",
+   "img": "1779636489744-76eb81c44925",
+   "short": "Keep it under control.",
+   "long": "Ongoing property and yard maintenance around Beenleigh.",
+   "points": [
+    "Regular upkeep",
+    "One-off jobs",
+    "Ask the Bros"
+   ]
+  },
+  {
+   "id": "lawns",
+   "title": "Lawns",
+   "img": "1734303023491-db8037a21f09",
+   "short": "Mowing and edges.",
+   "long": "Lawn care as part of keeping your property tidy. Call to check what's included.",
+   "points": [
+    "Mowing",
+    "Edges",
+    "Call to book"
+   ]
+  },
+  {
+   "id": "gardens",
+   "title": "Gardens & beds",
+   "img": "1597201278257-3687be27d954",
+   "short": "Beds that look cared for.",
+   "long": "Garden bed work and tidy-ups. Call to discuss what your garden needs.",
+   "points": [
+    "Garden beds",
+    "Tidy-ups",
+    "Call to discuss"
+   ]
+  }
+ ],
+ "whyHead": "Why call The Bros",
+ "whyText": "A Beenleigh landscaping and maintenance company you can call direct.",
+ "why": [
+  "Based in Beenleigh",
+  "Landscaping and maintenance",
+  "Talk to the Bros directly",
+  "One call: 0404 401 192"
+ ],
+ "galleryHead": "Yards & gardens",
+ "gallerySub": "Landscaping and maintenance work.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Beenleigh QLD."
+  ],
+  [
+   "What do you do?",
+   "Landscaping and maintenance. Call 0404 401 192 to talk through your job."
+  ],
+  [
+   "How do I get a quote?",
+   "Call 0404 401 192 or send the form on the contact page."
+  ],
+  [
+   "Do you do one-off jobs?",
+   "Call and ask about your job."
+  ]
+ ],
+ "aboutHead": "About The Bros",
+ "aboutSub": "Landscaping & maintenance, Beenleigh.",
+ "aboutParas": [
+  "THE BROS Landscaping and Maintenance Pty Ltd is a Beenleigh business looking after yards and gardens.",
+  "Whether it's a landscaping job or regular maintenance, call 0404 401 192 and talk it through."
+ ],
+ "valuesHead": "How the Bros work",
+ "values": [
+  [
+   "Local",
+   "Beenleigh based."
+  ],
+  [
+   "Direct",
+   "Talk to the Bros."
+  ],
+  [
+   "Tidy",
+   "Yards looked after."
+  ]
+ ],
+ "contactHead": "Talk to The Bros",
+ "contactSub": "Send your address and what you need, or call 0404 401 192.",
+ "bandText": "Yard needs some work?",
+ "footerBlurb": "Landscaping and maintenance. Beenleigh QLD.",
+ "hours": [
+  [
+   "Quotes",
+   "Call to book"
+  ],
+  [
+   "Phone",
+   "0404 401 192"
+  ]
+ ],
+ "formHead": "Job request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Address",
+   "address"
+  ],
+  [
+   "What do you need?",
+   "need"
+  ]
+ ],
+ "theme": {
+  "radius": "0px",
+  "btnRadius": "0px",
+  "h1max": "60px",
+  "logoRadius": 0,
+  "headTrack": "-.01em",
+  "headExtra": "text-transform:uppercase;",
+  "onBrand": "#FFFFFF",
+  "headWeight": "400",
+  "bg": "#FFFFFF",
+  "headerBg": "#141414",
+  "logoFg": "#141414",
+  "onAccent": "#141414",
+  "icon": "hedge",
+  "fontsQuery": "family=Krona+One&family=Inter+Tight:wght@400;600;700",
+  "headFont": "'Krona One',system-ui,sans-serif",
+  "bodyFont": "'Inter Tight',system-ui,sans-serif",
+  "surface": "#F2F4EC",
+  "ink": "#141414",
+  "muted": "#555A50",
+  "line": "#E1E5D7",
+  "brand": "#1F2419",
+  "brand2": "#EEF6DA",
+  "accent": "#A3D139",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(15,16,12,.80)",
+  "footBg": "#141414",
+  "footInk": "#B6B9AE",
+  "footHead": "#A3D139",
+  "logoBg": "#A3D139",
+  "layout": {
+   "nav": "bar",
+   "hero": "diagonal",
+   "stats": "strip",
+   "services": "side",
+   "why": "splitR",
+   "gallery": "bento",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "dark",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "grid",
+   "btn": "flat",
+   "order": "A",
+   "eyebrow": true
+  },
+  "hero": "diagonal"
+ }
+}
