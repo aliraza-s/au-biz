@@ -1,0 +1,264 @@
+{
+ "slug": "oneill-painting-tamworth",
+ "name": "O'Neill Painting Services",
+ "short": "O'Neill Painting",
+ "tag": "Painting & coatings · Tamworth NSW",
+ "street": "22 Lake Place",
+ "suburb": "North Tamworth",
+ "state": "NSW",
+ "postcode": "2340",
+ "phone": "0429 919 116",
+ "phoneIntl": "+61429919116",
+ "facebook": "https://www.facebook.com/Duluxaccreditedpainter",
+ "topline": "Dulux Accredited Painter · Tamworth, Gunnedah & Armidale · Call Nick 0429 919 116",
+ "addressLine": "22 Lake Place, North Tamworth NSW 2340",
+ "area": "Tamworth, Gunnedah, Armidale, Coonabarabran and beyond",
+ "areaShort": "Tamworth & the North West",
+ "areaText": "O'Neill Painting Services started out in Coonabarabran and now works across Tamworth, Gunnedah and Armidale, and is happy to travel for the right job.",
+ "mapQuery": "22 Lake Place, North Tamworth NSW 2340",
+ "seoTitle": "Painters in Tamworth: O'Neill Painting Services, Dulux Accredited",
+ "metaDesc": "O'Neill Painting Services, North Tamworth NSW. Dulux Accredited Painter with 20+ years experience: domestic, commercial, protective coatings and epoxy floors. Call Nick on 0429 919 116.",
+ "ctaLabel": "Call Nick",
+ "ownerOrUs": "Nick",
+ "schemaType": "HousePainter",
+ "ratingSource": "Google",
+ "rating": 5.0,
+ "reviewCount": 3,
+ "badge": [
+  "Dulux Accredited Painter",
+  "20+ years experience"
+ ],
+ "hero": {
+  "title": "Painting, coatings and epoxy floors, done properly.",
+  "titleHtml": "Painting, coatings and <em style='color:var(--accent)'>epoxy floors</em>, done properly.",
+  "lede": "Nick O'Neill has more than 20 years in the painting trade. Homes, businesses, schools and heritage buildings across Tamworth, Gunnedah and Armidale.",
+  "trust": [
+   "Dulux Accredited",
+   "5-year workmanship warranty",
+   "20+ years"
+  ]
+ },
+ "images": {
+  "hero": "1742900280864-bcc27353ceba",
+  "heroAlt": "Painter rolling a wall",
+  "about": "1734475318787-b2b737296469",
+  "about2": "1574359411659-15573a27fd0c",
+  "aboutAlt": "Freshly painted interior",
+  "gallery": [
+   "1688372199140-cade7ae820fe",
+   "1742900280861-32bed068938b",
+   "1745665777586-09381ba528d6",
+   "1599619585752-c3edb42a414c",
+   "1615803874161-f38b3a82fe7d",
+   "1717281234297-3def5ae3eee1"
+  ]
+ },
+ "servicesHead": "What Nick's team does",
+ "servicesSub": "Domestic, commercial and specialist work. Call 0429 919 116.",
+ "services": [
+  {
+   "id": "domestic",
+   "title": "Domestic painting",
+   "img": "1742900280864-bcc27353ceba",
+   "short": "Inside, outside and roofs.",
+   "long": "Internal and external house painting, roof spraying, wall coverings, textured and special-effect finishes, and general upkeep.",
+   "points": [
+    "Interior & exterior",
+    "Roof spraying",
+    "Special-effect finishes"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial & industrial",
+   "img": "1688372199140-cade7ae820fe",
+   "short": "Airless spray, line marking and more.",
+   "long": "Internal and external painting for commercial and industrial sites, wall coverings, airless spray, specialised coatings, line marking and service station accreditation work.",
+   "points": [
+    "Airless spray",
+    "Line marking",
+    "Service stations"
+   ]
+  },
+  {
+   "id": "coatings",
+   "title": "Protective coatings",
+   "img": "1745665777586-09381ba528d6",
+   "short": "Intumescent, protective, UV reflective.",
+   "long": "Specialised protective coatings including intumescent, protective and UV reflective coatings.",
+   "points": [
+    "Intumescent",
+    "UV reflective",
+    "Protective"
+   ]
+  },
+  {
+   "id": "epoxy",
+   "title": "Epoxy flooring",
+   "img": "1574359411659-15573a27fd0c",
+   "short": "Garages, workshops, kitchens.",
+   "long": "Plain, decorative and industrial epoxy for homes, garages, workshops, warehouses, commercial kitchens and showrooms. Custom designs available.",
+   "points": [
+    "Plain & decorative",
+    "Industrial",
+    "Custom designs"
+   ]
+  },
+  {
+   "id": "government",
+   "title": "Schools & public buildings",
+   "img": "1599619585752-c3edb42a414c",
+   "short": "Schools, emergency services, heritage.",
+   "long": "Painting for government and private schools, emergency services buildings and heritage buildings.",
+   "points": [
+    "Schools",
+    "Emergency services",
+    "Heritage"
+   ]
+  },
+  {
+   "id": "colour",
+   "title": "Colour advice",
+   "img": "1717281234297-3def5ae3eee1",
+   "short": "Help picking the right colours.",
+   "long": "Colour selection and coordination, with a professional colour consultant available on request.",
+   "points": [
+    "Colour selection",
+    "Coordination",
+    "On request"
+   ]
+  }
+ ],
+ "whyHead": "Why people call O'Neill",
+ "whyText": "A Dulux Accredited Painter with two decades in the trade, and a workmanship warranty to back the job.",
+ "why": [
+  "Dulux Accredited Painter",
+  "5-year workmanship warranty",
+  "20+ years in the trade",
+  "Domestic to industrial"
+ ],
+ "galleryHead": "Fresh work",
+ "gallerySub": "Homes, businesses and floors.",
+ "faq": [
+  [
+   "Where do you work?",
+   "Tamworth, Gunnedah, Armidale and Coonabarabran, and we're willing to travel. Call 0429 919 116 to check."
+  ],
+  [
+   "Is there a warranty?",
+   "Yes, a 5-year workmanship warranty through the Dulux Accredited Painters program."
+  ],
+  [
+   "Do you do epoxy floors?",
+   "Yes: plain, decorative and industrial epoxy for garages, workshops, kitchens and more."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 8am to 5pm."
+  ]
+ ],
+ "aboutHead": "About O'Neill Painting Services",
+ "aboutSub": "Dulux Accredited Painter, North Tamworth NSW.",
+ "aboutParas": [
+  "O'Neill Painting Services is run by Nicholas (Nick) O'Neill, who has more than 20 years experience in the painting industry.",
+  "The business began in Coonabarabran and has grown into Gunnedah, Tamworth and Armidale. As a member of the Dulux Accredited Painters program, jobs come with a 5-year workmanship warranty.",
+  "From a few rooms at home to schools, service stations and epoxy floors, call Nick on 0429 919 116 to talk about the job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Prepare",
+   "Proper prep before any paint goes on."
+  ],
+  [
+   "Protect",
+   "The right coating for the surface."
+  ],
+  [
+   "Stand behind it",
+   "5-year workmanship warranty."
+  ]
+ ],
+ "contactHead": "Get a painting quote",
+ "contactSub": "Tell Nick about the job, or call 0429 919 116.",
+ "bandText": "Ready for a fresh coat?",
+ "footerBlurb": "Dulux Accredited Painter. Domestic, commercial, protective coatings and epoxy floors across Tamworth, Gunnedah and Armidale.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "8am – 5pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Professional service, polite staff easy to deal with.",
+   "who": "Garth, Google review"
+  }
+ ],
+ "reviewsHead": "What clients say",
+ "formHead": "Painting quote",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Type of job",
+   "scope"
+  ],
+  [
+   "Town",
+   "suburb"
+  ]
+ ],
+ "theme": {
+  "radius": "14px",
+  "btnRadius": "999px",
+  "h1max": "62px",
+  "logoRadius": 16,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "800",
+  "onBrand": "#FFFFFF",
+  "bg": "#F7F5F1",
+  "headerBg": "#FFFFFF",
+  "surface": "#EDE9E2",
+  "ink": "#141B2D",
+  "muted": "#525A6B",
+  "line": "#DED8CD",
+  "brand": "#1B2A4A",
+  "brand2": "#E7EBF3",
+  "accent": "#E2583E",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#1B2A4A",
+  "overlay": "rgba(16,26,48,.82)",
+  "footBg": "#111C33",
+  "footInk": "#AEB8CC",
+  "footHead": "#F08C76",
+  "logoBg": "#1B2A4A",
+  "logoFg": "#F08C76",
+  "icon": "spraygun",
+  "fontsQuery": "family=Hanken+Grotesk:wght@600;800&family=Nunito+Sans:wght@400;600;700",
+  "headFont": "'Hanken Grotesk',system-ui,sans-serif",
+  "bodyFont": "'Nunito Sans',system-ui,sans-serif",
+  "layout": {
+   "nav": "bar",
+   "hero": "mosaic",
+   "stats": "pills",
+   "services": "bento",
+   "why": "band",
+   "gallery": "strip",
+   "reviews": "featured",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "image",
+   "decor": "dots",
+   "btn": "shadow",
+   "order": "D",
+   "eyebrow": true
+  },
+  "hero": "mosaic"
+ }
+}

@@ -1,0 +1,277 @@
+{
+ "slug": "todd-lantry-painting-maitland",
+ "name": "Todd Lantry Master Painters & Decorators",
+ "short": "Todd Lantry Painting",
+ "tag": "Master painters & decorators · Maitland NSW",
+ "street": "61 Turnbull Drive",
+ "suburb": "East Maitland",
+ "state": "NSW",
+ "postcode": "2323",
+ "phone": "0416 154 126",
+ "phoneIntl": "+61416154126",
+ "email": "info@toddlantrypainting.com.au",
+ "facebook": "https://www.facebook.com/ToddLantryPainting/",
+ "topline": "Family owned since 1991 · Maitland & the Hunter · 0416 154 126",
+ "addressLine": "61 Turnbull Drive, East Maitland NSW 2323",
+ "area": "Maitland, Cessnock, Singleton, Newcastle, Port Stephens and the Hunter Valley",
+ "areaShort": "Maitland & the Hunter",
+ "areaText": "Based in East Maitland, Todd Lantry paints across Maitland, Cessnock, Singleton, Newcastle, Port Stephens and the wider Hunter Valley.",
+ "mapQuery": "61 Turnbull Drive, East Maitland NSW 2323",
+ "seoTitle": "Painters in Maitland & the Hunter: Todd Lantry Master Painters & Decorators",
+ "metaDesc": "Todd Lantry Master Painters & Decorators, East Maitland NSW. Family owned since 1991. Residential, commercial, heritage restoration and wallpaper. Dulux Accredited, 5-year warranty. Call 0416 154 126.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "Todd",
+ "schemaType": "HousePainter",
+ "ratingSource": "Google",
+ "rating": 4.8,
+ "reviewCount": 26,
+ "badge": [
+  "Family owned since 1991",
+  "Dulux Accredited Painter"
+ ],
+ "hero": {
+  "title": "Painting the Hunter since 1991.",
+  "titleHtml": "Painting the Hunter <em style='color:var(--accent)'>since 1991</em>.",
+  "lede": "A family business run by Todd Lantry and his father Max. Homes, heritage buildings and commercial work, painted by full-time employed painters with a 5-year warranty.",
+  "trust": [
+   "Since 1991",
+   "5-year warranty",
+   "No subcontractors"
+  ]
+ },
+ "images": {
+  "hero": "1734475318787-b2b737296469",
+  "heroAlt": "Freshly painted living room",
+  "about": "1742900280864-bcc27353ceba",
+  "about2": "1770677350521-d5fdcbd74367",
+  "aboutAlt": "Painter at work",
+  "gallery": [
+   "1649083048381-520a5b3d91ff",
+   "1598928506311-c55ded91a20c",
+   "1565183997392-2f6f122e5912",
+   "1717281234297-3def5ae3eee1",
+   "1599619585752-c3edb42a414c",
+   "1688372199140-cade7ae820fe"
+  ]
+ },
+ "servicesHead": "Painting & decorating",
+ "servicesSub": "Call Todd on 0416 154 126 to talk about your job.",
+ "services": [
+  {
+   "id": "residential",
+   "title": "Residential painting",
+   "img": "1742900280864-bcc27353ceba",
+   "short": "Interior & exterior house painting.",
+   "long": "Interior and exterior painting for homes across Maitland and the Hunter, new work and repaints.",
+   "points": [
+    "Interior",
+    "Exterior",
+    "New work & repaints"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial painting",
+   "img": "1688372199140-cade7ae820fe",
+   "short": "Shops, pubs, motels, offices.",
+   "long": "Painting for sheds, shops, pubs, motels, offices and retirement villages, plus small industrial work.",
+   "points": [
+    "Shops & offices",
+    "Pubs & motels",
+    "Retirement villages"
+   ]
+  },
+  {
+   "id": "heritage",
+   "title": "Heritage restoration",
+   "img": "1599619585752-c3edb42a414c",
+   "short": "Old buildings, done with care.",
+   "long": "Heritage restoration and special effects for older homes and buildings.",
+   "points": [
+    "Heritage",
+    "Special effects",
+    "Lead paint removal"
+   ]
+  },
+  {
+   "id": "wallpaper",
+   "title": "Wallpaper",
+   "img": "1649083048381-520a5b3d91ff",
+   "short": "Hanging and removal.",
+   "long": "Wallpaper hanging and wallpaper removal.",
+   "points": [
+    "Hanging",
+    "Removal",
+    "Feature walls"
+   ]
+  },
+  {
+   "id": "decks",
+   "title": "Decks & maintenance",
+   "img": "1598928506311-c55ded91a20c",
+   "short": "Prep, oiling, upkeep.",
+   "long": "Deck preparation, deck oiling and ongoing maintenance.",
+   "points": [
+    "Deck prep",
+    "Oiling",
+    "Maintenance"
+   ]
+  },
+  {
+   "id": "cleaning",
+   "title": "Pressure cleaning & mould",
+   "img": "1565183997392-2f6f122e5912",
+   "short": "Prep and clean-ups.",
+   "long": "Pressure cleaning, mould treatments and graffiti removal.",
+   "points": [
+    "Pressure cleaning",
+    "Mould treatment",
+    "Graffiti removal"
+   ]
+  }
+ ],
+ "whyHead": "Why the Hunter calls Todd Lantry",
+ "whyText": "Every painter on the job is a full-time employee: no subcontractors, no handymen. Over 10 local builders trust us with their homes.",
+ "why": [
+  "Family owned & run since 1991",
+  "Dulux Accredited Painter for 10+ years",
+  "MBA member",
+  "5-year warranty on all services"
+ ],
+ "galleryHead": "Our finishes",
+ "gallerySub": "Homes, heritage and commercial.",
+ "faq": [
+  [
+   "Which areas do you cover?",
+   "Maitland, Cessnock, Singleton, Newcastle, Port Stephens and the wider Hunter Valley."
+  ],
+  [
+   "Do you use subcontractors?",
+   "No. All our painters are full-time employees."
+  ],
+  [
+   "Is there a warranty?",
+   "Yes, a 5-year warranty on all services."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 7am to 5pm."
+  ]
+ ],
+ "aboutHead": "About Todd Lantry",
+ "aboutSub": "Master painters & decorators, East Maitland NSW.",
+ "aboutParas": [
+  "Todd Lantry Master Painters & Decorators has been painting in the Hunter since 1991. It's a family owned and run business: Todd works alongside his father, Max, and has more than 25 years of painting experience.",
+  "All of our painters are full-time employees. We've been a Dulux Accredited Painter for over 10 years, are members of the MBA, and back all services with a 5-year warranty.",
+  "Call Todd on 0416 154 126 or email info@toddlantrypainting.com.au to talk about your job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Family",
+   "Run by Todd and Max."
+  ],
+  [
+   "Our own team",
+   "Full-time painters only."
+  ],
+  [
+   "Guaranteed",
+   "5-year warranty."
+  ]
+ ],
+ "contactHead": "Request a painting quote",
+ "contactSub": "Tell us about the job, or call Todd on 0416 154 126.",
+ "bandText": "Time to freshen up the place?",
+ "footerBlurb": "Family owned master painters & decorators since 1991. East Maitland, servicing the Hunter Valley.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 5pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Todd and his team were quick, clean and efficient and we were more than happy with our job.",
+   "who": "Cheryl Laves"
+  },
+  {
+   "text": "We have had Todd Lantry paint our family home as well as at our office and every time they deliver.",
+   "who": "Craig & Amy McGregor"
+  },
+  {
+   "text": "Todd Lantry Master Painters & Decorators have been looking after us for over 20 years with enduring value for money.",
+   "who": "Ben & Kathryn"
+  },
+  {
+   "text": "We would like to thank you for the great job that you and your crew done on painting our house.",
+   "who": "Bryan & Joan Walters"
+  }
+ ],
+ "reviewsHead": "Kind words from clients",
+ "formHead": "Painting quote",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Type of job",
+   "scope"
+  ],
+  [
+   "Suburb",
+   "suburb"
+  ]
+ ],
+ "theme": {
+  "radius": "0px",
+  "btnRadius": "0px",
+  "h1max": "68px",
+  "logoRadius": 4,
+  "headTrack": "0",
+  "headExtra": "",
+  "headWeight": "600",
+  "onBrand": "#FFFFFF",
+  "bg": "#F8F3EA",
+  "headerBg": "#F8F3EA",
+  "surface": "#EFE6D6",
+  "ink": "#2A1A1D",
+  "muted": "#6A5A58",
+  "line": "#E3D6C1",
+  "brand": "#6B1E2E",
+  "brand2": "#F3E4E1",
+  "accent": "#B88A3E",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#6B1E2E",
+  "overlay": "rgba(58,16,26,.82)",
+  "footBg": "#3E111B",
+  "footInk": "#D9C3BE",
+  "footHead": "#D9AE68",
+  "logoBg": "#6B1E2E",
+  "logoFg": "#E8C789",
+  "icon": "column",
+  "fontsQuery": "family=Bodoni+Moda:wght@500;600&family=Figtree:wght@400;500;700",
+  "headFont": "'Bodoni Moda',Georgia,serif",
+  "bodyFont": "Figtree,system-ui,sans-serif",
+  "layout": {
+   "nav": "stripe",
+   "hero": "editorial",
+   "stats": "none",
+   "services": "side",
+   "why": "stackimg",
+   "gallery": "tilt",
+   "reviews": "slider",
+   "hours": "mapbg",
+   "cta": "card",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "lines",
+   "btn": "flat",
+   "order": "C",
+   "eyebrow": true
+  },
+  "hero": "editorial"
+ }
+}

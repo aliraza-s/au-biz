@@ -1,0 +1,240 @@
+{
+ "slug": "the-exterminator-launceston",
+ "name": "The Exterminator Pest Control",
+ "short": "The Exterminator",
+ "tag": "Pest control · Launceston & Northern Tasmania",
+ "street": "32 Wyett Street",
+ "suburb": "West Launceston",
+ "state": "TAS",
+ "postcode": "7250",
+ "phone": "0418 568 057",
+ "phoneIntl": "+61418568057",
+ "email": "mail@exterminator.com.au",
+ "facebook": "https://www.facebook.com/theexterminatorpest/",
+ "bookingUrl": "https://theexteriminatorpestcontrol.gettimely.com/book",
+ "topline": "Pest control in Northern Tasmania since 2002 · Text Tim on 0418 568 057",
+ "addressLine": "32 Wyett Street, West Launceston TAS 7250",
+ "area": "Launceston and Northern Tasmania",
+ "areaShort": "Northern Tasmania",
+ "areaText": "The Exterminator is based in West Launceston and has looked after homes and businesses across Northern Tasmania since 2002.",
+ "mapQuery": "32 Wyett Street, West Launceston TAS 7250",
+ "seoTitle": "Pest control in Launceston: The Exterminator Pest Control",
+ "metaDesc": "The Exterminator Pest Control, West Launceston TAS. Residential and commercial pest control across Northern Tasmania since 2002. Spiders, ants and more. Call or text Tim on 0418 568 057.",
+ "ctaLabel": "Text Tim",
+ "ownerOrUs": "Tim",
+ "schemaType": "PestControl",
+ "ratingSource": "Google",
+ "rating": 4.9,
+ "reviewCount": 11,
+ "badge": [
+  "Since 2002",
+  "Tasmania's most punctual tradesman"
+ ],
+ "hero": {
+  "title": "Tasmania's most punctual tradesman.",
+  "titleHtml": "Tasmania's most <em style='color:var(--accent)'>punctual</em> tradesman.",
+  "lede": "Residential and commercial pest control across Northern Tasmania, run by Tim Scott since 2002. Need it sorted fast? Text 0418 568 057.",
+  "trust": [
+   "Since 2002",
+   "4.9 on Google",
+   "Book online"
+  ]
+ },
+ "images": {
+  "hero": "1747659629851-a92bd71149f6",
+  "heroAlt": "Pest control technician spraying",
+  "about": "1628075266567-741edccba913",
+  "about2": "1733630769656-f2de52d70bea",
+  "aboutAlt": "Pest technician at work",
+  "gallery": [
+   "1581932356811-078b68a73640",
+   "1628652462669-6835a3090864",
+   "1635407159911-b72f386d87c0",
+   "1622263772227-49e1d28573b9",
+   "1733639516571-575618028339",
+   "1613105162507-d7c2a370fff6"
+  ]
+ },
+ "servicesHead": "Pest control services",
+ "servicesSub": "Text or call Tim on 0418 568 057, or book online.",
+ "services": [
+  {
+   "id": "residential",
+   "title": "Residential pest control",
+   "img": "1733630769656-f2de52d70bea",
+   "short": "Homes across Northern Tasmania.",
+   "long": "We cover all residential pest control for houses and units around Launceston and Northern Tasmania.",
+   "points": [
+    "Houses & units",
+    "Inside & out",
+    "Book online"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial pest control",
+   "img": "1628075266567-741edccba913",
+   "short": "Shops, offices and sites.",
+   "long": "Pest control for commercial premises across Northern Tasmania.",
+   "points": [
+    "Businesses",
+    "Property managers",
+    "Ask Tim"
+   ]
+  },
+  {
+   "id": "spiders",
+   "title": "Spider control",
+   "img": "1628652462669-6835a3090864",
+   "short": "White-tails, redbacks, huntsman.",
+   "long": "Treatment for spiders including white-tailed, redback, black house and huntsman spiders.",
+   "points": [
+    "White-tailed",
+    "Redback",
+    "Huntsman"
+   ]
+  },
+  {
+   "id": "ants",
+   "title": "Ant control",
+   "img": "1622263772227-49e1d28573b9",
+   "short": "Trails, nests, kitchens.",
+   "long": "Ant control for homes and businesses.",
+   "points": [
+    "Inside",
+    "Outside",
+    "Homes & businesses"
+   ]
+  }
+ ],
+ "whyHead": "Why Launceston calls The Exterminator",
+ "whyText": "Tim started the business in 2002 and is the main licenced pest management technician, so you deal with the person doing the job.",
+ "why": [
+  "Over 20 years in Northern Tasmania",
+  "Deal directly with Tim",
+  "Text for urgent jobs",
+  "Easy online booking"
+ ],
+ "galleryHead": "On the job",
+ "gallerySub": "Homes and businesses around Northern Tasmania.",
+ "faq": [
+  [
+   "Where do you service?",
+   "Launceston and Northern Tasmania."
+  ],
+  [
+   "Can I book online?",
+   "Yes, use the Book online link, or text Tim on 0418 568 057."
+  ],
+  [
+   "Do you do commercial jobs?",
+   "Yes, both residential and commercial pest control."
+  ],
+  [
+   "What are your hours?",
+   "Mon to Fri 8am – 7pm, Saturday 9am – 2pm."
+  ]
+ ],
+ "aboutHead": "About The Exterminator",
+ "aboutSub": "Pest control, West Launceston TAS.",
+ "aboutParas": [
+  "The Exterminator Pest Control was started by Tim Scott in 2002. Tim is the director and the main licenced pest management technician.",
+  "For more than two decades the business has looked after homes and businesses across Northern Tasmania. For anything urgent, text Tim on 0418 568 057."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "On time",
+   "We turn up when we say."
+  ],
+  [
+   "Direct",
+   "Talk to Tim himself."
+  ],
+  [
+   "Local",
+   "Northern Tasmania since 2002."
+  ]
+ ],
+ "contactHead": "Book pest control",
+ "contactSub": "Tell us what's bugging you, or text Tim on 0418 568 057.",
+ "bandText": "Got a pest problem?",
+ "footerBlurb": "Residential and commercial pest control across Northern Tasmania since 2002. 32 Wyett Street, West Launceston.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "8am – 7pm"
+  ],
+  [
+   "Saturday",
+   "9am – 2pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Pest enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Suburb",
+   "suburb"
+  ],
+  [
+   "What pest?",
+   "need"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "4px",
+  "h1max": "62px",
+  "logoRadius": 50,
+  "headTrack": "-.005em",
+  "headExtra": "",
+  "headWeight": "900",
+  "onBrand": "#FFFFFF",
+  "bg": "#F4F5F2",
+  "headerBg": "#15171C",
+  "surface": "#E7E9E3",
+  "ink": "#15171C",
+  "muted": "#545A60",
+  "line": "#D7DAD2",
+  "brand": "#15171C",
+  "brand2": "#E6EBD9",
+  "accent": "#9BC53D",
+  "onAccent": "#15171C",
+  "headerInk": "#F4F5F2",
+  "overlay": "rgba(12,13,16,.84)",
+  "footBg": "#0E0F12",
+  "footInk": "#A8ADB3",
+  "footHead": "#B6DB5E",
+  "logoBg": "#9BC53D",
+  "logoFg": "#15171C",
+  "icon": "spider",
+  "fontsQuery": "family=Titillium+Web:wght@600;700;900&family=Mulish:wght@400;600;700",
+  "headFont": "'Titillium Web',system-ui,sans-serif",
+  "bodyFont": "Mulish,system-ui,sans-serif",
+  "layout": {
+   "nav": "bar",
+   "hero": "split",
+   "stats": "ticker",
+   "services": "cards",
+   "why": "split",
+   "gallery": "bento",
+   "reviews": "light",
+   "hours": "cards",
+   "cta": "band",
+   "footer": "grid",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "shadow",
+   "order": "F",
+   "eyebrow": true
+  },
+  "hero": "split"
+ }
+}

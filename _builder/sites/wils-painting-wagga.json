@@ -1,0 +1,238 @@
+{
+ "slug": "wils-painting-wagga",
+ "name": "Wil's Painting",
+ "short": "Wil's Painting",
+ "tag": "Painters · Wagga Wagga NSW",
+ "street": "",
+ "suburb": "Bourkelands",
+ "state": "NSW",
+ "postcode": "2650",
+ "phone": "0423 449 458",
+ "phoneIntl": "+61423449458",
+ "facebook": "https://www.facebook.com/people/Wils-Painting/100064622382380/",
+ "topline": "Residential, commercial & industrial painting · Wagga Wagga · 0423 449 458",
+ "addressLine": "Bourkelands, Wagga Wagga NSW 2650",
+ "area": "Wagga Wagga and surrounds",
+ "areaShort": "Wagga Wagga",
+ "areaText": "Wil's Painting is based in Bourkelands and paints homes, businesses and industrial sites around Wagga Wagga.",
+ "mapQuery": "Bourkelands NSW 2650",
+ "seoTitle": "Painters in Wagga Wagga: Wil's Painting",
+ "metaDesc": "Wil's Painting, Wagga Wagga NSW: residential, commercial and industrial painting with 15+ years experience. Interior and exterior. Call 0423 449 458.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "us",
+ "schemaType": "HousePainter",
+ "ratingSource": "Google",
+ "rating": 5.0,
+ "reviewCount": 10,
+ "badge": [
+  "15+ years experience",
+  "Wagga based"
+ ],
+ "hero": {
+  "title": "Wagga's residential, commercial and industrial painter.",
+  "titleHtml": "Wagga's <em style='color:var(--accent)'>residential, commercial</em> and industrial painter.",
+  "lede": "Wil and the team have more than 15 years experience painting homes, new builds, businesses and industrial sites around Wagga Wagga.",
+  "trust": [
+   "5.0 on Google",
+   "15+ years",
+   "Interior & exterior"
+  ]
+ },
+ "images": {
+  "hero": "1745665777586-09381ba528d6",
+  "heroAlt": "Painted house exterior",
+  "about": "1742900280861-32bed068938b",
+  "about2": "1652829069862-87874e119527",
+  "aboutAlt": "Painter at work",
+  "gallery": [
+   "1525909002-1b05e0c869d8",
+   "1652572036885-b5e9205dd847",
+   "1742900280864-bcc27353ceba",
+   "1674376360445-2996327553e7",
+   "1688372199140-cade7ae820fe",
+   "1717281234297-3def5ae3eee1"
+  ]
+ },
+ "servicesHead": "Painting services",
+ "servicesSub": "Call 0423 449 458 for a quote.",
+ "services": [
+  {
+   "id": "interior",
+   "title": "Interior painting",
+   "img": "1742900280864-bcc27353ceba",
+   "short": "Walls, ceilings, doors & trims.",
+   "long": "Full home interiors, including filling holes and imperfections, ceilings, skirting boards and door frames.",
+   "points": [
+    "Full interiors",
+    "Ceilings",
+    "Skirting & frames"
+   ]
+  },
+  {
+   "id": "exterior",
+   "title": "Exterior painting",
+   "img": "1745665777586-09381ba528d6",
+   "short": "Street appeal, refreshed.",
+   "long": "Exterior painting for homes around Wagga Wagga.",
+   "points": [
+    "Walls & eaves",
+    "Weatherboards",
+    "Fences"
+   ]
+  },
+  {
+   "id": "newbuilds",
+   "title": "New builds",
+   "img": "1652829069862-87874e119527",
+   "short": "Fresh homes, first coat.",
+   "long": "Painting for new builds, inside and out.",
+   "points": [
+    "Builders",
+    "Owner builders",
+    "Inside & out"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial & industrial",
+   "img": "1525909002-1b05e0c869d8",
+   "short": "Shops, offices and sites.",
+   "long": "Commercial and industrial painting around Wagga Wagga.",
+   "points": [
+    "Commercial",
+    "Industrial",
+    "Ask for a quote"
+   ]
+  }
+ ],
+ "whyHead": "Why Wagga calls Wil's",
+ "whyText": "Clean, careful work with your place protected, finished when we say it will be.",
+ "why": [
+  "15+ years experience",
+  "Rated 5.0 on Google",
+  "Homes, new builds & commercial",
+  "Site protected, job finished on time"
+ ],
+ "galleryHead": "Recent colours",
+ "gallerySub": "Interiors, exteriors and new builds.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Bourkelands, Wagga Wagga. We work across Wagga and surrounds."
+  ],
+  [
+   "Do you paint new builds?",
+   "Yes, as well as repaints, interiors, exteriors and commercial jobs."
+  ],
+  [
+   "How do I get a quote?",
+   "Call or text 0423 449 458, or send the form."
+  ],
+  [
+   "What are your hours?",
+   "Mon to Fri 7am – 5pm, Sat 7am – 3pm."
+  ]
+ ],
+ "aboutHead": "About Wil's Painting",
+ "aboutSub": "Painters, Bourkelands, Wagga Wagga NSW.",
+ "aboutParas": [
+  "Wil's Painting is a Wagga Wagga painting business led by Wil, with more than 15 years experience.",
+  "We paint homes inside and out, new builds, commercial premises and industrial sites. Call 0423 449 458 to talk about your job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Quote",
+   "Clear quote up front."
+  ],
+  [
+   "Protect",
+   "Your place looked after."
+  ],
+  [
+   "Finish",
+   "On time, done right."
+  ]
+ ],
+ "contactHead": "Get a painting quote",
+ "contactSub": "Tell us about the job, or call 0423 449 458.",
+ "bandText": "Ready for a fresh coat?",
+ "footerBlurb": "Residential, commercial and industrial painting in Wagga Wagga, NSW.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 5pm"
+  ],
+  [
+   "Saturday",
+   "7am – 3pm"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Painting quote",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Inside, outside or both?",
+   "scope"
+  ],
+  [
+   "Suburb",
+   "suburb"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "6px",
+  "h1max": "62px",
+  "logoRadius": 6,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "bg": "#FAFAF5",
+  "headerBg": "#23443A",
+  "surface": "#EEF1E8",
+  "ink": "#17241F",
+  "muted": "#55635C",
+  "line": "#DCE3D6",
+  "brand": "#23443A",
+  "brand2": "#E4ECE6",
+  "accent": "#E0A526",
+  "onAccent": "#1A1A12",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(20,40,33,.78)",
+  "footBg": "#183129",
+  "footInk": "#B8CABF",
+  "footHead": "#F0C25A",
+  "logoBg": "#E0A526",
+  "logoFg": "#23443A",
+  "icon": "tray",
+  "fontsQuery": "family=Arvo:wght@400;700&family=Source+Sans+3:wght@400;600;700",
+  "headFont": "Arvo,Georgia,serif",
+  "bodyFont": "'Source Sans 3',system-ui,sans-serif",
+  "layout": {
+   "nav": "center",
+   "hero": "overlay",
+   "stats": "strip",
+   "services": "alt",
+   "why": "dark",
+   "gallery": "grid",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "band",
+   "footer": "grid",
+   "pagehead": "solid",
+   "decor": "none",
+   "btn": "arrow",
+   "order": "A",
+   "eyebrow": false
+  },
+  "hero": "overlay"
+ }
+}
