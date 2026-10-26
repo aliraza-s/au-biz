@@ -1,0 +1,280 @@
+{
+ "slug": "gm-chapman-painting-tamworth",
+ "name": "G & M Chapman Painting",
+ "short": "G & M Chapman Painting",
+ "tag": "Painters & decorators · Tamworth NSW",
+ "street": "25 Camira Crescent",
+ "suburb": "Hillvue",
+ "state": "NSW",
+ "postcode": "2340",
+ "phone": "0403 296 685",
+ "phoneIntl": "+61403296685",
+ "facebook": "https://facebook.com/GMChapmanpainting/",
+ "topline": "5.0★ on Google · Domestic, commercial & industrial painting · Call Graeme 0403 296 685",
+ "addressLine": "25 Camira Crescent, Hillvue NSW 2340",
+ "area": "Tamworth and surrounding areas",
+ "areaShort": "Tamworth & district",
+ "areaText": "G & M Chapman Painting is based in Hillvue and paints homes, businesses and industrial sites around Tamworth.",
+ "mapQuery": "25 Camira Crescent, Hillvue NSW 2340",
+ "seoTitle": "Painters in Tamworth: G & M Chapman Painting, Hillvue NSW",
+ "metaDesc": "G & M Chapman Painting, Hillvue (Tamworth) NSW. Interior and exterior house painting, commercial and industrial work, spray finishes, roofs, floors and colour advice. 5.0 stars on Google. Call Graeme on 0403 296 685.",
+ "ctaLabel": "Call Graeme",
+ "ownerOrUs": "Graeme",
+ "schemaType": "HousePainter",
+ "ratingSource": "Google",
+ "rating": 5.0,
+ "reviewCount": 19,
+ "badge": [
+  "5.0 on Google",
+  "19 reviews"
+ ],
+ "hero": {
+  "title": "Tamworth painters who sweat the detail.",
+  "titleHtml": "Tamworth painters who <em style='color:var(--accent)'>sweat the detail</em>.",
+  "lede": "Graeme and the G & M Chapman team paint homes inside and out, plus commercial and industrial jobs, spray finishes, roofs and floors around Tamworth.",
+  "trust": [
+   "5.0★ from 19 Google reviews",
+   "Domestic to industrial",
+   "Colour advice"
+  ]
+ },
+ "images": {
+  "hero": "1742900280864-bcc27353ceba",
+  "heroAlt": "Painter rolling fresh paint on a wall",
+  "about": "1688372199140-cade7ae820fe",
+  "about2": "1652829069862-87874e119527",
+  "aboutAlt": "Painter at work on an interior wall",
+  "gallery": [
+   "1598928506311-c55ded91a20c",
+   "1525909002-1b05e0c869d8",
+   "1565183997392-2f6f122e5912",
+   "1772563214602-3c6434766700",
+   "1674376360445-2996327553e7",
+   "1742900280861-32bed068938b"
+  ]
+ },
+ "servicesHead": "Painting jobs big and small",
+ "servicesSub": "From one bedroom to a whole factory. Call Graeme on 0403 296 685.",
+ "services": [
+  {
+   "id": "interior",
+   "title": "Interior painting",
+   "img": "1598928506311-c55ded91a20c",
+   "short": "Walls, ceilings, doors and trims.",
+   "long": "Interior domestic painting for living areas, bedrooms, ceilings, doors and trims, with the furniture and floors protected while the team works.",
+   "points": [
+    "Walls & ceilings",
+    "Doors & trims",
+    "Clean, tidy finish"
+   ]
+  },
+  {
+   "id": "exterior",
+   "title": "Exterior painting",
+   "img": "1742900280861-32bed068938b",
+   "short": "Weatherboards, eaves, fences and more.",
+   "long": "Exterior domestic painting to freshen up and protect the outside of your home.",
+   "points": [
+    "House exteriors",
+    "Eaves & gutters",
+    "Fences"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial & industrial",
+   "img": "1574359411659-15573a27fd0c",
+   "short": "Shops, offices and industrial sites.",
+   "long": "Commercial and industrial painting for shops, offices, workshops and larger sites around Tamworth.",
+   "points": [
+    "Commercial",
+    "Industrial",
+    "Larger sites"
+   ]
+  },
+  {
+   "id": "spray",
+   "title": "Spray finishes",
+   "img": "1652829069862-87874e119527",
+   "short": "Smooth spray-painted finishes.",
+   "long": "Spray painting and spray finishes where a brush or roller won't give the result you want.",
+   "points": [
+    "Spray painting",
+    "Even coverage",
+    "Fine finishes"
+   ]
+  },
+  {
+   "id": "roofs",
+   "title": "Roofs, floors & pressure cleaning",
+   "img": "1734475318787-b2b737296469",
+   "short": "Roof painting, decorative floors, washdowns.",
+   "long": "Roof painting, decorative floor painting and pressure cleaning to prep surfaces properly before paint goes on.",
+   "points": [
+    "Roof painting",
+    "Decorative floors",
+    "Pressure cleaning"
+   ]
+  },
+  {
+   "id": "colour",
+   "title": "Colour advice",
+   "img": "1525909002-1b05e0c869d8",
+   "short": "Help choosing the right colours.",
+   "long": "Not sure what colours to pick? Graeme can suggest colours that suit the home and the light.",
+   "points": [
+    "Colour suggestions",
+    "Ask on quote",
+    "Spot-on results"
+   ]
+  }
+ ],
+ "whyHead": "Why Tamworth calls G & M Chapman",
+ "whyText": "A perfect 5.0 on Google from 19 reviews, with customers mentioning quick quotes, great colour suggestions and attention to detail.",
+ "why": [
+  "5.0★ from 19 Google reviews",
+  "Quick quotes",
+  "Great colour suggestions",
+  "Homes, businesses & industrial"
+ ],
+ "galleryHead": "Fresh coats",
+ "gallerySub": "Interiors, exteriors and colour.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Hillvue in Tamworth, NSW. Call 0403 296 685 to check if we cover your area."
+  ],
+  [
+   "What kind of jobs do you take on?",
+   "Interior and exterior house painting, commercial and industrial painting, spray finishes, roofs, decorative floors and pressure cleaning."
+  ],
+  [
+   "Can you help choose colours?",
+   "Yes. Colour advice is part of the service; just ask when you get your quote."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 7:30am to 4pm."
+  ]
+ ],
+ "aboutHead": "About G & M Chapman Painting",
+ "aboutSub": "Local painters from Hillvue, Tamworth.",
+ "aboutParas": [
+  "G & M Chapman Painting Pty Ltd is a Tamworth painting business based in Hillvue, run by Graeme.",
+  "The team handles domestic interiors and exteriors as well as commercial and industrial painting, spray finishes, roof painting, decorative floors and pressure cleaning.",
+  "Customers on Google give the team a 5.0 rating and mention the attention to detail and the colour suggestions. Call Graeme on 0403 296 685 to talk about your job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Prep first",
+   "Clean, sound surfaces before paint."
+  ],
+  [
+   "Detail",
+   "Neat lines and tidy finishes."
+  ],
+  [
+   "On time",
+   "Quick quotes, jobs finished promptly."
+  ]
+ ],
+ "contactHead": "Get a painting quote",
+ "contactSub": "Tell Graeme about the job, or call 0403 296 685.",
+ "bandText": "Time for a fresh coat?",
+ "footerBlurb": "Interior, exterior, commercial and industrial painting from Hillvue, Tamworth.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7:30am – 4pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Fantastic tradesmen, go over and above. Was so happy with the work they did. Will definitely get them again.",
+   "who": "Vicki, Google review"
+  },
+  {
+   "text": "Graeme and his team did a fantastic job on painting the interior of our house.",
+   "who": "Shelley, Google review"
+  },
+  {
+   "text": "Graham gave excellent suggestions for colours. He completed the job efficiently and the end result was amazing.",
+   "who": "Liz, Google review"
+  },
+  {
+   "text": "The quality of their work is worth every dollar spent.",
+   "who": "Sophie, Google review"
+  },
+  {
+   "text": "Graeme and his team were professional.",
+   "who": "Kathy, Google review"
+  }
+ ],
+ "reviewsHead": "5.0 stars from Tamworth customers",
+ "formHead": "Painting quote",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Type of job",
+   "scope"
+  ],
+  [
+   "Inside, outside or both?",
+   "where"
+  ]
+ ],
+ "theme": {
+  "radius": "22px",
+  "btnRadius": "999px",
+  "h1max": "70px",
+  "logoRadius": 16,
+  "headTrack": "0",
+  "headExtra": "",
+  "headWeight": "400",
+  "onBrand": "#FFFFFF",
+  "bg": "#FBF8F1",
+  "headerBg": "#FBF8F1",
+  "surface": "#F1EBDD",
+  "ink": "#1E1E1E",
+  "muted": "#5A5650",
+  "line": "#E2DACA",
+  "brand": "#2B2B2B",
+  "brand2": "#F3EAD3",
+  "accent": "#C98F00",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#2B2B2B",
+  "overlay": "rgba(20,20,20,.78)",
+  "footBg": "#1C1C1C",
+  "footInk": "#BDB6A8",
+  "footHead": "#F2C14E",
+  "logoBg": "#E0A100",
+  "logoFg": "#1E1E1E",
+  "icon": "ladder",
+  "fontsQuery": "family=Rozha+One&family=Mulish:wght@400;600;800",
+  "headFont": "\"Rozha One\",Georgia,serif",
+  "bodyFont": "Mulish,system-ui,sans-serif",
+  "layout": {
+   "nav": "pill",
+   "hero": "arch",
+   "stats": "strip",
+   "services": "cards",
+   "why": "band",
+   "gallery": "tilt",
+   "reviews": "slider",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "lines",
+   "btn": "arrow",
+   "order": "C",
+   "eyebrow": true
+  },
+  "hero": "arch"
+ }
+}

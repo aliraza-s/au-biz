@@ -1,0 +1,276 @@
+{
+ "slug": "express-auto-electrics-gladstone",
+ "name": "Express Auto Electrics",
+ "short": "Express Auto Electrics",
+ "tag": "Auto electrical & air conditioning · Gladstone QLD",
+ "street": "Unit 1/12 Bassett Street",
+ "suburb": "Callemondah",
+ "state": "QLD",
+ "postcode": "4680",
+ "phone": "(07) 4972 7211",
+ "phoneIntl": "+61749727211",
+ "facebook": "https://www.facebook.com/expressautoelectrics/",
+ "topline": "Mobile & workshop auto electrics and air con · Gladstone & surrounds · Call (07) 4972 7211",
+ "addressLine": "Unit 1/12 Bassett Street, Callemondah QLD 4680",
+ "area": "Gladstone and surrounding areas, including Calliope, Mt Larcom, Boyne Valley, Miriam Vale and Turkey Beach",
+ "areaShort": "Gladstone & surrounds",
+ "areaText": "Express Auto Electrics works from a workshop in Callemondah and also comes to you around Gladstone and the surrounding areas.",
+ "mapQuery": "12 Bassett Street, Callemondah QLD 4680",
+ "seoTitle": "Auto electrician Gladstone: Express Auto Electrics, Callemondah",
+ "metaDesc": "Express Auto Electrics, Callemondah (Gladstone) QLD. Mobile and workshop auto electrical and air conditioning repairs for cars, trucks and earthmoving equipment. LED light bars, batteries, REDARC and dual-battery systems. Call (07) 4972 7211.",
+ "ctaLabel": "Book a job",
+ "ownerOrUs": "us",
+ "schemaType": "AutoRepair",
+ "ratingSource": "AutoGuru",
+ "rating": 4.8,
+ "reviewCount": 24,
+ "badge": [
+  "ARC licensed",
+  "Air con certified"
+ ],
+ "hero": {
+  "title": "Auto electrics and air con, sorted.",
+  "titleHtml": "Auto electrics and <em style='color:var(--accent)'>air con</em>, sorted.",
+  "lede": "Mobile and workshop electrical and air conditioning repairs on cars, trucks and earthmoving equipment, from our Callemondah workshop in Gladstone.",
+  "trust": [
+   "4.8★ on AutoGuru",
+   "Mobile & workshop",
+   "ARC licensed for air con"
+  ]
+ },
+ "images": {
+  "hero": "1711386689622-1cda23e10217",
+  "heroAlt": "Auto electrician working on a car in a workshop",
+  "about": "1615906655593-ad0386982a0f",
+  "about2": "1625047509168-a7026f36de04",
+  "aboutAlt": "Mechanic working on a car engine",
+  "gallery": [
+   "1767681092416-bccf9410bda4",
+   "1625047509252-ab38fb5c7343",
+   "1702146713858-8e7d1cc29fe8",
+   "1606577924006-27d39b132ae2",
+   "1504222490345-c075b6008014",
+   "1570129476815-ba368ac77013"
+  ]
+ },
+ "servicesHead": "What we fix and fit",
+ "servicesSub": "Cars, 4WDs, trucks, plant and earthmoving gear. Call (07) 4972 7211.",
+ "services": [
+  {
+   "id": "electrical",
+   "title": "Auto electrical repairs",
+   "img": "1606577924006-27d39b132ae2",
+   "short": "Diagnostics and fault finding.",
+   "long": "Repairs and diagnostics on harness faults, control systems, charging and starting systems, lighting and accessory installs.",
+   "points": [
+    "Harness faults",
+    "Charging & starting",
+    "Lighting"
+   ]
+  },
+  {
+   "id": "aircon",
+   "title": "Air conditioning",
+   "img": "1625047509248-ec889cbff17f",
+   "short": "Cars, trucks and plant.",
+   "long": "Air conditioning repairs on cars, trucks, earthmoving equipment and plant. Licensed and certified by the Australian Refrigeration Council, and we can design systems to suit.",
+   "points": [
+    "ARC licensed",
+    "Trucks & plant",
+    "Custom systems"
+   ]
+  },
+  {
+   "id": "batteries",
+   "title": "Batteries, alternators & starters",
+   "img": "1504222490345-c075b6008014",
+   "short": "Won't start? We'll find out why.",
+   "long": "Batteries, alternators and starter motors supplied, tested and replaced.",
+   "points": [
+    "Batteries",
+    "Alternators",
+    "Starter motors"
+   ]
+  },
+  {
+   "id": "lighting",
+   "title": "LED light bars & spotlights",
+   "img": "1625047509168-a7026f36de04",
+   "short": "Titan, Great Whites and more.",
+   "long": "Fitting of LED light bars and spotlights including Titan and Great Whites, plus switches, LED headlight inserts, brackets and covers.",
+   "points": [
+    "Light bars",
+    "Spotlights",
+    "Headlight inserts"
+   ]
+  },
+  {
+   "id": "accessories",
+   "title": "Accessories",
+   "img": "1666884696746-bb3a0cc4c993",
+   "short": "REDARC, Narva, Thunder and more.",
+   "long": "We stock and fit accessories from brands including REDARC, Thunder, Low Voltage, Hulk and Narva.",
+   "points": [
+    "REDARC",
+    "Narva",
+    "Thunder"
+   ]
+  },
+  {
+   "id": "solar",
+   "title": "Solar & battery management",
+   "img": "1570129476815-ba368ac77013",
+   "short": "Caravans, campers, utes, trucks.",
+   "long": "Design and installation of solar and battery management systems for cars, utes, caravans, campers and trucks.",
+   "points": [
+    "Dual battery",
+    "Caravans & campers",
+    "Utes & trucks"
+   ]
+  }
+ ],
+ "whyHead": "Why Gladstone books Express",
+ "whyText": "Rated 4.8 on AutoGuru, with customers calling the team honest, friendly and quick to get them back on the road.",
+ "why": [
+  "4.8★ on AutoGuru",
+  "Mobile or in the workshop",
+  "ARC licensed air con",
+  "Cars, trucks & earthmoving"
+ ],
+ "galleryHead": "In the workshop",
+ "gallerySub": "Electrical, air con and fit-outs.",
+ "faq": [
+  [
+   "Do you come to me?",
+   "Yes. We do mobile work around Gladstone and surrounding areas, as well as jobs at our Callemondah workshop."
+  ],
+  [
+   "Do you work on trucks and machinery?",
+   "Yes. Electrical and air conditioning repairs on cars, trucks, earthmoving equipment and plant."
+  ],
+  [
+   "Can you fit a dual battery or solar setup?",
+   "Yes. We design and install solar and battery management systems for utes, caravans, campers and trucks."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Thursday 8am to 5pm, Friday 8am to 3pm. Closed weekends."
+  ]
+ ],
+ "aboutHead": "About Express Auto Electrics",
+ "aboutSub": "Auto electrical and air conditioning, Callemondah QLD.",
+ "aboutParas": [
+  "Express Auto Electrics handles auto electrical and auto air conditioning work for Gladstone and the surrounding areas, from a workshop at Unit 1/12 Bassett Street, Callemondah.",
+  "We work on cars, 4WDs, trucks, earthmoving equipment and plant, either in the workshop or mobile on site. Air conditioning work is licensed and certified by the Australian Refrigeration Council.",
+  "From a flat battery to a full light bar and dual-battery fit-out, call (07) 4972 7211 to book."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Honest",
+   "Straight answers, fair bills."
+  ],
+  [
+   "Quick",
+   "Back on the road fast."
+  ],
+  [
+   "Licensed",
+   "ARC certified air con."
+  ]
+ ],
+ "contactHead": "Book a job",
+ "contactSub": "Tell us about the vehicle and the problem, or call (07) 4972 7211.",
+ "bandText": "Electrical gremlins or a warm cab?",
+ "footerBlurb": "Mobile and workshop auto electrical and air conditioning repairs for cars, trucks and earthmoving equipment in Gladstone.",
+ "hours": [
+  [
+   "Mon – Thu",
+   "8am – 5pm"
+  ],
+  [
+   "Friday",
+   "8am – 3pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "The staff were a pleasure to deal with, helpful, friendly, and knowledgeable. Assessed the damage, ordered the part, and had my car fixed and back on the road in no time at all!",
+   "who": "Renae, AutoGuru review"
+  },
+  {
+   "text": "These guys are the most honest I have found in Gladstone.",
+   "who": "Joesph, AutoGuru review"
+  },
+  {
+   "text": "Awesome and friendly service, go above and beyond. Don't try and trick you like most mobs.",
+   "who": "Georgie, Localsearch review"
+  }
+ ],
+ "reviewsHead": "Straight from customers",
+ "formHead": "Booking request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Vehicle (make & model)",
+   "vehicle"
+  ],
+  [
+   "What's the problem?",
+   "issue"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "4px",
+  "h1max": "84px",
+  "logoRadius": 4,
+  "headTrack": ".01em",
+  "headExtra": "text-transform:uppercase;",
+  "headWeight": "400",
+  "onBrand": "#FFFFFF",
+  "bg": "#F3F6F9",
+  "headerBg": "#0A3D62",
+  "surface": "#E4EBF2",
+  "ink": "#0E1A26",
+  "muted": "#4E5D6C",
+  "line": "#D3DDE7",
+  "brand": "#0A3D62",
+  "brand2": "#E1EEF8",
+  "accent": "#2EC4F1",
+  "onAccent": "#06202F",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(6,30,50,.84)",
+  "footBg": "#072B45",
+  "footInk": "#9FB7CB",
+  "footHead": "#7FDBF7",
+  "logoBg": "#2EC4F1",
+  "logoFg": "#0A3D62",
+  "icon": "snowbolt",
+  "fontsQuery": "family=Anton&family=Archivo:wght@400;600;700",
+  "headFont": "Anton,Impact,sans-serif",
+  "bodyFont": "Archivo,system-ui,sans-serif",
+  "layout": {
+   "nav": "center",
+   "hero": "diagonal",
+   "stats": "pills",
+   "services": "list",
+   "why": "stackimg",
+   "gallery": "bento",
+   "reviews": "featured",
+   "hours": "cards",
+   "cta": "band",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "flat",
+   "order": "F",
+   "eyebrow": false
+  },
+  "hero": "diagonal"
+ }
+}

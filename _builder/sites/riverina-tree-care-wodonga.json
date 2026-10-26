@@ -1,0 +1,252 @@
+{
+ "slug": "riverina-tree-care-wodonga",
+ "name": "Riverina Tree Care",
+ "short": "Riverina Tree Care",
+ "tag": "Arborists · Albury Wodonga",
+ "street": "9a Bradford Street",
+ "suburb": "Wodonga",
+ "state": "VIC",
+ "postcode": "3690",
+ "phone": "0409 208 046",
+ "phoneIntl": "+61409208046",
+ "facebook": "https://www.facebook.com/riverinatreecare",
+ "topline": "Fully insured, trained arborists · Albury Wodonga & the north east · Free quotes 0409 208 046",
+ "addressLine": "9a Bradford Street, Wodonga VIC 3690",
+ "area": "Albury Wodonga, north east Victoria and surrounding regions",
+ "areaShort": "Albury Wodonga & the north east",
+ "areaText": "Riverina Tree Care is locally owned and operated in Wodonga and works across Albury Wodonga, the north east and surrounding regions.",
+ "mapQuery": "9a Bradford Street, Wodonga VIC 3690",
+ "seoTitle": "Tree removal Albury Wodonga: Riverina Tree Care arborists",
+ "metaDesc": "Riverina Tree Care, Wodonga VIC. Tree lopping and pruning, tree removal, stump grinding, mulching, spider lift hire and firewood across Albury Wodonga. Emergency after-hours service. Free quotes on 0409 208 046.",
+ "ctaLabel": "Free quote",
+ "ownerOrUs": "us",
+ "schemaType": "LocalBusiness",
+ "badge": [
+  "Fully insured",
+  "Trained arborists"
+ ],
+ "hero": {
+  "title": "Tree work done properly around Albury Wodonga.",
+  "titleHtml": "Tree work done properly around <em style='color:var(--accent)'>Albury Wodonga</em>.",
+  "lede": "Lopping, pruning, removals and stump grinding for homes, businesses and councils, by fully insured and trained arborists. Awkward and confined spaces are no problem.",
+  "trust": [
+   "Fully insured",
+   "Spider lift on hand",
+   "After-hours emergencies"
+  ]
+ },
+ "images": {
+  "hero": "1765064519883-651c506ec70d",
+  "heroAlt": "Arborist in a harness pruning a large tree",
+  "about": "1754322449185-31f56117ed87",
+  "about2": "1588878309774-4b3f42a19a8f",
+  "aboutAlt": "Arborist cutting a branch high in a tree",
+  "gallery": [
+   "1764421175587-f1fe472c411d",
+   "1781642945922-b9452456d658",
+   "1754321902809-5c21cbc67228",
+   "1626828476637-5bd713ef9f22",
+   "1754321860056-ca7254d5e7ac",
+   "1754321889123-0485c7fea5f1"
+  ]
+ },
+ "servicesHead": "Everything from a trim to a full removal",
+ "servicesSub": "No job too big or too small. Call 0409 208 046 for a free quote.",
+ "services": [
+  {
+   "id": "pruning",
+   "title": "Tree lopping & pruning",
+   "img": "1754321902809-5c21cbc67228",
+   "short": "Natives, exotics and shrubs.",
+   "long": "Lopping and pruning of native and introduced trees and shrubs, including thinning heavy canopy and removing overhanging branches.",
+   "points": [
+    "Canopy thinning",
+    "Overhanging limbs",
+    "Natives & exotics"
+   ]
+  },
+  {
+   "id": "removal",
+   "title": "Tree felling & removal",
+   "img": "1781642945922-b9452456d658",
+   "short": "Small trees to big ones.",
+   "long": "Complete tree removal and clearing for small and large trees, using a spider lift or harness system so tight spots aren't a problem.",
+   "points": [
+    "Full removals",
+    "Tight access",
+    "Land clearing"
+   ]
+  },
+  {
+   "id": "stumps",
+   "title": "Stump grinding",
+   "img": "1684332666088-f35b252b5aca",
+   "short": "Ground down, left level.",
+   "long": "Stump removal with a commercial stump grinder, leaving the ground level and ready to use.",
+   "points": [
+    "Commercial grinder",
+    "Level finish",
+    "Any size"
+   ]
+  },
+  {
+   "id": "mulching",
+   "title": "Mulching & green waste",
+   "img": "1754321860056-ca7254d5e7ac",
+   "short": "Chip it, leave it or take it.",
+   "long": "Large branches mulched and chipped on site, with the mulch left for your garden or taken away, plus garden waste removal.",
+   "points": [
+    "Chipping",
+    "Mulch left or removed",
+    "Green waste"
+   ]
+  },
+  {
+   "id": "spiderlift",
+   "title": "Spider lift hire",
+   "img": "1754321871548-61bdbc6f1506",
+   "short": "For tight or steep sites.",
+   "long": "Cherry picker (spider lift) hire for tight or steep worksites where a truck can't get in.",
+   "points": [
+    "Tight sites",
+    "Steep blocks",
+    "Ask for availability"
+   ]
+  },
+  {
+   "id": "firewood",
+   "title": "Firewood, mulch & soil",
+   "img": "1519567770579-c2fc5436bcf9",
+   "short": "Split and delivered.",
+   "long": "Sustainable firewood in several blends including red gum and blue gum, split and delivered, plus mulch and soil supply.",
+   "points": [
+    "Red gum & blue gum",
+    "Delivered",
+    "Mulch & soil"
+   ]
+  }
+ ],
+ "whyHead": "Why call Riverina Tree Care",
+ "whyText": "Locally owned and operated, working for government, commercial clients and homeowners, with emergency after-hours help when a storm hits.",
+ "why": [
+  "Fully insured, trained arborists",
+  "Emergency after-hours service",
+  "Spider lift for awkward spaces",
+  "Free quotes"
+ ],
+ "galleryHead": "Up in the canopy",
+ "gallerySub": "Pruning, removals and clean-ups.",
+ "faq": [
+  [
+   "What areas do you cover?",
+   "Albury Wodonga, north east Victoria and the surrounding regions. Call 0409 208 046 to check your address."
+  ],
+  [
+   "Can you get into tight backyards?",
+   "Yes. Awkward and confined spaces are no problem, using a spider lift or harness system."
+  ],
+  [
+   "Do you handle storm damage?",
+   "Yes, we offer an emergency after-hours service for storm damage and dangerous trees."
+  ],
+  [
+   "Are quotes free?",
+   "Yes. Call 0409 208 046 for a free quote."
+  ]
+ ],
+ "aboutHead": "About Riverina Tree Care",
+ "aboutSub": "Locally owned arborists, Wodonga VIC.",
+ "aboutParas": [
+  "Riverina Tree Care offers reliable, qualified tree services to Albury Wodonga, the north east and surrounding regions.",
+  "The team works for government, commercial clients and private homeowners. As a locally owned and operated business, we understand the service level our clients expect.",
+  "Our arborists are fully insured and trained, so your job is carried out professionally from start to clean-up. Emergency after-hours service is available."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Safe",
+   "Fully insured, trained arborists."
+  ],
+  [
+   "Local",
+   "Owned and operated in Wodonga."
+  ],
+  [
+   "Tidy",
+   "Mulch, chip and clean up."
+  ]
+ ],
+ "contactHead": "Get a free tree quote",
+ "contactSub": "Tell us about the tree, or call 0409 208 046.",
+ "bandText": "Got a tree that needs to go?",
+ "footerBlurb": "Tree lopping, removals, stump grinding, mulching and firewood across Albury Wodonga and the north east.",
+ "hours": [
+  [
+   "Free quotes",
+   "Call 0409 208 046"
+  ],
+  [
+   "After hours",
+   "Emergency service available"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What clients say",
+ "formHead": "Tree quote",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Tree & job details",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "6px",
+  "h1max": "66px",
+  "logoRadius": 6,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "bg": "#F5F3EE",
+  "headerBg": "#FFFFFF",
+  "surface": "#E9E5DA",
+  "ink": "#1A2420",
+  "muted": "#55605A",
+  "line": "#D9D3C4",
+  "brand": "#1F4B43",
+  "brand2": "#E3EEEA",
+  "accent": "#D9583A",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#1F4B43",
+  "overlay": "rgba(14,40,35,.82)",
+  "footBg": "#132F2A",
+  "footInk": "#A9BDB6",
+  "footHead": "#F4A58A",
+  "logoBg": "#1F4B43",
+  "logoFg": "#F4A58A",
+  "icon": "branchcut",
+  "fontsQuery": "family=Hepta+Slab:wght@600;700&family=Karla:wght@400;600;700",
+  "headFont": "\"Hepta Slab\",Georgia,serif",
+  "bodyFont": "Karla,system-ui,sans-serif",
+  "layout": {
+   "nav": "split",
+   "hero": "frame",
+   "stats": "ticker",
+   "services": "alt",
+   "why": "splitR",
+   "gallery": "grid",
+   "reviews": "cards",
+   "hours": "mapbg",
+   "cta": "dark",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "blob",
+   "btn": "shadow",
+   "order": "E",
+   "eyebrow": true
+  },
+  "hero": "frame"
+ }
+}

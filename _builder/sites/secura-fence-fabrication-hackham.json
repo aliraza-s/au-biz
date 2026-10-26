@@ -1,0 +1,274 @@
+{
+ "slug": "secura-fence-fabrication-hackham",
+ "name": "Secura Fence & Fabrication",
+ "short": "Secura Fencing",
+ "tag": "Fencing & steel fabrication · Adelaide SA",
+ "street": "7 Samuel Street",
+ "suburb": "Hackham",
+ "state": "SA",
+ "postcode": "5163",
+ "phone": "(08) 8186 5155",
+ "phoneIntl": "+61881865155",
+ "email": "securaaccounts@bigpond.com",
+ "formEmail": "securaaccounts@bigpond.com",
+ "facebook": "https://www.facebook.com/securafencing.com.au/",
+ "topline": "Licensed fencing contractor BLD 245296 · Made in-house in Hackham · Call (08) 8186 5155",
+ "addressLine": "7 Samuel Street, Hackham SA 5163",
+ "area": "Adelaide's southern suburbs and all of metropolitan Adelaide",
+ "areaShort": "All of Adelaide",
+ "areaText": "Secura Fence & Fabrication is based in Hackham in Adelaide's south and installs fencing right across Adelaide.",
+ "mapQuery": "7 Samuel Street, Hackham SA 5163",
+ "seoTitle": "Fencing contractor Adelaide: Secura Fence & Fabrication, Hackham",
+ "metaDesc": "Secura Fence & Fabrication, Hackham SA. Security, chain wire, tubular, pool and residential fencing, bollards and handrails, made and powder coated in-house. Licensed BLD 245296. Free quotes on (08) 8186 5155.",
+ "ctaLabel": "Free quote",
+ "ownerOrUs": "Peter",
+ "schemaType": "HomeAndConstructionBusiness",
+ "ratingSource": "Google",
+ "rating": 4.2,
+ "reviewCount": 5,
+ "badge": [
+  "20+ years",
+  "Built in-house"
+ ],
+ "hero": {
+  "title": "Fencing made in Hackham, built to last.",
+  "titleHtml": "Fencing made in Hackham, <em style='color:var(--accent)'>built to last</em>.",
+  "lede": "Security, chain wire, tubular and pool fencing for schools, councils, industry and homes. Fabricated, powder coated and installed by our own team.",
+  "trust": [
+   "Licensed BLD 245296",
+   "In-house powder coating",
+   "Free quotes"
+  ]
+ },
+ "images": {
+  "hero": "1771806369440-298a1534bb27",
+  "heroAlt": "Locked chain wire gate in front of a grassy field",
+  "about": "1587780843696-044a14ea63ae",
+  "about2": "1519973759984-cf5a6c557cd8",
+  "aboutAlt": "Black steel fence",
+  "gallery": [
+   "1508345228704-935cc84bf5e2",
+   "1623353840260-4f90f159c65c",
+   "1654337436913-ddb773b3a61b",
+   "1621271697043-8f80216904e1",
+   "1519478224231-4f91b359198b",
+   "1606075920539-565e9f1de54c"
+  ]
+ },
+ "servicesHead": "Fencing for every kind of site",
+ "servicesSub": "Commercial is our main focus, and we do homes too. Call (08) 8186 5155.",
+ "services": [
+  {
+   "id": "security",
+   "title": "Security fencing",
+   "img": "1623353840260-4f90f159c65c",
+   "short": "Designed, made and installed.",
+   "long": "More than 20 years designing, building, installing and custom-making security fencing for commercial and industrial properties.",
+   "points": [
+    "Custom made",
+    "Commercial",
+    "Industrial"
+   ]
+  },
+  {
+   "id": "chainwire",
+   "title": "Chain wire fencing",
+   "img": "1654337436913-ddb773b3a61b",
+   "short": "Boundaries, yards and compounds.",
+   "long": "Chain wire fencing, mostly for commercial and industrial clients, and for homeowners who want it too.",
+   "points": [
+    "Boundary fencing",
+    "Compounds",
+    "Residential"
+   ]
+  },
+  {
+   "id": "tubular",
+   "title": "Tubular fencing",
+   "img": "1587780843696-044a14ea63ae",
+   "short": "Made in our own workshop.",
+   "long": "Tubular steel fencing manufactured in-house and powder coated in our own facility.",
+   "points": [
+    "Made in-house",
+    "Powder coated",
+    "Affordable"
+   ]
+  },
+  {
+   "id": "pool",
+   "title": "Pool fencing",
+   "img": "1606075920539-565e9f1de54c",
+   "short": "Metal-framed pool fences.",
+   "long": "Pool fencing supplied and installed across metropolitan Adelaide, working with all types of metal-framed pool fencing.",
+   "points": [
+    "Supply & install",
+    "Metal framed",
+    "Adelaide metro"
+   ]
+  },
+  {
+   "id": "residential",
+   "title": "Residential fencing",
+   "img": "1519478224231-4f91b359198b",
+   "short": "Timber, Colorbond, aluminium.",
+   "long": "Timber, aluminium, decorative and Colorbond fencing, plus privacy screens for homes.",
+   "points": [
+    "Colorbond",
+    "Timber & aluminium",
+    "Privacy screens"
+   ]
+  },
+  {
+   "id": "fabrication",
+   "title": "Bollards, handrails & more",
+   "img": "1558661610-006e0c940a82",
+   "short": "Steel fabrication and footings.",
+   "long": "Bollards, balustrades, handrails, retaining walls and concrete footings, fabricated and installed by our team.",
+   "points": [
+    "Bollards",
+    "Balustrades & handrails",
+    "Retaining walls"
+   ]
+  }
+ ],
+ "whyHead": "Why schools, councils and homeowners use Secura",
+ "whyText": "Owner Peter Jagminas has been fabricating since 2000, and today a team of 11 handles manufacturing, powder coating and installation in-house.",
+ "why": [
+  "Licensed contractor BLD 245296",
+  "Made & powder coated in-house",
+  "Trusted by schools & councils",
+  "Free quotes"
+ ],
+ "galleryHead": "Gates, fences and steel",
+ "gallerySub": "Commercial, industrial and residential.",
+ "faq": [
+  [
+   "Where do you install?",
+   "Right across Adelaide. We're based in Hackham in the southern suburbs."
+  ],
+  [
+   "Who do you work for?",
+   "The Department of Education (schools and kindergartens), local councils, industrial and commercial sites, retirement villages and homeowners."
+  ],
+  [
+   "Are you licensed?",
+   "Yes. We're a fully certified and licensed fencing contractor, licence number BLD 245296."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 8am to 3:30pm. Closed weekends. Quotes are free."
+  ]
+ ],
+ "aboutHead": "About Secura Fence & Fabrication",
+ "aboutSub": "Family-run fencing and fabrication, Hackham SA.",
+ "aboutParas": [
+  "Peter Jagminas started out on his own as a steel fabricator, estimator and installer, trading as Freebird Fabrications from 2000. Secura Fence & Fabrication began in 2011.",
+  "Today it's a family business run by a husband and wife team, with 11 employees. Manufacturing, supply, installation and powder coating are all done in-house in Hackham.",
+  "Clients include the Department of Education, local councils, industrial and commercial sites, retirement villages and homeowners right across Adelaide."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "In-house",
+   "Made, coated and installed by us."
+  ],
+  [
+   "Licensed",
+   "BLD 245296."
+  ],
+  [
+   "Experienced",
+   "Fabricating since 2000."
+  ]
+ ],
+ "contactHead": "Get a free fencing quote",
+ "contactSub": "Tell us about the site, or call (08) 8186 5155.",
+ "bandText": "Need a fence that lasts?",
+ "footerBlurb": "Security, chain wire, tubular, pool and residential fencing, made and powder coated in-house in Hackham, SA.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "8am – 3:30pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Thanks for a great experience, our fence is high quality, supplied and installed with care and professionalism.",
+   "who": "Cindy, Google review"
+  },
+  {
+   "text": "This company obviously has experience in their field.",
+   "who": "Steve, Google review"
+  },
+  {
+   "text": "Peter and staff very helpful heaps of parts for DIY",
+   "who": "Jan, Google review"
+  }
+ ],
+ "reviewsHead": "From our customers",
+ "formHead": "Fencing quote",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Type of fence",
+   "fence"
+  ],
+  [
+   "Approx. length (m)",
+   "length"
+  ]
+ ],
+ "theme": {
+  "radius": "0px",
+  "btnRadius": "0px",
+  "h1max": "60px",
+  "logoRadius": 0,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "headWeight": "800",
+  "onBrand": "#FFFFFF",
+  "bg": "#F4F4F2",
+  "headerBg": "#1F2328",
+  "surface": "#E6E6E3",
+  "ink": "#17191C",
+  "muted": "#575B61",
+  "line": "#D6D6D2",
+  "brand": "#1F2328",
+  "brand2": "#E8F7EF",
+  "accent": "#1FA971",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(18,20,23,.80)",
+  "footBg": "#141619",
+  "footInk": "#A6ABB2",
+  "footHead": "#3DDC97",
+  "logoBg": "#3DDC97",
+  "logoFg": "#1F2328",
+  "icon": "spikegate",
+  "fontsQuery": "family=Unbounded:wght@600;800&family=IBM+Plex+Sans:wght@400;600;700",
+  "headFont": "Unbounded,system-ui,sans-serif",
+  "bodyFont": "\"IBM Plex Sans\",system-ui,sans-serif",
+  "layout": {
+   "nav": "stripe",
+   "hero": "overlay",
+   "stats": "strip",
+   "services": "bento",
+   "why": "split",
+   "gallery": "bento",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "dark",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "none",
+   "btn": "arrow",
+   "order": "A",
+   "eyebrow": true
+  },
+  "hero": "overlay"
+ }
+}

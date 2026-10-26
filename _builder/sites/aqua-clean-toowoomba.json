@@ -1,0 +1,258 @@
+{
+ "slug": "aqua-clean-toowoomba",
+ "name": "Aqua-Clean",
+ "short": "Aqua-Clean",
+ "tag": "Carpet & upholstery cleaning · Toowoomba QLD",
+ "street": "",
+ "suburb": "Toowoomba",
+ "state": "QLD",
+ "postcode": "4350",
+ "phone": "0417 750 466",
+ "phoneIntl": "+61417750466",
+ "email": "info@aqua-clean.com.au",
+ "formEmail": "info@aqua-clean.com.au",
+ "facebook": "https://www.facebook.com/Aquacleantoowoomba/",
+ "topline": "WoolSafe Approved · Family owned since 2002 · Toowoomba & the Darling Downs · 0417 750 466",
+ "addressLine": "Toowoomba QLD 4350",
+ "area": "Toowoomba, Highfields, Oakey, Pittsworth, Dalby and the Darling Downs",
+ "areaShort": "Toowoomba & the Darling Downs",
+ "areaText": "Aqua-Clean has been cleaning homes and offices in Toowoomba and surrounds since 2002, out to Highfields, Oakey and the Darling Downs.",
+ "mapQuery": "Toowoomba QLD 4350",
+ "seoTitle": "Carpet cleaning Toowoomba: Aqua-Clean, WoolSafe Approved since 2002",
+ "metaDesc": "Aqua-Clean, Toowoomba QLD. Family-owned carpet, wool carpet, upholstery, leather, tile and grout cleaning since 2002. WoolSafe Approved Service Provider. Free quotes on 0417 750 466.",
+ "ctaLabel": "Free quote",
+ "ownerOrUs": "Sam & Ben",
+ "schemaType": "LocalBusiness",
+ "badge": [
+  "Since 2002",
+  "WoolSafe Approved"
+ ],
+ "hero": {
+  "title": "Fresh, clean carpets for Toowoomba homes.",
+  "titleHtml": "Fresh, clean carpets for <em style='color:var(--accent)'>Toowoomba</em> homes.",
+  "lede": "Hot water extraction carpet and upholstery cleaning to Australian standards, from a small family-owned business that has looked after Toowoomba since 2002.",
+  "trust": [
+   "WoolSafe Approved",
+   "Since 2002",
+   "Family owned"
+  ]
+ },
+ "images": {
+  "hero": "1742483359033-13315b247c74",
+  "heroAlt": "Technician deep cleaning a carpet",
+  "about": "1527515637462-cff94eecc1ac",
+  "about2": "1583847268964-b28dc8f51f92",
+  "aboutAlt": "Carpet being cleaned in a living room",
+  "gallery": [
+   "1534889156217-d643df14f14a",
+   "1675756544970-968f9e3f7ca5",
+   "1713110824336-f78c320dcf8e",
+   "1740657254989-42fe9c3b8cce",
+   "1758273705627-937374bfa978",
+   "1598928506311-c55ded91a20c"
+  ]
+ },
+ "servicesHead": "Cleaning and protection",
+ "servicesSub": "Carpets, couches, tiles and more. Call 0417 750 466 for a free quote.",
+ "services": [
+  {
+   "id": "carpet",
+   "title": "Carpet cleaning",
+   "img": "1742483359033-13315b247c74",
+   "short": "Homes, offices and end of lease.",
+   "long": "Hot water extraction carpet cleaning with truck-mounted machines and the right products, done to Australian and New Zealand standard 3733.",
+   "points": [
+    "Truck-mounted",
+    "End of lease",
+    "AS/NZS 3733"
+   ]
+  },
+  {
+   "id": "wool",
+   "title": "Wool carpet cleaning",
+   "img": "1527515673510-8aa78ce21f9b",
+   "short": "Gentle on wool and wool blends.",
+   "long": "As a WoolSafe Approved Service Provider, we use gentle products and methods made for wool and wool-blend carpets and rugs.",
+   "points": [
+    "WoolSafe Approved",
+    "Wool & blends",
+    "Rugs"
+   ]
+  },
+  {
+   "id": "upholstery",
+   "title": "Upholstery & fabric protection",
+   "img": "1686178827149-6d55c72d81df",
+   "short": "Couches and chairs like new.",
+   "long": "Upholstery cleaning that lifts body oils, sweat and everyday grime from fabric couches and chairs, with fabric protection available.",
+   "points": [
+    "Couches",
+    "Dining chairs",
+    "Fabric protection"
+   ]
+  },
+  {
+   "id": "leather",
+   "title": "Leather cleaning",
+   "img": "1564078516393-cf04bd966897",
+   "short": "Cleaned and conditioned.",
+   "long": "Leather furniture cleaned and conditioned to bring back its look and help it last longer.",
+   "points": [
+    "Clean",
+    "Condition",
+    "Protect"
+   ]
+  },
+  {
+   "id": "tile",
+   "title": "Tile, grout & stone",
+   "img": "1740657254989-42fe9c3b8cce",
+   "short": "Cleaned and sealed.",
+   "long": "High-pressure hot water and strong extraction lift dirt out of tiles and grout, followed by sealing for tiles, grout, natural stone and concrete.",
+   "points": [
+    "Tile & grout",
+    "Sealing",
+    "Natural stone"
+   ]
+  },
+  {
+   "id": "outdoor",
+   "title": "Outdoor, pressure & office",
+   "img": "1580256081112-e49377338b7f",
+   "short": "Driveways, decks and workplaces.",
+   "long": "Hot or cold pressure washing for driveways, paths and walls, outdoor cleaning for concrete and timber decks, and regular office cleaning.",
+   "points": [
+    "Pressure washing",
+    "Decks & concrete",
+    "Office cleaning"
+   ]
+  }
+ ],
+ "whyHead": "Why Toowoomba trusts Aqua-Clean",
+ "whyText": "A small, family-owned local business that has been servicing Toowoomba and surrounds since 2002, aiming to be punctual, professional, reliable and friendly.",
+ "why": [
+  "Servicing Toowoomba since 2002",
+  "WoolSafe Approved Service Provider",
+  "Hot water extraction to AS/NZS 3733",
+  "Family owned and local"
+ ],
+ "galleryHead": "Clean rooms, happy homes",
+ "gallerySub": "Carpets, couches and hard floors.",
+ "faq": [
+  [
+   "What areas do you service?",
+   "Toowoomba, Highfields, Oakey and the Darling Downs region, including Pittsworth and Dalby. Call 0417 750 466 to check."
+  ],
+  [
+   "Can you clean wool carpet?",
+   "Yes. We're a WoolSafe Approved Service Provider, trained to clean wool and soft furnishings safely."
+  ],
+  [
+   "What cleaning method do you use?",
+   "Hot water extraction (steam cleaning) to current Australian standards (AS/NZS 3733)."
+  ],
+  [
+   "How do I get a quote?",
+   "Call or text 0417 750 466, email info@aqua-clean.com.au, or use the form on this site."
+  ]
+ ],
+ "aboutHead": "About Aqua-Clean",
+ "aboutSub": "Family-owned cleaning, Toowoomba QLD.",
+ "aboutParas": [
+  "Aqua-Clean is a small, family-owned local business that has been servicing Toowoomba and surrounds since 2002.",
+  "Sam and Ben specialise in carpet and upholstery steam cleaning, and also clean leather, tiles and grout, outdoor areas and offices. We're a WoolSafe Approved Service Provider and WoolSafe Approved Fibre Care Specialist.",
+  "We aim to be punctual, professional, reliable and friendly, with value-for-money pricing. Call 0417 750 466 for a free quote."
+ ],
+ "valuesHead": "What we stand for",
+ "values": [
+  [
+   "Punctual",
+   "We turn up when we say."
+  ],
+  [
+   "Careful",
+   "Safe methods for wool and fabrics."
+  ],
+  [
+   "Local",
+   "Toowoomba family business."
+  ]
+ ],
+ "contactHead": "Get a free cleaning quote",
+ "contactSub": "Tell us what needs cleaning, or call 0417 750 466.",
+ "bandText": "Carpets looking tired?",
+ "footerBlurb": "Family-owned carpet, upholstery, leather, tile and outdoor cleaning in Toowoomba since 2002.",
+ "hours": [
+  [
+   "Bookings",
+   "Call or text 0417 750 466"
+  ],
+  [
+   "Email",
+   "info@aqua-clean.com.au"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What clients say",
+ "formHead": "Cleaning quote",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "What needs cleaning?",
+   "items"
+  ],
+  [
+   "Number of rooms",
+   "rooms"
+  ]
+ ],
+ "theme": {
+  "radius": "20px",
+  "btnRadius": "14px",
+  "h1max": "66px",
+  "logoRadius": 22,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "bg": "#F4FAFD",
+  "headerBg": "#FFFFFF",
+  "surface": "#E2F1F8",
+  "ink": "#0B2233",
+  "muted": "#4B6474",
+  "line": "#CDE4EF",
+  "brand": "#0077B6",
+  "brand2": "#DDF0FA",
+  "accent": "#FFB703",
+  "onAccent": "#0B2233",
+  "headerInk": "#0077B6",
+  "overlay": "rgba(0,60,95,.80)",
+  "footBg": "#023E5F",
+  "footInk": "#A8CFE3",
+  "footHead": "#FFD166",
+  "logoBg": "#0077B6",
+  "logoFg": "#FFFFFF",
+  "icon": "carpetsteam",
+  "fontsQuery": "family=Outfit:wght@500;700&family=Figtree:wght@400;600;700",
+  "headFont": "Outfit,system-ui,sans-serif",
+  "bodyFont": "Figtree,system-ui,sans-serif",
+  "layout": {
+   "nav": "bar",
+   "hero": "editorial",
+   "stats": "none",
+   "services": "cards",
+   "why": "dark",
+   "gallery": "strip",
+   "reviews": "light",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "dots",
+   "btn": "shadow",
+   "order": "B",
+   "eyebrow": true
+  },
+  "hero": "editorial"
+ }
+}
