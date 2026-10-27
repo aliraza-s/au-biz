@@ -1,0 +1,255 @@
+{
+ "slug": "mr-fencing-hackham",
+ "name": "Mr Fencing",
+ "short": "Mr Fencing",
+ "tag": "Fencing contractor · Hackham SA",
+ "street": "9 Samuel Street",
+ "suburb": "Hackham",
+ "state": "SA",
+ "postcode": "5163",
+ "phone": "0407 504 048",
+ "phoneIntl": "+61407504048",
+ "topline": "Colorbond, pool, timber & tubular fencing · Free quotes · Call 0407 504 048",
+ "addressLine": "9 Samuel Street, Hackham SA 5163",
+ "area": "Adelaide and the surrounding area",
+ "areaShort": "Southern Adelaide",
+ "areaText": "Mr Fencing is based in Hackham and builds fences, gates and decks across Adelaide and the surrounding area.",
+ "mapQuery": "9 Samuel Street, Hackham SA 5163",
+ "seoTitle": "Fencing Contractor Hackham & Adelaide: Mr Fencing",
+ "metaDesc": "Mr Fencing, Hackham SA. Colorbond, pool, timber, tubular, slat and screen fencing, gates and gate automation, landscaping and decking across Adelaide. Free quotes on 0407 504 048.",
+ "ctaLabel": "Get a free quote",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Free quotes",
+  "Hackham SA"
+ ],
+ "hero": {
+  "title": "Fences built straight, gates that swing true.",
+  "titleHtml": "Fences built straight, <em style='color:var(--accent);font-style:normal'>gates that swing true.</em>",
+  "lede": "Mr Fencing builds Colorbond, pool, timber, tubular and slat fencing, plus gates, automation and decking, for homes across Adelaide's south and beyond.",
+  "trust": [
+   "Free, no-obligation quotes",
+   "Based in Hackham",
+   "Fences, gates & decks"
+  ]
+ },
+ "images": {
+  "hero": "1729058015948-592a8e4a1772",
+  "heroAlt": "New fence and gate along a property",
+  "about": "1593285247650-cd7bb44adcfd",
+  "about2": "1681853108586-f29b4ef5c0fb",
+  "aboutAlt": "Timber fence beside a lawn",
+  "gallery": [
+   "1519478224231-4f91b359198b",
+   "1621271697043-8f80216904e1",
+   "1587780843696-044a14ea63ae",
+   "1722881445875-bdd5f4d9e6fa",
+   "1546365409-ac829ccffccf",
+   "1606075920539-565e9f1de54c"
+  ]
+ },
+ "servicesHead": "Every kind of fence, one call",
+ "servicesSub": "Tell us what you need and we'll quote it for free. Call 0407 504 048.",
+ "services": [
+  {
+   "id": "colorbond",
+   "title": "Colorbond fencing",
+   "img": "1546365409-ac829ccffccf",
+   "short": "Neat, low-maintenance steel fencing.",
+   "long": "Colorbond boundary and backyard fencing for privacy and a tidy, low-maintenance finish.",
+   "points": [
+    "Boundary fences",
+    "Backyards",
+    "Low maintenance"
+   ]
+  },
+  {
+   "id": "pool",
+   "title": "Pool fencing",
+   "img": "1606075920539-565e9f1de54c",
+   "short": "Fencing around the pool.",
+   "long": "Pool fencing to keep the pool area enclosed, with matching gates.",
+   "points": [
+    "Pool enclosures",
+    "Pool gates",
+    "Tubular options"
+   ]
+  },
+  {
+   "id": "timber",
+   "title": "Timber, slat & screen",
+   "img": "1681853108586-f29b4ef5c0fb",
+   "short": "Timber fences, slats and screens.",
+   "long": "Timber fencing, timber slat fencing and screens for a warmer look around the yard.",
+   "points": [
+    "Timber fences",
+    "Slat fencing",
+    "Privacy screens"
+   ]
+  },
+  {
+   "id": "tubular",
+   "title": "Tubular, panel & security",
+   "img": "1587780843696-044a14ea63ae",
+   "short": "Steel tubular, panel and security fencing.",
+   "long": "Tubular, panel and security fencing for front yards, businesses and anywhere you need a strong fence.",
+   "points": [
+    "Tubular",
+    "Panel",
+    "Security"
+   ]
+  },
+  {
+   "id": "gates",
+   "title": "Gates & automation",
+   "img": "1621271697043-8f80216904e1",
+   "short": "Gates and automation units.",
+   "long": "Pedestrian and driveway gates, with gate automation units fitted where you want them.",
+   "points": [
+    "Driveway gates",
+    "Side gates",
+    "Gate automation"
+   ]
+  },
+  {
+   "id": "decking",
+   "title": "Landscaping & decking",
+   "img": "1722881445875-bdd5f4d9e6fa",
+   "short": "Timber decks and garden fencing.",
+   "long": "Landscaping, timber decking and garden fencing to finish off the backyard.",
+   "points": [
+    "Timber decking",
+    "Garden fencing",
+    "Landscaping"
+   ]
+  }
+ ],
+ "whyHead": "Why call Mr Fencing",
+ "whyText": "One local contractor for the fence, the gate and the deck, with a free quote before any work starts.",
+ "why": [
+  "Free, no-obligation quotes",
+  "Colorbond to timber to tubular",
+  "Gates & automation too",
+  "Based in Hackham"
+ ],
+ "galleryHead": "Fences, gates & decks",
+ "gallerySub": "Steel, timber and everything in between.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Hackham in Adelaide's south. We work across Adelaide and the surrounding area."
+  ],
+  [
+   "Do you charge for quotes?",
+   "No. Quotes are free and there's no obligation."
+  ],
+  [
+   "What types of fencing do you build?",
+   "Colorbond, pool, timber, tubular, panel, timber slat, screen, garden and security fencing, plus gates."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 7am to 5pm."
+  ]
+ ],
+ "aboutHead": "About Mr Fencing",
+ "aboutSub": "A fencing contractor from Hackham, SA.",
+ "aboutParas": [
+  "Mr Fencing is a fencing contractor based at Hackham in Adelaide's south.",
+  "We build Colorbond, pool, timber, tubular, panel, slat, screen, garden and security fencing, fit gates and gate automation units, and take on landscaping and timber decking.",
+  "Quotes are free with no obligation. Call 0407 504 048 to talk about your job."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Free quote",
+   "Know the price before we start."
+  ],
+  [
+   "Straight lines",
+   "Posts set right, panels level."
+  ],
+  [
+   "Clean up",
+   "Site left tidy when we finish."
+  ]
+ ],
+ "contactHead": "Get a free fencing quote",
+ "contactSub": "Tell us about the fence, or call 0407 504 048.",
+ "bandText": "Ready for a new fence?",
+ "footerBlurb": "Fencing, gates and decking from Hackham, SA.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "7am – 5pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Fencing quote",
+ "formButton": "Request my quote",
+ "formExtra": [
+  [
+   "Fence type",
+   "fencetype"
+  ],
+  [
+   "Approx. length (metres)",
+   "length"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "4px",
+  "h1max": "76px",
+  "logoRadius": 4,
+  "headTrack": ".01em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "bg": "#F4F4F2",
+  "headerBg": "#FFFFFF",
+  "surface": "#E7E7E3",
+  "ink": "#1D1F22",
+  "muted": "#5B5F66",
+  "line": "#D5D5CF",
+  "brand": "#33363B",
+  "brand2": "#E4E5E7",
+  "accent": "#E4572E",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#1D1F22",
+  "overlay": "rgba(29,31,34,.82)",
+  "footBg": "#1D1F22",
+  "footInk": "#B5B8BD",
+  "footHead": "#E4572E",
+  "logoBg": "#33363B",
+  "logoFg": "#E4572E",
+  "icon": "sheetfence",
+  "fontsQuery": "family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600",
+  "headFont": "\"Barlow Condensed\",system-ui,sans-serif",
+  "bodyFont": "Barlow,system-ui,sans-serif",
+  "layout": {
+   "nav": "bar",
+   "hero": "editorial",
+   "stats": "pills",
+   "services": "side",
+   "why": "stackimg",
+   "gallery": "grid",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "band",
+   "footer": "bold",
+   "pagehead": "image",
+   "decor": "lines",
+   "btn": "flat",
+   "order": "D",
+   "eyebrow": true
+  },
+  "hero": "editorial"
+ }
+}

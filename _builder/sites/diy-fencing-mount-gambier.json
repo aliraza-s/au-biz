@@ -1,0 +1,233 @@
+{
+ "slug": "diy-fencing-mount-gambier",
+ "name": "Do-It Yourself Fencing",
+ "short": "DIY Fencing",
+ "tag": "Fencing supplies & installers · Mount Gambier SA",
+ "street": "124 Penola Road",
+ "suburb": "Mount Gambier",
+ "state": "SA",
+ "postcode": "5290",
+ "phone": "(08) 8723 2082",
+ "phoneIntl": "+61887232082",
+ "email": "admin@doityourselffencing.com.au",
+ "instagram": "https://www.instagram.com/doityourselffencing/",
+ "topline": "Fencing supplies & installation · 124 Penola Road, Mount Gambier · (08) 8723 2082",
+ "addressLine": "124 Penola Road, Mount Gambier SA 5290",
+ "area": "Mount Gambier and district",
+ "areaShort": "Mount Gambier",
+ "areaText": "Do-It Yourself Fencing is on Penola Road in Mount Gambier, supplying fencing materials and installing fences for homes, businesses and rural properties.",
+ "mapQuery": "124 Penola Road, Mount Gambier SA 5290",
+ "seoTitle": "Fencing Supplies & Installers Mount Gambier: Do-It Yourself Fencing",
+ "metaDesc": "Do-It Yourself Fencing, 124 Penola Road, Mount Gambier SA. Fencing materials and fittings, plus fence installation for home, business and rural. Call (08) 8723 2082.",
+ "ctaLabel": "Call the yard",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Penola Rd",
+  "Mount Gambier"
+ ],
+ "hero": {
+  "title": "Build it yourself, or let us build it.",
+  "titleHtml": "Build it yourself, <em style='color:var(--accent)'>or let us build it.</em>",
+  "lede": "Fencing materials and fittings from our Penola Road yard, plus fence installation for Mount Gambier homes, businesses and rural properties.",
+  "trust": [
+   "Supplies & installation",
+   "Home, business & rural",
+   "Open Mon–Fri"
+  ]
+ },
+ "images": {
+  "hero": "1653942786759-f3caff948222",
+  "heroAlt": "Wooden fence across a grassy paddock",
+  "about": "1604015641586-6fa03629f976",
+  "about2": "1537407034356-b8f5f1ac2aa8",
+  "aboutAlt": "Timber fence under blue sky",
+  "gallery": [
+   "1658595149717-5a4fe668f800",
+   "1611841168695-cb9c76db8c0f",
+   "1583805978118-ba9a81ac1399",
+   "1702641397914-30fbd18c0d93",
+   "1556603235-0f484147fda4",
+   "1519478224231-4f91b359198b"
+  ]
+ },
+ "servicesHead": "Two ways to get your fence up",
+ "servicesSub": "Grab the materials and do it yourself, or have it installed. Call (08) 8723 2082.",
+ "services": [
+  {
+   "id": "supplies",
+   "title": "Fencing materials",
+   "img": "1610529079154-e7adfb87558c",
+   "short": "Materials for your own fence.",
+   "long": "Fencing materials for DIY jobs, so you can pick up what you need and build it yourself.",
+   "points": [
+    "DIY friendly",
+    "Ask what you need",
+    "Penola Road yard"
+   ]
+  },
+  {
+   "id": "fittings",
+   "title": "Fittings",
+   "img": "1604015641586-6fa03629f976",
+   "short": "The bits that hold it together.",
+   "long": "Fencing fittings to go with your materials, so the whole job comes from one place.",
+   "points": [
+    "Fencing fittings",
+    "One stop",
+    "Advice at the counter"
+   ]
+  },
+  {
+   "id": "install",
+   "title": "Fence installation",
+   "img": "1583805978118-ba9a81ac1399",
+   "short": "We build it for you.",
+   "long": "Rather not dig the post holes yourself? We install fences for homes and businesses around Mount Gambier.",
+   "points": [
+    "Homes",
+    "Businesses",
+    "Installed for you"
+   ]
+  },
+  {
+   "id": "rural",
+   "title": "Rural fencing",
+   "img": "1611841168695-cb9c76db8c0f",
+   "short": "Fencing for rural properties.",
+   "long": "Fencing for rural properties around the district, from supplies to installation.",
+   "points": [
+    "Rural properties",
+    "Supply or install",
+    "Mount Gambier district"
+   ]
+  }
+ ],
+ "whyHead": "Why Mount Gambier calls DIY Fencing",
+ "whyText": "A local fencing yard on Penola Road that can supply the materials or put the fence up for you.",
+ "why": [
+  "Supplies and installation",
+  "Home, business & rural",
+  "Local Penola Road yard",
+  "Open weekdays 9 to 5"
+ ],
+ "galleryHead": "Fences around the district",
+ "gallerySub": "Backyards, boundaries and paddocks.",
+ "faq": [
+  [
+   "Where are you?",
+   "124 Penola Road, Mount Gambier SA 5290."
+  ],
+  [
+   "Can I buy materials and build it myself?",
+   "Yes. We supply fencing materials and fittings for DIY jobs."
+  ],
+  [
+   "Do you install fences too?",
+   "Yes, for homes, businesses and rural properties around Mount Gambier."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 9am to 5pm."
+  ]
+ ],
+ "aboutHead": "About Do-It Yourself Fencing",
+ "aboutSub": "Fencing supplies and installers on Penola Road, Mount Gambier.",
+ "aboutParas": [
+  "Do-It Yourself Fencing is a Mount Gambier fencing business on Penola Road.",
+  "As the name says, we help people build their own fences with materials and fittings from our yard. If you'd rather have it done for you, we install fences for homes, businesses and rural properties too.",
+  "Call (08) 8723 2082 or drop in during the week."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Your choice",
+   "DIY or installed, it's up to you."
+  ],
+  [
+   "Local",
+   "On Penola Road, Mount Gambier."
+  ],
+  [
+   "Straight answers",
+   "Ask us what you'll need."
+  ]
+ ],
+ "contactHead": "Talk to us about your fence",
+ "contactSub": "Ask about materials or an installation, or call (08) 8723 2082.",
+ "bandText": "Got a fence to build?",
+ "footerBlurb": "Fencing supplies and installers for Mount Gambier home, business and rural.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "9am – 5pm"
+  ],
+  [
+   "Sat – Sun",
+   "Call first"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Fencing enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Supply only or installed?",
+   "mode"
+  ],
+  [
+   "Fence type / length",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "18px",
+  "btnRadius": "999px",
+  "h1max": "70px",
+  "logoRadius": 999,
+  "headTrack": "0",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "bg": "#FAF6EF",
+  "headerBg": "#FAF6EF",
+  "surface": "#F0E7D8",
+  "ink": "#2A2118",
+  "muted": "#6B5D4F",
+  "line": "#E3D6C1",
+  "brand": "#5C3D2E",
+  "brand2": "#F3E6D3",
+  "accent": "#E9B44C",
+  "onAccent": "#2A2118",
+  "headerInk": "#2A2118",
+  "overlay": "rgba(42,33,24,.8)",
+  "footBg": "#2A2118",
+  "footInk": "#CDBFAE",
+  "footHead": "#E9B44C",
+  "logoBg": "#5C3D2E",
+  "logoFg": "#E9B44C",
+  "icon": "diypost",
+  "fontsQuery": "family=Zilla+Slab:wght@600;700&family=Work+Sans:wght@400;500;600",
+  "headFont": "\"Zilla Slab\",Georgia,serif",
+  "bodyFont": "\"Work Sans\",system-ui,sans-serif",
+  "layout": {
+   "nav": "pill",
+   "hero": "mosaic",
+   "stats": "strip",
+   "services": "list",
+   "why": "dark",
+   "gallery": "strip",
+   "reviews": "light",
+   "hours": "mapbg",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "light",
+   "decor": "dots",
+   "btn": "shadow",
+   "order": "E",
+   "eyebrow": false
+  },
+  "hero": "mosaic"
+ }
+}

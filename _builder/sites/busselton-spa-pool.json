@@ -1,0 +1,277 @@
+{
+ "slug": "busselton-spa-pool",
+ "name": "Busselton Spa & Pool",
+ "short": "Busselton Spa & Pool",
+ "tag": "Pool & spa shop, service and installs · Busselton WA",
+ "street": "Unit 1/11 Ponsford Chase",
+ "suburb": "Busselton",
+ "state": "WA",
+ "postcode": "6280",
+ "phone": "(08) 9754 2390",
+ "phoneIntl": "+61897542390",
+ "email": "info@busseltonspaandpool.com.au",
+ "facebook": "https://www.facebook.com/poolnspa",
+ "topline": "Pool & spa servicing, repairs and installs · Busselton to Margaret River · (08) 9754 2390",
+ "addressLine": "Unit 1/11 Ponsford Chase, Busselton WA 6280",
+ "area": "Busselton, Dunsborough, Bunbury and Margaret River",
+ "areaShort": "WA's South West",
+ "areaText": "Busselton Spa & Pool has a warehouse, showroom and retail shop on Ponsford Chase and services pools and spas in Busselton, Dunsborough, Bunbury and Margaret River.",
+ "mapQuery": "11 Ponsford Chase, Busselton WA 6280",
+ "seoTitle": "Pool & Spa Service Busselton: Busselton Spa & Pool",
+ "metaDesc": "Busselton Spa & Pool, Ponsford Chase, Busselton WA. Pool and spa servicing, repairs, renovations, equipment, salt chlorinators, water testing and chemicals. Hydromax, Sapphire Spas and Freedom Pools agent. Call (08) 9754 2390.",
+ "ctaLabel": "Call the shop",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "ratingSource": "Google",
+ "badge": [
+  "SPASA member",
+  "Family owned"
+ ],
+ "hero": {
+  "title": "We do all the work. You have all the fun.",
+  "titleHtml": "We do all the work. <em style='color:var(--accent)'>You have all the fun.</em>",
+  "lede": "Pool and spa servicing, repairs, renovations and new spa installs across Busselton, Dunsborough, Bunbury and Margaret River, plus a full shop on Ponsford Chase.",
+  "trust": [
+   "SPASA WA award winners",
+   "45+ years combined experience",
+   "Hydromax · Sapphire · Freedom"
+  ]
+ },
+ "images": {
+  "hero": "1613977257365-aaae5a9817ff",
+  "heroAlt": "Home swimming pool",
+  "about": "1600291994772-1e7d606e9307",
+  "about2": "1687160954681-230591e7b494",
+  "aboutAlt": "Backyard pool",
+  "gallery": [
+   "1562016600-ece13e8ba570",
+   "1536745511564-a5fa6e596e7b",
+   "1551491603-7d38b9e605f5",
+   "1576610616656-d3aa5d1f4534",
+   "1641408092943-8c3451252da9",
+   "1572331165267-854da2b10ccc"
+  ]
+ },
+ "servicesHead": "Everything for your pool and spa",
+ "servicesSub": "Free estimates, most with a quick site visit. Call (08) 9754 2390.",
+ "services": [
+  {
+   "id": "servicing",
+   "title": "Pool & spa servicing",
+   "img": "1558617320-e695f0d420de",
+   "short": "Weekly or one-off visits.",
+   "long": "Scheduled weekly servicing or one-off visits in Busselton, Dunsborough, Bunbury and Margaret River, including draining, drain-and-clean and filter cleaning.",
+   "points": [
+    "Weekly servicing",
+    "Drain & clean",
+    "Filter cleaning"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Repairs & breakdowns",
+   "img": "1614667288602-9ac6e37318a7",
+   "short": "Priority callouts when it stops.",
+   "long": "Repairs for leaks, valves and pump faults, with priority callouts for urgent breakdowns like filter or heater failures.",
+   "points": [
+    "Leaks & valves",
+    "Pump faults",
+    "Priority callouts"
+   ]
+  },
+  {
+   "id": "renovations",
+   "title": "Pool renovations",
+   "img": "1613152184920-bc1c4ab7fd1d",
+   "short": "Bring a tired pool back.",
+   "long": "Pool renovations to bring an older pool back to life.",
+   "points": [
+    "Renovations",
+    "New equipment",
+    "Advice on site"
+   ]
+  },
+  {
+   "id": "equipment",
+   "title": "Equipment & salt chlorinators",
+   "img": "1687160954681-230591e7b494",
+   "short": "New gear, installed.",
+   "long": "New equipment installed, including salt chlorine generators, with spare parts for the major manufacturers.",
+   "points": [
+    "Salt chlorinators",
+    "Spare parts",
+    "Installation"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water testing & chemicals",
+   "img": "1604348825621-22800b6ed16d",
+   "short": "Bring in a sample.",
+   "long": "Water testing and pool chemicals from the retail shop on Ponsford Chase.",
+   "points": [
+    "Water testing",
+    "Chemicals",
+    "Retail shop"
+   ]
+  },
+  {
+   "id": "spas",
+   "title": "Spas, swim spas & pools",
+   "img": "1591285713698-598d587de63e",
+   "short": "Authorised agent.",
+   "long": "Authorised agent for Hydromax Spas, Sapphire Spas (spa pools, swim spas and pool/spa combos) and Freedom Pools, with delivery, handover and after-sales support.",
+   "points": [
+    "Hydromax",
+    "Sapphire Spas",
+    "Freedom Pools"
+   ]
+  }
+ ],
+ "whyHead": "Why the South West calls us",
+ "whyText": "A family owned pool and spa business with over 45 years of combined industry experience, SPASA membership and a warehouse, showroom and shop in Busselton.",
+ "why": [
+  "SPASA WA Awards of Excellence",
+  "45+ years combined experience",
+  "Showroom & retail shop",
+  "Busselton to Margaret River"
+ ],
+ "galleryHead": "Pools & spas",
+ "gallerySub": "Lap pools, courtyard pools and renovations.",
+ "faq": [
+  [
+   "Where is the shop?",
+   "Unit 1/11 Ponsford Chase, Busselton WA 6280, in the light industrial area."
+  ],
+  [
+   "Which areas do you service?",
+   "Busselton, Dunsborough, Bunbury and Margaret River."
+  ],
+  [
+   "Do you give free estimates?",
+   "Yes. Most need a quick site visit first."
+  ],
+  [
+   "Which spa brands do you sell?",
+   "We're an authorised agent for Hydromax Spas, Sapphire Spas and Freedom Pools."
+  ],
+  [
+   "What are your hours?",
+   "Summer: Mon–Fri 8:30am–5pm, Sat 9am–1pm. Winter: Mon–Fri 8:30am–4:30pm, Sat 9am–12pm."
+  ]
+ ],
+ "aboutHead": "About Busselton Spa & Pool",
+ "aboutSub": "Family owned, in Busselton.",
+ "aboutParas": [
+  "Busselton Spa & Pool is a family owned pool and spa business with over 45 years of combined industry experience.",
+  "From our warehouse, showroom and retail shop on Ponsford Chase we service, repair and renovate pools and spas, install new equipment, test water and supply chemicals and spare parts.",
+  "We're SPASA members, have received SPASA WA Awards of Excellence, and are an authorised agent for Hydromax Spas, Sapphire Spas and Freedom Pools."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "All the work",
+   "You just enjoy the pool."
+  ],
+  [
+   "Quick help",
+   "Priority callouts for breakdowns."
+  ],
+  [
+   "After-sales",
+   "Support long after install day."
+  ]
+ ],
+ "contactHead": "Talk to the team",
+ "contactSub": "Ask about a service, repair or new spa, or call (08) 9754 2390.",
+ "bandText": "Pool not looking its best?",
+ "footerBlurb": "Family owned pool and spa specialists in Busselton, WA.",
+ "hours": [
+  [
+   "Summer Mon – Fri",
+   "8:30am – 5pm"
+  ],
+  [
+   "Summer Sat",
+   "9am – 1pm"
+  ],
+  [
+   "Winter Mon – Fri",
+   "8:30am – 4:30pm"
+  ],
+  [
+   "Winter Sat",
+   "9am – 12pm"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Great service and advice. Just what you need to get your pool back in shape at short notice.",
+   "who": "Paul, Facebook",
+   "src": "Facebook"
+  },
+  {
+   "text": "Awesome service, friendly staff.",
+   "who": "Joy, Google",
+   "src": "Google"
+  }
+ ],
+ "reviewsHead": "Kind words from customers",
+ "formHead": "Pool & spa enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Pool, spa or both?",
+   "type"
+  ]
+ ],
+ "theme": {
+  "radius": "20px",
+  "btnRadius": "12px",
+  "h1max": "74px",
+  "logoRadius": 999,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "500",
+  "onBrand": "#FFFFFF",
+  "bg": "#F8F4EE",
+  "headerBg": "#F8F4EE",
+  "surface": "#EFE6DA",
+  "ink": "#17302E",
+  "muted": "#5A6B68",
+  "line": "#E2D6C6",
+  "brand": "#1B4D4A",
+  "brand2": "#E3EEEC",
+  "accent": "#D9825B",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#17302E",
+  "overlay": "rgba(18,52,50,.8)",
+  "footBg": "#123432",
+  "footInk": "#B4C6C3",
+  "footHead": "#E9A178",
+  "logoBg": "#1B4D4A",
+  "logoFg": "#F8F4EE",
+  "icon": "spatub",
+  "fontsQuery": "family=Fraunces:opsz,wght@9..144,500;9..144,600&family=DM+Sans:wght@400;500;700",
+  "headFont": "Fraunces,Georgia,serif",
+  "bodyFont": "\"DM Sans\",system-ui,sans-serif",
+  "layout": {
+   "nav": "stripe",
+   "hero": "center",
+   "stats": "strip",
+   "services": "alt",
+   "why": "splitR",
+   "gallery": "grid",
+   "reviews": "slider",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "bold",
+   "pagehead": "light",
+   "decor": "none",
+   "btn": "arrow",
+   "order": "B",
+   "eyebrow": false
+  },
+  "hero": "center"
+ }
+}

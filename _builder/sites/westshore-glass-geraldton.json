@@ -1,0 +1,273 @@
+{
+ "slug": "westshore-glass-geraldton",
+ "name": "Westshore Glass",
+ "short": "Westshore Glass",
+ "tag": "Glaziers · Geraldton WA",
+ "street": "Unit 1, 16 Box Street",
+ "suburb": "Webberton",
+ "state": "WA",
+ "postcode": "6530",
+ "phone": "(08) 9935 9223",
+ "phoneIntl": "+61899359223",
+ "email": "enquiries@westshoreglass.com.au",
+ "facebook": "https://www.facebook.com/westshoreglass",
+ "topline": "Geraldton glaziers since 2013 · Windows, showers, security screens · (08) 9935 9223",
+ "addressLine": "Unit 1, 16 Box Street, Webberton WA 6530",
+ "area": "the Mid West and Gascoyne, from Jurien to Carnarvon out to Meekatharra",
+ "areaShort": "Mid West & Gascoyne",
+ "areaText": "Westshore Glass works from its Box Street showroom in Geraldton and covers the Mid West and Gascoyne, from Jurien to Carnarvon out to Meekatharra.",
+ "mapQuery": "16 Box Street, Webberton WA 6530",
+ "seoTitle": "Glaziers Geraldton: Westshore Glass, Windows, Shower Screens & Repairs",
+ "metaDesc": "Westshore Glass, Geraldton WA. Windows and doors, security screens, shower screens, mirrors, splashbacks, wardrobe doors, balustrades and glass repairs. Founded 2013 by local glaziers Adam and Blake. Call (08) 9935 9223.",
+ "ctaLabel": "Call Westshore",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Since 2013",
+  "Geraldton glaziers"
+ ],
+ "hero": {
+  "title": "Local glaziers for the whole Mid West.",
+  "titleHtml": "Local glaziers for the <em style='color:var(--accent);font-style:normal'>whole Mid West.</em>",
+  "lede": "Founded in 2013 by Geraldton glaziers Adam Wren and Blake Giltrow. Windows, shower screens, security screens, splashbacks and glass repairs from our Box Street showroom.",
+  "trust": [
+   "Family owned since 2013",
+   "WA Security Licence 70931",
+   "Jurien to Carnarvon"
+  ]
+ },
+ "images": {
+  "hero": "1771929662486-f793e08f0f16",
+  "heroAlt": "Frameless glass shower in a marble bathroom",
+  "about": "1630699144420-d7bc4e2cee8d",
+  "about2": "1613324061338-19d4528a5be9",
+  "aboutAlt": "Glass door with a white frame",
+  "gallery": [
+   "1772476361253-90a9be5e0c19",
+   "1783125126704-508356c71390",
+   "1630699144565-a42d8db6da02",
+   "1650894622070-1c4cc26d7492",
+   "1663659504863-43dd69a5fda2",
+   "1611282717912-b0c3c6c96cb1"
+  ]
+ },
+ "servicesHead": "Glass for homes and businesses",
+ "servicesSub": "Free measures and quotes. Call (08) 9935 9223 or book online.",
+ "services": [
+  {
+   "id": "windows",
+   "title": "Windows & doors",
+   "img": "1613244288805-020d7d11c655",
+   "short": "New windows and glass doors.",
+   "long": "Windows and doors for homes and businesses, measured and fitted by our own glaziers.",
+   "points": [
+    "Windows",
+    "Sliding & hinged doors",
+    "Homes & businesses"
+   ]
+  },
+  {
+   "id": "security",
+   "title": "Security screens & doors",
+   "img": "1630699144565-a42d8db6da02",
+   "short": "Alspec Invisi-Gard screens.",
+   "long": "Security screens and doors, including Alspec Invisi-Gard, installed under WA Security Licence 70931.",
+   "points": [
+    "Invisi-Gard",
+    "Security doors",
+    "Licensed install"
+   ]
+  },
+  {
+   "id": "showers",
+   "title": "Shower screens & mirrors",
+   "img": "1772476361253-90a9be5e0c19",
+   "short": "Framed, semi-frameless and hinged.",
+   "long": "Shower screens and mirrors made to fit your bathroom, from hinged screens to full-length mirrors.",
+   "points": [
+    "Shower screens",
+    "Mirrors",
+    "Made to measure"
+   ]
+  },
+  {
+   "id": "splashbacks",
+   "title": "Splashbacks & wardrobe doors",
+   "img": "1663659504863-43dd69a5fda2",
+   "short": "Glass splashbacks and sliding wardrobes.",
+   "long": "Coloured glass splashbacks for kitchens and laundries, and sliding wardrobe doors.",
+   "points": [
+    "Glass splashbacks",
+    "Sliding wardrobes",
+    "Tabletops"
+   ]
+  },
+  {
+   "id": "alfresco",
+   "title": "Balustrades, alfresco & partitions",
+   "img": "1527352774566-e4916e36c645",
+   "short": "Bigger glass projects.",
+   "long": "Glass balustrades, enclosed alfresco areas and office partitioning.",
+   "points": [
+    "Balustrades",
+    "Enclosed alfresco",
+    "Office partitions"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Repairs & insurance work",
+   "img": "1733590634512-66186b83ad07",
+   "short": "Broken glass replaced.",
+   "long": "Glass repairs and replacements for homes and businesses, including insurance claims and rental property maintenance.",
+   "points": [
+    "Broken windows",
+    "Insurance claims",
+    "Rental properties"
+   ]
+  }
+ ],
+ "whyHead": "Why the Mid West calls Westshore",
+ "whyText": "Two Geraldton-trained glaziers who started the business in 2013 and still do the work themselves, with a showroom on Box Street.",
+ "why": [
+  "Founded by local glaziers in 2013",
+  "Free measures & quotes",
+  "Licensed security screen installers",
+  "Covers Jurien to Carnarvon"
+ ],
+ "galleryHead": "Glass we work with",
+ "gallerySub": "Showers, doors, mirrors and windows.",
+ "faq": [
+  [
+   "Where is your showroom?",
+   "Unit 1, 16 Box Street, Webberton (Geraldton) WA 6530."
+  ],
+  [
+   "How far do you travel?",
+   "Across the Mid West and Gascoyne, from Jurien to Carnarvon and out to Meekatharra."
+  ],
+  [
+   "Do you do insurance work?",
+   "Yes. We repair and replace glass for insurance claims and rental property maintenance."
+  ],
+  [
+   "Are quotes free?",
+   "Yes, measures and quotes are free."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 8am to 4:30pm."
+  ]
+ ],
+ "aboutHead": "About Westshore Glass",
+ "aboutSub": "Geraldton glaziers since 2013.",
+ "aboutParas": [
+  "Westshore Glass was founded by Geraldton glaziers Adam Wren and Blake Giltrow in March 2013.",
+  "Both trained at a Geraldton building supplies business, where Adam ran the glazing section for six years and took Blake on as his apprentice.",
+  "Today Westshore Glass is a family owned business providing glazing for homes and businesses across the Mid West and Gascoyne, from a showroom on Box Street."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Measured right",
+   "Free measure, then a clear quote."
+  ],
+  [
+   "Our own glaziers",
+   "Adam, Blake and the team."
+  ],
+  [
+   "Tidy finish",
+   "Glass fitted clean and sealed."
+  ]
+ ],
+ "contactHead": "Get a glass quote",
+ "contactSub": "Tell us what needs glazing, or call (08) 9935 9223.",
+ "bandText": "Cracked, foggy or just time for new glass?",
+ "footerBlurb": "Family owned glaziers in Geraldton since 2013.",
+ "hours": [
+  [
+   "Mon – Fri",
+   "8am – 4:30pm"
+  ],
+  [
+   "Sat – Sun",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Big shout out to Blake and the team at Westshore. Same day repairs to our sliding glass door at a very reasonable price.",
+   "who": "Customer review, ThreeBestRated",
+   "src": "ThreeBestRated"
+  },
+  {
+   "text": "Extremely happy with the service. Shower looks fantastic. Highly recommend Adam and his team.",
+   "who": "Customer review, ThreeBestRated",
+   "src": "ThreeBestRated"
+  },
+  {
+   "text": "Outstanding job, we are delighted with our hinged shower screen. Great workmanship. Fair pricing.",
+   "who": "Customer review, ThreeBestRated",
+   "src": "ThreeBestRated"
+  }
+ ],
+ "reviewsHead": "What Geraldton customers say",
+ "formHead": "Glass quote",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "What needs glass?",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "2px",
+  "btnRadius": "2px",
+  "h1max": "68px",
+  "logoRadius": 6,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "headWeight": "600",
+  "onBrand": "#FFFFFF",
+  "bg": "#F5FAFC",
+  "headerBg": "#FFFFFF",
+  "surface": "#E6F0F4",
+  "ink": "#0F2233",
+  "muted": "#4D6273",
+  "line": "#D3E2EA",
+  "brand": "#12355B",
+  "brand2": "#E2ECF5",
+  "accent": "#F4D35E",
+  "onAccent": "#12355B",
+  "headerInk": "#0F2233",
+  "overlay": "rgba(18,53,91,.82)",
+  "footBg": "#0D2742",
+  "footInk": "#A9BDD0",
+  "footHead": "#F4D35E",
+  "logoBg": "#12355B",
+  "logoFg": "#F4D35E",
+  "icon": "showerglass",
+  "fontsQuery": "family=Sora:wght@500;600;700&family=Inter+Tight:wght@400;500;600",
+  "headFont": "Sora,system-ui,sans-serif",
+  "bodyFont": "\"Inter Tight\",system-ui,sans-serif",
+  "layout": {
+   "nav": "center",
+   "hero": "frame",
+   "stats": "ticker",
+   "services": "bento",
+   "why": "split",
+   "gallery": "bento",
+   "reviews": "featured",
+   "hours": "grid",
+   "cta": "dark",
+   "footer": "simple",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "arrow",
+   "order": "C",
+   "eyebrow": true
+  },
+  "hero": "frame"
+ }
+}

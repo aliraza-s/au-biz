@@ -1,0 +1,234 @@
+{
+ "slug": "waterline-pool-services-mandurah",
+ "name": "Waterline Pool Services",
+ "short": "Waterline Pool Services",
+ "tag": "Mobile pool service · Mandurah WA",
+ "suburb": "Mandurah",
+ "state": "WA",
+ "postcode": "6210",
+ "phone": "0404 261 206",
+ "phoneIntl": "+61404261206",
+ "topline": "Mobile pool cleaning, repairs & pumps · Secret Harbour to Dawesville · 0404 261 206",
+ "addressLine": "Mandurah WA 6210",
+ "area": "Mandurah and the coast from Secret Harbour down to Falcon, Dawesville and Waroona",
+ "areaShort": "Secret Harbour to Dawesville",
+ "areaText": "Waterline Pool Services is a mobile pool service covering Mandurah and the coast from Secret Harbour down to Falcon, Dawesville and Waroona.",
+ "mapQuery": "Mandurah WA 6210",
+ "seoTitle": "Mobile Pool Service Mandurah: Waterline Pool Services",
+ "metaDesc": "Waterline Pool Services, Mandurah WA. Mobile pool cleaning, maintenance and repairs, water pump installation and servicing for residential and commercial pools, Secret Harbour to Dawesville. Call 0404 261 206.",
+ "ctaLabel": "Book a pool visit",
+ "ownerOrUs": "us",
+ "schemaType": "HomeAndConstructionBusiness",
+ "badge": [
+  "Mobile service",
+  "Mandurah & coast"
+ ],
+ "hero": {
+  "title": "Clear water, without the weekend chores.",
+  "titleHtml": "Clear water, <em style='color:var(--accent);font-style:normal'>without the weekend chores.</em>",
+  "lede": "Waterline Pool Services comes to you for pool cleaning, maintenance, repairs and water pump work, from Secret Harbour down to Dawesville.",
+  "trust": [
+   "We come to you",
+   "One-off or regular",
+   "Residential & commercial"
+  ]
+ },
+ "images": {
+  "hero": "1557459325-b6733cbeae9c",
+  "heroAlt": "Clear blue backyard pool",
+  "about": "1572331165267-854da2b10ccc",
+  "about2": "1558617320-e695f0d420de",
+  "aboutAlt": "Backyard swimming pool",
+  "gallery": [
+   "1562016600-ece13e8ba570",
+   "1604348825621-22800b6ed16d",
+   "1613152184920-bc1c4ab7fd1d",
+   "1641408092943-8c3451252da9",
+   "1600291994772-1e7d606e9307",
+   "1591285713698-598d587de63e"
+  ]
+ },
+ "servicesHead": "Pool care that comes to you",
+ "servicesSub": "Book a one-off visit or regular servicing. Call 0404 261 206.",
+ "services": [
+  {
+   "id": "cleaning",
+   "title": "Pool cleaning",
+   "img": "1558617320-e695f0d420de",
+   "short": "Get the pool sparkling again.",
+   "long": "Mobile pool cleaning for backyard and commercial pools, at a time that suits you.",
+   "points": [
+    "Mobile service",
+    "Residential",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "maintenance",
+   "title": "Regular maintenance",
+   "img": "1536745511564-a5fa6e596e7b",
+   "short": "Keep it right all year.",
+   "long": "Regular pool servicing and maintenance so the water stays clear and the gear keeps running.",
+   "points": [
+    "Regular visits",
+    "Water kept clear",
+    "Equipment checked"
+   ]
+  },
+  {
+   "id": "pumps",
+   "title": "Water pump installation",
+   "img": "1504309092620-4d0ec726efa4",
+   "short": "Specialist pump installs and servicing.",
+   "long": "Specialist water pump installation and maintenance for pools around Mandurah.",
+   "points": [
+    "Pump installs",
+    "Pump maintenance",
+    "Specialist work"
+   ]
+  },
+  {
+   "id": "repairs",
+   "title": "Pool repairs",
+   "img": "1614667288602-9ac6e37318a7",
+   "short": "Fixes for pools and equipment.",
+   "long": "Pool repairs to get things working again, booked as a one-off job.",
+   "points": [
+    "One-off jobs",
+    "Repairs",
+    "Mobile"
+   ]
+  }
+ ],
+ "whyHead": "Why book Waterline",
+ "whyText": "A mobile pool service that arranges visits at a time that suits you, for one-off jobs or regular servicing.",
+ "why": [
+  "Mobile, we come to you",
+  "Visits at a time that suits",
+  "Specialist pump work",
+  "Secret Harbour to Dawesville"
+ ],
+ "galleryHead": "Pools we look after",
+ "gallerySub": "Backyard and commercial pools on the coast.",
+ "faq": [
+  [
+   "What areas do you cover?",
+   "Mandurah and the coast from Secret Harbour down to Falcon, Dawesville and Waroona."
+  ],
+  [
+   "Do you do one-off jobs?",
+   "Yes. Book a one-off clean or repair, or set up regular servicing."
+  ],
+  [
+   "Do you service commercial pools?",
+   "Yes, residential and commercial pools."
+  ],
+  [
+   "How do I book?",
+   "Call 0404 261 206 or send the form and we'll arrange a time that suits you."
+  ]
+ ],
+ "aboutHead": "About Waterline Pool Services",
+ "aboutSub": "A mobile pool service for Mandurah and the coast.",
+ "aboutParas": [
+  "Waterline Pool Services is a mobile pool service based in Mandurah, WA.",
+  "We look after pool cleaning, maintenance and repairs, and offer specialist water pump installation and maintenance, for both residential and commercial pools.",
+  "Book a one-off job or regular servicing anywhere from Secret Harbour down to Falcon, Dawesville and Waroona. Call 0404 261 206."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Mobile",
+   "We come to your pool."
+  ],
+  [
+   "Flexible",
+   "Visits at a time that suits."
+  ],
+  [
+   "Specialist",
+   "Pumps installed and serviced."
+  ]
+ ],
+ "contactHead": "Book a pool service",
+ "contactSub": "Tell us about your pool, or call 0404 261 206.",
+ "bandText": "Pool looking a bit green?",
+ "footerBlurb": "Mobile pool cleaning, maintenance, repairs and pumps around Mandurah.",
+ "hours": [
+  [
+   "Bookings",
+   "Call to arrange a time"
+  ],
+  [
+   "Phone",
+   "0404 261 206"
+  ],
+  [
+   "Service area",
+   "Secret Harbour to Dawesville"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "formHead": "Pool service booking",
+ "formButton": "Send booking request",
+ "formExtra": [
+  [
+   "One-off or regular?",
+   "freq"
+  ],
+  [
+   "Pool type / size",
+   "pool"
+  ]
+ ],
+ "theme": {
+  "radius": "26px",
+  "btnRadius": "999px",
+  "h1max": "72px",
+  "logoRadius": 12,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "bg": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "surface": "#EAF6FB",
+  "ink": "#0B2533",
+  "muted": "#4C6876",
+  "line": "#D3EAF3",
+  "brand": "#0B6E99",
+  "brand2": "#DDF1F9",
+  "accent": "#FF8C61",
+  "onAccent": "#FFFFFF",
+  "headerInk": "#0B2533",
+  "overlay": "rgba(6,62,88,.78)",
+  "footBg": "#073B52",
+  "footInk": "#A8CBDA",
+  "footHead": "#FF8C61",
+  "logoBg": "#0B6E99",
+  "logoFg": "#FFFFFF",
+  "icon": "poolline",
+  "fontsQuery": "family=Lexend:wght@500;600;700&family=Nunito+Sans:wght@400;600;700",
+  "headFont": "Lexend,system-ui,sans-serif",
+  "bodyFont": "\"Nunito Sans\",system-ui,sans-serif",
+  "layout": {
+   "nav": "split",
+   "hero": "card",
+   "stats": "pills",
+   "services": "tiles",
+   "why": "band",
+   "gallery": "tilt",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "band",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "blob",
+   "btn": "shadow",
+   "order": "A",
+   "eyebrow": true
+  },
+  "hero": "card"
+ }
+}
