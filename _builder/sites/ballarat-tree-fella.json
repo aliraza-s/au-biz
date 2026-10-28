@@ -1,0 +1,256 @@
+{
+ "slug": "ballarat-tree-fella",
+ "name": "Ballarat Tree Fella",
+ "short": "Ballarat Tree Fella",
+ "tag": "Tree services · Ballarat",
+ "street": "16 Icon Drive",
+ "suburb": "Delacombe",
+ "state": "VIC",
+ "postcode": "3356",
+ "phone": "0418 177 473",
+ "phoneIntl": "+61418177473",
+ "facebook": "https://www.facebook.com/p/Ballarat-Tree-Fella-100087593740202/",
+ "topline": "Over 25 years · Qualified arborists · Call 0418 177 473",
+ "addressLine": "16 Icon Drive, Delacombe VIC 3356",
+ "area": "Ballarat and district",
+ "areaShort": "Ballarat & district",
+ "areaText": "Ballarat Tree Fella works from depots in Delacombe and on the Midland Highway at Clarendon.",
+ "mapQuery": "16 Icon Drive, Delacombe VIC 3356",
+ "seoTitle": "Tree removal Ballarat: Ballarat Tree Fella, qualified arborists",
+ "metaDesc": "Ballarat Tree Fella, Delacombe VIC. Tree removal and trimming, stump removal, power line trimming, storm clean-ups, site clearing, chipper and EWP hire and mulch sales. Over 25 years. Call 0418 177 473.",
+ "ctaLabel": "Call for a quote",
+ "ownerOrUs": "us",
+ "schemaType": "LocalBusiness",
+ "badge": [
+  "Over 25 years",
+  "Qualified arborists"
+ ],
+ "hero": {
+  "title": "Ballarat's tree fella for over 25 years.",
+  "titleHtml": "Ballarat's tree fella for <em style='color:var(--accent)'>over 25 years</em>.",
+  "lede": "Tree removal, trimming, stump removal and storm clean-ups by qualified, trained and experienced staff, for homeowners, councils, government departments and civil construction.",
+  "trust": [
+   "Qualified arborists",
+   "Storm damage clean-up",
+   "Chipper, tower & EWP hire"
+  ]
+ },
+ "images": {
+  "hero": "1588878309774-4b3f42a19a8f",
+  "heroAlt": "Arborist in a yellow helmet climbing a tree",
+  "about": "1669065054992-3151b15aab08",
+  "about2": "1697623317093-7a50b4aaf676",
+  "aboutAlt": "Arborist in a helmet sitting on a tree branch",
+  "gallery": [
+   "1574359173269-291f060e6fe1",
+   "1754321871548-61bdbc6f1506",
+   "1674240993086-fd2fed32c556",
+   "1620852411212-cbd6f3fd8d1c",
+   "1754322449185-31f56117ed87",
+   "1521633603986-cb82a097ffba"
+  ]
+ },
+ "servicesHead": "Tree work, start to finish",
+ "servicesSub": "Call 0418 177 473 to talk to a qualified arborist.",
+ "services": [
+  {
+   "id": "removal",
+   "title": "Tree removal & trimming",
+   "img": "1574359173269-291f060e6fe1",
+   "short": "Big or small.",
+   "long": "Tree removal and tree trimming around homes, roads and work sites, done by qualified and experienced staff.",
+   "points": [
+    "Removals",
+    "Trimming",
+    "Deadwooding"
+   ]
+  },
+  {
+   "id": "pruning",
+   "title": "Formative pruning",
+   "img": "1754322449185-31f56117ed87",
+   "short": "Shape young trees right.",
+   "long": "Formative pruning and deadwooding so trees grow safe and strong.",
+   "points": [
+    "Formative pruning",
+    "Deadwooding",
+    "Consultations"
+   ]
+  },
+  {
+   "id": "stumps",
+   "title": "Stump removal",
+   "img": "1684332666088-f35b252b5aca",
+   "short": "Gone for good.",
+   "long": "Stump removal once the tree is down, so the ground can be used again.",
+   "points": [
+    "Stump removal",
+    "Site tidy",
+    "Any size"
+   ]
+  },
+  {
+   "id": "powerlines",
+   "title": "Power line & roadside work",
+   "img": "1754321889123-0485c7fea5f1",
+   "short": "Councils and government.",
+   "long": "Power line trimming, roadside vegetation grooming and environmental vegetation control for Local and State Government departments.",
+   "points": [
+    "Power line trimming",
+    "Roadside grooming",
+    "Vegetation control"
+   ]
+  },
+  {
+   "id": "clearing",
+   "title": "Site clearing & storm damage",
+   "img": "1721486168037-aab8e6095f67",
+   "short": "Clean-ups after storms.",
+   "long": "Site clearing for civil construction and storm damage clean-ups when trees come down.",
+   "points": [
+    "Site clearing",
+    "Storm clean-up",
+    "Civil construction"
+   ]
+  },
+  {
+   "id": "hire",
+   "title": "Chipper, tower & EWP hire, mulch",
+   "img": "1697623317093-7a50b4aaf676",
+   "short": "Gear and mulch.",
+   "long": "Chipper and tower hire, EWP (elevated work platform) hire and mulch sales.",
+   "points": [
+    "Chipper hire",
+    "EWP hire",
+    "Mulch sales"
+   ]
+  }
+ ],
+ "whyHead": "Why Ballarat calls the Tree Fella",
+ "whyText": "Over 25 years of tree work around Ballarat, trusted by Local and State Government departments and the civil construction industry as well as local homeowners.",
+ "why": [
+  "Over 25 years in Ballarat",
+  "Highly qualified, trained and experienced staff",
+  "Consultations by qualified arborists",
+  "Our own chippers, towers and EWPs"
+ ],
+ "galleryHead": "In the trees around Ballarat",
+ "gallerySub": "Removals, pruning and clean-ups.",
+ "faq": [
+  [
+   "Where are you based?",
+   "Our office and depot is at 16 Icon Drive, Delacombe, with a second depot on the Midland Highway at Clarendon."
+  ],
+  [
+   "Do you work for councils?",
+   "Yes. We supply Local and State Government departments and the civil construction industry."
+  ],
+  [
+   "Can I get advice before any work?",
+   "Yes. Consultations are carried out by qualified arborists."
+  ],
+  [
+   "Do you sell mulch?",
+   "Yes. Call 0418 177 473 to check what's available."
+  ]
+ ],
+ "aboutHead": "About Ballarat Tree Fella",
+ "aboutSub": "Tree services from Delacombe, Ballarat.",
+ "aboutParas": [
+  "Ballarat Tree Fella Pty Ltd has been doing tree work for over 25 years, from its office and depot in Delacombe and a second depot at Clarendon.",
+  "We look after homeowners as well as Local and State Government departments and the civil construction industry.",
+  "Our highly qualified, trained and experienced staff handle everything from formative pruning and consultations to full removals, power line trimming, site clearing and storm clean-ups."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Qualified",
+   "Qualified arborists on the team."
+  ],
+  [
+   "Experienced",
+   "Over 25 years of tree work."
+  ],
+  [
+   "Equipped",
+   "Chippers, towers and EWPs."
+  ]
+ ],
+ "contactHead": "Get a tree quote",
+ "contactSub": "Tell us about the tree, or call 0418 177 473.",
+ "bandText": "Tree needs to come down?",
+ "footerBlurb": "Tree removal and trimming, stump removal, power line trimming, storm clean-ups, chipper and EWP hire around Ballarat.",
+ "hours": [
+  [
+   "Weekdays",
+   "Open"
+  ],
+  [
+   "Saturday",
+   "Open"
+  ],
+  [
+   "Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What clients say",
+ "formHead": "Tree quote",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Tree & job details",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "14px",
+  "btnRadius": "8px",
+  "h1max": "68px",
+  "logoRadius": 50,
+  "headTrack": "-.005em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "bg": "#FBF8F1",
+  "headerBg": "#FBF8F1",
+  "surface": "#F0EADB",
+  "ink": "#22261B",
+  "muted": "#5E6352",
+  "line": "#E0D8C3",
+  "brand": "#2E4A1F",
+  "brand2": "#E8EFDC",
+  "accent": "#C98A12",
+  "headerInk": "#2E4A1F",
+  "overlay": "rgba(30,44,20,.80)",
+  "footBg": "#1E2E15",
+  "footInk": "#B8C2A6",
+  "footHead": "#E8B54A",
+  "logoBg": "#2E4A1F",
+  "logoFg": "#E8B54A",
+  "icon": "tree",
+  "fontsQuery": "family=Rokkitt:wght@700;800&family=Nunito+Sans:wght@400;600;700",
+  "headFont": "Rokkitt,Georgia,serif",
+  "bodyFont": "\"Nunito Sans\",system-ui,sans-serif",
+  "layout": {
+   "nav": "bar",
+   "hero": "center",
+   "stats": "strip",
+   "services": "cards",
+   "why": "split",
+   "gallery": "bento",
+   "reviews": "light",
+   "hours": "grid",
+   "cta": "band",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "grid",
+   "btn": "flat",
+   "order": "A",
+   "eyebrow": false
+  },
+  "hero": "center"
+ }
+}

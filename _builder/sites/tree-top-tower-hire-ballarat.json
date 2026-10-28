@@ -1,0 +1,251 @@
+{
+ "slug": "tree-top-tower-hire-ballarat",
+ "name": "Tree Top Tower Hire",
+ "short": "Tree Top Tower Hire",
+ "tag": "Tree & vegetation services · Ballarat",
+ "street": "302 Charlesworth Street",
+ "suburb": "Ballarat East",
+ "state": "VIC",
+ "postcode": "3350",
+ "phone": "0419 501 126",
+ "phoneIntl": "+61419501126",
+ "topline": "Over 22 years in tree work · 24/7 emergency service · Call 0419 501 126",
+ "addressLine": "302 Charlesworth Street, Ballarat East VIC 3350",
+ "area": "the Central Highlands (Ballarat, Creswick, Daylesford), Western Victoria and metropolitan Melbourne",
+ "areaShort": "Central Highlands, Western Vic & Melbourne",
+ "areaText": "Tree Top Tower Hire is locally owned in Ballarat, with depots at Creswick/Ballarat and Colac, working across the Central Highlands, Western Victoria and metropolitan Melbourne.",
+ "mapQuery": "302 Charlesworth Street, Ballarat East VIC 3350",
+ "seoTitle": "Tree removal & powerline clearance Ballarat: Tree Top Tower Hire",
+ "metaDesc": "Tree Top Tower Hire, Ballarat East VIC. Tree and stump removal, pruning, powerline clearance, roadside and rail vegetation clearing and 24/7 storm response, with EWP towers from 13m to 23m. Call 0419 501 126.",
+ "ctaLabel": "Get a quote",
+ "ownerOrUs": "us",
+ "schemaType": "LocalBusiness",
+ "badge": [
+  "Over 22 years",
+  "24/7 emergencies"
+ ],
+ "hero": {
+  "title": "Big trees, tight powerlines, storm damage. Tree Top handles it.",
+  "titleHtml": "Big trees, tight powerlines, storm damage. <span style='color:var(--accent)'>Tree Top handles it.</span>",
+  "lede": "Arboriculture and vegetation management from Ballarat for utilities, councils, businesses and homeowners, with our own fleet of 13m to 23m EWP towers, stump grinders, chippers and excavators.",
+  "trust": [
+   "Over 22 years",
+   "24/7 emergency service",
+   "Locally owned"
+  ]
+ },
+ "images": {
+  "hero": "1765064519883-651c506ec70d",
+  "heroAlt": "Arborist in a safety harness pruning a large tree",
+  "about": "1764421175587-f1fe472c411d",
+  "about2": "1727818899530-5a3bee908607",
+  "aboutAlt": "Tree worker trimming branches with a pole saw",
+  "gallery": [
+   "1754321889123-0485c7fea5f1",
+   "1727818899530-5a3bee908607",
+   "1684332671569-b74fe5ad2142",
+   "1721486168037-aab8e6095f67",
+   "1697623317093-7a50b4aaf676",
+   "1588878226647-8e489d9faa37"
+  ]
+ },
+ "servicesHead": "From one tree to a whole roadside",
+ "servicesSub": "Residential, commercial, council and utility work. Call 0419 501 126.",
+ "services": [
+  {
+   "id": "removal",
+   "title": "Tree & stump removal",
+   "img": "1684332666088-f35b252b5aca",
+   "short": "Any size, cleaned up after.",
+   "long": "Tree and stump removal with our own EWP towers, stump grinders and chippers, so big or awkward trees come down safely.",
+   "points": [
+    "EWP towers 13m–23m",
+    "Stump grinding",
+    "Chipping"
+   ]
+  },
+  {
+   "id": "pruning",
+   "title": "Pruning, deadwooding & hedging",
+   "img": "1765064520296-1e56ebb82e17",
+   "short": "Healthier, safer trees.",
+   "long": "Pruning, dead wooding and hedging to keep trees safe and tidy around homes, businesses and public spaces.",
+   "points": [
+    "Pruning",
+    "Dead wooding",
+    "Hedging"
+   ]
+  },
+  {
+   "id": "powerline",
+   "title": "Power line clearance",
+   "img": "1764421175587-f1fe472c411d",
+   "short": "Clearance around the network.",
+   "long": "Vegetation clearance around power lines for utilities and property owners, carried out from our tower fleet.",
+   "points": [
+    "Utilities",
+    "EWP access",
+    "Trained crews"
+   ]
+  },
+  {
+   "id": "roadside",
+   "title": "Rail & roadside clearance",
+   "img": "1754321889123-0485c7fea5f1",
+   "short": "Councils and government.",
+   "long": "Rail and roadside vegetation clearance and management for government and local government clients.",
+   "points": [
+    "Roadsides",
+    "Rail corridors",
+    "Councils"
+   ]
+  },
+  {
+   "id": "clearing",
+   "title": "Large-scale clearing",
+   "img": "1588878226647-8e489d9faa37",
+   "short": "Excavators and tippers.",
+   "long": "Large-scale clearing with 5T to 25T excavators and attachments, a Magni telehandler and tipper trucks.",
+   "points": [
+    "5T–25T excavators",
+    "Telehandler",
+    "Tipper trucks"
+   ]
+  },
+  {
+   "id": "storm",
+   "title": "24/7 storm damage",
+   "img": "1721486168037-aab8e6095f67",
+   "short": "Fallen trees, any hour.",
+   "long": "Storm damage removal with a 24/7 emergency service when trees come down on homes, roads or lines.",
+   "points": [
+    "24/7 emergency",
+    "Fallen trees",
+    "Make safe"
+   ]
+  }
+ ],
+ "whyHead": "Built for big jobs, still local",
+ "whyText": "Owned by Jason and Laurinda Scholten. Jason is a qualified arborist with an Advanced Certificate in Arboriculture, leading a team of 22 field staff, 5 office staff and a full-time mechanic.",
+ "why": [
+  "Over 22 years in the industry",
+  "Own EWP towers, 13m to 23m",
+  "Yearly refresher training for crews",
+  "24/7 emergency service"
+ ],
+ "galleryHead": "Out on the job",
+ "gallerySub": "Removals, clearing and storm clean-ups.",
+ "faq": [
+  [
+   "What areas do you cover?",
+   "The Central Highlands including Ballarat, Creswick and Daylesford, Western Victoria and metropolitan Melbourne, from depots at Creswick/Ballarat and Colac."
+  ],
+  [
+   "Do you do residential jobs?",
+   "Yes. We work for private clients as well as utilities, government, local government and commercial clients."
+  ],
+  [
+   "Can you come out after a storm?",
+   "Yes. We run a 24/7 emergency service. Call 0419 501 126."
+  ],
+  [
+   "Do you sell mulch?",
+   "Yes, garden mulch is available. Call to check what's on hand."
+  ]
+ ],
+ "aboutHead": "About Tree Top Tower Hire",
+ "aboutSub": "Arboriculture and vegetation management, Ballarat East.",
+ "aboutParas": [
+  "Tree Top Tower Hire is a locally owned arboriculture and vegetation management business based in Ballarat East, with over 22 years in the industry.",
+  "Owners Jason and Laurinda Scholten run a team of 22 field staff, 5 office staff and a full-time mechanic, with yearly refresher training. Jason is a qualified arborist with an Advanced Certificate in Arboriculture.",
+  "Our fleet includes EWP towers from 13m to 23m, a Magni telehandler, stump grinders, chippers, 5T to 25T excavators, tipper trucks and support vehicles, so we can take on anything from a backyard tree to large-scale clearing."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Equipped",
+   "Our own towers, grinders and excavators."
+  ],
+  [
+   "Trained",
+   "Yearly refresher training."
+  ],
+  [
+   "On call",
+   "24/7 emergency service."
+  ]
+ ],
+ "contactHead": "Talk to Tree Top",
+ "contactSub": "Tell us about the job, or call 0419 501 126.",
+ "bandText": "Tree down or need a crew on site?",
+ "footerBlurb": "Tree and stump removal, pruning, powerline clearance, roadside clearing and 24/7 storm response from Ballarat East.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "7am – 5pm"
+  ],
+  [
+   "Emergencies",
+   "24/7"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What clients say",
+ "formHead": "Job enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Job details",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "2px",
+  "btnRadius": "2px",
+  "h1max": "70px",
+  "logoRadius": 2,
+  "headTrack": "0",
+  "headExtra": "text-transform:uppercase;",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "bg": "#F4F4F2",
+  "headerBg": "#1C1F22",
+  "surface": "#E6E6E2",
+  "ink": "#17191B",
+  "muted": "#5A5F63",
+  "line": "#D2D2CC",
+  "brand": "#1C1F22",
+  "brand2": "#FFE9D9",
+  "accent": "#F26A1B",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(20,22,24,.82)",
+  "footBg": "#111315",
+  "footInk": "#A3A8AC",
+  "footHead": "#F26A1B",
+  "logoBg": "#F26A1B",
+  "logoFg": "#1C1F22",
+  "icon": "ewp",
+  "fontsQuery": "family=Tomorrow:wght@600;700&family=Inter+Tight:wght@400;600;700",
+  "headFont": "Tomorrow,system-ui,sans-serif",
+  "bodyFont": "\"Inter Tight\",system-ui,sans-serif",
+  "layout": {
+   "nav": "stripe",
+   "hero": "split",
+   "stats": "pills",
+   "services": "tiles",
+   "why": "stackimg",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "band",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "lines",
+   "btn": "arrow",
+   "order": "D",
+   "eyebrow": true
+  },
+  "hero": "split"
+ }
+}

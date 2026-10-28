@@ -1,0 +1,286 @@
+{
+ "slug": "tims-pressure-cleaning-cairns",
+ "name": "Tim's Pressure Cleaning",
+ "short": "Tim's Pressure Cleaning",
+ "tag": "Pressure cleaning · Cairns",
+ "suburb": "Whitfield",
+ "state": "QLD",
+ "postcode": "4870",
+ "phone": "0499 429 471",
+ "phoneIntl": "+61499429471",
+ "facebook": "https://www.facebook.com/tpcservices/",
+ "formEmail": "tim@timspressurecleaning.com.au",
+ "topline": "Fully insured for public liability · Cairns & surrounds · Free quotes 0499 429 471",
+ "addressLine": "Whitfield, Cairns QLD 4870",
+ "area": "Cairns and surrounds",
+ "areaShort": "Cairns & surrounds",
+ "areaText": "Tim's Pressure Cleaning works across Cairns and surrounds for homes, businesses and body corporates.",
+ "mapQuery": "Whitfield, Cairns QLD 4870",
+ "seoTitle": "Pressure cleaning Cairns: Tim's Pressure Cleaning (TPC)",
+ "metaDesc": "Tim's Pressure Cleaning, Cairns. Roof, driveway, house, solar panel and shade sail cleaning plus concrete sealing for homes, businesses and body corporates. 4.8 stars on Google. Free quotes 0499 429 471.",
+ "ctaLabel": "Free quote",
+ "ownerOrUs": "Tim",
+ "schemaType": "LocalBusiness",
+ "rating": 4.8,
+ "reviewCount": 37,
+ "ratingSource": "Google",
+ "badge": [
+  "Fully insured",
+  "5000 PSI machines"
+ ],
+ "hero": {
+  "title": "Cairns roofs, driveways and walls, looking brand new again.",
+  "titleHtml": "Cairns roofs, driveways and walls, looking <em style='color:var(--accent);font-style:normal'>brand new</em> again.",
+  "lede": "Pressure cleaning and sealing for homes, businesses and body corporates. Commercial 5000 PSI machines with adjustable pressure, so every surface gets the right clean.",
+  "trust": [
+   "Fully insured for public liability",
+   "Free, no-obligation quotes",
+   "Residential & commercial"
+  ]
+ },
+ "images": {
+  "hero": "1677956787377-a0f32c0974af",
+  "heroAlt": "Worker using a pressure washer",
+  "about": "1707897283727-31befe824066",
+  "about2": "1631215320889-7cf5eb3224f8",
+  "aboutAlt": "Driveway being washed down",
+  "gallery": [
+   "1707897283710-4beef9a1b066",
+   "1635111082117-7110a59d1032",
+   "1718152521364-b9655b8a7926",
+   "1779517226302-029fb0f68ba1",
+   "1605146768851-eda79da39897",
+   "1433784566027-edb004aa7276"
+  ]
+ },
+ "servicesHead": "One crew for every outdoor surface",
+ "servicesSub": "Homes, shops, carparks and body corporates. Call 0499 429 471 or message us on Facebook for a free quote.",
+ "services": [
+  {
+   "id": "roofs",
+   "title": "Roof pressure cleaning",
+   "img": "1605146768851-eda79da39897",
+   "short": "Mould and grime gone.",
+   "long": "Roof cleaning that lifts built-up mould, dirt and stains, using the right pressure for the roof so it comes up looking new.",
+   "points": [
+    "Tile & metal roofs",
+    "Adjustable pressure",
+    "Gutters & eaves"
+   ]
+  },
+  {
+   "id": "driveways",
+   "title": "Driveways & footpaths",
+   "img": "1707897283727-31befe824066",
+   "short": "Concrete brought back.",
+   "long": "Driveway, footpath, patio and carpark cleaning, including chewing gum and graffiti removal.",
+   "points": [
+    "Driveways & paths",
+    "Patios",
+    "Gum & graffiti"
+   ]
+  },
+  {
+   "id": "housewash",
+   "title": "House & building wash downs",
+   "img": "1635111082117-7110a59d1032",
+   "short": "Walls, fences, retaining walls.",
+   "long": "External wall, house and building wash downs, plus fences and retaining walls, for homes and commercial sites.",
+   "points": [
+    "External walls",
+    "Fences",
+    "Retaining walls"
+   ]
+  },
+  {
+   "id": "solar",
+   "title": "Solar panels & shade sails",
+   "img": "1777059017695-ce78bfcfc62a",
+   "short": "Pure water clean.",
+   "long": "Solar panel cleaning with a pure water cleaning process, and shade sail cleaning to remove dirt and mould.",
+   "points": [
+    "Pure water process",
+    "Shade sails",
+    "Gentle on surfaces"
+   ]
+  },
+  {
+   "id": "sealing",
+   "title": "Concrete sealing",
+   "img": "1433784566027-edb004aa7276",
+   "short": "Protect it after the clean.",
+   "long": "Concrete sealing and protective coatings to keep surfaces looking good for longer. We only use high-end sealers.",
+   "points": [
+    "High-end sealers",
+    "Protective coating",
+    "Driveways & paths"
+   ]
+  },
+  {
+   "id": "commercial",
+   "title": "Commercial & body corporate",
+   "img": "1779517226302-029fb0f68ba1",
+   "short": "Carparks, complexes, shopfronts.",
+   "long": "Pressure cleaning for commercial properties and body corporates across Cairns, from carparks to shared walkways.",
+   "points": [
+    "Carparks",
+    "Body corporates",
+    "Shopfronts"
+   ]
+  }
+ ],
+ "whyHead": "Why Cairns calls Tim",
+ "whyText": "Tim has been in the pressure cleaning game for many years. Affordable pricing, guaranteed results and quotes that are honoured on the day.",
+ "why": [
+  "Fully insured for public liability",
+  "Commercial 5000 PSI machines",
+  "High-end sealers only",
+  "Free, no-obligation quotes"
+ ],
+ "galleryHead": "Before the wet season, after the clean",
+ "gallerySub": "Driveways, walls, roofs and more around Cairns.",
+ "faq": [
+  [
+   "What areas do you cover?",
+   "Cairns and surrounds. Call 0499 429 471 to check your suburb."
+  ],
+  [
+   "Do you clean commercial properties?",
+   "Yes. We work for residential, commercial and body corporate clients."
+  ],
+  [
+   "Will high pressure damage my surfaces?",
+   "Our commercial machines have adjustable pressure, so each surface gets the right setting. Solar panels get a pure water clean."
+  ],
+  [
+   "Are you insured?",
+   "Yes. TPC is fully insured for public liability."
+  ],
+  [
+   "How do I get a quote?",
+   "Quotes are free and no-obligation. Call 0499 429 471, use the form, or message us on Facebook."
+  ]
+ ],
+ "aboutHead": "About Tim's Pressure Cleaning",
+ "aboutSub": "Local pressure cleaning in Cairns.",
+ "aboutParas": [
+  "Tim's Pressure Cleaning (TPC) is a Cairns pressure cleaning business working for homeowners, businesses and body corporates across Cairns and surrounds.",
+  "Tim has been in the pressure cleaning game for many years. The aim is simple: affordable pricing and guaranteed results.",
+  "TPC uses commercial 5000 PSI machines with adjustable pressure, a pure water process for solar panels, and only high-end sealers. The business is fully insured for public liability."
+ ],
+ "valuesHead": "How Tim works",
+ "values": [
+  [
+   "Right pressure",
+   "Adjustable 5000 PSI gear."
+  ],
+  [
+   "Good gear",
+   "High-end sealers only."
+  ],
+  [
+   "Covered",
+   "Fully insured for public liability."
+  ]
+ ],
+ "contactHead": "Get a free pressure cleaning quote",
+ "contactSub": "Tell Tim what needs a clean, or call 0499 429 471.",
+ "bandText": "Driveway, roof or walls looking tired?",
+ "footerBlurb": "Roof, driveway, house, solar panel and shade sail cleaning plus concrete sealing across Cairns and surrounds.",
+ "hours": [
+  [
+   "Quotes",
+   "Call 0499 429 471"
+  ],
+  [
+   "Facebook",
+   "Message us any time"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Fantastic communication, on time, and a brilliant job done on our driveway and retaining wall.",
+   "who": "Tony",
+   "src": "Google"
+  },
+  {
+   "text": "Job was done exceptionally well and as agreed in the quote.",
+   "who": "Vickie",
+   "src": "Google"
+  },
+  {
+   "text": "The roof looks brand new now.",
+   "who": "Joshua",
+   "src": "Google"
+  },
+  {
+   "text": "Went from looking old and tired to looking brand new!",
+   "who": "Harry",
+   "src": "Google"
+  },
+  {
+   "text": "Cleaner than any other pressure cleaning, all done promptly while we were out.",
+   "who": "Rosalie",
+   "src": "Google"
+  }
+ ],
+ "reviewsHead": "4.8 stars from Cairns locals",
+ "reviewsSub": "From Tim's Google reviews.",
+ "formHead": "Cleaning quote",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "What needs cleaning?",
+   "job"
+  ]
+ ],
+ "theme": {
+  "radius": "18px",
+  "btnRadius": "999px",
+  "h1max": "64px",
+  "logoRadius": 16,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#0B2A33",
+  "bg": "#F2FAFA",
+  "headerBg": "#FFFFFF",
+  "surface": "#DFF1F1",
+  "ink": "#0B2A33",
+  "muted": "#4B6670",
+  "line": "#C6E3E4",
+  "brand": "#0A7C86",
+  "brand2": "#E0F4F3",
+  "accent": "#FFC233",
+  "headerInk": "#0A5961",
+  "overlay": "rgba(6,52,60,.80)",
+  "footBg": "#062E35",
+  "footInk": "#A8CCD0",
+  "footHead": "#FFC233",
+  "logoBg": "#0A7C86",
+  "logoFg": "#FFC233",
+  "icon": "spraygun",
+  "fontsQuery": "family=Readex+Pro:wght@500;700&family=Figtree:wght@400;600;700",
+  "headFont": "\"Readex Pro\",system-ui,sans-serif",
+  "bodyFont": "Figtree,system-ui,sans-serif",
+  "layout": {
+   "nav": "pill",
+   "hero": "diagonal",
+   "stats": "strip",
+   "services": "bento",
+   "why": "band",
+   "gallery": "tilt",
+   "reviews": "slider",
+   "hours": "cards",
+   "cta": "card",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "dots",
+   "btn": "shadow",
+   "order": "C",
+   "eyebrow": true
+  },
+  "hero": "diagonal"
+ }
+}
