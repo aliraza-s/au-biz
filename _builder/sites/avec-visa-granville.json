@@ -1,0 +1,250 @@
+{
+ "slug": "avec-visa-granville",
+ "name": "Australian Visa & Education Consultants",
+ "short": "AVEC",
+ "tag": "Registered migration agents · Granville",
+ "street": "74 Parramatta Rd",
+ "suburb": "Granville",
+ "state": "NSW",
+ "postcode": "2142",
+ "phone": "(02) 7904 8800",
+ "phoneIntl": "+61279048800",
+ "formEmail": "info@myavec.com.au",
+ "facebook": "https://www.facebook.com/myavec/",
+ "topline": "Visa, migration and education advice · 74 Parramatta Rd, Granville",
+ "addressLine": "74 Parramatta Rd, Granville NSW 2142",
+ "area": "Granville, Parramatta and Western Sydney",
+ "areaShort": "Western Sydney",
+ "areaText": "AVEC is based on Parramatta Rd in Granville, serving clients across Western Sydney.",
+ "mapQuery": "Australian Visa Education Consultants, 74 Parramatta Rd, Granville NSW 2142",
+ "seoTitle": "Migration agents and visa advice in Granville",
+ "metaDesc": "AVEC, Australian Visa & Education Consultants, 74 Parramatta Rd, Granville NSW. Registered migration agents for skilled, family, student and sponsored visas, refusals and reviews. Call (02) 7904 8800.",
+ "ctaLabel": "Book a consultation",
+ "ownerOrUs": "AVEC",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Registered agents",
+  "Migration Institute of Australia member"
+ ],
+ "hero": {
+  "title": "Visa advice that keeps up with the law.",
+  "titleHtml": "Visa advice that <em>keeps up with the law</em>.",
+  "lede": "Australian immigration law is complex and changes often. AVEC's registered migration agents prepare your application and represent you with Home Affairs and at review.",
+  "trust": [
+   "Registered migration agents",
+   "Transparent fees",
+   "Payment plans available"
+  ]
+ },
+ "images": {
+  "hero": "1562564055-71e051d33c19",
+  "heroAlt": "Client signing paperwork with an adviser",
+  "about": "1598948485421-33a1655d3c18",
+  "about2": "1517245386807-bb43f82c33c4",
+  "aboutAlt": "Adviser explaining options during a meeting",
+  "gallery": [
+   "1506973035872-a4ec16b8e8d9",
+   "1454165804606-c3d57bc86b40",
+   "1655722725332-9925c96dd627",
+   "1522202176988-66273c2fd55f",
+   "1530276371031-2511efff9d5a",
+   "1549180030-48bf079fb38a"
+  ]
+ },
+ "servicesHead": "Visa and education services",
+ "servicesSub": "Call (02) 7904 8800 to talk through your situation.",
+ "services": [
+  {
+   "id": "skilled",
+   "title": "Skilled & business visas",
+   "img": "1454165804606-c3d57bc86b40",
+   "short": "Permanent pathways for skilled and business migrants.",
+   "long": "Advice and applications for permanent skilled and business visa pathways.",
+   "points": [
+    "Skilled",
+    "Business",
+    "Permanent pathways"
+   ]
+  },
+  {
+   "id": "family",
+   "title": "Family & partner visas",
+   "img": "1522202176988-66273c2fd55f",
+   "short": "Bring your family together.",
+   "long": "Family visa applications, prepared carefully and lodged with the Department of Home Affairs.",
+   "points": [
+    "Family",
+    "Partner",
+    "Application prep"
+   ]
+  },
+  {
+   "id": "sponsored",
+   "title": "Employer-sponsored visas",
+   "img": "1517245386807-bb43f82c33c4",
+   "short": "Work visas with an Australian sponsor.",
+   "long": "Sponsored worker visa applications for employees and employers.",
+   "points": [
+    "Sponsored workers",
+    "Employers",
+    "Lodgement"
+   ]
+  },
+  {
+   "id": "student",
+   "title": "Student visas",
+   "img": "1506973035872-a4ec16b8e8d9",
+   "short": "Study now, with options later.",
+   "long": "Student visa applications, plus advice on pathways after your studies.",
+   "points": [
+    "Student visas",
+    "Study pathways",
+    "College representation"
+   ]
+  },
+  {
+   "id": "visitor",
+   "title": "Visitor & working holiday",
+   "img": "1655722725332-9925c96dd627",
+   "short": "Short stays and working holidays.",
+   "long": "Visitor and working holiday visa applications.",
+   "points": [
+    "Visitor",
+    "Working holiday",
+    "Extensions advice"
+   ]
+  },
+  {
+   "id": "refusals",
+   "title": "Refusals, cancellations & reviews",
+   "img": "1562564055-71e051d33c19",
+   "short": "Help when a decision goes against you.",
+   "long": "Advice on visa refusals and cancellations, public interest criteria and compliance issues, and representation in merits review of the decision.",
+   "points": [
+    "Refusals",
+    "Cancellations",
+    "Merits review"
+   ]
+  }
+ ],
+ "whyHead": "Why clients choose AVEC",
+ "whyText": "AVEC's registered migration agents keep track of changes to migration law, and fees are low and transparent, with payment plans available.",
+ "why": [
+  "Registered migration agents",
+  "Member of the Migration Institute of Australia",
+  "Transparent fees",
+  "Payment plans available"
+ ],
+ "galleryHead": "Sydney, here we come",
+ "gallerySub": "Visas for work, study, family and travel.",
+ "faq": [
+  [
+   "Where are you based?",
+   "74 Parramatta Rd, Granville NSW 2142."
+  ],
+  [
+   "Are your agents registered?",
+   "Yes. AVEC's migration agents are registered, and AVEC is a member of the Migration Institute of Australia. You can check any agent on the official OMARA register."
+  ],
+  [
+   "Can I pay in instalments?",
+   "Yes. Payment plans are available."
+  ],
+  [
+   "My visa was refused. Can you help?",
+   "Yes. We advise on refusals and cancellations and can represent you in a review."
+  ]
+ ],
+ "aboutHead": "About AVEC",
+ "aboutSub": "Australian Visa & Education Consultants, Granville.",
+ "aboutParas": [
+  "Australian Visa & Education Consultants (AVEC) helps people with visas, migration and education in Australia.",
+  "Australian immigration law is complex and changes often. Our registered migration agents follow those changes so your application is prepared correctly, and we represent clients before the Department of Home Affairs and in merits review.",
+  "We also represent Australian colleges and universities for students who want to study here. Fees are low and transparent, and payment plans are available."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Registered",
+   "Registered migration agents."
+  ],
+  [
+   "Up to date",
+   "We track changes to migration law."
+  ],
+  [
+   "Transparent",
+   "Clear fees, with payment plans."
+  ]
+ ],
+ "contactHead": "Book a consultation",
+ "contactSub": "Tell us about your visa situation, or call (02) 7904 8800.",
+ "bandText": "Need clear advice on your visa?",
+ "footerBlurb": "Registered migration agents for visas, migration and education, Granville NSW.",
+ "hours": [
+  [
+   "Appointments",
+   "Call (02) 7904 8800 to book"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "reviewsSub": "",
+ "formHead": "Consultation request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Current visa",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "4px",
+  "btnRadius": "2px",
+  "h1max": "76px",
+  "logoRadius": 4,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "400",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#16213E",
+  "bg": "#FBF9F4",
+  "headerBg": "#FFFFFF",
+  "surface": "#F1ECE0",
+  "ink": "#16213E",
+  "muted": "#5A6178",
+  "line": "#E2DCCD",
+  "brand": "#16213E",
+  "brand2": "#F1ECE0",
+  "accent": "#C9A23F",
+  "headerInk": "#16213E",
+  "overlay": "rgba(14,22,44,.8)",
+  "footBg": "#0F1830",
+  "footInk": "#A7AEC2",
+  "footHead": "#E2C477",
+  "logoBg": "#16213E",
+  "logoFg": "#E2C477",
+  "fontsQuery": "family=DM+Serif+Display&family=Commissioner:wght@400;500;600;700",
+  "headFont": "\"DM Serif Display\",Georgia,serif",
+  "bodyFont": "Commissioner,system-ui,sans-serif",
+  "icon": "passport",
+  "layout": {
+   "nav": "stripe",
+   "hero": "editorial",
+   "stats": "strip",
+   "services": "list",
+   "why": "dark",
+   "gallery": "strip",
+   "reviews": "light",
+   "hours": "grid",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "lines",
+   "btn": "flat",
+   "order": "B",
+   "eyebrow": true
+  },
+  "hero": "editorial"
+ }
+}

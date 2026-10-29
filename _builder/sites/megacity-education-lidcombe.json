@@ -1,0 +1,230 @@
+{
+ "slug": "megacity-education-lidcombe",
+ "name": "Megacity Education and Visa Services",
+ "short": "Megacity",
+ "tag": "Education & visa services · Lidcombe",
+ "street": "81 Church St",
+ "suburb": "Lidcombe",
+ "state": "NSW",
+ "postcode": "2141",
+ "phone": "0406 675 899",
+ "phoneIntl": "+61406675899",
+ "formEmail": "megacityedu@gmail.com",
+ "facebook": "https://www.facebook.com/profile.php?id=100075504205005",
+ "topline": "81 Church St, Lidcombe · Call or WhatsApp Kishore on 0406 675 899",
+ "addressLine": "81 Church St, Lidcombe NSW 2141",
+ "area": "Lidcombe and Western Sydney",
+ "areaShort": "Lidcombe",
+ "areaText": "Our office is on Church St in Lidcombe, a short walk from Lidcombe station.",
+ "mapQuery": "Megacity Education and Visa Services, 81 Church St, Lidcombe NSW 2141",
+ "seoTitle": "Education and visa services in Lidcombe",
+ "metaDesc": "Megacity Education and Visa Services, 81 Church St, Lidcombe NSW. Help with study in Australia, course and college admissions and visa enquiries. Call or WhatsApp 0406 675 899.",
+ "ctaLabel": "Book a chat",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Church St, Lidcombe",
+  "Walk-in office"
+ ],
+ "hero": {
+  "title": "Study in Australia, planned with people you can meet.",
+  "titleHtml": "Study in Australia, <em style='color:var(--accent);font-style:normal'>planned with people you can meet</em>.",
+  "lede": "Course and college admissions, student visa questions and next steps, from our office on Church St in Lidcombe. Call or WhatsApp Kishore to start.",
+  "trust": [
+   "Office in Lidcombe",
+   "Call or WhatsApp",
+   "Open weekdays"
+  ]
+ },
+ "images": {
+  "hero": "1627556704353-016baeb12c79",
+  "heroAlt": "Graduates taking a selfie outside a university",
+  "about": "1758273240360-76b908e7582a",
+  "about2": "1758691737207-e75821e080cb",
+  "aboutAlt": "Two people talking through plans at an office desk",
+  "gallery": [
+   "1758270704524-596810e891b5",
+   "1571260899304-425eee4c7efc",
+   "1546268060-2592ff93ee24",
+   "1501503069356-3c6b82a17d89",
+   "1530521954074-e64f6810b32d",
+   "1495995424756-6a5a3f9e7543"
+  ]
+ },
+ "servicesHead": "Help from first enquiry to first class",
+ "servicesSub": "Not sure where to start? Call or WhatsApp 0406 675 899.",
+ "services": [
+  {
+   "id": "admissions",
+   "title": "Course & college admissions",
+   "img": "1501503069356-3c6b82a17d89",
+   "short": "Find the right course and apply.",
+   "long": "Talk through your study goals, compare courses and colleges, and get help putting your application together.",
+   "points": [
+    "Course options",
+    "Application help",
+    "Documents checklist"
+   ]
+  },
+  {
+   "id": "student-visa",
+   "title": "Student visa help",
+   "img": "1581553673739-c4906b5d0de8",
+   "short": "Know what you need before you apply.",
+   "long": "Guidance on student visa steps and paperwork so you know what is needed and when.",
+   "points": [
+    "Step-by-step",
+    "Paperwork",
+    "Timelines"
+   ]
+  },
+  {
+   "id": "change",
+   "title": "Changing course or college",
+   "img": "1758270704524-596810e891b5",
+   "short": "Already here and want a change?",
+   "long": "If you are already studying in Australia and want to move to a different course or college, we can talk you through the process.",
+   "points": [
+    "Course change",
+    "College transfer",
+    "Next steps"
+   ]
+  },
+  {
+   "id": "enquiries",
+   "title": "Visa enquiries",
+   "img": "1767216427262-ce74ba565c3c",
+   "short": "Ask us about your situation.",
+   "long": "Come in or message us with your questions about visas and studying in Australia.",
+   "points": [
+    "Walk-in office",
+    "Phone",
+    "WhatsApp"
+   ]
+  }
+ ],
+ "whyHead": "Why students come to Megacity",
+ "whyText": "A real office on Church St in Lidcombe where you can sit down face to face, plus phone and WhatsApp for quick questions in between.",
+ "why": [
+  "Office on Church St, Lidcombe",
+  "Talk face to face",
+  "Call or WhatsApp",
+  "Open Monday to Friday"
+ ],
+ "galleryHead": "Your study journey",
+ "gallerySub": "From choosing a course to graduation day.",
+ "faq": [
+  [
+   "Where is your office?",
+   "81 Church St, Lidcombe NSW 2141."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 9:30am to 6:30pm."
+  ],
+  [
+   "Can I message you on WhatsApp?",
+   "Yes. Send a message to 0406 675 899."
+  ],
+  [
+   "Who do I speak to?",
+   "Ask for Kishore when you call."
+  ]
+ ],
+ "aboutHead": "About Megacity",
+ "aboutSub": "Education and visa services in Lidcombe.",
+ "aboutParas": [
+  "Megacity Education and Visa Services helps people plan their study in Australia, from choosing a course to sorting out the paperwork.",
+  "Our office is at 81 Church St, Lidcombe, so you can come in and talk things through in person, or call and WhatsApp us on 0406 675 899.",
+  "Ask for Kishore when you get in touch."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Face to face",
+   "Come into our Lidcombe office."
+  ],
+  [
+   "Easy to reach",
+   "Phone or WhatsApp on 0406 675 899."
+  ],
+  [
+   "Step by step",
+   "We explain what comes next."
+  ]
+ ],
+ "contactHead": "Book a chat",
+ "contactSub": "Tell us what you are planning, or call or WhatsApp 0406 675 899.",
+ "bandText": "Planning to study in Australia?",
+ "footerBlurb": "Education and visa services from our office at 81 Church St, Lidcombe.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "9:30am – 6:30pm"
+  ],
+  [
+   "Saturday – Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "reviewsSub": "",
+ "formHead": "Send an enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Current visa / country",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "18px",
+  "btnRadius": "40px",
+  "h1max": "68px",
+  "logoRadius": 16,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "bg": "#F7FAF9",
+  "headerBg": "#FFFFFF",
+  "surface": "#E3EFEC",
+  "ink": "#0F2A2A",
+  "muted": "#4D6564",
+  "line": "#CFE0DC",
+  "brand": "#0B4F4A",
+  "brand2": "#DDF0EB",
+  "accent": "#E4572E",
+  "headerInk": "#0B4F4A",
+  "overlay": "rgba(6,40,37,.78)",
+  "footBg": "#08302D",
+  "footInk": "#A9C6C1",
+  "footHead": "#FFB49B",
+  "logoBg": "#0B4F4A",
+  "logoFg": "#FFB49B",
+  "fontsQuery": "family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Albert+Sans:wght@400;500;600;700",
+  "headFont": "\"Bricolage Grotesque\",system-ui,sans-serif",
+  "bodyFont": "\"Albert Sans\",system-ui,sans-serif",
+  "icon": "gradcap",
+  "layout": {
+   "nav": "pill",
+   "hero": "mosaic",
+   "stats": "pills",
+   "services": "tiles",
+   "why": "split",
+   "gallery": "grid",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "card",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "dots",
+   "btn": "shadow",
+   "order": "D",
+   "eyebrow": true
+  },
+  "hero": "mosaic"
+ }
+}

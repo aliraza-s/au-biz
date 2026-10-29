@@ -1,0 +1,254 @@
+{
+ "slug": "sandhuz-migration-dandenong",
+ "name": "Sandhuz Migration and Education Consultants",
+ "short": "Sandhuz Migration",
+ "tag": "Migration & education · Dandenong",
+ "street": "Level 10, Suite 34, 14 Mason St",
+ "suburb": "Dandenong",
+ "state": "VIC",
+ "postcode": "3175",
+ "phone": "0433 235 048",
+ "phoneIntl": "+61433235048",
+ "formEmail": "info@sandhuzmigration.com.au",
+ "facebook": "https://www.facebook.com/profile.php?id=61574531464818",
+ "topline": "Harwinder Singh · Registered migration agent, MARN 2217767 · Call or WhatsApp 0433 235 048",
+ "addressLine": "Level 10, Suite 34, 14 Mason St, Dandenong VIC 3175",
+ "area": "Dandenong and Melbourne's south-east",
+ "areaShort": "Dandenong",
+ "areaText": "Our office is on Level 10 at 14 Mason St, Dandenong.",
+ "mapQuery": "14 Mason St, Dandenong VIC 3175",
+ "seoTitle": "Migration agent and education consultants in Dandenong",
+ "metaDesc": "Sandhuz Migration and Education Consultants, 14 Mason St, Dandenong VIC. Registered migration agent Harwinder Singh (MARN 2217767). Student, skilled, partner, parent, 482, 485 and visitor visas. Call 0433 235 048.",
+ "ctaLabel": "Book a consultation",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "MARN 2217767",
+  "Registered migration agent"
+ ],
+ "hero": {
+  "title": "Student, skilled and family visas in Dandenong.",
+  "titleHtml": "Student, skilled and family visas <em style='color:var(--accent);font-style:normal'>in Dandenong</em>.",
+  "lede": "Registered migration agent Harwinder Singh (MARN 2217767) and the Sandhuz team help with visas, course admissions and next steps, from Mason St, Dandenong.",
+  "trust": [
+   "MARN 2217767",
+   "Open Mon–Fri 9–5",
+   "WhatsApp 0433 235 048"
+  ]
+ },
+ "images": {
+  "hero": "1514395462725-fb4566210144",
+  "heroAlt": "Melbourne city street with a tram",
+  "about": "1583032586422-4a31c5386d9f",
+  "about2": "1553877522-43269d4ea984",
+  "aboutAlt": "Consultant working on a laptop",
+  "gallery": [
+   "1759852692971-a2abc6799cbd",
+   "1532188142562-df556b861e6a",
+   "1576267423445-b2e0074d68a4",
+   "1585217514204-d025f2f1b116",
+   "1535982330050-f1c2fb79ff78",
+   "1549057446-9f5c6ac91a04"
+  ]
+ },
+ "servicesHead": "Visa and education services",
+ "servicesSub": "Call or WhatsApp 0433 235 048 to talk it through.",
+ "services": [
+  {
+   "id": "student",
+   "title": "Student visa (500)",
+   "img": "1759852692971-a2abc6799cbd",
+   "short": "Study in Australia.",
+   "long": "Student visa (subclass 500) applications, with course guidance and admissions help.",
+   "points": [
+    "Subclass 500",
+    "Course guidance",
+    "Admissions"
+   ]
+  },
+  {
+   "id": "skilled",
+   "title": "Skilled visas (189, 190, 491)",
+   "img": "1576267423445-b2e0074d68a4",
+   "short": "EOIs, ROIs and skilled pathways.",
+   "long": "Skilled visas including subclasses 189, 190 and 491, plus EOI and ROI help, and DAMA visas.",
+   "points": [
+    "189 / 190 / 491",
+    "EOI & ROI",
+    "DAMA"
+   ]
+  },
+  {
+   "id": "employer",
+   "title": "Employer-sponsored & graduate",
+   "img": "1553877522-43269d4ea984",
+   "short": "482, 485 and 407 visas.",
+   "long": "Employer-sponsored (subclass 482), temporary graduate (subclass 485) and training (subclass 407) visas.",
+   "points": [
+    "Subclass 482",
+    "Subclass 485",
+    "Subclass 407"
+   ]
+  },
+  {
+   "id": "partner",
+   "title": "Partner & parent visas",
+   "img": "1549057446-9f5c6ac91a04",
+   "short": "Bring family to Australia.",
+   "long": "Partner visas (subclasses 820 and 801) and parent visas (subclasses 103, 143 and 173).",
+   "points": [
+    "Partner 820/801",
+    "Parent 103/143/173",
+    "Family"
+   ]
+  },
+  {
+   "id": "visitor",
+   "title": "Visitor visas & ART appeals",
+   "img": "1532188142562-df556b861e6a",
+   "short": "Visits, and help after a refusal.",
+   "long": "Visitor visa applications, and appeals to the Administrative Review Tribunal (ART).",
+   "points": [
+    "Visitor visas",
+    "ART appeals",
+    "Advice"
+   ]
+  },
+  {
+   "id": "education",
+   "title": "Education services",
+   "img": "1535982330050-f1c2fb79ff78",
+   "short": "Admissions, course changes and more.",
+   "long": "Admission in Australia, changing courses, recognition of prior learning, Professional Year programs and requests to defer studies.",
+   "points": [
+    "Admissions",
+    "Change course",
+    "RPL & Professional Year"
+   ]
+  }
+ ],
+ "whyHead": "Why choose Sandhuz",
+ "whyText": "Harwinder Singh is a registered migration agent (MARN 2217767), and the Sandhuz team covers both the visa side and the education side, from course changes to Professional Year programs.",
+ "why": [
+  "Registered migration agent, MARN 2217767",
+  "Visas and education in one place",
+  "Office in central Dandenong",
+  "Call or WhatsApp"
+ ],
+ "galleryHead": "Study, work and family in Melbourne",
+ "gallerySub": "Where your visa can take you.",
+ "faq": [
+  [
+   "Is your agent registered?",
+   "Yes. Harwinder Singh's MARN is 2217767. You can check it on the official OMARA register."
+  ],
+  [
+   "Where is your office?",
+   "Level 10, Suite 34, 14 Mason St, Dandenong VIC 3175."
+  ],
+  [
+   "What are your hours?",
+   "Monday to Friday, 9am to 5pm."
+  ],
+  [
+   "Can I message on WhatsApp?",
+   "Yes, on 0433 235 048."
+  ]
+ ],
+ "aboutHead": "About Sandhuz",
+ "aboutSub": "Migration and education consultants, Dandenong.",
+ "aboutParas": [
+  "Sandhuz Migration and Education Consultants helps students, skilled workers and families with Australian visas and study, from our office at 14 Mason St, Dandenong.",
+  "Harwinder Singh is a registered migration agent (MARN 2217767).",
+  "We handle student, skilled, employer-sponsored, graduate, partner, parent and visitor visas, ART appeals, EOIs and ROIs, along with admissions, course changes, RPL, Professional Year programs and study deferrals."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Registered",
+   "MARN 2217767."
+  ],
+  [
+   "Complete",
+   "Visas and education together."
+  ],
+  [
+   "Reachable",
+   "Phone, WhatsApp or drop in."
+  ]
+ ],
+ "contactHead": "Book a consultation",
+ "contactSub": "Tell us about your plans, or call or WhatsApp 0433 235 048.",
+ "bandText": "Ready to sort your visa?",
+ "footerBlurb": "Migration and education consultants in Dandenong. Registered migration agent Harwinder Singh, MARN 2217767.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "9am – 5pm"
+  ],
+  [
+   "Saturday – Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "reviewsSub": "",
+ "formHead": "Consultation request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Visa type you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "20px",
+  "btnRadius": "12px",
+  "h1max": "72px",
+  "logoRadius": 12,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "headWeight": "800",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#0E1B2C",
+  "bg": "#F6F6FB",
+  "headerBg": "#FFFFFF",
+  "surface": "#E8E7F5",
+  "ink": "#1B1838",
+  "muted": "#5A5878",
+  "line": "#D8D6EA",
+  "brand": "#3B2F8F",
+  "brand2": "#E8E7F5",
+  "accent": "#3FD0A4",
+  "headerInk": "#3B2F8F",
+  "overlay": "rgba(26,20,72,.78)",
+  "footBg": "#1E1850",
+  "footInk": "#B3AED6",
+  "footHead": "#7BE3C3",
+  "logoBg": "#3B2F8F",
+  "logoFg": "#3FD0A4",
+  "fontsQuery": "family=Red+Hat+Display:wght@800&family=Red+Hat+Text:wght@400;500;600;700",
+  "headFont": "\"Red Hat Display\",system-ui,sans-serif",
+  "bodyFont": "\"Red Hat Text\",system-ui,sans-serif",
+  "icon": "compass",
+  "layout": {
+   "nav": "split",
+   "hero": "overlay",
+   "stats": "pills",
+   "services": "bento",
+   "why": "splitR",
+   "gallery": "grid",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "image",
+   "decor": "none",
+   "btn": "arrow",
+   "order": "F",
+   "eyebrow": true
+  },
+  "hero": "overlay"
+ }
+}
