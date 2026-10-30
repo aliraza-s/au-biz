@@ -1,0 +1,219 @@
+{
+ "slug": "uplift-immigration-pakenham",
+ "name": "Uplift Immigration",
+ "short": "Uplift Immigration",
+ "tag": "Migration & visas · Pakenham",
+ "street": "",
+ "suburb": "Pakenham",
+ "state": "VIC",
+ "postcode": "",
+ "phone": "0452 352 777",
+ "phoneIntl": "+61452352777",
+ "topline": "Uplift Immigration · Pakenham · Call 0452 352 777",
+ "addressLine": "Pakenham VIC",
+ "area": "Pakenham and Melbourne's south-east",
+ "areaShort": "Pakenham",
+ "areaText": "Uplift Immigration is based in Pakenham, in Melbourne's south-east.",
+ "mapQuery": "Pakenham VIC",
+ "seoTitle": "Migration and visa help in Pakenham",
+ "metaDesc": "Uplift Immigration, Pakenham VIC. Visa and migration help for people in Pakenham and Melbourne's south-east. Call 0452 352 777.",
+ "ctaLabel": "Send an enquiry",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Pakenham",
+  "Call to book"
+ ],
+ "images": {
+  "hero": "1514395462725-fb4566210144",
+  "heroAlt": "Melbourne city street with a tram",
+  "about": "1585217514204-d025f2f1b116",
+  "about2": "1551836022-d5d88e9218df",
+  "aboutAlt": "Two men talking through a plan",
+  "gallery": [
+   "1530521954074-e64f6810b32d",
+   "1590479418221-91e0b197952a",
+   "1488190211105-8b0e65b80b4e",
+   "1545044846-351ba102b6d5",
+   "1764625239088-50a840a1353b",
+   "1596527199903-6cdaacee1208"
+  ]
+ },
+ "servicesHead": "How we can help",
+ "servicesSub": "Not sure where to start? Call 0452 352 777.",
+ "services": [
+  {
+   "id": "advice",
+   "title": "Visa options",
+   "img": "1758273240360-76b908e7582a",
+   "short": "Work out which visa fits.",
+   "long": "Talk through your circumstances and the visa options that may suit you.",
+   "points": [
+    "Your situation",
+    "Your options",
+    "Next steps"
+   ]
+  },
+  {
+   "id": "applications",
+   "title": "Visa applications",
+   "img": "1553697388-94e804e2f0f6",
+   "short": "Paperwork in order.",
+   "long": "Help getting your application and supporting documents together so nothing is missed.",
+   "points": [
+    "Documents",
+    "Forms",
+    "Lodgement"
+   ]
+  },
+  {
+   "id": "family",
+   "title": "Family & study plans",
+   "img": "1522202176988-66273c2fd55f",
+   "short": "Plans for you and your family.",
+   "long": "Talk to us about bringing family to Australia or coming here to study.",
+   "points": [
+    "Family",
+    "Study",
+    "Advice"
+   ]
+  },
+  {
+   "id": "followup",
+   "title": "After you apply",
+   "img": "1507537362848-9c7e70b7b5c1",
+   "short": "Questions while you wait.",
+   "long": "Help with questions and requests that come up after your application is lodged.",
+   "points": [
+    "Requests",
+    "Updates",
+    "Advice"
+   ]
+  }
+ ],
+ "whyHead": "Why call Uplift Immigration",
+ "whyText": "Uplift Immigration is a local migration business in Pakenham. Call 0452 352 777 and talk to someone directly about your situation.",
+ "why": [
+  "Local to Pakenham",
+  "Talk to someone directly",
+  "Plain-English answers",
+  "Easy to reach by phone"
+ ],
+ "galleryHead": "Study, work and family",
+ "gallerySub": "Where the right visa can take you.",
+ "faq": [
+  [
+   "How do I get in touch?",
+   "Call 0452 352 777, or send an enquiry through the contact page."
+  ],
+  [
+   "Where are you based?",
+   "Pakenham VIC."
+  ],
+  [
+   "Can you tell me which visa I need?",
+   "Call us and explain your situation. We will talk you through the options and the next steps."
+  ]
+ ],
+ "aboutHead": "About Uplift Immigration",
+ "aboutSub": "Migration and visa help in Pakenham.",
+ "aboutParas": [
+  "Uplift Immigration helps people in Pakenham and Melbourne's south-east with visas and migration.",
+  "Call 0452 352 777 to talk through your situation. We will explain the options in plain English and what comes next."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in Pakenham."
+  ],
+  [
+   "Direct",
+   "Call 0452 352 777."
+  ],
+  [
+   "Clear",
+   "We explain each step."
+  ]
+ ],
+ "contactHead": "Get in touch",
+ "contactSub": "Tell us about your visa situation, or call 0452 352 777.",
+ "bandText": "Got a visa question?",
+ "footerBlurb": "Uplift Immigration, Pakenham VIC.",
+ "hours": [
+  [
+   "Appointments",
+   "Call 0452 352 777 to book"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "reviewsSub": "",
+ "formHead": "Visa enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Visa type you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "16px",
+  "btnRadius": "12px",
+  "h1max": "70px",
+  "logoRadius": 14,
+  "headTrack": "-.03em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#2B1600",
+  "headerBg": "#FFFFFF",
+  "bg": "#F5F8FF",
+  "surface": "#E3EBFC",
+  "ink": "#0E1A33",
+  "muted": "#4E5B78",
+  "line": "#D3DDF2",
+  "brand": "#1746A2",
+  "brand2": "#E3EBFC",
+  "accent": "#FF9F1C",
+  "headerInk": "#1746A2",
+  "overlay": "rgba(10,30,80,.78)",
+  "footBg": "#0E2A66",
+  "footInk": "#AEBEE0",
+  "footHead": "#FFC36B",
+  "logoBg": "#1746A2",
+  "logoFg": "#FF9F1C",
+  "fontsQuery": "family=Geologica:wght@700&family=Geist:wght@400;500;600;700",
+  "headFont": "\"Geologica\",system-ui,sans-serif",
+  "bodyFont": "\"Geist\",system-ui,sans-serif",
+  "icon": "uplift",
+  "layout": {
+   "nav": "pill",
+   "hero": "diagonal",
+   "stats": "ticker",
+   "services": "tiles",
+   "why": "stackimg",
+   "gallery": "grid",
+   "reviews": "light",
+   "hours": "mapbg",
+   "cta": "card",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "dots",
+   "btn": "flat",
+   "order": "D",
+   "eyebrow": true
+  },
+  "hero": "diagonal"
+ },
+ "hero": {
+  "title": "Lift your visa plans off the ground.",
+  "titleHtml": "Lift your visa plans <em style='color:var(--accent);font-style:normal'>off the ground</em>.",
+  "lede": "Uplift Immigration helps people in Pakenham and Melbourne's south-east work out their visa options and next steps. Call 0452 352 777.",
+  "trust": [
+   "Based in Pakenham",
+   "Call 0452 352 777",
+   "Plain-English answers"
+  ]
+ }
+}

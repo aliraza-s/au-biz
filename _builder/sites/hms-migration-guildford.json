@@ -1,0 +1,219 @@
+{
+ "slug": "hms-migration-guildford",
+ "name": "HMS International Migration Agents",
+ "short": "HMS Migration",
+ "tag": "Migration & visas · Guildford",
+ "street": "",
+ "suburb": "Guildford",
+ "state": "NSW",
+ "postcode": "",
+ "phone": "0422 667 329",
+ "phoneIntl": "+61422667329",
+ "topline": "HMS International Migration Agents · Guildford · Call 0422 667 329",
+ "addressLine": "Guildford NSW",
+ "area": "Guildford and western Sydney",
+ "areaShort": "Guildford",
+ "areaText": "HMS International Migration Agents is based in Guildford, in western Sydney.",
+ "mapQuery": "Guildford NSW 2161",
+ "seoTitle": "Migration and visa help in Guildford",
+ "metaDesc": "HMS International Migration Agents, Guildford NSW. Visa and migration help for people in Guildford and western Sydney. Call 0422 667 329.",
+ "ctaLabel": "Send an enquiry",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Guildford",
+  "Call to book"
+ ],
+ "images": {
+  "hero": "1598948485421-33a1655d3c18",
+  "heroAlt": "Adviser explaining options during a meeting",
+  "about": "1573497620053-ea5300f94f21",
+  "about2": "1758691737207-e75821e080cb",
+  "aboutAlt": "Two women talking in an office",
+  "gallery": [
+   "1506973035872-a4ec16b8e8d9",
+   "1571260899304-425eee4c7efc",
+   "1532188142562-df556b861e6a",
+   "1495995424756-6a5a3f9e7543",
+   "1616408585022-4be4905b1e48",
+   "1576267423445-b2e0074d68a4"
+  ]
+ },
+ "servicesHead": "How we can help",
+ "servicesSub": "Not sure where to start? Call 0422 667 329.",
+ "services": [
+  {
+   "id": "advice",
+   "title": "Visa options",
+   "img": "1758273240360-76b908e7582a",
+   "short": "Work out which visa fits.",
+   "long": "Talk through your circumstances and the visa options that may suit you.",
+   "points": [
+    "Your situation",
+    "Your options",
+    "Next steps"
+   ]
+  },
+  {
+   "id": "applications",
+   "title": "Visa applications",
+   "img": "1553697388-94e804e2f0f6",
+   "short": "Paperwork in order.",
+   "long": "Help getting your application and supporting documents together so nothing is missed.",
+   "points": [
+    "Documents",
+    "Forms",
+    "Lodgement"
+   ]
+  },
+  {
+   "id": "family",
+   "title": "Family & study plans",
+   "img": "1522202176988-66273c2fd55f",
+   "short": "Plans for you and your family.",
+   "long": "Talk to us about bringing family to Australia or coming here to study.",
+   "points": [
+    "Family",
+    "Study",
+    "Advice"
+   ]
+  },
+  {
+   "id": "followup",
+   "title": "After you apply",
+   "img": "1507537362848-9c7e70b7b5c1",
+   "short": "Questions while you wait.",
+   "long": "Help with questions and requests that come up after your application is lodged.",
+   "points": [
+    "Requests",
+    "Updates",
+    "Advice"
+   ]
+  }
+ ],
+ "whyHead": "Why call HMS Migration",
+ "whyText": "HMS International Migration Agents is a local migration business in Guildford. Call 0422 667 329 and talk to someone directly about your situation.",
+ "why": [
+  "Local to Guildford",
+  "Talk to someone directly",
+  "Plain-English answers",
+  "Easy to reach by phone"
+ ],
+ "galleryHead": "Study, work and family",
+ "gallerySub": "Where the right visa can take you.",
+ "faq": [
+  [
+   "How do I get in touch?",
+   "Call 0422 667 329, or send an enquiry through the contact page."
+  ],
+  [
+   "Where are you based?",
+   "Guildford NSW."
+  ],
+  [
+   "Can you tell me which visa I need?",
+   "Call us and explain your situation. We will talk you through the options and the next steps."
+  ]
+ ],
+ "aboutHead": "About HMS Migration",
+ "aboutSub": "Migration and visa help in Guildford.",
+ "aboutParas": [
+  "HMS International Migration Agents helps people in Guildford and western Sydney with visas and migration.",
+  "Call 0422 667 329 to talk through your situation. We will explain the options in plain English and what comes next."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in Guildford."
+  ],
+  [
+   "Direct",
+   "Call 0422 667 329."
+  ],
+  [
+   "Clear",
+   "We explain each step."
+  ]
+ ],
+ "contactHead": "Get in touch",
+ "contactSub": "Tell us about your visa situation, or call 0422 667 329.",
+ "bandText": "Got a visa question?",
+ "footerBlurb": "HMS International Migration Agents, Guildford NSW.",
+ "hours": [
+  [
+   "Appointments",
+   "Call 0422 667 329 to book"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "reviewsSub": "",
+ "formHead": "Visa enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Visa type you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "2px",
+  "btnRadius": "2px",
+  "h1max": "76px",
+  "logoRadius": 2,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#10202A",
+  "headerBg": "#FFFFFF",
+  "bg": "#F6F7F8",
+  "surface": "#E6EAEE",
+  "ink": "#1C232B",
+  "muted": "#56606B",
+  "line": "#D5DBE1",
+  "brand": "#2E3440",
+  "brand2": "#E6EAEE",
+  "accent": "#5FB3C7",
+  "headerInk": "#2E3440",
+  "overlay": "rgba(22,26,34,.8)",
+  "footBg": "#1F242C",
+  "footInk": "#A9B2BD",
+  "footHead": "#8FD0DF",
+  "logoBg": "#2E3440",
+  "logoFg": "#8FD0DF",
+  "fontsQuery": "family=Petrona:wght@700&family=Inclusive+Sans:wght@400",
+  "headFont": "\"Petrona\",Georgia,serif",
+  "bodyFont": "\"Inclusive Sans\",system-ui,sans-serif",
+  "icon": "stamp",
+  "layout": {
+   "nav": "split",
+   "hero": "card",
+   "stats": "none",
+   "services": "list",
+   "why": "band",
+   "gallery": "tilt",
+   "reviews": "featured",
+   "hours": "grid",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "arrow",
+   "order": "B",
+   "eyebrow": true
+  },
+  "hero": "card"
+ },
+ "hero": {
+  "title": "Migration advice for western Sydney.",
+  "titleHtml": "Migration advice for <em style='color:var(--accent);font-style:italic'>western Sydney</em>.",
+  "lede": "HMS International Migration Agents helps people in Guildford and western Sydney with visa questions and applications. Call 0422 667 329.",
+  "trust": [
+   "Based in Guildford",
+   "Call 0422 667 329",
+   "Talk to us directly"
+  ]
+ }
+}

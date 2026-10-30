@@ -1,0 +1,238 @@
+{
+ "slug": "jl-migration-bankstown",
+ "name": "JL Migration & Education",
+ "short": "JL Migration",
+ "tag": "Migration & education · Bankstown",
+ "street": "Offices 1-6, Level 1, 304-308 Chapel Road",
+ "suburb": "Bankstown",
+ "state": "NSW",
+ "postcode": "2200",
+ "phone": "0468 398 396",
+ "phoneIntl": "+61468398396",
+ "formEmail": "info@JLimmi.com.au",
+ "facebook": "https://www.facebook.com/JLimmiservices/",
+ "topline": "Lee Paris · Registered migration agent, MARN 2016039 · Call 0468 398 396 · Di Trú JL",
+ "addressLine": "Level 1, 304-308 Chapel Road, Bankstown NSW 2200",
+ "area": "Bankstown and Sydney's south-west",
+ "areaShort": "Bankstown",
+ "areaText": "Our office is on Level 1 at 304-308 Chapel Road, Bankstown.",
+ "mapQuery": "304 Chapel Road, Bankstown NSW 2200",
+ "seoTitle": "Registered migration agent in Bankstown",
+ "metaDesc": "JL Migration & Education (Di Trú JL), Level 1, 304-308 Chapel Road, Bankstown NSW 2200. Registered migration agent Lee Paris (MARN 2016039). Family, partner, student, skilled and visitor visas. Call 0468 398 396.",
+ "ctaLabel": "Book a consultation",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "MARN 2016039",
+  "Di Trú JL"
+ ],
+ "hero": {
+  "title": "Visa help on Chapel Road, Bankstown.",
+  "titleHtml": "Visa help on Chapel Road, <em style='color:var(--accent);font-style:normal'>Bankstown</em>.",
+  "lede": "JL Migration & Education (Di Trú JL) helps families, students and workers with their visas. Registered migration agent Lee Paris, MARN 2016039.",
+  "trust": [
+   "MARN 2016039",
+   "Office on Chapel Road",
+   "Call 0468 398 396"
+  ]
+ },
+ "images": {
+  "hero": "1562564055-71e051d33c19",
+  "heroAlt": "Client signing paperwork with an adviser",
+  "about": "1598948485421-33a1655d3c18",
+  "about2": "1517245386807-bb43f82c33c4",
+  "aboutAlt": "Adviser explaining options during a meeting",
+  "gallery": [
+   "1522202176988-66273c2fd55f",
+   "1503676382389-4809596d5290",
+   "1530276371031-2511efff9d5a",
+   "1549180030-48bf079fb38a",
+   "1501503069356-3c6b82a17d89",
+   "1546268060-2592ff93ee24"
+  ]
+ },
+ "servicesHead": "How we can help",
+ "servicesSub": "Call 0468 398 396 to talk it through.",
+ "services": [
+  {
+   "id": "family",
+   "title": "Family & partner visas",
+   "img": "1522202176988-66273c2fd55f",
+   "short": "Bring your family to Australia.",
+   "long": "Family and partner visa applications.",
+   "points": [
+    "Partner",
+    "Family",
+    "Parents"
+   ]
+  },
+  {
+   "id": "student",
+   "title": "Student visas",
+   "img": "1503676382389-4809596d5290",
+   "short": "Study in Australia.",
+   "long": "Student visa applications for people planning to study in Australia.",
+   "points": [
+    "Student visa",
+    "Study plans",
+    "Advice"
+   ]
+  },
+  {
+   "id": "skilled",
+   "title": "Skilled visas",
+   "img": "1454165804606-c3d57bc86b40",
+   "short": "Work and live in Australia.",
+   "long": "Skilled visa applications.",
+   "points": [
+    "Skilled",
+    "Options",
+    "Lodgement"
+   ]
+  },
+  {
+   "id": "visitor",
+   "title": "Tourist visas",
+   "img": "1655722725332-9925c96dd627",
+   "short": "Visit family or travel.",
+   "long": "Tourist and visitor visa applications.",
+   "points": [
+    "Tourist",
+    "Visiting family",
+    "Advice"
+   ]
+  },
+  {
+   "id": "review",
+   "title": "Reviews & Ministerial Intervention",
+   "img": "1562564055-71e051d33c19",
+   "short": "Help after a refusal.",
+   "long": "Help with tribunal reviews and Ministerial Intervention requests.",
+   "points": [
+    "Tribunal reviews",
+    "Ministerial Intervention",
+    "Advice"
+   ]
+  }
+ ],
+ "whyHead": "Why choose JL Migration",
+ "whyText": "Lee Paris is on the official register of migration agents (MARN 2016039), so you deal with a registered professional from an office in central Bankstown.",
+ "why": [
+  "Registered migration agent, MARN 2016039",
+  "Office on Chapel Road, Bankstown",
+  "Family, study, work and visitor visas",
+  "Help after a refusal"
+ ],
+ "galleryHead": "Family, study and work",
+ "gallerySub": "Where your visa can take you.",
+ "faq": [
+  [
+   "Is your agent registered?",
+   "Yes. Lee Paris's MARN is 2016039. You can check it on the official OMARA register."
+  ],
+  [
+   "Where is your office?",
+   "Offices 1-6, Level 1, 304-308 Chapel Road, Bankstown NSW 2200."
+  ],
+  [
+   "How do I book?",
+   "Call 0468 398 396, email info@JLimmi.com.au, or send an enquiry through the contact page."
+  ],
+  [
+   "Are you on Facebook?",
+   "Yes, as JL Migration & Education and as Di Trú JL."
+  ]
+ ],
+ "aboutHead": "About JL Migration & Education",
+ "aboutSub": "Di Trú JL, Bankstown.",
+ "aboutParas": [
+  "JL Migration & Education, also known as Di Trú JL, is a migration practice with its office on Level 1 at 304-308 Chapel Road, Bankstown.",
+  "Registered migration agent Lee Paris (MARN 2016039) helps with family, partner, student, skilled and tourist visas, and with reviews and Ministerial Intervention requests.",
+  "Call 0468 398 396 or email info@JLimmi.com.au to book a time."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Registered",
+   "MARN 2016039."
+  ],
+  [
+   "Local",
+   "Chapel Road, Bankstown."
+  ],
+  [
+   "Clear",
+   "We explain each step."
+  ]
+ ],
+ "contactHead": "Book a consultation",
+ "contactSub": "Tell us about your situation, or call 0468 398 396.",
+ "bandText": "Ready to start your visa?",
+ "footerBlurb": "JL Migration & Education (Di Trú JL), Level 1, 304-308 Chapel Road, Bankstown NSW. Registered migration agent Lee Paris, MARN 2016039.",
+ "hours": [
+  [
+   "Appointments",
+   "Call 0468 398 396 to book"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "reviewsSub": "",
+ "formHead": "Consultation request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Visa type you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "6px",
+  "btnRadius": "4px",
+  "h1max": "72px",
+  "logoRadius": 6,
+  "headTrack": "-.03em",
+  "headExtra": "",
+  "headWeight": "800",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#2A1606",
+  "headerBg": "#FFFAF3",
+  "bg": "#FFFAF3",
+  "surface": "#F7E9DA",
+  "ink": "#2A1A14",
+  "muted": "#6B5A50",
+  "line": "#EADBCB",
+  "brand": "#9E2A2B",
+  "brand2": "#F7E9DA",
+  "accent": "#E09F3E",
+  "headerInk": "#9E2A2B",
+  "overlay": "rgba(60,16,16,.78)",
+  "footBg": "#4A1415",
+  "footInk": "#D7BDB4",
+  "footHead": "#F0C27A",
+  "logoBg": "#9E2A2B",
+  "logoFg": "#F6D9A6",
+  "fontsQuery": "family=Be+Vietnam+Pro:wght@400;500;600;700;800",
+  "headFont": "\"Be Vietnam Pro\",system-ui,sans-serif",
+  "bodyFont": "\"Be Vietnam Pro\",system-ui,sans-serif",
+  "icon": "doccheck",
+  "layout": {
+   "nav": "stripe",
+   "hero": "arch",
+   "stats": "pills",
+   "services": "cards",
+   "why": "splitR",
+   "gallery": "strip",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "dark",
+   "footer": "bold",
+   "pagehead": "solid",
+   "decor": "lines",
+   "btn": "arrow",
+   "order": "A",
+   "eyebrow": false
+  },
+  "hero": "arch"
+ }
+}

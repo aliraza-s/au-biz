@@ -1,0 +1,219 @@
+{
+ "slug": "kangaroos-migration-wyndham-vale",
+ "name": "Kangaroos Migration and Consultant",
+ "short": "Kangaroos Migration",
+ "tag": "Migration & visas · Wyndham Vale",
+ "street": "",
+ "suburb": "Mambourin",
+ "state": "VIC",
+ "postcode": "",
+ "phone": "0451 003 240",
+ "phoneIntl": "+61451003240",
+ "topline": "Kangaroos Migration and Consultant · Wyndham Vale · Call 0451 003 240",
+ "addressLine": "Mambourin (Wyndham Vale) VIC",
+ "area": "Wyndham Vale, Mambourin and Melbourne's west",
+ "areaShort": "Wyndham Vale",
+ "areaText": "Kangaroos Migration and Consultant is based in Mambourin, Wyndham Vale, in Melbourne's west.",
+ "mapQuery": "Mambourin VIC 3024",
+ "seoTitle": "Migration and visa help in Wyndham Vale",
+ "metaDesc": "Kangaroos Migration and Consultant, Mambourin (Wyndham Vale) VIC. Visa and migration help for people in Wyndham Vale, Mambourin and Melbourne's west. Call 0451 003 240.",
+ "ctaLabel": "Send an enquiry",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Wyndham Vale",
+  "Call to book"
+ ],
+ "images": {
+  "hero": "1573497620053-ea5300f94f21",
+  "heroAlt": "Two women talking in an office",
+  "about": "1583032586422-4a31c5386d9f",
+  "about2": "1507537362848-9c7e70b7b5c1",
+  "aboutAlt": "Consultant working on a laptop",
+  "gallery": [
+   "1627556704353-016baeb12c79",
+   "1759852692971-a2abc6799cbd",
+   "1549057446-9f5c6ac91a04",
+   "1604297992396-5df2499ba816",
+   "1535982330050-f1c2fb79ff78",
+   "1492462543947-040389c4a66c"
+  ]
+ },
+ "servicesHead": "How we can help",
+ "servicesSub": "Not sure where to start? Call 0451 003 240.",
+ "services": [
+  {
+   "id": "advice",
+   "title": "Visa options",
+   "img": "1758273240360-76b908e7582a",
+   "short": "Work out which visa fits.",
+   "long": "Talk through your circumstances and the visa options that may suit you.",
+   "points": [
+    "Your situation",
+    "Your options",
+    "Next steps"
+   ]
+  },
+  {
+   "id": "applications",
+   "title": "Visa applications",
+   "img": "1553697388-94e804e2f0f6",
+   "short": "Paperwork in order.",
+   "long": "Help getting your application and supporting documents together so nothing is missed.",
+   "points": [
+    "Documents",
+    "Forms",
+    "Lodgement"
+   ]
+  },
+  {
+   "id": "family",
+   "title": "Family & study plans",
+   "img": "1522202176988-66273c2fd55f",
+   "short": "Plans for you and your family.",
+   "long": "Talk to us about bringing family to Australia or coming here to study.",
+   "points": [
+    "Family",
+    "Study",
+    "Advice"
+   ]
+  },
+  {
+   "id": "followup",
+   "title": "After you apply",
+   "img": "1507537362848-9c7e70b7b5c1",
+   "short": "Questions while you wait.",
+   "long": "Help with questions and requests that come up after your application is lodged.",
+   "points": [
+    "Requests",
+    "Updates",
+    "Advice"
+   ]
+  }
+ ],
+ "whyHead": "Why call Kangaroos Migration",
+ "whyText": "Kangaroos Migration and Consultant is a local migration business in Wyndham Vale. Call 0451 003 240 and talk to someone directly about your situation.",
+ "why": [
+  "Local to Wyndham Vale",
+  "Talk to someone directly",
+  "Plain-English answers",
+  "Easy to reach by phone"
+ ],
+ "galleryHead": "Study, work and family",
+ "gallerySub": "Where the right visa can take you.",
+ "faq": [
+  [
+   "How do I get in touch?",
+   "Call 0451 003 240, or send an enquiry through the contact page."
+  ],
+  [
+   "Where are you based?",
+   "Mambourin (Wyndham Vale) VIC."
+  ],
+  [
+   "Can you tell me which visa I need?",
+   "Call us and explain your situation. We will talk you through the options and the next steps."
+  ]
+ ],
+ "aboutHead": "About Kangaroos Migration",
+ "aboutSub": "Migration and visa help in Wyndham Vale.",
+ "aboutParas": [
+  "Kangaroos Migration and Consultant helps people in Wyndham Vale, Mambourin and Melbourne's west with visas and migration.",
+  "Call 0451 003 240 to talk through your situation. We will explain the options in plain English and what comes next."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in Wyndham Vale."
+  ],
+  [
+   "Direct",
+   "Call 0451 003 240."
+  ],
+  [
+   "Clear",
+   "We explain each step."
+  ]
+ ],
+ "contactHead": "Get in touch",
+ "contactSub": "Tell us about your visa situation, or call 0451 003 240.",
+ "bandText": "Got a visa question?",
+ "footerBlurb": "Kangaroos Migration and Consultant, Mambourin (Wyndham Vale) VIC.",
+ "hours": [
+  [
+   "Appointments",
+   "Call 0451 003 240 to book"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "reviewsSub": "",
+ "formHead": "Visa enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Visa type you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "26px",
+  "btnRadius": "999px",
+  "h1max": "72px",
+  "logoRadius": 26,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "800",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#3A1A05",
+  "headerBg": "#FFFFFF",
+  "bg": "#FFF9F0",
+  "surface": "#F8EAD6",
+  "ink": "#2E1A0E",
+  "muted": "#6E5646",
+  "line": "#EEDCC4",
+  "brand": "#8A3B12",
+  "brand2": "#F8EAD6",
+  "accent": "#F2C14E",
+  "headerInk": "#8A3B12",
+  "overlay": "rgba(66,26,6,.78)",
+  "footBg": "#4F220B",
+  "footInk": "#DCC2AE",
+  "footHead": "#F6D27E",
+  "logoBg": "#8A3B12",
+  "logoFg": "#F6D27E",
+  "fontsQuery": "family=Sansita:wght@800&family=Overpass:wght@400;600;700",
+  "headFont": "\"Sansita\",system-ui,sans-serif",
+  "bodyFont": "\"Overpass\",system-ui,sans-serif",
+  "icon": "kangaroo",
+  "layout": {
+   "nav": "center",
+   "hero": "stack",
+   "stats": "pills",
+   "services": "bento",
+   "why": "split",
+   "gallery": "bento",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "band",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "blob",
+   "btn": "shadow",
+   "order": "E",
+   "eyebrow": false
+  },
+  "hero": "stack"
+ },
+ "hero": {
+  "title": "Hop into your next chapter in Australia.",
+  "titleHtml": "Hop into your next chapter <em style='color:var(--accent);font-style:normal'>in Australia</em>.",
+  "lede": "Kangaroos Migration and Consultant helps people in Wyndham Vale and Melbourne's west with visa questions and next steps. Call 0451 003 240.",
+  "trust": [
+   "Wyndham Vale based",
+   "Call 0451 003 240",
+   "Plain-English answers"
+  ]
+ }
+}
