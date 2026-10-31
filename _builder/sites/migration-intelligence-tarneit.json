@@ -1,0 +1,234 @@
+{
+ "slug": "migration-intelligence-tarneit",
+ "name": "Migration Intelligence",
+ "short": "Migration Intelligence",
+ "tag": "Migration & education agent · Tarneit",
+ "street": "",
+ "suburb": "Tarneit",
+ "state": "VIC",
+ "postcode": "3029",
+ "phone": "0433 657 462",
+ "phoneIntl": "+61433657462",
+ "formEmail": "info@migrationintelligence.com",
+ "facebook": "https://www.facebook.com/migrationintelligence/",
+ "topline": "Registered migration agent and CPA · English & Hindi · Call 0433 657 462",
+ "addressLine": "Tarneit VIC 3029",
+ "area": "Tarneit and Melbourne's west",
+ "areaShort": "Tarneit",
+ "areaText": "Migration Intelligence is based in Tarneit, in Melbourne's west.",
+ "mapQuery": "Tarneit VIC 3029",
+ "seoTitle": "Migration and education agent in Tarneit",
+ "metaDesc": "Migration Intelligence, Tarneit VIC. Registered migration agent who is also a CPA. Skilled, partner, student, employer and state sponsored visas and tribunal reviews. English and Hindi. Free visa consultation. Call 0433 657 462.",
+ "ctaLabel": "Book a free consult",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Registered agent + CPA",
+  "English · Hindi"
+ ],
+ "hero": {
+  "title": "Smart visa planning from Tarneit.",
+  "titleHtml": "Smart visa planning <em style='color:var(--accent);font-style:normal'>from Tarneit</em>.",
+  "lede": "Migration Intelligence is a registered migration agent who is also a CPA, helping with skilled, partner, student and sponsored visas, in English and Hindi.",
+  "trust": [
+   "Free visa consultation",
+   "Registered agent and CPA",
+   "English & Hindi"
+  ]
+ },
+ "images": {
+  "hero": "1583032586422-4a31c5386d9f",
+  "heroAlt": "Consultant working on a laptop",
+  "about": "1585217514204-d025f2f1b116",
+  "about2": "1551836022-d5d88e9218df",
+  "aboutAlt": "Two men talking through a plan",
+  "gallery": [
+   "1530521954074-e64f6810b32d",
+   "1764625239088-50a840a1353b",
+   "1596527199903-6cdaacee1208",
+   "1604297992396-5df2499ba816",
+   "1627556704353-016baeb12c79",
+   "1576267423445-b2e0074d68a4"
+  ]
+ },
+ "servicesHead": "Visas we help with",
+ "servicesSub": "Start with a free visa consultation. Call 0433 657 462.",
+ "services": [
+  {
+   "id": "skilled",
+   "title": "Skilled migration",
+   "img": "1576267423445-b2e0074d68a4",
+   "short": "Points, pathways and PR.",
+   "long": "Advice and applications for skilled migration visas.",
+   "points": [
+    "Eligibility",
+    "Pathways",
+    "Application"
+   ]
+  },
+  {
+   "id": "sponsored",
+   "title": "Employer & state sponsorship",
+   "img": "1551836022-d5d88e9218df",
+   "short": "Sponsored work visas.",
+   "long": "Employer-sponsored work visas (formerly the 457) and state sponsorship.",
+   "points": [
+    "Employer",
+    "State",
+    "Work visas"
+   ]
+  },
+  {
+   "id": "partner",
+   "title": "Partner visas",
+   "img": "1549057446-9f5c6ac91a04",
+   "short": "Be together in Australia.",
+   "long": "Help preparing partner visa applications and supporting evidence.",
+   "points": [
+    "Eligibility",
+    "Evidence",
+    "Application"
+   ]
+  },
+  {
+   "id": "student",
+   "title": "Student visas",
+   "img": "1759852692971-a2abc6799cbd",
+   "short": "Study in Australia.",
+   "long": "Student visa applications and education agent help for people planning to study in Australia.",
+   "points": [
+    "Courses",
+    "Student visa",
+    "Advice"
+   ]
+  },
+  {
+   "id": "review",
+   "title": "Tribunal reviews",
+   "img": "1532188142562-df556b861e6a",
+   "short": "If a decision goes against you.",
+   "long": "Help with tribunal reviews of visa decisions (formerly the MRT).",
+   "points": [
+    "Review",
+    "Advice",
+    "Next steps"
+   ]
+  }
+ ],
+ "whyHead": "Why Migration Intelligence",
+ "whyText": "A registered migration agent who is also a CPA, with memberships of Migration Alliance and CPA Australia, and a free first visa consultation.",
+ "why": [
+  "Registered migration agent and CPA",
+  "Free visa consultation",
+  "Speaks English and Hindi",
+  "Member of Migration Alliance and CPA Australia"
+ ],
+ "galleryHead": "Study, work and family",
+ "gallerySub": "Where the right visa can take you.",
+ "faq": [
+  [
+   "Is the first consultation free?",
+   "Yes. Migration Intelligence offers a free visa consultation."
+  ],
+  [
+   "What languages do you speak?",
+   "English and Hindi."
+  ],
+  [
+   "Where are you based?",
+   "Tarneit, in Melbourne's west. Call 0433 657 462 to arrange a time."
+  ]
+ ],
+ "aboutHead": "About Migration Intelligence",
+ "aboutSub": "Migration and education agent, Tarneit.",
+ "aboutParas": [
+  "Migration Intelligence is a migration and education agency based in Tarneit, in Melbourne's west.",
+  "The agent is registered with the Migration Agents Registration Authority and is also a CPA, and the business is a member of Migration Alliance and CPA Australia.",
+  "Migration Intelligence helps with skilled migration, partner and student visas, employer and state sponsorship, and tribunal reviews, in English or Hindi."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Free first chat",
+   "A free visa consultation."
+  ],
+  [
+   "Numbers-minded",
+   "A registered agent who is also a CPA."
+  ],
+  [
+   "Your language",
+   "English or Hindi."
+  ]
+ ],
+ "contactHead": "Book a free consultation",
+ "contactSub": "Tell us about your plans, or call 0433 657 462.",
+ "bandText": "Want a clear visa plan?",
+ "footerBlurb": "Migration and education agent in Tarneit VIC. Registered migration agent and CPA.",
+ "hours": [
+  [
+   "Appointments",
+   "Call 0433 657 462 to book"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "reviewsSub": "",
+ "formHead": "Free consultation request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Visa you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "12px",
+  "btnRadius": "8px",
+  "h1max": "66px",
+  "logoRadius": 8,
+  "headTrack": "-.03em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "headerBg": "#121633",
+  "onAccent": "#062A1C",
+  "bg": "#F5F6FB",
+  "surface": "#E6E8F5",
+  "ink": "#141833",
+  "muted": "#545A78",
+  "line": "#D9DCEC",
+  "brand": "#1E2457",
+  "brand2": "#E6E8F5",
+  "accent": "#2EC48A",
+  "headerInk": "#FFFFFF",
+  "overlay": "rgba(14,17,48,.8)",
+  "footBg": "#0E1130",
+  "footInk": "#A9AECB",
+  "footHead": "#5FE0AC",
+  "logoBg": "#2EC48A",
+  "logoFg": "#121633",
+  "fontsQuery": "family=Space+Grotesk:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600",
+  "headFont": "\"Space Grotesk\",system-ui,sans-serif",
+  "bodyFont": "\"IBM Plex Sans\",system-ui,sans-serif",
+  "icon": "bulb",
+  "layout": {
+   "nav": "stripe",
+   "hero": "mosaic",
+   "stats": "pills",
+   "services": "cards",
+   "why": "splitR",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "grid",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "arrow",
+   "order": "E",
+   "eyebrow": true
+  },
+  "hero": "mosaic"
+ }
+}

@@ -1,0 +1,250 @@
+{
+ "slug": "advisapro-migration-lakemba",
+ "name": "Advisapro Migration and Education Services",
+ "short": "Advisapro",
+ "tag": "Migration & education · Lakemba",
+ "street": "Unit 3, 153 Haldon Street",
+ "suburb": "Lakemba",
+ "state": "NSW",
+ "postcode": "2195",
+ "phone": "0405 363 578",
+ "phoneIntl": "+61405363578",
+ "formEmail": "",
+ "facebook": "https://www.facebook.com/advisapromigration/",
+ "topline": "Visa & education help in Lakemba · Gujarati, Hindi & Urdu spoken · Call 0405 363 578",
+ "addressLine": "Unit 3, 153 Haldon Street, Lakemba NSW 2195",
+ "area": "Lakemba and Sydney's south-west",
+ "areaShort": "Lakemba",
+ "areaText": "Advisapro is at Unit 3, 153 Haldon Street, Lakemba, in Sydney's south-west.",
+ "mapQuery": "153 Haldon Street, Lakemba NSW 2195",
+ "seoTitle": "Migration and education services in Lakemba",
+ "metaDesc": "Advisapro Migration and Education Services, Unit 3, 153 Haldon Street, Lakemba NSW 2195. Student, skilled, work, partner and visitor visas, skills assessments and study counselling. Gujarati, Hindi and Urdu spoken. Call 0405 363 578.",
+ "ctaLabel": "Book a chat",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Since 2015",
+  "Gujarati · Hindi · Urdu"
+ ],
+ "hero": {
+  "title": "Study and visa help on Haldon Street.",
+  "titleHtml": "Study and visa help <em style='color:var(--accent);font-style:normal'>on Haldon Street</em>.",
+  "lede": "Advisapro helps students and families with visas, skills assessments and study plans for Australia, and the team speaks Gujarati, Hindi and Urdu.",
+  "trust": [
+   "Helping clients since 2015",
+   "Gujarati, Hindi & Urdu",
+   "Office in Lakemba"
+  ]
+ },
+ "images": {
+  "hero": "1598948485421-33a1655d3c18",
+  "heroAlt": "Adviser explaining options during a meeting",
+  "about": "1758273240360-76b908e7582a",
+  "about2": "1530276371031-2511efff9d5a",
+  "aboutAlt": "Two people talking through plans at an office desk",
+  "gallery": [
+   "1530276371031-2511efff9d5a",
+   "1503676382389-4809596d5290",
+   "1522202176988-66273c2fd55f",
+   "1549180030-48bf079fb38a",
+   "1501503069356-3c6b82a17d89",
+   "1655722725332-9925c96dd627"
+  ]
+ },
+ "servicesHead": "How Advisapro can help",
+ "servicesSub": "Not sure where to start? Call 0405 363 578.",
+ "services": [
+  {
+   "id": "student",
+   "title": "Student visas & study",
+   "img": "1503676382389-4809596d5290",
+   "short": "Study in Australia.",
+   "long": "Counselling for international students, help choosing a course and preparing the student visa application, plus advice on the cost of living.",
+   "points": [
+    "Course advice",
+    "Student visa",
+    "Cost of living"
+   ]
+  },
+  {
+   "id": "skilled",
+   "title": "Skilled migration",
+   "img": "1454165804606-c3d57bc86b40",
+   "short": "Skilled visas and assessments.",
+   "long": "Help with skilled migration, including skills assessments and the Professional Year (PY) pathway.",
+   "points": [
+    "Skills assessment",
+    "Professional Year",
+    "Skilled visas"
+   ]
+  },
+  {
+   "id": "work",
+   "title": "Work visas",
+   "img": "1517245386807-bb43f82c33c4",
+   "short": "Working in Australia.",
+   "long": "Advice on working visas and employment services for people building a career in Australia.",
+   "points": [
+    "Work visas",
+    "Employment",
+    "Advice"
+   ]
+  },
+  {
+   "id": "partner",
+   "title": "Partner visas",
+   "img": "1522202176988-66273c2fd55f",
+   "short": "Be with the one you love.",
+   "long": "Help preparing partner visa applications and the evidence that goes with them.",
+   "points": [
+    "Eligibility",
+    "Evidence",
+    "Application"
+   ]
+  },
+  {
+   "id": "visitor",
+   "title": "Visitor visas",
+   "img": "1655722725332-9925c96dd627",
+   "short": "Visit family or travel.",
+   "long": "Visitor and tourist visa applications for family visits and holidays in Australia.",
+   "points": [
+    "Family visits",
+    "Tourism",
+    "Application"
+   ]
+  },
+  {
+   "id": "ohsc",
+   "title": "OSHC & paperwork",
+   "img": "1553697388-94e804e2f0f6",
+   "short": "The details that matter.",
+   "long": "Help arranging Overseas Student Health Cover (OSHC) and getting your documents and forms in order at every step.",
+   "points": [
+    "OSHC",
+    "Documents",
+    "Forms"
+   ]
+  }
+ ],
+ "whyHead": "Why people choose Advisapro",
+ "whyText": "Advisapro has been helping people study and migrate to Australia since 2015 (first as Neptune Visa Services). The multilingual team explains each step in your language.",
+ "why": [
+  "Helping clients since 2015",
+  "Gujarati, Hindi and Urdu spoken",
+  "Visa and education help in one place",
+  "Office on Haldon Street, Lakemba"
+ ],
+ "galleryHead": "Study, work and family in Sydney",
+ "gallerySub": "Where the right visa can take you.",
+ "faq": [
+  [
+   "Where is your office?",
+   "Unit 3, 153 Haldon Street, Lakemba NSW 2195."
+  ],
+  [
+   "What languages do you speak?",
+   "Gujarati, Hindi and Urdu, as well as English."
+  ],
+  [
+   "Have you always been called Advisapro?",
+   "Advisapro started in 2021. Before that the business was Neptune Visa Services, set up in 2015."
+  ],
+  [
+   "How do I book?",
+   "Call 0405 363 578 or send the form on our contact page."
+  ]
+ ],
+ "aboutHead": "About Advisapro",
+ "aboutSub": "Migration and education services in Lakemba since 2015.",
+ "aboutParas": [
+  "Advisapro Migration and Education Services is an Australian-owned business at Unit 3, 153 Haldon Street, Lakemba.",
+  "It began in 2015 as Neptune Visa Services and became Advisapro in 2021. The team helps with student, skilled, work, partner and visitor visas, skills assessments and study counselling.",
+  "The team speaks Gujarati, Hindi and Urdu, so you can talk through your plans in the language you are most comfortable with."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Your language",
+   "Gujarati, Hindi or Urdu."
+  ],
+  [
+   "Step by step",
+   "Help with documents at every stage."
+  ],
+  [
+   "Local",
+   "Office in Lakemba."
+  ]
+ ],
+ "contactHead": "Talk to Advisapro",
+ "contactSub": "Tell us about your plans, or call 0405 363 578.",
+ "bandText": "Planning to study or move to Australia?",
+ "footerBlurb": "Migration and education services, Unit 3, 153 Haldon Street, Lakemba NSW. Since 2015.",
+ "hours": [
+  [
+   "Appointments",
+   "Call 0405 363 578 to book"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "reviewsSub": "",
+ "formHead": "Visa enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Visa or course you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "18px",
+  "btnRadius": "40px",
+  "h1max": "68px",
+  "logoRadius": 16,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "bg": "#F6FAFA",
+  "surface": "#E3F0F1",
+  "ink": "#10282D",
+  "muted": "#4E6468",
+  "line": "#D3E4E6",
+  "brand": "#0E5A6B",
+  "brand2": "#E3F0F1",
+  "accent": "#E8574A",
+  "headerInk": "#0E5A6B",
+  "overlay": "rgba(6,40,48,.78)",
+  "footBg": "#0A3640",
+  "footInk": "#A9C6CB",
+  "footHead": "#FFB4A8",
+  "logoBg": "#0E5A6B",
+  "logoFg": "#FFFFFF",
+  "fontsQuery": "family=Lexend:wght@600;700&family=Nunito+Sans:wght@400;600;700",
+  "headFont": "\"Lexend\",system-ui,sans-serif",
+  "bodyFont": "\"Nunito Sans\",system-ui,sans-serif",
+  "icon": "speech",
+  "layout": {
+   "nav": "center",
+   "hero": "card",
+   "stats": "pills",
+   "services": "bento",
+   "why": "dark",
+   "gallery": "grid",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "card",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "dots",
+   "btn": "arrow",
+   "order": "D",
+   "eyebrow": true
+  },
+  "hero": "card"
+ }
+}
