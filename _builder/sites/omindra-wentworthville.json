@@ -1,0 +1,270 @@
+{
+ "slug": "omindra-wentworthville",
+ "name": "Omindra Consultancy Services",
+ "short": "Omindra",
+ "tag": "Education & migration consultants · Wentworthville",
+ "street": "Level 1, Suite A, 76-80 Station Street",
+ "suburb": "Wentworthville",
+ "state": "NSW",
+ "postcode": "2145",
+ "phone": "0403 432 891",
+ "phoneIntl": "+61403432891",
+ "formEmail": "info@omindra.com",
+ "facebook": "",
+ "topline": "Study abroad, admissions & visas · Offices in Wentworthville, Kurukshetra & Dehradun",
+ "addressLine": "Level 1, Suite A, 76-80 Station Street, Wentworthville NSW 2145",
+ "area": "Wentworthville and Western Sydney",
+ "areaShort": "Wentworthville",
+ "areaText": "Omindra's Australian office is at Level 1, Suite A, 76-80 Station Street, Wentworthville. In India, Omindra has offices in Kurukshetra (Haryana) and Dehradun (+91 94160 03133).",
+ "mapQuery": "76-80 Station Street, Wentworthville NSW 2145",
+ "seoTitle": "Education and study abroad consultants in Wentworthville",
+ "metaDesc": "Omindra Consultancy Services, Level 1, Suite A, 76-80 Station Street, Wentworthville NSW 2145. University, college and TAFE admissions, scholarships, student visas and extensions, change of course, IELTS and PTE support, NAATI courses. Call 0403 432 891.",
+ "ctaLabel": "Talk to Omindra",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Australia & India",
+  "Study + visas"
+ ],
+ "hero": {
+  "title": "We nurture your dreams and give them wings.",
+  "titleHtml": "We nurture your dreams and <em style='color:var(--accent);font-style:normal'>give them wings</em>.",
+  "lede": "Omindra helps students get into the right university, college or TAFE, apply for scholarships and sort out their visa, from a Wentworthville office with branches in India.",
+  "trust": [
+   "Wentworthville office",
+   "Admissions & visas",
+   "IELTS & PTE support"
+  ]
+ },
+ "images": {
+  "hero": "1503676382389-4809596d5290",
+  "heroAlt": "Students studying together",
+  "about": "1488190211105-8b0e65b80b4e",
+  "about2": "1581553673739-c4906b5d0de8",
+  "aboutAlt": "Student studying",
+  "gallery": [
+   "1759852692971-a2abc6799cbd",
+   "1506973035872-a4ec16b8e8d9",
+   "1627556704353-016baeb12c79",
+   "1535982330050-f1c2fb79ff78",
+   "1501503069356-3c6b82a17d89",
+   "1758270704524-596810e891b5"
+  ]
+ },
+ "servicesHead": "Study abroad & support services",
+ "servicesSub": "Questions about studying in Australia? Call 0403 432 891.",
+ "services": [
+  {
+   "id": "admission",
+   "title": "University, college & TAFE admission",
+   "img": "1501503069356-3c6b82a17d89",
+   "short": "Get into the right place.",
+   "long": "Admission to universities, colleges and TAFE, including enrolling in the most affordable course for you.",
+   "points": [
+    "Universities",
+    "Colleges",
+    "TAFE"
+   ]
+  },
+  {
+   "id": "scholarship",
+   "title": "Scholarship assistance",
+   "img": "1627556704353-016baeb12c79",
+   "short": "Help finding and applying.",
+   "long": "Scholarship assistance to help make your study more affordable.",
+   "points": [
+    "Search",
+    "Application",
+    "Advice"
+   ]
+  },
+  {
+   "id": "visa",
+   "title": "Visa applications & extensions",
+   "img": "1581553673739-c4906b5d0de8",
+   "short": "Student visa paperwork.",
+   "long": "Student visa applications and extensions, with admission and paperwork guidance.",
+   "points": [
+    "Student visa",
+    "Extensions",
+    "Documents"
+   ]
+  },
+  {
+   "id": "change",
+   "title": "Change course or institute",
+   "img": "1758270704524-596810e891b5",
+   "short": "Already here? Switch smoothly.",
+   "long": "Help changing your course or institute while you are studying in Australia.",
+   "points": [
+    "Course change",
+    "New institute",
+    "Visa check"
+   ]
+  },
+  {
+   "id": "english",
+   "title": "IELTS & PTE",
+   "img": "1506973035872-a4ec16b8e8d9",
+   "short": "Book tests and get coaching.",
+   "long": "Book your IELTS test through Omindra, PTE coaching and PTE vouchers.",
+   "points": [
+    "IELTS booking",
+    "PTE coaching",
+    "PTE vouchers"
+   ]
+  },
+  {
+   "id": "career",
+   "title": "Professional Year, NAATI & internships",
+   "img": "1535982330050-f1c2fb79ff78",
+   "short": "After you graduate.",
+   "long": "Professional Year at a competitive price, NAATI courses and internship opportunities.",
+   "points": [
+    "Professional Year",
+    "NAATI",
+    "Internships"
+   ]
+  }
+ ],
+ "whyHead": "Why students choose Omindra",
+ "whyText": "Team Omindra has extensive knowledge of Australian and New Zealand migration laws, and works with universities and colleges across Australia.",
+ "why": [
+  "Admissions, scholarships and visas in one place",
+  "Partner institutions across Australia",
+  "IELTS, PTE and NAATI support",
+  "Offices in Australia and India"
+ ],
+ "galleryHead": "Study in Australia",
+ "gallerySub": "Where the right course can take you.",
+ "faq": [
+  [
+   "Where is Omindra's Australian office?",
+   "Level 1, Suite A, 76-80 Station Street, Wentworthville NSW 2145."
+  ],
+  [
+   "Which institutions do you work with?",
+   "Partners include Charles Darwin University, Federation University Australia, Southern Cross University, University of the Sunshine Coast, University of Southern Queensland, Victoria University and others."
+  ],
+  [
+   "Can you help me change my course?",
+   "Yes. Omindra helps with changing your course or institute, and with visa extensions."
+  ],
+  [
+   "Do you have offices in India?",
+   "Yes, in Kurukshetra (Haryana) and Dehradun. Call +91 94160 03133."
+  ]
+ ],
+ "aboutHead": "About Omindra",
+ "aboutSub": "Education and migration consultancy, Wentworthville.",
+ "aboutParas": [
+  "Omindra Consultancy Services is an education and migration consultancy with its Australian office at 76-80 Station Street, Wentworthville, and offices in Kurukshetra and Dehradun in India.",
+  "Omindra offers expert solutions for overseas study and immigration, with a focus on Australia and New Zealand. Its mission is to be the most trusted education and migration consultant in India and abroad.",
+  "Omindra wants to be the biggest plus factor in students' lives when they go abroad for education or migration."
+ ],
+ "valuesHead": "What Omindra stands for",
+ "values": [
+  [
+   "Trust",
+   "Commitment and trust come first."
+  ],
+  [
+   "Affordable",
+   "The most affordable course for you."
+  ],
+  [
+   "Careers",
+   "Thinking past graduation."
+  ]
+ ],
+ "contactHead": "Talk to Omindra",
+ "contactSub": "Tell us what you want to study, or call 0403 432 891.",
+ "bandText": "Ready to study in Australia?",
+ "footerBlurb": "Education and migration consultancy, Level 1, Suite A, 76-80 Station Street, Wentworthville NSW. Offices in Kurukshetra and Dehradun, India.",
+ "hours": [
+  [
+   "Appointments",
+   "Call 0403 432 891 to book"
+  ],
+  [
+   "India offices",
+   "+91 94160 03133"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Thanks to Omindra, I have ended up with a brighter career and future because they helped me take a right decision.",
+   "who": "Omindra student",
+   "src": "Website"
+  },
+  {
+   "text": "When it comes to Australia, I think no other consultants can match the expertise of Omindra team.",
+   "who": "Omindra student",
+   "src": "Website"
+  },
+  {
+   "text": "They helped me with their comprehensive services for Australia Student Visa including admission and other paper-work guidance.",
+   "who": "Omindra student",
+   "src": "Website"
+  }
+ ],
+ "reviewsHead": "What students say",
+ "reviewsSub": "Student testimonials.",
+ "formHead": "Study enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Course you are interested in",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "18px",
+  "btnRadius": "14px",
+  "h1max": "72px",
+  "logoRadius": 12,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "headWeight": "800",
+  "onBrand": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "onAccent": "#14200A",
+  "bg": "#F6F8FF",
+  "surface": "#E5EAFD",
+  "ink": "#121A3A",
+  "muted": "#525C80",
+  "line": "#D6DDF8",
+  "brand": "#2446C9",
+  "brand2": "#E5EAFD",
+  "accent": "#B7E34B",
+  "headerInk": "#2446C9",
+  "overlay": "rgba(14,24,72,.76)",
+  "footBg": "#111C4E",
+  "footInk": "#B3BDE6",
+  "footHead": "#B7E34B",
+  "logoBg": "#2446C9",
+  "logoFg": "#B7E34B",
+  "fontsQuery": "family=Urbanist:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700",
+  "headFont": "\"Urbanist\",system-ui,sans-serif",
+  "bodyFont": "\"Plus Jakarta Sans\",system-ui,sans-serif",
+  "icon": "wing",
+  "layout": {
+   "nav": "center",
+   "hero": "arch",
+   "stats": "none",
+   "services": "alt",
+   "why": "band",
+   "gallery": "bento",
+   "reviews": "light",
+   "hours": "cards",
+   "cta": "card",
+   "footer": "bold",
+   "pagehead": "light",
+   "decor": "dots",
+   "btn": "arrow",
+   "order": "D",
+   "eyebrow": false
+  },
+  "hero": "arch"
+ }
+}

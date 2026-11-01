@@ -1,0 +1,255 @@
+{
+ "slug": "friends-migration-harris-park",
+ "name": "Friends Education & Migration Consultants",
+ "short": "Friends Migration",
+ "tag": "Education & migration · Harris Park",
+ "street": "96 Harris Street",
+ "suburb": "Harris Park",
+ "state": "NSW",
+ "postcode": "2150",
+ "phone": "(02) 8810 8309",
+ "phoneIntl": "+61288108309",
+ "formEmail": "admission@friendsmigration.com.au",
+ "facebook": "https://www.facebook.com/FriendsMigrationAustralia/",
+ "instagram": "https://www.instagram.com/friendsmigrationharrispark/",
+ "topline": "A friendly advice with effective results · Manish Arora, MARN 1678522 · Mon–Fri 10am–5:30pm",
+ "addressLine": "96 Harris Street, Harris Park NSW 2150",
+ "area": "Harris Park, Parramatta and Western Sydney",
+ "areaShort": "Harris Park",
+ "areaText": "Friends Migration is at 96 Harris Street, Harris Park, a short walk from Parramatta.",
+ "mapQuery": "96 Harris Street, Harris Park NSW 2150",
+ "seoTitle": "Education and migration consultants in Harris Park",
+ "metaDesc": "Friends Education & Migration Consultants, 96 Harris Street, Harris Park NSW 2150. Registered migration agent Manish Arora (MARN 1678522). Student visas and college admissions, skilled regional visas, visitor visas and more. Mon–Fri 10am–5:30pm. Call (02) 8810 8309.",
+ "ctaLabel": "Book an appointment",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "MARN 1678522",
+  "Mon–Fri 10–5:30"
+ ],
+ "hero": {
+  "title": "A friendly advice with effective results.",
+  "titleHtml": "A <em style='color:#FFE08A;font-style:normal'>friendly</em> advice with effective results.",
+  "lede": "Education and migration consultants at 96 Harris Street, Harris Park. We help students choose a course and get their visa, and help families and skilled workers find the right migration pathway.",
+  "trust": [
+   "MARN 1678522",
+   "Education + migration",
+   "Harris Park, near Parramatta"
+  ]
+ },
+ "images": {
+  "hero": "1627556704353-016baeb12c79",
+  "heroAlt": "Graduates taking a selfie outside a university",
+  "about": "1573497620053-ea5300f94f21",
+  "about2": "1535982330050-f1c2fb79ff78",
+  "aboutAlt": "Two women talking in an office",
+  "gallery": [
+   "1506973035872-a4ec16b8e8d9",
+   "1522202176988-66273c2fd55f",
+   "1655722725332-9925c96dd627",
+   "1501503069356-3c6b82a17d89",
+   "1576267423445-b2e0074d68a4",
+   "1488190211105-8b0e65b80b4e"
+  ]
+ },
+ "servicesHead": "Education and migration services",
+ "servicesSub": "Not sure which visa fits? Call (02) 8810 8309.",
+ "services": [
+  {
+   "id": "education",
+   "title": "Study & college admissions",
+   "img": "1501503069356-3c6b82a17d89",
+   "short": "Find the right course and college.",
+   "long": "Friends is a recruitment agent for Australian colleges. We help you choose a course, apply and get your offer.",
+   "points": [
+    "Course choice",
+    "Applications",
+    "Offers"
+   ]
+  },
+  {
+   "id": "student",
+   "title": "Student visas",
+   "img": "1506973035872-a4ec16b8e8d9",
+   "short": "Study in Australia.",
+   "long": "Student visa applications, from your first visa to changing your course or college.",
+   "points": [
+    "Student visa",
+    "Documents",
+    "Lodgement"
+   ]
+  },
+  {
+   "id": "regional",
+   "title": "Skilled regional visas",
+   "img": "1576267423445-b2e0074d68a4",
+   "short": "Subclass 491 and 494.",
+   "long": "Skilled Work Regional (Provisional) visa subclass 491 and Skilled Employer Sponsored Regional (Provisional) subclass 494.",
+   "points": [
+    "Subclass 491",
+    "Subclass 494",
+    "Skills assessment"
+   ]
+  },
+  {
+   "id": "graduate",
+   "title": "Skilled Recognised Graduate",
+   "img": "1759852692971-a2abc6799cbd",
+   "short": "Subclass 476.",
+   "long": "Skilled Recognised Graduate visa (subclass 476) for recent engineering graduates.",
+   "points": [
+    "Subclass 476",
+    "Eligibility",
+    "Application"
+   ]
+  },
+  {
+   "id": "visitor",
+   "title": "Visitor visas",
+   "img": "1655722725332-9925c96dd627",
+   "short": "Family and friends visiting.",
+   "long": "Visitor visa applications for relatives and friends coming to Australia.",
+   "points": [
+    "Family visits",
+    "Tourism",
+    "Application"
+   ]
+  },
+  {
+   "id": "family",
+   "title": "Family & medical visas",
+   "img": "1522202176988-66273c2fd55f",
+   "short": "Remaining Relative and Medical Treatment.",
+   "long": "Remaining Relative visas and Medical Treatment visas, among other family streams.",
+   "points": [
+    "Remaining Relative",
+    "Medical Treatment",
+    "Advice"
+   ]
+  }
+ ],
+ "whyHead": "Why students and families choose Friends",
+ "whyText": "Our success comes from a consistently friendly approach, professionalism and the trust clients place in us. We work closely with you to explain the requirements and find the best pathway.",
+ "why": [
+  "Registered migration agent Manish Arora, MARN 1678522",
+  "Education and migration under one roof",
+  "We explain every requirement clearly",
+  "Open Monday to Friday, 10am to 5:30pm"
+ ],
+ "galleryHead": "Study, careers and family",
+ "gallerySub": "Where the right pathway can take you.",
+ "faq": [
+  [
+   "Is there a registered migration agent?",
+   "Yes. Manish Kumar Arora is a registered migration agent, MARN 1678522. You can check it on the official OMARA register."
+  ],
+  [
+   "When are you open?",
+   "Monday to Friday, 10:00am to 5:30pm."
+  ],
+  [
+   "Where is the office?",
+   "96 Harris Street, Harris Park NSW 2150."
+  ],
+  [
+   "Can you help me get into a college?",
+   "Yes. Friends is a recruitment agent for Australian colleges and helps with course choice, applications and student visas."
+  ]
+ ],
+ "aboutHead": "About Friends Migration",
+ "aboutSub": "Education and migration consultants, Harris Park.",
+ "aboutParas": [
+  "Friends Education & Migration Consultants Pty Ltd is an education and migration consultancy at 96 Harris Street, Harris Park.",
+  "We bring together expertise in education and immigration. Our success comes from a consistently friendly approach, professionalism and the trust our clients place in us.",
+  "We work closely with each client to explain the requirements, find the best migration pathway and complete the assessments needed. Our registered migration agent is Manish Arora (MARN 1678522)."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Friendly",
+   "Advice that is easy to follow."
+  ],
+  [
+   "Effective",
+   "Focused on getting results."
+  ],
+  [
+   "Clear",
+   "Every requirement explained."
+  ]
+ ],
+ "contactHead": "Book an appointment",
+ "contactSub": "Tell us about your plans, or call (02) 8810 8309.",
+ "bandText": "Ready to study or settle in Australia?",
+ "footerBlurb": "Education & migration consultants, 96 Harris Street, Harris Park NSW. Registered migration agent Manish Arora (MARN 1678522).",
+ "hours": [
+  [
+   "Monday – Friday",
+   "10:00am – 5:30pm"
+  ],
+  [
+   "Saturday – Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "",
+ "reviewsSub": "",
+ "formHead": "Appointment request",
+ "formButton": "Send request",
+ "formExtra": [
+  [
+   "Course or visa you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "22px",
+  "btnRadius": "40px",
+  "h1max": "70px",
+  "logoRadius": 16,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "bg": "#FFF8F2",
+  "surface": "#FDEBDD",
+  "ink": "#2C1B26",
+  "muted": "#6B5560",
+  "line": "#F3DCCB",
+  "brand": "#D9542C",
+  "brand2": "#FDEBDD",
+  "accent": "#2E8C83",
+  "headerInk": "#D9542C",
+  "overlay": "rgba(58,22,12,.72)",
+  "footBg": "#3A1E2F",
+  "footInk": "#D9C3CC",
+  "footHead": "#FFB08F",
+  "logoBg": "#D9542C",
+  "logoFg": "#FFFFFF",
+  "fontsQuery": "family=Fredoka:wght@500;600;700&family=Nunito+Sans:wght@400;600;700",
+  "headFont": "\"Fredoka\",system-ui,sans-serif",
+  "bodyFont": "\"Nunito Sans\",system-ui,sans-serif",
+  "icon": "duo",
+  "layout": {
+   "nav": "pill",
+   "hero": "center",
+   "stats": "pills",
+   "services": "cards",
+   "why": "splitR",
+   "gallery": "bento",
+   "reviews": "cards",
+   "hours": "grid",
+   "cta": "band",
+   "footer": "simple",
+   "pagehead": "light",
+   "decor": "blob",
+   "btn": "shadow",
+   "order": "E",
+   "eyebrow": true
+  },
+  "hero": "center"
+ }
+}

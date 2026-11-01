@@ -1,0 +1,287 @@
+{
+ "slug": "imc-migration-wentworthville",
+ "name": "International Migration Centre",
+ "short": "IMC",
+ "tag": "Migration & student visa specialists · Wentworthville",
+ "street": "Suite 2, Level 1, 57-59 Dunmore Street",
+ "suburb": "Wentworthville",
+ "state": "NSW",
+ "postcode": "2145",
+ "phone": "(02) 8628 7336",
+ "phoneIntl": "+61286287336",
+ "formEmail": "info@internationalmigration.com.au",
+ "facebook": "https://www.facebook.com/Internationalmigrationcentre/",
+ "instagram": "https://www.instagram.com/imcmigration/",
+ "bookingUrl": "https://internationalmigrationcentre.setmore.com",
+ "topline": "Guiding clients since 2005 · Mon–Fri 9:30am–5:30pm · (02) 8628 7336",
+ "addressLine": "Suite 2, Level 1, 57-59 Dunmore Street, Wentworthville NSW 2145",
+ "area": "Wentworthville and Western Sydney",
+ "areaShort": "Wentworthville",
+ "areaText": "IMC is upstairs at Suite 2, Level 1, 57-59 Dunmore Street, Wentworthville.",
+ "mapQuery": "57-59 Dunmore Street, Wentworthville NSW 2145",
+ "seoTitle": "Migration agent and student visa specialist in Wentworthville",
+ "metaDesc": "International Migration Centre (IMC), Suite 2, Level 1, 57-59 Dunmore Street, Wentworthville NSW 2145. Guiding clients since 2005. Student, skilled, employer sponsored, partner, family, business and visitor visas, citizenship and tribunal reviews. Call (02) 8628 7336.",
+ "ctaLabel": "Book a consultation",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Since 2005",
+  "1,225 student visas"
+ ],
+ "hero": {
+  "title": "Your visa questions, answered since 2005.",
+  "titleHtml": "Your visa questions, <em style='color:var(--accent);font-style:normal'>answered since 2005</em>.",
+  "lede": "International Migration Centre has helped thousands of individuals, families and local employers with their migration matters, from student visas and the Professional Year to partner and skilled visas.",
+  "trust": [
+   "Founded 2005",
+   "Student visa specialist",
+   "Dunmore St, Wentworthville"
+  ]
+ },
+ "images": {
+  "hero": "1562564055-71e051d33c19",
+  "heroAlt": "Client signing paperwork with an adviser",
+  "about": "1583032586422-4a31c5386d9f",
+  "about2": "1758520144437-f068ecaf0d83",
+  "aboutAlt": "Consultant working on a laptop",
+  "gallery": [
+   "1759852692971-a2abc6799cbd",
+   "1549057446-9f5c6ac91a04",
+   "1517245386807-bb43f82c33c4",
+   "1764625239088-50a840a1353b",
+   "1596527199903-6cdaacee1208",
+   "1627556704353-016baeb12c79"
+  ]
+ },
+ "servicesHead": "Visa services",
+ "servicesSub": "Not sure which visa fits? Call (02) 8628 7336.",
+ "services": [
+  {
+   "id": "student",
+   "title": "Student visas",
+   "img": "1759852692971-a2abc6799cbd",
+   "short": "Study full time in Australia.",
+   "long": "Student visas let students from other countries join a full-time college or university in Australia. IMC also helps with the Professional Year and student health cover (OSHC).",
+   "points": [
+    "Student visa",
+    "Professional Year",
+    "OSHC"
+   ]
+  },
+  {
+   "id": "skilled",
+   "title": "Skilled migration",
+   "img": "1576267423445-b2e0074d68a4",
+   "short": "For qualified professionals and trades.",
+   "long": "Skilled migration visas for people with qualifications and experience in professions and trades.",
+   "points": [
+    "Skilled",
+    "Points",
+    "Application"
+   ]
+  },
+  {
+   "id": "employer",
+   "title": "Employer sponsored",
+   "img": "1517245386807-bb43f82c33c4",
+   "short": "Employers sponsoring overseas workers.",
+   "long": "Australian employers can sponsor overseas workers on temporary and permanent visas. IMC works with local employers too.",
+   "points": [
+    "Sponsorship",
+    "Nomination",
+    "Visa"
+   ]
+  },
+  {
+   "id": "partner",
+   "title": "Partner & family",
+   "img": "1549057446-9f5c6ac91a04",
+   "short": "Join your partner or family.",
+   "long": "Partner visas for married and de facto partners of Australians, and family visas to join children or other qualifying family members.",
+   "points": [
+    "Partner",
+    "Children",
+    "Family"
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business & investment",
+   "img": "1596527199903-6cdaacee1208",
+   "short": "For business people and investors.",
+   "long": "Business Innovation and Investment visas for successful business people and investors who want to settle in Australia.",
+   "points": [
+    "Business",
+    "Investment",
+    "Eligibility"
+   ]
+  },
+  {
+   "id": "visitor",
+   "title": "Visitor visas & citizenship",
+   "img": "1764625239088-50a840a1353b",
+   "short": "Travel, citizenship and reviews.",
+   "long": "Travel and tourist visas, Australian citizenship applications and tribunal review applications.",
+   "points": [
+    "Tourist",
+    "Citizenship",
+    "Tribunal review"
+   ]
+  }
+ ],
+ "whyHead": "Why clients choose IMC",
+ "whyText": "An Australian owned and operated business, guiding clients since 2005. IMC is known among migrants, employers, students, education providers and families.",
+ "why": [
+  "Guiding clients with their visas since 2005",
+  "Australian owned and operated",
+  "Interpreter arranged for your language if needed",
+  "Book online or call (02) 8628 7336"
+ ],
+ "galleryHead": "Study, work, family and travel",
+ "gallerySub": "Where the right visa can take you.",
+ "faq": [
+  [
+   "How long has IMC been around?",
+   "International Migration Centre was founded in 2005."
+  ],
+  [
+   "When are you open?",
+   "Monday to Friday, 9:30am to 5:30pm."
+  ],
+  [
+   "Can I book online?",
+   "Yes. Use the Book online link on the contact page, or call (02) 8628 7336."
+  ],
+  [
+   "What if I'm not confident in English?",
+   "IMC can arrange an interpreter for your language if needed."
+  ]
+ ],
+ "aboutHead": "About IMC",
+ "aboutSub": "International Migration Centre, Wentworthville, since 2005.",
+ "aboutParas": [
+  "International Migration Centre (IMC) was founded in 2005 and is an Australian owned and operated business, upstairs at 57-59 Dunmore Street, Wentworthville.",
+  "IMC has helped thousands of overseas individuals, families and local corporate clients with their migration matters, including 1,225 student visas, 556 family visas and 450 travel visas.",
+  "Clients are kept up to date at every stage, and IMC can arrange an interpreter for your language if you need one."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Friendly",
+   "Friendly service and timely responses."
+  ],
+  [
+   "Ethical",
+   "Built on professionalism and ethical standards."
+  ],
+  [
+   "Experienced",
+   "Many visa subclasses and streams."
+  ]
+ ],
+ "contactHead": "Book a consultation",
+ "contactSub": "Tell us about your visa, or call (02) 8628 7336.",
+ "bandText": "Need help with your visa?",
+ "footerBlurb": "International Migration Centre, Suite 2, Level 1, 57-59 Dunmore Street, Wentworthville NSW. Guiding clients since 2005.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "9:30am – 5:30pm"
+  ],
+  [
+   "Saturday – Sunday",
+   "Closed"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Very happy with their service and I will highly recommend them to others.",
+   "who": "Amir S.",
+   "src": "Website"
+  },
+  {
+   "text": "His guidance is the only reason for our timely PR in Australia.",
+   "who": "Parmvir & Jasdip",
+   "src": "Website"
+  },
+  {
+   "text": "Strongly recommend him and the centre for Immigration into Australia.",
+   "who": "Balaji B.",
+   "src": "Website"
+  },
+  {
+   "text": "We will recommend them to anyone who needs assistance in this field.",
+   "who": "Rucha & Jagat",
+   "src": "Website"
+  },
+  {
+   "text": "I am very happy with his services towards us.",
+   "who": "Venkata K.",
+   "src": "Website"
+  },
+  {
+   "text": "I highly recommend International Migration Centre.",
+   "who": "Shweta",
+   "src": "Website"
+  }
+ ],
+ "reviewsHead": "What clients say",
+ "reviewsSub": "Client testimonials.",
+ "formHead": "Visa enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Visa you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "8px",
+  "btnRadius": "8px",
+  "h1max": "68px",
+  "logoRadius": 8,
+  "headTrack": "-.02em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "onAccent": "#1A1300",
+  "bg": "#F5F8FC",
+  "surface": "#E3EBF5",
+  "ink": "#0F2135",
+  "muted": "#4E5F72",
+  "line": "#D3DEEB",
+  "brand": "#12355B",
+  "brand2": "#E3EBF5",
+  "accent": "#F4A300",
+  "headerInk": "#12355B",
+  "overlay": "rgba(8,26,46,.8)",
+  "footBg": "#0B2440",
+  "footInk": "#A9BCD0",
+  "footHead": "#F4A300",
+  "logoBg": "#12355B",
+  "logoFg": "#F4A300",
+  "fontsQuery": "family=Outfit:wght@500;600;700&family=Source+Serif+4:wght@400;600",
+  "headFont": "\"Outfit\",system-ui,sans-serif",
+  "bodyFont": "\"Source Serif 4\",Georgia,serif",
+  "icon": "suitcase",
+  "layout": {
+   "nav": "bar",
+   "hero": "editorial",
+   "stats": "pills",
+   "services": "bento",
+   "why": "split",
+   "gallery": "grid",
+   "reviews": "slider",
+   "hours": "mapbg",
+   "cta": "band",
+   "footer": "grid",
+   "pagehead": "image",
+   "decor": "dots",
+   "btn": "shadow",
+   "order": "F",
+   "eyebrow": true
+  },
+  "hero": "editorial"
+ }
+}

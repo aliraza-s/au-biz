@@ -1,0 +1,271 @@
+{
+ "slug": "melton-migration-melton-south",
+ "name": "Melton Migration",
+ "short": "Melton Migration",
+ "tag": "Registered migration agent · Melton South",
+ "street": "14 Harper Street",
+ "suburb": "Melton South",
+ "state": "VIC",
+ "postcode": "3338",
+ "phone": "0452 077 102",
+ "phoneIntl": "+61452077102",
+ "formEmail": "info@meltonmigration.com",
+ "facebook": "https://www.facebook.com/p/Melton-Migration-61572299309282/",
+ "instagram": "https://www.instagram.com/meltonmigration",
+ "topline": "Mohammad Uddin · Registered migration agent, MARN 2518732 · Melton South & North Wahroonga",
+ "addressLine": "14 Harper Street, Melton South VIC 3338",
+ "area": "Melton and Melbourne's west",
+ "areaShort": "Melton",
+ "areaText": "The main office is at 14 Harper Street, Melton South. There is also an Upper North Shore office at 9/115 Grosvenor Street, North Wahroonga NSW (0469 817 807).",
+ "mapQuery": "14 Harper Street, Melton South VIC 3338",
+ "seoTitle": "Migration agent in Melton South",
+ "metaDesc": "Melton Migration, 14 Harper Street, Melton South VIC 3338. Registered migration agent Mohammad Uddin (MARN 2518732). Partner, skilled, employer-sponsored and protection visas, citizenship, ART reviews, s501 cancellations and Federal Court appeals. Call 0452 077 102.",
+ "ctaLabel": "Book a consultation",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "MARN 2518732",
+  "Complex cases"
+ ],
+ "hero": {
+  "title": "Check twice. Submit once.",
+  "titleHtml": "Check twice. <em style='color:var(--accent);font-style:normal'>Submit once.</em>",
+  "lede": "Migration is not just a process, it is a life-changing decision. Melton Migration handles everyday visas and the hard cases: refusals, cancellations, tribunal reviews and Federal Court appeals.",
+  "trust": [
+   "MARN 2518732",
+   "Agents and lawyers",
+   "Melton South office"
+  ]
+ },
+ "images": {
+  "hero": "1758273240360-76b908e7582a",
+  "heroAlt": "Two people talking through plans at an office desk",
+  "about": "1598948485421-33a1655d3c18",
+  "about2": "1604297992396-5df2499ba816",
+  "aboutAlt": "Adviser explaining options during a meeting",
+  "gallery": [
+   "1549057446-9f5c6ac91a04",
+   "1551836022-d5d88e9218df",
+   "1532188142562-df556b861e6a",
+   "1627556704353-016baeb12c79",
+   "1576267423445-b2e0074d68a4",
+   "1759852692971-a2abc6799cbd"
+  ]
+ },
+ "servicesHead": "Visas and immigration matters",
+ "servicesSub": "From first visa to Federal Court. Call 0452 077 102.",
+ "services": [
+  {
+   "id": "family",
+   "title": "Partner & family visas",
+   "img": "1549057446-9f5c6ac91a04",
+   "short": "Partners, children and family.",
+   "long": "Partner and family visa applications, put together carefully so they are right the first time.",
+   "points": [
+    "Partner",
+    "Family",
+    "Evidence"
+   ]
+  },
+  {
+   "id": "skilled",
+   "title": "Skilled & employer visas",
+   "img": "1551836022-d5d88e9218df",
+   "short": "Skilled, sponsored and skills assessment.",
+   "long": "Skilled visas, employer-sponsored visas and skills assessments.",
+   "points": [
+    "Skilled",
+    "Employer sponsored",
+    "Skills assessment"
+   ]
+  },
+  {
+   "id": "protection",
+   "title": "Protection visas",
+   "img": "1562564055-71e051d33c19",
+   "short": "Protection and humanitarian matters.",
+   "long": "Protection visa applications and humanitarian matters.",
+   "points": [
+    "Protection",
+    "Humanitarian",
+    "Advice"
+   ]
+  },
+  {
+   "id": "reviews",
+   "title": "ART reviews & appeals",
+   "img": "1532188142562-df556b861e6a",
+   "short": "When a decision goes against you.",
+   "long": "Administrative Review Tribunal (ART) reviews, Ministerial intervention and Federal Court appeals.",
+   "points": [
+    "ART",
+    "Ministerial intervention",
+    "Federal Court"
+   ]
+  },
+  {
+   "id": "cancellations",
+   "title": "Cancellations & notices",
+   "img": "1604297992396-5df2499ba816",
+   "short": "s501, s56/s57 and s48 bar.",
+   "long": "Section 501 cancellations, s56/s57 notices, s48 bar issues and immigration detention matters.",
+   "points": [
+    "s501",
+    "s56 / s57",
+    "s48 bar"
+   ]
+  },
+  {
+   "id": "citizenship",
+   "title": "Citizenship & study",
+   "img": "1759852692971-a2abc6799cbd",
+   "short": "Citizenship, study and PR pathways.",
+   "long": "Australian citizenship, plus migration and education advice for students planning their future PR pathway.",
+   "points": [
+    "Citizenship",
+    "Student pathways",
+    "PR planning"
+   ]
+  }
+ ],
+ "whyHead": "Why Melton Migration",
+ "whyText": "A team of registered migration agents and lawyers who take on complex and high-risk cases, with tailored strategies and a simple rule: check twice, submit once.",
+ "why": [
+  "Registered migration agent Mohammad Uddin, MARN 2518732",
+  "Registered agents and lawyers on the team",
+  "Refusals, cancellations and tribunal matters",
+  "Offices in Melton South and North Wahroonga"
+ ],
+ "galleryHead": "Families, careers and fresh starts",
+ "gallerySub": "Where the right visa can take you.",
+ "faq": [
+  [
+   "Is Mohammad a registered migration agent?",
+   "Yes. Mohammad Uddin's MARN is 2518732. You can check it on the official OMARA register."
+  ],
+  [
+   "Do you handle refused or cancelled visas?",
+   "Yes. ART reviews, s501 cancellations, s56/s57 notices, s48 bar issues, Ministerial intervention and Federal Court appeals."
+  ],
+  [
+   "Where are your offices?",
+   "14 Harper Street, Melton South VIC 3338, and 9/115 Grosvenor Street, North Wahroonga NSW 2076."
+  ],
+  [
+   "Can you help students?",
+   "Yes. Melton Migration gives migration and education advice, including future PR pathways."
+  ]
+ ],
+ "aboutHead": "About Melton Migration",
+ "aboutSub": "Migration agents and lawyers, Melton South.",
+ "aboutParas": [
+  "Melton Migration is a migration consultancy at 14 Harper Street, Melton South, led by registered migration agent Mohammad Uddin (MARN 2518732).",
+  "The team includes registered migration agents and lawyers, and takes on complex and high-risk matters as well as everyday visas: visa refusals, cancellations, tribunal reviews and Federal Court appeals.",
+  "Whether you are planning to migrate or to study in Australia or overseas, the team builds a strategy around your case. Their policy is simple: check twice, submit once."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Check twice",
+   "Every application is checked before it is lodged."
+  ],
+  [
+   "Complex cases",
+   "Refusals, cancellations and appeals."
+  ],
+  [
+   "Tailored",
+   "A strategy built for your case."
+  ]
+ ],
+ "contactHead": "Book a consultation",
+ "contactSub": "Tell us about your case, or call 0452 077 102.",
+ "bandText": "Visa refused or cancelled? Talk to us.",
+ "footerBlurb": "Registered migration agent Mohammad Uddin (MARN 2518732), 14 Harper Street, Melton South VIC. Upper North Shore office: 9/115 Grosvenor Street, North Wahroonga NSW.",
+ "hours": [
+  [
+   "Appointments",
+   "Call 0452 077 102 to book"
+  ],
+  [
+   "North Shore office",
+   "0469 817 807"
+  ]
+ ],
+ "reviews": [
+  {
+   "text": "Mohammad Uddin and his team guided me through every step of my visa process with patience and expertise.",
+   "who": "Cici E.",
+   "src": "Website"
+  },
+  {
+   "text": "Mr Uddin dealt with my case very efficiently.",
+   "who": "Nadia S.",
+   "src": "Website"
+  },
+  {
+   "text": "His attention to detail truly stood out to me.",
+   "who": "G. Saha",
+   "src": "Website"
+  }
+ ],
+ "reviewsHead": "What clients say",
+ "reviewsSub": "Client testimonials.",
+ "formHead": "Case enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Visa or matter you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "0px",
+  "btnRadius": "0px",
+  "h1max": "74px",
+  "logoRadius": 0,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "700",
+  "onBrand": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "onAccent": "#1A1410",
+  "bg": "#F6F4F1",
+  "surface": "#EAE5DF",
+  "ink": "#1B2530",
+  "muted": "#56616B",
+  "line": "#DCD6CE",
+  "brand": "#22303C",
+  "brand2": "#EAE5DF",
+  "accent": "#C67B4E",
+  "headerInk": "#22303C",
+  "overlay": "rgba(16,24,32,.8)",
+  "footBg": "#151E26",
+  "footInk": "#AEB8C1",
+  "footHead": "#E09A6E",
+  "logoBg": "#22303C",
+  "logoFg": "#E09A6E",
+  "fontsQuery": "family=Libre+Caslon+Text:wght@400;700&family=Inter+Tight:wght@400;500;600;700",
+  "headFont": "\"Libre Caslon Text\",Georgia,serif",
+  "bodyFont": "\"Inter Tight\",system-ui,sans-serif",
+  "icon": "scales",
+  "layout": {
+   "nav": "stripe",
+   "hero": "stack",
+   "stats": "ticker",
+   "services": "side",
+   "why": "dark",
+   "gallery": "strip",
+   "reviews": "featured",
+   "hours": "grid",
+   "cta": "dark",
+   "footer": "grid",
+   "pagehead": "solid",
+   "decor": "grid",
+   "btn": "flat",
+   "order": "B",
+   "eyebrow": false
+  },
+  "hero": "stack"
+ }
+}
