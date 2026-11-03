@@ -1,0 +1,225 @@
+{
+ "slug": "brasica-migration-point-cook",
+ "name": "Brasica Migration",
+ "short": "Brasica",
+ "tag": "Immigration & citizenship service · Point Cook",
+ "street": "",
+ "suburb": "Point Cook",
+ "state": "VIC",
+ "postcode": "3030",
+ "phone": "0430 346 969",
+ "phoneIntl": "+61430346969",
+ "facebook": "https://www.facebook.com/Brasica",
+ "topline": "Brasica Migration · Registered migration agent · Point Cook",
+ "addressLine": "Point Cook VIC 3030",
+ "area": "Point Cook and Melbourne's west",
+ "areaShort": "Point Cook",
+ "areaText": "Based in Point Cook, in Melbourne's west. Call 0430 346 969 to arrange a time to talk.",
+ "mapQuery": "Point Cook VIC 3030",
+ "seoTitle": "Migration agent in Point Cook",
+ "metaDesc": "Brasica Migration, immigration and citizenship service in Point Cook VIC. Partner visas, skilled visas, employer sponsorship and Australian citizenship. Call 0430 346 969.",
+ "ctaLabel": "Talk to us",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Registered agent",
+  "Point Cook"
+ ],
+ "hero": {
+  "title": "Partners, skills, sponsors, citizens.",
+  "titleHtml": "Partners, skills, sponsors, <em style='color:var(--accent);font-style:normal'>citizens.</em>",
+  "lede": "Brasica Migration is an immigration and citizenship service in Point Cook. Whether you are bringing a partner over, applying on your skills or being sponsored by an employer, start with a call.",
+  "trust": [
+   "Registered migration agent",
+   "Point Cook",
+   "Call 0430 346 969"
+  ]
+ },
+ "images": {
+  "hero": "1530521954074-e64f6810b32d",
+  "heroAlt": "Travellers at an airport",
+  "about": "1585217514204-d025f2f1b116",
+  "about2": "1553697388-94e804e2f0f6",
+  "aboutAlt": "Adviser going through visa options",
+  "gallery": [
+   "1549057446-9f5c6ac91a04",
+   "1551836022-d5d88e9218df",
+   "1514395462725-fb4566210144",
+   "1627556704353-016baeb12c79",
+   "1530276371031-2511efff9d5a",
+   "1549180030-48bf079fb38a"
+  ]
+ },
+ "servicesHead": "How we can help",
+ "servicesSub": "Four ways to make Australia home. Call 0430 346 969.",
+ "services": [
+  {
+   "id": "partner",
+   "title": "Partner visas",
+   "img": "1549057446-9f5c6ac91a04",
+   "short": "Bring your partner to Australia.",
+   "long": "Partner visa applications for couples building a life together in Australia.",
+   "points": [
+    "Partner",
+    "Relationship evidence",
+    "Application"
+   ]
+  },
+  {
+   "id": "skilled",
+   "title": "Skilled visas",
+   "img": "1576267423445-b2e0074d68a4",
+   "short": "Migrate on your skills.",
+   "long": "Skilled visa applications for people whose skills and experience can take them to permanent residence.",
+   "points": [
+    "Skilled",
+    "Eligibility",
+    "Application"
+   ]
+  },
+  {
+   "id": "employer",
+   "title": "Employer sponsorship",
+   "img": "1553877522-43269d4ea984",
+   "short": "For employers and sponsored workers.",
+   "long": "Employer-sponsored visas, for businesses sponsoring staff and for the workers they sponsor.",
+   "points": [
+    "Employers",
+    "Sponsored workers",
+    "Nomination"
+   ]
+  },
+  {
+   "id": "citizenship",
+   "title": "Citizenship",
+   "img": "1759852692971-a2abc6799cbd",
+   "short": "The final step: becoming a citizen.",
+   "long": "Help with Australian citizenship once you are ready to make it official.",
+   "points": [
+    "Citizenship",
+    "Eligibility",
+    "Application"
+   ]
+  }
+ ],
+ "whyHead": "Why Brasica",
+ "whyText": "A local immigration and citizenship service in Point Cook, listed as an active registered migration agent on the OMARA register.",
+ "why": [
+  "Registered migration agent (OMARA register)",
+  "Partner, skilled and employer-sponsored visas",
+  "Citizenship applications",
+  "Local to Point Cook"
+ ],
+ "galleryHead": "A new chapter in Australia",
+ "gallerySub": "Couples, careers and citizens.",
+ "faq": [
+  [
+   "Is Brasica a registered migration agent?",
+   "Yes. Brasica Migration is listed as active on the OMARA register of migration agents."
+  ],
+  [
+   "What visas do you help with?",
+   "Partner visas, skilled visas and employer sponsorship, plus Australian citizenship."
+  ],
+  [
+   "Where are you based?",
+   "Point Cook, in Melbourne's west. Call 0430 346 969 to arrange a time."
+  ]
+ ],
+ "aboutHead": "About Brasica Migration",
+ "aboutSub": "Immigration & citizenship service, Point Cook.",
+ "aboutParas": [
+  "Brasica Migration is an immigration and citizenship service based in Point Cook, Victoria.",
+  "The practice helps with partner visas, skilled visas, employer sponsorship and Australian citizenship.",
+  "Call 0430 346 969 or message on Facebook to talk through your situation."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "Based in Point Cook."
+  ],
+  [
+   "Focused",
+   "Partner, skilled and sponsored visas."
+  ],
+  [
+   "Start to finish",
+   "Through to citizenship."
+  ]
+ ],
+ "contactHead": "Talk to Brasica",
+ "contactSub": "Tell us about your plans, or call 0430 346 969.",
+ "bandText": "Ready to start your visa? Call 0430 346 969.",
+ "footerBlurb": "Brasica Migration · Immigration & citizenship service · Point Cook VIC.",
+ "hours": [
+  [
+   "Appointments",
+   "Call 0430 346 969"
+  ],
+  [
+   "Facebook",
+   "Message @Brasica"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What clients say",
+ "reviewsSub": "",
+ "formHead": "Enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Visa you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "26px",
+  "btnRadius": "999px",
+  "h1max": "72px",
+  "logoRadius": 16,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "400",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#13261F",
+  "headerBg": "#FFFFFF",
+  "bg": "#FFFCF2",
+  "surface": "#F3F7EE",
+  "ink": "#13261F",
+  "muted": "#4F6159",
+  "line": "#E1E8DA",
+  "brand": "#0F5C47",
+  "brand2": "#F3F7EE",
+  "accent": "#F2B829",
+  "headerInk": "#0F5C47",
+  "overlay": "rgba(8,40,30,.76)",
+  "footBg": "#0B3B2E",
+  "footInk": "#B9CFC5",
+  "footHead": "#F7CC5C",
+  "logoBg": "#0F5C47",
+  "logoFg": "#F7CC5C",
+  "fontsQuery": "family=Gloock&family=Albert+Sans:wght@400;500;600;700",
+  "headFont": "Gloock,Georgia,serif",
+  "bodyFont": "\"Albert Sans\",system-ui,sans-serif",
+  "icon": "crossstars",
+  "layout": {
+   "nav": "split",
+   "hero": "frame",
+   "stats": "none",
+   "services": "cards",
+   "why": "dark",
+   "gallery": "bento",
+   "reviews": "slider",
+   "hours": "grid",
+   "cta": "band",
+   "footer": "grid",
+   "pagehead": "solid",
+   "decor": "blob",
+   "btn": "flat",
+   "order": "E",
+   "eyebrow": true
+  },
+  "hero": "frame"
+ }
+}

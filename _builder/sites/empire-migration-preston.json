@@ -1,0 +1,255 @@
+{
+ "slug": "empire-migration-preston",
+ "name": "Empire Migration Consultants",
+ "short": "Empire Migration",
+ "tag": "Registered migration agent · Preston",
+ "street": "Corporate One, 84 Hotham Street",
+ "suburb": "Preston",
+ "state": "VIC",
+ "postcode": "3072",
+ "phone": "(03) 9863 6923",
+ "phoneIntl": "+61398636923",
+ "formEmail": "info@empiremigration.com.au",
+ "facebook": "https://www.facebook.com/emc.aus/",
+ "bookingUrl": "https://empiremigrationconsultants.setmore.com/",
+ "topline": "Fardowsa Mohamed · Registered migration agent, MARN 1576187 · Preston, Melbourne",
+ "addressLine": "Corporate One, 84 Hotham Street, Preston VIC 3072",
+ "area": "Preston and Melbourne's north",
+ "areaShort": "Preston",
+ "areaText": "The office is at Corporate One, 84 Hotham Street, Preston. Weekday appointments 9am to 5pm; weekends by appointment.",
+ "mapQuery": "84 Hotham Street, Preston VIC 3072",
+ "seoTitle": "Migration agent in Preston, Melbourne",
+ "metaDesc": "Empire Migration Consultants, Corporate One, 84 Hotham Street, Preston VIC 3072. Registered migration agent Fardowsa Mohamed (MARN 1576187). Skilled, family, partner, student, visitor, business, protection and NZ visas, citizenship and visa reviews. Call (03) 9863 6923.",
+ "ctaLabel": "Book a consultation",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "MARN 1576187",
+  "With you every step"
+ ],
+ "hero": {
+  "title": "With you every step.",
+  "titleHtml": "With you <em style='font-style:italic;color:var(--accent)'>every step.</em>",
+  "lede": "Empire Migration Consultants gives expert migration advice to individuals and businesses, from your first visitor visa to permanent residence and citizenship.",
+  "trust": [
+   "MARN 1576187",
+   "Preston office",
+   "Mon–Fri 9am–5pm"
+  ]
+ },
+ "images": {
+  "hero": "1758520144437-f068ecaf0d83",
+  "heroAlt": "Adviser meeting a client at an office desk",
+  "about": "1573497620053-ea5300f94f21",
+  "about2": "1562564055-71e051d33c19",
+  "aboutAlt": "Two women talking in an office",
+  "gallery": [
+   "1514395462725-fb4566210144",
+   "1627556704353-016baeb12c79",
+   "1530521954074-e64f6810b32d",
+   "1549057446-9f5c6ac91a04",
+   "1506973035872-a4ec16b8e8d9",
+   "1551836022-d5d88e9218df"
+  ]
+ },
+ "servicesHead": "Visas we help with",
+ "servicesSub": "Skilled, family, study, visitor and more. Call (03) 9863 6923.",
+ "services": [
+  {
+   "id": "skilled",
+   "title": "Skilled & employer visas",
+   "img": "1454165804606-c3d57bc86b40",
+   "short": "Skilled and employer-nominated visas.",
+   "long": "Skilled visas and employer-nominated visas, including the New Zealand stream of the Skilled Independent visa (subclass 189).",
+   "points": [
+    "Skilled",
+    "Employer nominated",
+    "NZ stream 189"
+   ]
+  },
+  {
+   "id": "family",
+   "title": "Partner & family visas",
+   "img": "1549057446-9f5c6ac91a04",
+   "short": "Partner, child, parent and other family.",
+   "long": "Family visas let eligible Australian citizens, permanent residents and eligible NZ citizens sponsor family: partner, prospective marriage (300), child, parent, carer and orphan relative (117).",
+   "points": [
+    "Partner",
+    "Child & parent",
+    "Subclass 300 & 117"
+   ]
+  },
+  {
+   "id": "student",
+   "title": "Student & visitor visas",
+   "img": "1503676382389-4809596d5290",
+   "short": "Study, holidays and family visits.",
+   "long": "Student visas for full-time study at a recognised institution, visitor visas for holidays and family visits, and working holiday visas (417).",
+   "points": [
+    "Student",
+    "Visitor",
+    "Working holiday 417"
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business visas",
+   "img": "1596527199903-6cdaacee1208",
+   "short": "For proven business people.",
+   "long": "Business visas for successful business people who want to settle in Australia and grow business activity here.",
+   "points": [
+    "Business",
+    "Investment",
+    "Settlement"
+   ]
+  },
+  {
+   "id": "protection",
+   "title": "Protection & humanitarian",
+   "img": "1562564055-71e051d33c19",
+   "short": "Protection visa (866) and refugee matters.",
+   "long": "Protection visa (subclass 866), refugee and humanitarian visas and the Community Support Program (EOI).",
+   "points": [
+    "Subclass 866",
+    "Humanitarian",
+    "CSP"
+   ]
+  },
+  {
+   "id": "citizenship",
+   "title": "Citizenship, NZ & reviews",
+   "img": "1532188142562-df556b861e6a",
+   "short": "Citizenship, 461 visas and tribunal reviews.",
+   "long": "Australian citizenship, New Zealand family visas (461) and PR, bridging visas, resident return visas and Administrative Review Tribunal reviews.",
+   "points": [
+    "Citizenship",
+    "NZ 461",
+    "ART reviews"
+   ]
+  }
+ ],
+ "whyHead": "Why Empire Migration",
+ "whyText": "EMC was set up to give expert migration advice to Australia, with a focus on professional excellence, timely service and personal attention for every client.",
+ "why": [
+  "Registered migration agent Fardowsa Mohamed, MARN 1576187",
+  "Individual and business clients",
+  "One-hour consultations you can book online",
+  "Office at Corporate One, Preston"
+ ],
+ "galleryHead": "New homes, new careers",
+ "gallerySub": "Where the right visa can take you.",
+ "faq": [
+  [
+   "Is the agent registered?",
+   "Yes. Fardowsa Mohamed is a registered migration agent, MARN 1576187. You can check it on the official OMARA register."
+  ],
+  [
+   "How much is a consultation?",
+   "A one-hour consultation with a registered migration agent is $150 plus GST, booked online."
+  ],
+  [
+   "Where is the office?",
+   "Corporate One, 84 Hotham Street, Preston VIC 3072."
+  ],
+  [
+   "Can you help with a refused visa?",
+   "Yes. EMC helps with Administrative Review Tribunal (ART) reviews."
+  ]
+ ],
+ "aboutHead": "About Empire Migration",
+ "aboutSub": "Migration advice from Preston, Melbourne.",
+ "aboutParas": [
+  "Empire Migration Consultants (EMC) was established to provide expert migration advice to Australia, for individual and business clients.",
+  "The registered migration agent is Fardowsa Mohamed (MARN 1576187), working from Corporate One, 84 Hotham Street in Preston.",
+  "EMC's aim is to be client-focused, responsive and ethical, with timely service and personal attention. Their promise: with you every step."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Client-focused",
+   "Personal attention on every file."
+  ],
+  [
+   "Responsive",
+   "Timely service and clear updates."
+  ],
+  [
+   "Ethical",
+   "Professional integrity, always."
+  ]
+ ],
+ "contactHead": "Book a consultation",
+ "contactSub": "Tell us about your visa, or call (03) 9863 6923.",
+ "bandText": "Planning your move to Australia? Let's talk it through.",
+ "footerBlurb": "Registered migration agent Fardowsa Mohamed (MARN 1576187). Corporate One, 84 Hotham Street, Preston VIC 3072.",
+ "hours": [
+  [
+   "Monday – Friday",
+   "9am – 5pm"
+  ],
+  [
+   "Saturday – Sunday",
+   "By appointment"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What clients say",
+ "reviewsSub": "",
+ "formHead": "Visa enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Visa you are asking about",
+   "visa"
+  ]
+ ],
+ "theme": {
+  "radius": "2px",
+  "btnRadius": "40px",
+  "h1max": "78px",
+  "logoRadius": 16,
+  "headTrack": "-.01em",
+  "headExtra": "",
+  "headWeight": "600",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#FFFFFF",
+  "headerBg": "#FFFFFF",
+  "bg": "#FBF8F4",
+  "surface": "#F1EAE1",
+  "ink": "#16161A",
+  "muted": "#5C5A60",
+  "line": "#E3DBD0",
+  "brand": "#16161A",
+  "brand2": "#F1EAE1",
+  "accent": "#D9452F",
+  "headerInk": "#16161A",
+  "overlay": "rgba(18,16,20,.78)",
+  "footBg": "#101013",
+  "footInk": "#B5B2B8",
+  "footHead": "#F07A63",
+  "logoBg": "#16161A",
+  "logoFg": "#F07A63",
+  "fontsQuery": "family=Bodoni+Moda:ital,wght@0,500;0,600;0,700;1,600&family=Karla:wght@400;500;600;700",
+  "headFont": "\"Bodoni Moda\",Georgia,serif",
+  "bodyFont": "Karla,system-ui,sans-serif",
+  "icon": "column",
+  "layout": {
+   "nav": "center",
+   "hero": "split",
+   "stats": "pills",
+   "services": "tiles",
+   "why": "stackimg",
+   "gallery": "grid",
+   "reviews": "cards",
+   "hours": "cards",
+   "cta": "card",
+   "footer": "bold",
+   "pagehead": "light",
+   "decor": "lines",
+   "btn": "arrow",
+   "order": "D",
+   "eyebrow": true
+  },
+  "hero": "split"
+ }
+}

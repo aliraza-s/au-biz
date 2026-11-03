@@ -1,0 +1,208 @@
+{
+ "slug": "atis-punchbowl",
+ "name": "ATIS",
+ "short": "ATIS",
+ "tag": "Translating, interpreting & migration help · Punchbowl",
+ "street": "Level 1, 5 Highclere Avenue",
+ "suburb": "Punchbowl",
+ "state": "NSW",
+ "postcode": "2196",
+ "phone": "(02) 9750 4288",
+ "phoneIntl": "+61297504288",
+ "topline": "ATIS · Level 1, 5 Highclere Avenue, Punchbowl NSW 2196",
+ "addressLine": "Level 1, 5 Highclere Avenue, Punchbowl NSW 2196",
+ "area": "Punchbowl and south-west Sydney",
+ "areaShort": "Punchbowl",
+ "areaText": "Upstairs at Level 1, 5 Highclere Avenue, Punchbowl. Call (02) 9750 4288 before you visit.",
+ "mapQuery": "5 Highclere Avenue, Punchbowl NSW 2196",
+ "seoTitle": "Translators, interpreters & migration help in Punchbowl",
+ "metaDesc": "ATIS, Level 1, 5 Highclere Avenue, Punchbowl NSW 2196. Translating, interpreting and visa and migration enquiries. Call (02) 9750 4288.",
+ "ctaLabel": "Send an enquiry",
+ "ownerOrUs": "us",
+ "schemaType": "ProfessionalService",
+ "badge": [
+  "Punchbowl",
+  "(02) 9750 4288"
+ ],
+ "hero": {
+  "title": "Your words, your paperwork, sorted.",
+  "titleHtml": "Your words, your paperwork, <span style='color:var(--accent)'>sorted.</span>",
+  "lede": "ATIS is a local office in Punchbowl for translating, interpreting and visa and migration enquiries. Call (02) 9750 4288 or drop in to Level 1, 5 Highclere Avenue.",
+  "trust": [
+   "Punchbowl office",
+   "Translating & interpreting",
+   "Call (02) 9750 4288"
+  ]
+ },
+ "images": {
+  "hero": "1598948485421-33a1655d3c18",
+  "heroAlt": "Adviser explaining options during a meeting",
+  "about": "1583032586422-4a31c5386d9f",
+  "about2": "1562564055-71e051d33c19",
+  "aboutAlt": "Consultant working on a laptop",
+  "gallery": [
+   "1545044846-351ba102b6d5",
+   "1553697388-94e804e2f0f6",
+   "1627556704353-016baeb12c79",
+   "1492462543947-040389c4a66c",
+   "1507537362848-9c7e70b7b5c1",
+   "1616408585022-4be4905b1e48"
+  ]
+ },
+ "servicesHead": "What we do",
+ "servicesSub": "Call (02) 9750 4288 to ask about your documents or visa.",
+ "services": [
+  {
+   "id": "translating",
+   "title": "Translating",
+   "img": "1553697388-94e804e2f0f6",
+   "short": "Documents translated.",
+   "long": "Translation of your documents. Call to ask about the document and the language you need.",
+   "points": [
+    "Documents",
+    "Languages",
+    "Quote by phone"
+   ]
+  },
+  {
+   "id": "interpreting",
+   "title": "Interpreting",
+   "img": "1573497620053-ea5300f94f21",
+   "short": "Help being understood.",
+   "long": "Interpreting help. Call to ask about the language and the appointment you need it for.",
+   "points": [
+    "Languages",
+    "Appointments",
+    "Ask by phone"
+   ]
+  },
+  {
+   "id": "migration",
+   "title": "Visa & migration enquiries",
+   "img": "1562564055-71e051d33c19",
+   "short": "Questions about visas and paperwork.",
+   "long": "Visa and migration enquiries. Call (02) 9750 4288 to talk about your situation.",
+   "points": [
+    "Visas",
+    "Paperwork",
+    "Enquiries"
+   ]
+  }
+ ],
+ "whyHead": "Why ATIS",
+ "whyText": "A local office in the middle of Punchbowl, where you can call or walk in to ask about translating, interpreting and visa paperwork.",
+ "why": [
+  "Office at Level 1, 5 Highclere Avenue, Punchbowl",
+  "Translating and interpreting",
+  "Visa and migration enquiries",
+  "Landline (02) 9750 4288"
+ ],
+ "galleryHead": "Paperwork for life's big steps",
+ "gallerySub": "Documents, visas and new beginnings.",
+ "faq": [
+  [
+   "Where are you?",
+   "Level 1, 5 Highclere Avenue, Punchbowl NSW 2196."
+  ],
+  [
+   "How do I get a quote?",
+   "Call (02) 9750 4288 and tell us what you need."
+  ]
+ ],
+ "aboutHead": "About ATIS",
+ "aboutSub": "Local office, Punchbowl.",
+ "aboutParas": [
+  "ATIS is a local office at Level 1, 5 Highclere Avenue, Punchbowl, in Sydney's south-west.",
+  "It helps with translating, interpreting and visa and migration enquiries.",
+  "Call (02) 9750 4288 to talk about what you need."
+ ],
+ "valuesHead": "How we work",
+ "values": [
+  [
+   "Local",
+   "In the heart of Punchbowl."
+  ],
+  [
+   "Easy",
+   "Call or drop in."
+  ],
+  [
+   "Clear",
+   "Plain answers to your questions."
+  ]
+ ],
+ "contactHead": "Send an enquiry",
+ "contactSub": "Tell us what you need, or call (02) 9750 4288.",
+ "bandText": "Need documents translated or a visa question answered? Call ATIS.",
+ "footerBlurb": "ATIS · Level 1, 5 Highclere Avenue, Punchbowl NSW 2196 · (02) 9750 4288.",
+ "hours": [
+  [
+   "Enquiries",
+   "Call (02) 9750 4288"
+  ],
+  [
+   "Visits",
+   "Please call ahead"
+  ]
+ ],
+ "reviews": [],
+ "reviewsHead": "What clients say",
+ "reviewsSub": "",
+ "formHead": "Enquiry",
+ "formButton": "Send enquiry",
+ "formExtra": [
+  [
+   "Language or visa you are asking about",
+   "topic"
+  ]
+ ],
+ "theme": {
+  "radius": "10px",
+  "btnRadius": "10px",
+  "h1max": "68px",
+  "logoRadius": 8,
+  "headTrack": "-.025em",
+  "headExtra": "",
+  "headWeight": "800",
+  "onBrand": "#FFFFFF",
+  "onAccent": "#102528",
+  "headerBg": "#FFFFFF",
+  "bg": "#F5FAFA",
+  "surface": "#E3F0EF",
+  "ink": "#102528",
+  "muted": "#4C6366",
+  "line": "#D3E4E3",
+  "brand": "#1C4F55",
+  "brand2": "#1C4F55",
+  "accent": "#F28C28",
+  "headerInk": "#1C4F55",
+  "overlay": "rgba(10,40,44,.78)",
+  "footBg": "#0E2E32",
+  "footInk": "#AFC9CB",
+  "footHead": "#F7A85A",
+  "logoBg": "#1C4F55",
+  "logoFg": "#F7A85A",
+  "fontsQuery": "family=Gabarito:wght@500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600",
+  "headFont": "Gabarito,system-ui,sans-serif",
+  "bodyFont": "\"Source Serif 4\",Georgia,serif",
+  "icon": "translate",
+  "layout": {
+   "nav": "bar",
+   "hero": "arch",
+   "stats": "ticker",
+   "services": "side",
+   "why": "band",
+   "gallery": "strip",
+   "reviews": "featured",
+   "hours": "grid",
+   "cta": "dark",
+   "footer": "grid",
+   "pagehead": "solid",
+   "decor": "dots",
+   "btn": "flat",
+   "order": "C",
+   "eyebrow": true
+  },
+  "hero": "arch"
+ }
+}
